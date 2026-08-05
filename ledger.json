@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-08-05T09:55:03.285Z",
- "sinceISO": "2026-06-06T09:55:02.780Z",
+ "generatedAt": "2026-08-05T10:05:02.785Z",
+ "sinceISO": "2026-06-06T10:05:02.305Z",
  "coverage": [
   {
    "from": "2026-07-14T21:45:00.784Z",
@@ -9,8 +9,8 @@
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-08-05T09:55:02.451Z",
-   "polls": 5421
+   "to": "2026-08-05T10:05:02.000Z",
+   "polls": 5423
   }
  ],
  "spans": [
@@ -81675,7 +81675,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-08-05T09:25:02.355Z",
-   "to": "2026-08-05T09:55:02.451Z",
+   "to": "2026-08-05T10:00:11.982Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham/Chesham while we fix a signal fault at Chorleywood. GOOD SERVICE on the rest of the line.  "
@@ -81684,10 +81684,28 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-08-05T09:55:02.451Z",
-   "to": "2026-08-05T09:55:02.451Z",
+   "to": "2026-08-05T10:00:11.982Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays between Whitechapel and Shenfield due to an earlier signal fault at Shenfield. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-08-05T10:05:02.000Z",
+   "to": "2026-08-05T10:05:02.000Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Whitechapel and Shenfield due to an earlier signal failure at Shenfield. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-08-05T10:05:02.000Z",
+   "to": "2026-08-05T10:05:02.000Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham/Chesham while we fix a signal failure at Chorleywood. GOOD SERVICE on the rest of the line.  "
   }
  ]
 }
