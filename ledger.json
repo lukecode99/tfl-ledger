@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-08-13T13:20:06.540Z",
- "sinceISO": "2026-06-14T13:20:05.894Z",
+ "generatedAt": "2026-08-13T13:30:06.364Z",
+ "sinceISO": "2026-06-14T13:30:05.693Z",
  "coverage": [
   {
    "from": "2026-07-14T21:45:00.784Z",
@@ -9,8 +9,8 @@
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-08-13T13:20:05.163Z",
-   "polls": 7761
+   "to": "2026-08-13T13:30:05.419Z",
+   "polls": 7763
   }
  ],
  "spans": [
@@ -109638,7 +109638,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-08-13T03:40:04.815Z",
-   "to": "2026-08-13T13:20:05.163Z",
+   "to": "2026-08-13T13:30:05.419Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "District Line: No service between High Street Kensington and Edgware Road due to a points failure at Edgware Road. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
@@ -110133,7 +110133,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-08-13T06:55:01.912Z",
-   "to": "2026-08-13T13:20:05.163Z",
+   "to": "2026-08-13T13:30:05.419Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays due to train cancellations.  "
@@ -110493,7 +110493,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-08-13T12:00:12.232Z",
-   "to": "2026-08-13T13:20:05.163Z",
+   "to": "2026-08-13T13:30:05.419Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Bakerloo Line: Severe delays due to train cancellations. London Underground tickets will be accepted on London buses, London Northwestern Railway and Thameslink. "
@@ -110610,7 +110610,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-08-13T12:20:04.780Z",
-   "to": "2026-08-13T13:20:05.163Z",
+   "to": "2026-08-13T13:30:05.419Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Jubilee Line: No service between Willesden Green and Stanmore while we fix points failures at Wembley Park and Stanmore. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE on the rest of the line. "
@@ -110673,7 +110673,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-08-13T12:30:06.349Z",
-   "to": "2026-08-13T13:20:05.163Z",
+   "to": "2026-08-13T13:30:05.419Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. "
@@ -111141,10 +111141,109 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-08-13T13:20:05.163Z",
-   "to": "2026-08-13T13:20:05.163Z",
+   "to": "2026-08-13T13:30:05.419Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Metropolitan Line: Severe delays due to an customer incident at Watford and due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses, London Overground, Northwestern Railway, Chiltern Railway and Thameslink.  "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-08-13T13:25:02.041Z",
+   "to": "2026-08-13T13:25:02.041Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Hammersmith and Edgware Road and SEVERE DELAYS on the rest of the line due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses and Thameslink. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-08-13T13:25:02.041Z",
+   "to": "2026-08-13T13:25:02.041Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Hammersmith and Edgware Road and SEVERE DELAYS on the rest of the line due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses and Thameslink. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-08-13T13:25:02.041Z",
+   "to": "2026-08-13T13:25:02.041Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, Great Western Railway, South Western Railway and Chiltern Railway's. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-08-13T13:25:02.041Z",
+   "to": "2026-08-13T13:25:02.041Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, Great Western Railway, South Western Railway and Chiltern Railway's. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-08-13T13:25:02.041Z",
+   "to": "2026-08-13T13:25:02.041Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Hammersmith and City Line: No service between Hammersmith and Edgware Road and SEVERE DELAYS on the rest of the line due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses, C2C, Thameslink and DLR services. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-08-13T13:25:02.041Z",
+   "to": "2026-08-13T13:25:02.041Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Hammersmith and City Line: No service between Hammersmith and Edgware Road and SEVERE DELAYS on the rest of the line due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses, C2C, Thameslink and DLR services. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-08-13T13:30:05.419Z",
+   "to": "2026-08-13T13:30:05.419Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Hammersmith and Edgware Road and SEVERE DELAYS on the rest of the line due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses and Thameslink. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-08-13T13:30:05.419Z",
+   "to": "2026-08-13T13:30:05.419Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Hammersmith and Edgware Road and SEVERE DELAYS on the rest of the line due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses and Thameslink. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-08-13T13:30:05.419Z",
+   "to": "2026-08-13T13:30:05.419Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, Great Western Railway, South Western Railway and Chiltern Railway's. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-08-13T13:30:05.419Z",
+   "to": "2026-08-13T13:30:05.419Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, Great Western Railway, South Western Railway and Chiltern Railway's. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-08-13T13:30:05.419Z",
+   "to": "2026-08-13T13:30:05.419Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Hammersmith and City Line: Severe delays due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses, C2C, Thameslink and DLR services. "
   }
  ]
 }
