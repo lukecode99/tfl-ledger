@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-01T20:10:05.729Z",
- "sinceISO": "2026-07-03T20:10:04.496Z",
+ "generatedAt": "2026-09-01T20:30:06.042Z",
+ "sinceISO": "2026-07-03T20:30:04.836Z",
  "coverage": [
   {
    "from": "2026-07-14T21:45:00.784Z",
@@ -9,8 +9,8 @@
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-01T20:10:04.229Z",
-   "polls": 13312
+   "to": "2026-09-01T20:30:04.583Z",
+   "polls": 13316
   }
  ],
  "spans": [
@@ -252333,7 +252333,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-09-01T14:00:11.412Z",
-   "to": "2026-09-01T20:10:04.229Z",
+   "to": "2026-09-01T20:30:04.583Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -252540,10 +252540,19 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-09-01T20:10:04.229Z",
-   "to": "2026-09-01T20:10:04.229Z",
+   "to": "2026-09-01T20:25:01.845Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays between Paddington and Heathrow Terminals / Reading due to a power supply failure at Paddington. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-09-01T20:30:04.583Z",
+   "to": "2026-09-01T20:30:04.583Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading due to an earlier power supply failure at Paddington. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
