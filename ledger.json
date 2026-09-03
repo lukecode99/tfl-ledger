@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-03T06:50:19.824Z",
- "sinceISO": "2026-07-05T06:50:18.598Z",
+ "generatedAt": "2026-09-03T07:00:43.499Z",
+ "sinceISO": "2026-07-05T07:00:42.300Z",
  "coverage": [
   {
    "from": "2026-07-14T21:45:00.784Z",
@@ -9,8 +9,8 @@
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-03T06:50:18.366Z",
-   "polls": 13728
+   "to": "2026-09-03T07:00:42.079Z",
+   "polls": 13730
   }
  ],
  "spans": [
@@ -255105,7 +255105,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-09-03T06:05:02.075Z",
-   "to": "2026-09-03T06:50:18.366Z",
+   "to": "2026-09-03T07:00:42.079Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -255267,7 +255267,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-09-03T06:45:09.957Z",
-   "to": "2026-09-03T06:50:18.366Z",
+   "to": "2026-09-03T07:00:42.079Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Jubilee Line: Severe delays following a late finish of engineering work. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C, Southeastern Railway and Thameslink. "
@@ -255276,10 +255276,19 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-09-03T06:50:18.366Z",
-   "to": "2026-09-03T06:50:18.366Z",
+   "to": "2026-09-03T06:55:02.024Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays while we fix a points failure at Camden Town. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-09-03T07:00:42.079Z",
+   "to": "2026-09-03T07:00:42.079Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Euston and High Barnet northbound only while we fix a points failure at Camden Town. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway "
   }
  ]
 }
