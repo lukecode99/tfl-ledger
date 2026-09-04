@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-04T06:10:06.006Z",
- "sinceISO": "2026-07-06T06:10:04.715Z",
+ "generatedAt": "2026-09-04T06:40:06.250Z",
+ "sinceISO": "2026-07-06T06:40:05.017Z",
  "coverage": [
   {
    "from": "2026-07-14T21:45:00.784Z",
@@ -9,8 +9,8 @@
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-04T06:10:04.485Z",
-   "polls": 14008
+   "to": "2026-09-04T06:40:04.785Z",
+   "polls": 14014
   }
  ],
  "spans": [
@@ -256545,7 +256545,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-09-04T05:00:11.235Z",
-   "to": "2026-09-04T06:10:04.485Z",
+   "to": "2026-09-04T06:35:01.831Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays due to train cancellations. "
@@ -256563,10 +256563,46 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-09-04T06:00:11.136Z",
-   "to": "2026-09-04T06:10:04.485Z",
+   "to": "2026-09-04T06:35:01.831Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-09-04T06:40:04.785Z",
+   "to": "2026-09-04T06:40:04.785Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: Severe delays anticlockwise while we fix a faulty train at King's Cross St. Pancras. MINOR DELAYS clockwise due to train cancellations. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-09-04T06:40:04.785Z",
+   "to": "2026-09-04T06:40:04.785Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Hammersmith and City Line: Severe delays Westbound only while we fix a faulty train at King's Cross St. Pancras. MINOR DELAYS Eastbound only due to train cancellations. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-09-04T06:40:04.785Z",
+   "to": "2026-09-04T06:40:04.785Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Hammersmith and City Line: Severe delays Westbound only while we fix a faulty train at King's Cross St. Pancras. MINOR DELAYS Eastbound only due to train cancellations. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-09-04T06:40:04.785Z",
+   "to": "2026-09-04T06:40:04.785Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate while we fix a faulty train at King's Cross St. Pancras. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
