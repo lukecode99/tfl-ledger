@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-09-13T00:10:05.799Z",
- "sinceISO": "2026-07-15T00:10:04.297Z",
+ "generatedAt": "2026-09-13T00:20:05.943Z",
+ "sinceISO": "2026-07-15T00:20:04.316Z",
  "coverage": [
   {
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 736
+   "polls": 734
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-13T00:10:04.063Z",
-   "polls": 16528
+   "to": "2026-09-13T00:20:04.056Z",
+   "polls": 16530
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
@@ -26,7 +26,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
@@ -35,7 +35,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
@@ -44,7 +44,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
@@ -53,16 +53,25 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Docklands Light Railway: Service will resume later this morning.\r\n "
   },
   {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-07-15T00:25:00.430Z",
+   "to": "2026-07-15T03:10:00.578Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Service will resume later this morning.\r\n "
+  },
+  {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
@@ -71,7 +80,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
@@ -80,7 +89,7 @@
   {
    "line": "liberty",
    "lineName": "Liberty",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
@@ -89,7 +98,7 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
@@ -98,7 +107,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
@@ -107,7 +116,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
@@ -116,7 +125,7 @@
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
@@ -125,7 +134,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
@@ -134,16 +143,25 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Suffragette Line: Service will resume later this morning.\r\n "
   },
   {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-07-15T00:25:00.430Z",
+   "to": "2026-07-15T03:10:00.578Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Victoria Line: Service will resume later this morning.\r\n "
+  },
+  {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T05:00:07.524Z",
    "severity": 20,
    "description": "Service Closed",
@@ -152,65 +170,11 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-15T00:15:00.435Z",
+   "from": "2026-07-15T00:25:00.430Z",
    "to": "2026-07-15T03:10:00.578Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Weaver Line: Service will resume later this morning. Until Thursday 16th July, there will be no service between Walthamstow Central and Chingford while we conduct urgent repairs to the track following a line side fire near Wood Street. Please use London Underground and London Buses to complete your journey. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-07-15T00:15:00.435Z",
-   "to": "2026-07-15T00:15:00.435Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Tuesday 14 and Wednesday 15 June, after 2315 each evening, no service between Surrey Quays and Clapham Junction / Battersea Park. Use local bus route 35 (for Denmark Hill, Brixton, Clapham High Street and Clapham Junction); bus route 37 (for Peckham Rye, Brixton, Clapham High Street and Clapham Junction); and bus route 381 (for Surrey Quays, South Bermondsey, Queens Road Peckham and Peckham Rye). For Wandsworth Road, use Clapham High Street, which is a short walk away. Last through trains: Surrey Quays to Clapham Junction 2307 (Departs Dalston Junction at 2249); Clapham Junction to Dalston Junction 2330"
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-07-15T00:15:00.435Z",
-   "to": "2026-07-15T00:15:00.435Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Windrush Line: Service will resume later this morning.\r\n "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-07-15T00:20:00.197Z",
-   "to": "2026-07-15T03:10:00.578Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Service will resume later this morning.\r\n "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-07-15T00:20:00.197Z",
-   "to": "2026-07-15T03:10:00.578Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Victoria Line: Service will resume later this morning.\r\n "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-07-15T00:20:00.197Z",
-   "to": "2026-07-15T00:20:00.197Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Tuesday 14 and Wednesday 15 June, after 2315 each evening, no service between Surrey Quays and Clapham Junction / Battersea Park. Use local bus route 35 (for Denmark Hill, Brixton, Clapham High Street and Clapham Junction); bus route 37 (for Peckham Rye, Brixton, Clapham High Street and Clapham Junction); and bus route 381 (for Surrey Quays, South Bermondsey, Queens Road Peckham and Peckham Rye). For Wandsworth Road, use Clapham High Street, which is a short walk away. Last through trains: Surrey Quays to Clapham Junction 2307 (Departs Dalston Junction at 2249); Clapham Junction to Dalston Junction 2330"
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-07-15T00:20:00.197Z",
-   "to": "2026-07-15T00:20:00.197Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Windrush Line: Service will resume later this morning.\r\n "
   },
   {
    "line": "windrush",
@@ -309978,7 +309942,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-09-12T03:30:04.542Z",
-   "to": "2026-09-13T00:10:04.063Z",
+   "to": "2026-09-13T00:20:04.056Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "CIRCLE LINE: Saturday 12 and Sunday 13 September, no service between Edgware Road and Aldgate (via Victoria)"
@@ -322380,7 +322344,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-09-12T14:45:02.255Z",
-   "to": "2026-09-13T00:10:04.063Z",
+   "to": "2026-09-13T00:15:01.776Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Bakerloo Line: Severe delays due to an earlier fire alert at Piccadilly Circus. Tickets being accepted on London Buses and Thameslink. For travel to / from Wembley Stadium, please use Wembley Park station.  "
@@ -326223,7 +326187,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-09-12T18:05:02.195Z",
-   "to": "2026-09-13T00:10:04.063Z",
+   "to": "2026-09-13T00:15:01.776Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -329076,7 +329040,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-09-12T21:55:01.992Z",
-   "to": "2026-09-13T00:10:04.063Z",
+   "to": "2026-09-13T00:15:01.776Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays between Surrey Quays and Clapham Junction while we deal with a trespasser on the track at Denmark Hill. MINOR DELAYS between Surrey Quays and New Cross due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -330781,6 +330745,195 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Lioness Line: No service between Watford Junction and Willesden Junction due to a sewage leak on the track at Watford High Street. MINOR DELAYS on the rest of the line. London Underground is accepting tickets via reasonable route. For travel to / from Wembley Stadium, please use Wembley Park station.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-09-13T00:15:01.776Z",
+   "to": "2026-09-13T00:15:01.776Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 12 and Sunday 13 September, no service between Tower Hill / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury and Richmond on Saturday. Replacement buses operate. If travelling to Chelsea vs Hull City AFC at Stamford Bridge on Saturday, please use PICCADILLY LINE services at Earls Court."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-09-13T00:15:01.776Z",
+   "to": "2026-09-13T00:15:01.776Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Edgware Road and Tower Hill to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work. NO SERVICE between Tower Hill and Whitechapel due to a points failure at Tower Hill. Tickets are being accepted on London Buses, Mildmay Line, Elizabeth line and C2C services. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-09-13T00:15:01.776Z",
+   "to": "2026-09-13T00:15:01.776Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Edgware Road and Tower Hill to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work. NO SERVICE between Tower Hill and Whitechapel due to a points failure at Tower Hill. Tickets are being accepted on London Buses, Mildmay Line, Elizabeth line and C2C services. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-09-13T00:15:01.776Z",
+   "to": "2026-09-13T00:15:01.776Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays Hayes & Harlington and Reading due to vandalism to equipment in the Paddington area. MINOR DELAYS Paddington and Heathrow Terminal 4. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-09-13T00:15:01.776Z",
+   "to": "2026-09-13T00:15:01.776Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays Hayes & Harlington and Reading due to vandalism to equipment in the Paddington area. MINOR DELAYS Paddington and Heathrow Terminal 4. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-09-13T00:15:01.776Z",
+   "to": "2026-09-13T00:15:01.776Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Watford Junction and Willesden Junction due to a sewage leak on the track at Watford High Street. MINOR DELAYS on the rest of the line. London Underground is accepting tickets via reasonable route. For travel to / from Wembley Stadium, please use Wembley Park station.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-09-13T00:15:01.776Z",
+   "to": "2026-09-13T00:15:01.776Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Watford Junction and Willesden Junction due to a sewage leak on the track at Watford High Street. MINOR DELAYS on the rest of the line. London Underground is accepting tickets via reasonable route. For travel to / from Wembley Stadium, please use Wembley Park station.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-09-13T00:20:04.056Z",
+   "to": "2026-09-13T00:20:04.056Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Bakerloo Line: Service will resume later this morning. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-09-13T00:20:04.056Z",
+   "to": "2026-09-13T00:20:04.056Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. However there will be no service between Edgware Road and Aldgate via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-09-13T00:20:04.056Z",
+   "to": "2026-09-13T00:20:04.056Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 12 and Sunday 13 September, no service between Tower Hill / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury and Richmond on Saturday. Replacement buses operate. If travelling to Chelsea vs Hull City AFC at Stamford Bridge on Saturday, please use PICCADILLY LINE services at Earls Court."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-09-13T00:20:04.056Z",
+   "to": "2026-09-13T00:20:04.056Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning, however there will be no service between Edgware Road and Tower Hill to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-09-13T00:20:04.056Z",
+   "to": "2026-09-13T00:20:04.056Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Docklands Light Railway: Service will resume later this morning. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-09-13T00:20:04.056Z",
+   "to": "2026-09-13T00:20:04.056Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Service will resume later this morning, however there will be no service between Paddington and Heathrow until 07:00 due to emergency works. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-09-13T00:20:04.056Z",
+   "to": "2026-09-13T00:20:04.056Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Hammersmith and City Line: Service will resume later this morning. "
+  },
+  {
+   "line": "liberty",
+   "lineName": "Liberty",
+   "from": "2026-09-13T00:20:04.056Z",
+   "to": "2026-09-13T00:20:04.056Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Liberty Line: Service will resume later this morning. "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-09-13T00:20:04.056Z",
+   "to": "2026-09-13T00:20:04.056Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Lioness Line: Service will resume later this morning. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-09-13T00:20:04.056Z",
+   "to": "2026-09-13T00:20:04.056Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Metropolitan Line: Service will resume later this morning. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-13T00:20:04.056Z",
+   "to": "2026-09-13T00:20:04.056Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning, however there will be no service between Willesden Junction and Richmond due to planned engineering work. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-13T00:20:04.056Z",
+   "to": "2026-09-13T00:20:04.056Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Suffragette Line: There will be no service all day Sunday 13th September due to planned engineering work. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-09-13T00:20:04.056Z",
+   "to": "2026-09-13T00:20:04.056Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-09-13T00:20:04.056Z",
+   "to": "2026-09-13T00:20:04.056Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Weaver Line: Service will resume later this morning. "
   }
  ]
 }
