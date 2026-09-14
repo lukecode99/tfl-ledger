@@ -1,32 +1,41 @@
 {
- "generatedAt": "2026-09-14T18:00:12.990Z",
- "sinceISO": "2026-07-16T18:00:11.564Z",
+ "generatedAt": "2026-09-14T18:20:07.478Z",
+ "sinceISO": "2026-07-16T18:20:05.482Z",
  "coverage": [
   {
-   "from": "2026-07-16T18:05:00.114Z",
+   "from": "2026-07-16T18:25:00.221Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 234
+   "polls": 230
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-14T18:00:10.696Z",
-   "polls": 17030
+   "to": "2026-09-14T18:20:05.222Z",
+   "polls": 17034
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-07-16T18:05:00.114Z",
-   "to": "2026-07-16T18:10:00.454Z",
+   "from": "2026-07-16T18:25:00.221Z",
+   "to": "2026-07-16T18:25:00.221Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Bakerloo Line: Minor delays between Queen's Park and Harrow & Wealdstone while we fix a signal failure at Willesden Junction area. GOOD SERVICE on the rest of the line.  "
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a signal failure in the Willesden Junction area. Tickets being accepted by London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-07-16T18:25:00.221Z",
+   "to": "2026-07-16T18:25:00.221Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a signal failure in the Willesden Junction area. Tickets being accepted by London Buses. MINOR DELAYS on the rest of the line.  "
   },
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-07-16T18:05:00.114Z",
+   "from": "2026-07-16T18:25:00.221Z",
    "to": "2026-07-16T19:30:00.574Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -35,7 +44,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-07-16T18:05:00.114Z",
+   "from": "2026-07-16T18:25:00.221Z",
    "to": "2026-07-16T18:55:00.141Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -44,83 +53,20 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-07-16T18:05:00.114Z",
-   "to": "2026-07-16T18:15:00.263Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Piccadilly Line: No service between Northfields and Heathrow Terminals while we respond to a fire alert at Osterley. GOOD SERVICE on the rest of the line. Elizabeth line are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-07-16T18:05:00.114Z",
-   "to": "2026-07-17T00:10:00.271Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Weaver Line: Minor Delays due to a line side fire near Wood Street on Sunday. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-07-16T18:15:00.263Z",
-   "to": "2026-07-16T18:15:00.263Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone while we fix a signal failure in the Willesden Junction area. Tickets being accepted by London Buses. MINOR DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-07-16T18:15:00.263Z",
-   "to": "2026-07-16T18:15:00.263Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone while we fix a signal failure in the Willesden Junction area. Tickets being accepted by London Buses. MINOR DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-07-16T18:20:00.492Z",
-   "to": "2026-07-16T18:20:00.492Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a signal failure in the Willesden Junction area. Tickets being accepted by London Buses. MINOR DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-07-16T18:20:00.492Z",
-   "to": "2026-07-16T18:20:00.492Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a signal failure in the Willesden Junction area. Tickets being accepted by London Buses. MINOR DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-07-16T18:20:00.492Z",
+   "from": "2026-07-16T18:25:00.221Z",
    "to": "2026-07-16T19:10:00.580Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to an earlier fire alert at Osterley. GOOD SERVICE on the rest of the line.  "
   },
   {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
+   "line": "weaver",
+   "lineName": "Weaver",
    "from": "2026-07-16T18:25:00.221Z",
-   "to": "2026-07-16T18:25:00.221Z",
+   "to": "2026-07-17T00:10:00.271Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a signal failure in the Willesden Junction area. Tickets being accepted by London Buses. MINOR DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-07-16T18:25:00.221Z",
-   "to": "2026-07-16T18:25:00.221Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a signal failure in the Willesden Junction area. Tickets being accepted by London Buses. MINOR DELAYS on the rest of the line.  "
+   "reason": "Weaver Line: Minor Delays due to a line side fire near Wood Street on Sunday. "
   },
   {
    "line": "bakerloo",
@@ -337428,7 +337374,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-09-14T15:50:04.769Z",
-   "to": "2026-09-14T18:00:10.696Z",
+   "to": "2026-09-14T18:20:05.222Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -337455,7 +337401,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-09-14T17:15:02.185Z",
-   "to": "2026-09-14T18:00:10.696Z",
+   "to": "2026-09-14T18:15:02.094Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Tower Hill eastbound only due to an earlier person ill on a train. GOOD SERVICE on the rest of the line. "
@@ -337486,6 +337432,69 @@
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals / Uxbridge and, MINOR DELAYS between Acton Town and Cockfosters due to an earlier signal failure at Bounds Green. London Buses, Great Northern, London Overground and South Western Railway are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-09-14T18:05:02.284Z",
+   "to": "2026-09-14T18:05:02.284Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals / Uxbridge and, MINOR DELAYS between Acton Town and Cockfosters due to an earlier signal failure at Bounds Green. London Buses, Great Northern, London Overground and South Western Railway are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-09-14T18:05:02.284Z",
+   "to": "2026-09-14T18:05:02.284Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals / Uxbridge and, MINOR DELAYS between Acton Town and Cockfosters due to an earlier signal failure at Bounds Green. London Buses, Great Northern, London Overground and South Western Railway are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-09-14T18:10:05.252Z",
+   "to": "2026-09-14T18:10:05.252Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals / Uxbridge and, MINOR DELAYS between Acton Town and Cockfosters due to an earlier signal failure at Bounds Green. London Buses, Great Northern, London Overground and South Western Railway are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-09-14T18:10:05.252Z",
+   "to": "2026-09-14T18:10:05.252Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals / Uxbridge and, MINOR DELAYS between Acton Town and Cockfosters due to an earlier signal failure at Bounds Green. London Buses, Great Northern, London Overground and South Western Railway are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-09-14T18:15:02.094Z",
+   "to": "2026-09-14T18:15:02.094Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals / Uxbridge and, MINOR DELAYS between Acton Town and Cockfosters due to an earlier signal failure at Bounds Green. London Buses, Great Northern, London Overground and South Western Railway are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-09-14T18:15:02.094Z",
+   "to": "2026-09-14T18:15:02.094Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals / Uxbridge and, MINOR DELAYS between Acton Town and Cockfosters due to an earlier signal failure at Bounds Green. London Buses, Great Northern, London Overground and South Western Railway are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-09-14T18:20:05.222Z",
+   "to": "2026-09-14T18:20:05.222Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: Minor delays due to an earlier signal failure at Bounds Green. "
   }
  ]
 }
