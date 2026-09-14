@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-09-14T03:40:06.030Z",
- "sinceISO": "2026-07-16T03:40:04.506Z",
+ "generatedAt": "2026-09-14T04:15:04.011Z",
+ "sinceISO": "2026-07-16T04:15:02.574Z",
  "coverage": [
   {
-   "from": "2026-07-16T03:45:00.116Z",
+   "from": "2026-07-16T04:20:00.416Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 406
+   "polls": 399
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-14T03:40:04.281Z",
-   "polls": 16858
+   "to": "2026-09-14T04:15:02.069Z",
+   "polls": 16865
   }
  ],
  "spans": [
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-07-16T03:45:00.116Z",
+   "from": "2026-07-16T04:20:00.416Z",
    "to": "2026-07-16T04:55:00.520Z",
    "severity": 20,
    "description": "Service Closed",
@@ -26,7 +26,7 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-16T03:55:00.271Z",
+   "from": "2026-07-16T04:20:00.416Z",
    "to": "2026-07-17T00:10:00.271Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -337068,7 +337068,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-09-13T23:50:04.595Z",
-   "to": "2026-09-14T03:40:04.281Z",
+   "to": "2026-09-14T04:15:02.069Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00. "
@@ -337599,10 +337599,19 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-09-14T03:40:04.281Z",
-   "to": "2026-09-14T03:40:04.281Z",
+   "to": "2026-09-14T04:15:02.069Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-09-14T04:15:02.069Z",
+   "to": "2026-09-14T04:15:02.069Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Minor delays due to train cancellations.  "
   }
  ]
 }
