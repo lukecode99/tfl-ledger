@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-09-14T16:10:07.218Z",
- "sinceISO": "2026-07-16T16:10:04.680Z",
+ "generatedAt": "2026-09-14T16:20:07.257Z",
+ "sinceISO": "2026-07-16T16:20:05.323Z",
  "coverage": [
   {
-   "from": "2026-07-16T16:15:00.161Z",
+   "from": "2026-07-16T16:25:00.293Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 256
+   "polls": 254
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-14T16:10:04.350Z",
-   "polls": 17008
+   "to": "2026-09-14T16:20:04.989Z",
+   "polls": 17010
   }
  ],
  "spans": [
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-07-16T16:15:00.161Z",
+   "from": "2026-07-16T16:25:00.293Z",
    "to": "2026-07-16T16:30:00.449Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -26,7 +26,7 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-16T16:15:00.161Z",
+   "from": "2026-07-16T16:25:00.293Z",
    "to": "2026-07-17T00:10:00.271Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -337383,7 +337383,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-09-14T10:50:04.965Z",
-   "to": "2026-09-14T16:10:04.350Z",
+   "to": "2026-09-14T16:20:04.989Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays due to an earlier signal failure at Bounds Green. London Buses, Great Northern, London Overground and South Western Railway are accepting tickets via any reasonable route.  "
@@ -337446,7 +337446,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-09-14T15:50:04.769Z",
-   "to": "2026-09-14T16:10:04.350Z",
+   "to": "2026-09-14T16:20:04.989Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -337455,10 +337455,19 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-09-14T16:10:04.350Z",
-   "to": "2026-09-14T16:10:04.350Z",
+   "to": "2026-09-14T16:15:01.807Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "District Line: No service between Earl's Court and Ealing Broadway / Richmond while we help a person ill on a train. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-09-14T16:20:04.989Z",
+   "to": "2026-09-14T16:20:04.989Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway / Richmond due to an earlier person ill on a train. GOOD SERVICE on the rest of the line.  "
   }
  ]
 }
