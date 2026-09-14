@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-09-14T08:30:17.239Z",
- "sinceISO": "2026-07-16T08:30:15.733Z",
+ "generatedAt": "2026-09-14T08:35:04.022Z",
+ "sinceISO": "2026-07-16T08:35:02.543Z",
  "coverage": [
   {
-   "from": "2026-07-16T08:35:00.423Z",
+   "from": "2026-07-16T08:40:00.217Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 348
+   "polls": 347
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-14T08:30:06.075Z",
-   "polls": 16916
+   "to": "2026-09-14T08:35:02.297Z",
+   "polls": 16917
   }
  ],
  "spans": [
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-07-16T08:35:00.423Z",
+   "from": "2026-07-16T08:40:00.217Z",
    "to": "2026-07-16T10:30:00.634Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -26,7 +26,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-07-16T08:35:00.423Z",
+   "from": "2026-07-16T08:40:00.217Z",
    "to": "2026-07-16T08:50:00.286Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -35,7 +35,7 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-16T08:35:00.423Z",
+   "from": "2026-07-16T08:40:00.217Z",
    "to": "2026-07-17T00:10:00.271Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -337248,10 +337248,37 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-09-14T08:30:06.075Z",
-   "to": "2026-09-14T08:30:06.075Z",
+   "to": "2026-09-14T08:35:02.297Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays between Arnos Grove and Cockfosters while we fix a signal failure at Bounds Green. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-09-14T08:35:02.297Z",
+   "to": "2026-09-14T08:35:02.297Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Maidenhead and Reading while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T08:35:02.297Z",
+   "to": "2026-09-14T08:35:02.297Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T08:35:02.297Z",
+   "to": "2026-09-14T08:35:02.297Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
   }
  ]
 }
