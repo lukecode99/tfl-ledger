@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-09-14T08:50:05.902Z",
- "sinceISO": "2026-07-16T08:50:04.412Z",
+ "generatedAt": "2026-09-14T09:10:05.723Z",
+ "sinceISO": "2026-07-16T09:10:04.137Z",
  "coverage": [
   {
-   "from": "2026-07-16T08:55:00.585Z",
+   "from": "2026-07-16T09:15:00.403Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 344
+   "polls": 340
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-14T08:50:04.181Z",
-   "polls": 16920
+   "to": "2026-09-14T09:10:03.924Z",
+   "polls": 16924
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-07-16T08:55:00.585Z",
+   "from": "2026-07-16T09:15:00.403Z",
    "to": "2026-07-16T09:15:00.403Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -26,7 +26,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-07-16T08:55:00.585Z",
+   "from": "2026-07-16T09:15:00.403Z",
    "to": "2026-07-16T10:30:00.634Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -35,7 +35,7 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-16T08:55:00.585Z",
+   "from": "2026-07-16T09:15:00.403Z",
    "to": "2026-07-17T00:10:00.271Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -337230,7 +337230,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-09-14T08:30:06.075Z",
-   "to": "2026-09-14T08:50:04.181Z",
+   "to": "2026-09-14T09:05:02.200Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays between Arnos Grove and Cockfosters while we fix a signal failure at Bounds Green. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
@@ -337239,7 +337239,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-09-14T08:35:02.297Z",
-   "to": "2026-09-14T08:50:04.181Z",
+   "to": "2026-09-14T09:10:03.924Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "No service between Maidenhead and Reading while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. "
@@ -337302,7 +337302,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-09-14T08:50:04.181Z",
-   "to": "2026-09-14T08:50:04.181Z",
+   "to": "2026-09-14T09:10:03.924Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
@@ -337321,6 +337321,87 @@
    "lineName": "Suffragette",
    "from": "2026-09-14T08:50:04.181Z",
    "to": "2026-09-14T08:50:04.181Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T08:55:01.784Z",
+   "to": "2026-09-14T08:55:01.784Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T08:55:01.784Z",
+   "to": "2026-09-14T08:55:01.784Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T09:00:12.175Z",
+   "to": "2026-09-14T09:00:12.175Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T09:00:12.175Z",
+   "to": "2026-09-14T09:00:12.175Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T09:05:02.200Z",
+   "to": "2026-09-14T09:05:02.200Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T09:05:02.200Z",
+   "to": "2026-09-14T09:05:02.200Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-09-14T09:10:03.924Z",
+   "to": "2026-09-14T09:10:03.924Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: Minor delays between Arnos Grove and Cockfosters due to an earlier signal failure at Bounds Green. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T09:10:03.924Z",
+   "to": "2026-09-14T09:10:03.924Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T09:10:03.924Z",
+   "to": "2026-09-14T09:10:03.924Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
