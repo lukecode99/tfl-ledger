@@ -1,32 +1,32 @@
 {
- "generatedAt": "2026-09-14T09:10:05.723Z",
- "sinceISO": "2026-07-16T09:10:04.137Z",
+ "generatedAt": "2026-09-14T09:25:03.760Z",
+ "sinceISO": "2026-07-16T09:25:02.285Z",
  "coverage": [
   {
-   "from": "2026-07-16T09:15:00.403Z",
+   "from": "2026-07-16T09:30:00.539Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 340
+   "polls": 337
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-14T09:10:03.924Z",
-   "polls": 16924
+   "to": "2026-09-14T09:25:01.986Z",
+   "polls": 16927
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-07-16T09:15:00.403Z",
-   "to": "2026-07-16T09:15:00.403Z",
+   "from": "2026-07-16T09:30:00.539Z",
+   "to": "2026-07-16T10:20:00.148Z",
    "severity": 6,
    "description": "Severe Delays",
-   "reason": "Bakerloo Line: Severe delays while we fix a track fault at Waterloo. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink via any reasonable route. "
+   "reason": "Bakerloo Line: Severe delays due to an earlier track fault at Waterloo. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink via any reasonable route. "
   },
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-07-16T09:15:00.403Z",
+   "from": "2026-07-16T09:30:00.539Z",
    "to": "2026-07-16T10:30:00.634Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -35,20 +35,11 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-16T09:15:00.403Z",
+   "from": "2026-07-16T09:30:00.539Z",
    "to": "2026-07-17T00:10:00.271Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Weaver Line: Minor Delays due to a line side fire near Wood Street on Sunday. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-07-16T09:20:00.180Z",
-   "to": "2026-07-16T10:20:00.148Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Bakerloo Line: Severe delays due to an earlier track fault at Waterloo. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink via any reasonable route. "
   },
   {
    "line": "jubilee",
@@ -337239,7 +337230,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-09-14T08:35:02.297Z",
-   "to": "2026-09-14T09:10:03.924Z",
+   "to": "2026-09-14T09:25:01.986Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "No service between Maidenhead and Reading while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. "
@@ -337302,7 +337293,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-09-14T08:50:04.181Z",
-   "to": "2026-09-14T09:10:03.924Z",
+   "to": "2026-09-14T09:25:01.986Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
@@ -337383,7 +337374,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-09-14T09:10:03.924Z",
-   "to": "2026-09-14T09:10:03.924Z",
+   "to": "2026-09-14T09:25:01.986Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays between Arnos Grove and Cockfosters due to an earlier signal failure at Bounds Green. GOOD SERVICE on the rest of the line.  "
@@ -337405,6 +337396,60 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T09:15:01.978Z",
+   "to": "2026-09-14T09:15:01.978Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T09:15:01.978Z",
+   "to": "2026-09-14T09:15:01.978Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T09:20:04.608Z",
+   "to": "2026-09-14T09:20:04.608Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T09:20:04.608Z",
+   "to": "2026-09-14T09:20:04.608Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-09-14T09:25:01.986Z",
+   "to": "2026-09-14T09:25:01.986Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: Minor delays between Canning Town and Bank/Tower Gateway and Lewisham while we fix faulty trains. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-14T09:25:01.986Z",
+   "to": "2026-09-14T09:25:01.986Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
