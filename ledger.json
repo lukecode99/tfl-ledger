@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-09-14T09:25:03.760Z",
- "sinceISO": "2026-07-16T09:25:02.285Z",
+ "generatedAt": "2026-09-14T09:35:03.665Z",
+ "sinceISO": "2026-07-16T09:35:02.206Z",
  "coverage": [
   {
-   "from": "2026-07-16T09:30:00.539Z",
+   "from": "2026-07-16T09:40:00.360Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 337
+   "polls": 335
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-14T09:25:01.986Z",
-   "polls": 16927
+   "to": "2026-09-14T09:35:01.923Z",
+   "polls": 16929
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-07-16T09:30:00.539Z",
+   "from": "2026-07-16T09:40:00.360Z",
    "to": "2026-07-16T10:20:00.148Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -26,7 +26,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-07-16T09:30:00.539Z",
+   "from": "2026-07-16T09:40:00.360Z",
    "to": "2026-07-16T10:30:00.634Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -35,7 +35,7 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-16T09:30:00.539Z",
+   "from": "2026-07-16T09:40:00.360Z",
    "to": "2026-07-17T00:10:00.271Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -337230,7 +337230,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-09-14T08:35:02.297Z",
-   "to": "2026-09-14T09:25:01.986Z",
+   "to": "2026-09-14T09:30:05.119Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "No service between Maidenhead and Reading while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. "
@@ -337293,7 +337293,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-09-14T08:50:04.181Z",
-   "to": "2026-09-14T09:25:01.986Z",
+   "to": "2026-09-14T09:35:01.923Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
@@ -337374,7 +337374,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-09-14T09:10:03.924Z",
-   "to": "2026-09-14T09:25:01.986Z",
+   "to": "2026-09-14T09:35:01.923Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays between Arnos Grove and Cockfosters due to an earlier signal failure at Bounds Green. GOOD SERVICE on the rest of the line.  "
@@ -337437,7 +337437,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-09-14T09:25:01.986Z",
-   "to": "2026-09-14T09:25:01.986Z",
+   "to": "2026-09-14T09:35:01.923Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Docklands Light Railway: Minor delays between Canning Town and Bank/Tower Gateway and Lewisham while we fix faulty trains. GOOD SERVICE on the rest of the line. "
@@ -337446,10 +337446,28 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-09-14T09:25:01.986Z",
-   "to": "2026-09-14T09:25:01.986Z",
+   "to": "2026-09-14T09:35:01.923Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-09-14T09:35:01.923Z",
+   "to": "2026-09-14T09:35:01.923Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Maidenhead and Reading while emergency services deal with a casualty on the track. MINOR DELAYS between Whitechapel and Heathrow Terminals/Maidenhead while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-09-14T09:35:01.923Z",
+   "to": "2026-09-14T09:35:01.923Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Maidenhead and Reading while emergency services deal with a casualty on the track. MINOR DELAYS between Whitechapel and Heathrow Terminals/Maidenhead while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
