@@ -1,45 +1,27 @@
 {
- "generatedAt": "2026-09-14T09:35:03.665Z",
- "sinceISO": "2026-07-16T09:35:02.206Z",
+ "generatedAt": "2026-09-14T09:45:03.528Z",
+ "sinceISO": "2026-07-16T09:45:02.064Z",
  "coverage": [
   {
-   "from": "2026-07-16T09:40:00.360Z",
+   "from": "2026-07-16T09:50:00.362Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 335
+   "polls": 333
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-14T09:35:01.923Z",
-   "polls": 16929
+   "to": "2026-09-14T09:45:01.821Z",
+   "polls": 16931
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-07-16T09:40:00.360Z",
+   "from": "2026-07-16T09:50:00.362Z",
    "to": "2026-07-16T10:20:00.148Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Bakerloo Line: Severe delays due to an earlier track fault at Waterloo. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink via any reasonable route. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-07-16T09:40:00.360Z",
-   "to": "2026-07-16T10:30:00.634Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays due to an earlier track fault at Neasden. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway, Chiltern Railway and Thameslink via any reasonable route. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-07-16T09:40:00.360Z",
-   "to": "2026-07-17T00:10:00.271Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Weaver Line: Minor Delays due to a line side fire near Wood Street on Sunday. "
   },
   {
    "line": "jubilee",
@@ -49,6 +31,24 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays between Stratford and North Greenwich while we fix a points failure at Stratford. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-07-16T09:50:00.362Z",
+   "to": "2026-07-16T10:30:00.634Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to an earlier track fault at Neasden. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway, Chiltern Railway and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-07-16T09:50:00.362Z",
+   "to": "2026-07-17T00:10:00.271Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Weaver Line: Minor Delays due to a line side fire near Wood Street on Sunday. "
   },
   {
    "line": "jubilee",
@@ -337293,7 +337293,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-09-14T08:50:04.181Z",
-   "to": "2026-09-14T09:35:01.923Z",
+   "to": "2026-09-14T09:45:01.821Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
@@ -337374,7 +337374,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-09-14T09:10:03.924Z",
-   "to": "2026-09-14T09:35:01.923Z",
+   "to": "2026-09-14T09:45:01.821Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays between Arnos Grove and Cockfosters due to an earlier signal failure at Bounds Green. GOOD SERVICE on the rest of the line.  "
@@ -337437,7 +337437,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-09-14T09:25:01.986Z",
-   "to": "2026-09-14T09:35:01.923Z",
+   "to": "2026-09-14T09:40:04.452Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Docklands Light Railway: Minor delays between Canning Town and Bank/Tower Gateway and Lewisham while we fix faulty trains. GOOD SERVICE on the rest of the line. "
@@ -337446,7 +337446,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-09-14T09:25:01.986Z",
-   "to": "2026-09-14T09:35:01.923Z",
+   "to": "2026-09-14T09:45:01.821Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. GOOD SERVICE on the rest of the line. "
@@ -337465,6 +337465,42 @@
    "lineName": "Elizabeth line",
    "from": "2026-09-14T09:35:01.923Z",
    "to": "2026-09-14T09:35:01.923Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Maidenhead and Reading while emergency services deal with a casualty on the track. MINOR DELAYS between Whitechapel and Heathrow Terminals/Maidenhead while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-09-14T09:40:04.452Z",
+   "to": "2026-09-14T09:40:04.452Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Maidenhead and Reading while emergency services deal with a casualty on the track. MINOR DELAYS between Whitechapel and Heathrow Terminals/Maidenhead while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-09-14T09:40:04.452Z",
+   "to": "2026-09-14T09:40:04.452Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Maidenhead and Reading while emergency services deal with a casualty on the track. MINOR DELAYS between Whitechapel and Heathrow Terminals/Maidenhead while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-09-14T09:45:01.821Z",
+   "to": "2026-09-14T09:45:01.821Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Maidenhead and Reading while emergency services deal with a casualty on the track. MINOR DELAYS between Whitechapel and Heathrow Terminals/Maidenhead while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-09-14T09:45:01.821Z",
+   "to": "2026-09-14T09:45:01.821Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "No service between Maidenhead and Reading while emergency services deal with a casualty on the track. MINOR DELAYS between Whitechapel and Heathrow Terminals/Maidenhead while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. "
