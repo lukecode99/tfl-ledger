@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-09-15T03:20:06.082Z",
- "sinceISO": "2026-07-17T03:20:04.470Z",
+ "generatedAt": "2026-09-15T03:40:06.045Z",
+ "sinceISO": "2026-07-17T03:40:04.574Z",
  "coverage": [
   {
-   "from": "2026-07-17T03:25:00.617Z",
+   "from": "2026-07-17T03:45:00.398Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 121
+   "polls": 117
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-15T03:20:04.240Z",
-   "polls": 17142
+   "to": "2026-09-15T03:40:04.356Z",
+   "polls": 17146
   }
  ],
  "spans": [
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-07-17T03:25:00.617Z",
+   "from": "2026-07-17T03:45:00.398Z",
    "to": "2026-07-17T05:00:06.466Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -26,7 +26,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-07-17T03:25:00.617Z",
+   "from": "2026-07-17T03:45:00.398Z",
    "to": "2026-07-17T04:55:00.528Z",
    "severity": 20,
    "description": "Service Closed",
@@ -35,7 +35,7 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-17T03:25:00.617Z",
+   "from": "2026-07-17T03:45:00.398Z",
    "to": "2026-07-17T13:25:00.609Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -335637,7 +335637,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-09-14T23:30:04.369Z",
-   "to": "2026-09-15T03:20:04.240Z",
+   "to": "2026-09-15T03:40:04.356Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
@@ -335875,6 +335875,24 @@
    "severity": 20,
    "description": "Service Closed",
    "reason": "Windrush Line: Service will resume later this morning.\r\n "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-09-15T03:40:04.356Z",
+   "to": "2026-09-15T03:40:04.356Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to a late finish of engineering works. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-09-15T03:40:04.356Z",
+   "to": "2026-09-15T03:40:04.356Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge due to a late finish of engineering works. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
