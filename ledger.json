@@ -1,33 +1,24 @@
 {
- "generatedAt": "2026-09-15T10:55:03.701Z",
- "sinceISO": "2026-07-17T10:55:02.161Z",
+ "generatedAt": "2026-09-15T11:45:03.620Z",
+ "sinceISO": "2026-07-17T11:45:02.148Z",
  "coverage": [
   {
-   "from": "2026-07-17T11:00:06.765Z",
+   "from": "2026-07-17T11:50:00.398Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 30
+   "polls": 20
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-15T10:55:01.913Z",
-   "polls": 17233
+   "to": "2026-09-15T11:45:01.909Z",
+   "polls": 17243
   }
  ],
  "spans": [
   {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-07-17T11:00:06.765Z",
-   "to": "2026-07-17T11:15:00.425Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Docklands Light Railway: No service between Crossharbour and Lewisham while we fix an electrical fault. GOOD SERVICE on other DLR routes. "
-  },
-  {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-07-17T11:00:06.765Z",
-   "to": "2026-07-17T11:00:06.765Z",
+   "from": "2026-07-17T11:50:00.398Z",
+   "to": "2026-07-17T11:50:00.398Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
@@ -35,16 +26,25 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-07-17T11:00:06.765Z",
-   "to": "2026-07-17T11:00:06.765Z",
+   "from": "2026-07-17T11:50:00.398Z",
+   "to": "2026-07-17T11:50:00.398Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
   },
   {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-07-17T11:50:00.398Z",
+   "to": "2026-07-17T11:50:00.398Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: Minor delays while we fix a signal failure at South Ealing.  "
+  },
+  {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-07-17T11:00:06.765Z",
+   "from": "2026-07-17T11:50:00.398Z",
    "to": "2026-07-17T13:25:00.609Z",
    "severity": 2,
    "description": "Suspended",
@@ -53,7 +53,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-07-17T11:00:06.765Z",
+   "from": "2026-07-17T11:50:00.398Z",
    "to": "2026-07-17T12:00:14.429Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -62,209 +62,11 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-17T11:00:06.765Z",
+   "from": "2026-07-17T11:50:00.398Z",
    "to": "2026-07-17T13:25:00.609Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Weaver Line: Minor delays due to a line side fire near Wood Street on Sunday.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:05:00.222Z",
-   "to": "2026-07-17T11:05:00.222Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:05:00.222Z",
-   "to": "2026-07-17T11:05:00.222Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:10:00.572Z",
-   "to": "2026-07-17T11:10:00.572Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:10:00.572Z",
-   "to": "2026-07-17T11:10:00.572Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:15:00.425Z",
-   "to": "2026-07-17T11:15:00.425Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:15:00.425Z",
-   "to": "2026-07-17T11:15:00.425Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-07-17T11:15:00.425Z",
-   "to": "2026-07-17T11:50:00.398Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Minor delays while we fix a signal failure at South Ealing.  "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-07-17T11:20:00.661Z",
-   "to": "2026-07-17T11:20:00.661Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Docklands Light Railway: Severe delays between Canary Wharf and Lewisham due to an earlier electrical fault. GOOD SERVICE on other DLR routes. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:20:00.661Z",
-   "to": "2026-07-17T11:20:00.661Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:20:00.661Z",
-   "to": "2026-07-17T11:20:00.661Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:25:00.383Z",
-   "to": "2026-07-17T11:25:00.383Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:25:00.383Z",
-   "to": "2026-07-17T11:25:00.383Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:30:02.285Z",
-   "to": "2026-07-17T11:30:02.285Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:30:02.285Z",
-   "to": "2026-07-17T11:30:02.285Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:35:00.427Z",
-   "to": "2026-07-17T11:35:00.427Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:35:00.427Z",
-   "to": "2026-07-17T11:35:00.427Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:40:00.336Z",
-   "to": "2026-07-17T11:40:00.336Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:40:00.336Z",
-   "to": "2026-07-17T11:40:00.336Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:45:00.747Z",
-   "to": "2026-07-17T11:45:00.747Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:45:00.747Z",
-   "to": "2026-07-17T11:45:00.747Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:50:00.398Z",
-   "to": "2026-07-17T11:50:00.398Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T11:50:00.398Z",
-   "to": "2026-07-17T11:50:00.398Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
   },
   {
    "line": "mildmay",
@@ -334818,7 +334620,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-09-15T09:35:01.922Z",
-   "to": "2026-09-15T10:55:01.913Z",
+   "to": "2026-09-15T11:45:01.909Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays due to an earlier signal failure at Turnpike Lane. London Buses are accepting tickets via any reasonable route. "
@@ -334845,7 +334647,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-09-15T10:40:06.558Z",
-   "to": "2026-09-15T10:55:01.913Z",
+   "to": "2026-09-15T11:45:01.909Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays due to an train cancellations. "
@@ -334854,10 +334656,19 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-09-15T10:50:04.986Z",
-   "to": "2026-09-15T10:55:01.913Z",
+   "to": "2026-09-15T11:40:04.649Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Harrow-on-the-Hill. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.\r\n "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-09-15T11:45:01.909Z",
+   "to": "2026-09-15T11:45:01.909Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Harrow-on-the-Hill. GOOD SERVICE on the rest of the line.\r\n "
   }
  ]
 }
