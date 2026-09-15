@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-09-15T03:50:06.015Z",
- "sinceISO": "2026-07-17T03:50:04.556Z",
+ "generatedAt": "2026-09-15T04:10:07.596Z",
+ "sinceISO": "2026-07-17T04:10:06.103Z",
  "coverage": [
   {
-   "from": "2026-07-17T03:55:00.401Z",
+   "from": "2026-07-17T04:15:00.606Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 115
+   "polls": 111
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-15T03:50:04.335Z",
-   "polls": 17148
+   "to": "2026-09-15T04:10:05.884Z",
+   "polls": 17152
   }
  ],
  "spans": [
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-07-17T03:55:00.401Z",
+   "from": "2026-07-17T04:15:00.606Z",
    "to": "2026-07-17T05:00:06.466Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -26,7 +26,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-07-17T03:55:00.401Z",
+   "from": "2026-07-17T04:15:00.606Z",
    "to": "2026-07-17T04:55:00.528Z",
    "severity": 20,
    "description": "Service Closed",
@@ -35,7 +35,7 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-17T03:55:00.401Z",
+   "from": "2026-07-17T04:15:00.606Z",
    "to": "2026-07-17T13:25:00.609Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -335637,7 +335637,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-09-14T23:30:04.369Z",
-   "to": "2026-09-15T03:50:04.335Z",
+   "to": "2026-09-15T04:10:05.884Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
@@ -335898,7 +335898,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-09-15T03:45:01.898Z",
-   "to": "2026-09-15T03:50:04.335Z",
+   "to": "2026-09-15T04:05:02.105Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "District Line: No service between Turnham Green and Ealing Broadway due to a late finish of engineering works. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C and South Western Railway. GOOD SERVICE on the rest of the line. "
@@ -335916,10 +335916,19 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-09-15T03:50:04.335Z",
-   "to": "2026-09-15T03:50:04.335Z",
+   "to": "2026-09-15T04:10:05.884Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Piccadilly Line: No service between Acton Town and Uxbridge and between Boston Manor and Cockfosters, eastbound only, due to a late finish of engineering work at Ealing Common. Tickets are being accepted on London Buses, Elizabeth line, Great Northern, Weaver line and South Western Railway. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-09-15T04:10:05.884Z",
+   "to": "2026-09-15T04:10:05.884Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to a late finish of engineering work at Ealing Common. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C and South Western Railway. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
