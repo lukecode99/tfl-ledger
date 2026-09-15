@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-09-15T13:05:04.148Z",
- "sinceISO": "2026-07-17T13:05:02.658Z",
+ "generatedAt": "2026-09-15T13:10:05.741Z",
+ "sinceISO": "2026-07-17T13:10:04.233Z",
  "coverage": [
   {
-   "from": "2026-07-17T13:10:00.799Z",
+   "from": "2026-07-17T13:15:00.635Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 4
+   "polls": 3
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-15T13:05:02.201Z",
-   "polls": 17259
+   "to": "2026-09-15T13:10:03.989Z",
+   "polls": 17260
   }
  ],
  "spans": [
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-07-17T13:10:00.799Z",
+   "from": "2026-07-17T13:15:00.635Z",
    "to": "2026-07-17T13:25:00.609Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -26,8 +26,8 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-07-17T13:10:00.799Z",
-   "to": "2026-07-17T13:10:00.799Z",
+   "from": "2026-07-17T13:15:00.635Z",
+   "to": "2026-07-17T13:15:00.635Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
@@ -35,8 +35,8 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-07-17T13:10:00.799Z",
-   "to": "2026-07-17T13:10:00.799Z",
+   "from": "2026-07-17T13:15:00.635Z",
+   "to": "2026-07-17T13:15:00.635Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
@@ -44,7 +44,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-07-17T13:10:00.799Z",
+   "from": "2026-07-17T13:15:00.635Z",
    "to": "2026-07-17T13:25:00.609Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -53,7 +53,7 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-07-17T13:10:00.799Z",
+   "from": "2026-07-17T13:15:00.635Z",
    "to": "2026-07-17T13:25:00.609Z",
    "severity": 2,
    "description": "Suspended",
@@ -62,7 +62,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-07-17T13:10:00.799Z",
+   "from": "2026-07-17T13:15:00.635Z",
    "to": "2026-07-17T13:25:00.609Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -71,29 +71,11 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-17T13:10:00.799Z",
+   "from": "2026-07-17T13:15:00.635Z",
    "to": "2026-07-17T13:25:00.609Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Weaver Line: Minor delays due to a line side fire near Wood Street on Sunday.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T13:15:00.635Z",
-   "to": "2026-07-17T13:15:00.635Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T13:15:00.635Z",
-   "to": "2026-07-17T13:15:00.635Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
   },
   {
    "line": "mildmay",
@@ -334125,7 +334107,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-09-15T12:50:04.999Z",
-   "to": "2026-09-15T13:05:02.201Z",
+   "to": "2026-09-15T13:10:03.989Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays due to an earlier signal failure at Turnpike Lane. Tickets are being accepted on the Elizabeth line and London Buses via any reasonable route. "
@@ -334138,6 +334120,15 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Bakerloo Line: No service between Harrow & Wealdstone and Stonebridge Park while we fix a track fault at Harrow & Wealdstone. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-09-15T13:10:03.989Z",
+   "to": "2026-09-15T13:10:03.989Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Harrow & Wealdstone and Stonebridge Park while we fix a track fault at Harrow & Wealdstone. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, London Overground and London North Western Railway. "
   }
  ]
 }
