@@ -1,32 +1,23 @@
 {
- "generatedAt": "2026-09-15T08:35:03.728Z",
- "sinceISO": "2026-07-17T08:35:02.207Z",
+ "generatedAt": "2026-09-15T08:50:05.829Z",
+ "sinceISO": "2026-07-17T08:50:04.368Z",
  "coverage": [
   {
-   "from": "2026-07-17T08:40:00.282Z",
+   "from": "2026-07-17T08:55:00.608Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 58
+   "polls": 55
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-15T08:35:01.969Z",
-   "polls": 17205
+   "to": "2026-09-15T08:50:04.101Z",
+   "polls": 17208
   }
  ],
  "spans": [
   {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-07-17T08:40:00.282Z",
-   "to": "2026-07-17T08:50:00.316Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Central Line: No service between West Ruislip and Ruislip Gardens while we respond to a fire alert at West Ruislip. GOOD SERVICE on the rest of the line.  "
-  },
-  {
    "line": "district",
    "lineName": "District",
-   "from": "2026-07-17T08:40:00.282Z",
+   "from": "2026-07-17T08:55:00.608Z",
    "to": "2026-07-17T09:20:00.686Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -35,7 +26,7 @@
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-07-17T08:40:00.282Z",
+   "from": "2026-07-17T08:55:00.608Z",
    "to": "2026-07-17T09:00:09.166Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -44,7 +35,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-07-17T08:40:00.282Z",
+   "from": "2026-07-17T08:55:00.608Z",
    "to": "2026-07-17T09:45:00.622Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -53,25 +44,16 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-07-17T08:40:00.282Z",
-   "to": "2026-07-17T08:40:00.282Z",
+   "from": "2026-07-17T08:55:00.608Z",
+   "to": "2026-07-17T09:45:00.622Z",
    "severity": 6,
    "description": "Severe Delays",
-   "reason": "Suffragette Line: No service between Barking and Barking Riverside, and SEVERE DELAYS on the rest of line while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-07-17T08:40:00.282Z",
-   "to": "2026-07-17T08:40:00.282Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking and Barking Riverside, and SEVERE DELAYS on the rest of line while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
+   "reason": "Suffragette Line: Severe delays while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
   },
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-07-17T08:40:00.282Z",
+   "from": "2026-07-17T08:55:00.608Z",
    "to": "2026-07-17T12:00:14.429Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -80,7 +62,7 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-17T08:40:00.282Z",
+   "from": "2026-07-17T08:55:00.608Z",
    "to": "2026-07-17T13:25:00.609Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -89,38 +71,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-07-17T08:40:00.282Z",
+   "from": "2026-07-17T08:55:00.608Z",
    "to": "2026-07-17T09:00:09.166Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Windrush Line: No service while we deal with a trespasser at Whitechapel. Tickets are being accepted on London Underground. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-07-17T08:45:00.511Z",
-   "to": "2026-07-17T08:45:00.511Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Suffragette Line: No service between Barking and Barking Riverside, and SEVERE DELAYS on the rest of line while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-07-17T08:45:00.511Z",
-   "to": "2026-07-17T08:45:00.511Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking and Barking Riverside, and SEVERE DELAYS on the rest of line while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-07-17T08:50:00.316Z",
-   "to": "2026-07-17T09:45:00.622Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Suffragette Line: Severe delays while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
   },
   {
    "line": "hammersmith-city",
@@ -334998,7 +334953,7 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-09-15T07:20:04.466Z",
-   "to": "2026-09-15T08:35:01.969Z",
+   "to": "2026-09-15T08:50:04.101Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Lioness Line: Severe delays due to an earlier signal failure at Stonebridge Park. "
@@ -335052,7 +335007,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-09-15T07:35:02.173Z",
-   "to": "2026-09-15T08:35:01.969Z",
+   "to": "2026-09-15T08:50:04.101Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Bakerloo Line: Severe delays due to an earlier signal failure at Stonebridge Park. Tickets will be accepted on London buses via any reasonable route. "
@@ -335061,7 +335016,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-09-15T08:00:11.437Z",
-   "to": "2026-09-15T08:35:01.969Z",
+   "to": "2026-09-15T08:45:01.899Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -335070,7 +335025,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-09-15T08:05:02.134Z",
-   "to": "2026-09-15T08:35:01.969Z",
+   "to": "2026-09-15T08:50:04.101Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between Loughton and Epping while we fix a track fault at Epping. GOOD SERVICE on the rest of the line. "
@@ -335079,10 +335034,19 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-09-15T08:35:01.969Z",
-   "to": "2026-09-15T08:35:01.969Z",
+   "to": "2026-09-15T08:45:01.899Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays between Arnos Grove and Cockfosters while we fix a signal failure at Turnpike Lane. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-09-15T08:50:04.101Z",
+   "to": "2026-09-15T08:50:04.101Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Wood Green and Cockfosters while we fix a signal failure at Turnpike Lane. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
   }
  ]
 }
