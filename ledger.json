@@ -1,42 +1,60 @@
 {
- "generatedAt": "2026-09-15T07:01:08.219Z",
- "sinceISO": "2026-07-17T07:01:06.255Z",
+ "generatedAt": "2026-09-15T07:15:03.882Z",
+ "sinceISO": "2026-07-17T07:15:02.027Z",
  "coverage": [
   {
-   "from": "2026-07-17T07:05:00.476Z",
+   "from": "2026-07-17T07:20:00.480Z",
    "to": "2026-07-17T13:25:00.609Z",
-   "polls": 77
+   "polls": 74
   },
   {
    "from": "2026-07-17T14:22:29.655Z",
-   "to": "2026-09-15T07:01:05.921Z",
-   "polls": 17186
+   "to": "2026-09-15T07:15:01.781Z",
+   "polls": 17189
   }
  ],
  "spans": [
   {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-07-17T07:05:00.476Z",
-   "to": "2026-07-17T07:15:00.580Z",
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-07-17T07:20:00.480Z",
+   "to": "2026-07-17T07:20:00.480Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between West Ham and Whitechapel westbound while we respond to a fire alert at Bromley-by-Bow. SEVERE DELAYS between West Ham and Whitechapel eastbound. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-07-17T07:20:00.480Z",
+   "to": "2026-07-17T07:20:00.480Z",
    "severity": 3,
    "description": "Part Suspended",
-   "reason": "Docklands Light Railway: No service between Pudding Mill Lane and Stratford while we respond to a fire alert at Stratford "
+   "reason": "District Line: No service between West Ham and Whitechapel westbound while we respond to a fire alert at Bromley-by-Bow. SEVERE DELAYS between West Ham and Whitechapel eastbound. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-07-17T07:05:00.476Z",
-   "to": "2026-07-17T07:10:00.250Z",
+   "from": "2026-07-17T07:20:00.480Z",
+   "to": "2026-07-17T07:20:00.480Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Minor delays eastbound due to train cancellations "
+   "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking, and MINOR DELAYS on the rest of the line while we respond to a fire alert at Bromley-By-Bow. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-07-17T07:20:00.480Z",
+   "to": "2026-07-17T07:20:00.480Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking, and MINOR DELAYS on the rest of the line while we respond to a fire alert at Bromley-By-Bow. "
   },
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-07-17T07:05:00.476Z",
-   "to": "2026-07-17T07:05:00.476Z",
+   "from": "2026-07-17T07:20:00.480Z",
+   "to": "2026-07-17T07:20:00.480Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: No service between West Ham and Stratford while we respond to a fire alert at Stratford. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses via any reasonable route. "
@@ -44,8 +62,8 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-07-17T07:05:00.476Z",
-   "to": "2026-07-17T07:05:00.476Z",
+   "from": "2026-07-17T07:20:00.480Z",
+   "to": "2026-07-17T07:20:00.480Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Jubilee Line: No service between West Ham and Stratford while we respond to a fire alert at Stratford. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses via any reasonable route. "
@@ -53,8 +71,8 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-07-17T07:05:00.476Z",
-   "to": "2026-07-17T07:05:00.476Z",
+   "from": "2026-07-17T07:20:00.480Z",
+   "to": "2026-07-17T07:20:00.480Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Suffragette Line: No service between Barking and Barking Riverside, and SEVERE DELAYS on the rest of line while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
@@ -62,8 +80,8 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-07-17T07:05:00.476Z",
-   "to": "2026-07-17T07:05:00.476Z",
+   "from": "2026-07-17T07:20:00.480Z",
+   "to": "2026-07-17T07:20:00.480Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Barking and Barking Riverside, and SEVERE DELAYS on the rest of line while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
@@ -71,16 +89,16 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-07-17T07:05:00.476Z",
-   "to": "2026-07-17T07:05:00.476Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Victoria Line: Minor delays while we fix a points failure at Walthamstow Central. "
+   "from": "2026-07-17T07:20:00.480Z",
+   "to": "2026-07-17T07:20:00.480Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Victoria Line: Severe delays while we fix a points failure at Walthamstow Central. "
   },
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-17T07:05:00.476Z",
+   "from": "2026-07-17T07:20:00.480Z",
    "to": "2026-07-17T13:25:00.609Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -89,191 +107,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-07-17T07:05:00.476Z",
+   "from": "2026-07-17T07:20:00.480Z",
    "to": "2026-07-17T09:00:09.166Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Windrush Line: No service while we deal with a trespasser at Whitechapel. Tickets are being accepted on London Underground. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-07-17T07:10:00.250Z",
-   "to": "2026-07-17T07:10:00.250Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Jubilee Line: No service between West Ham and Stratford while we respond to a fire alert at Stratford. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses via any reasonable route. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-07-17T07:10:00.250Z",
-   "to": "2026-07-17T07:10:00.250Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between West Ham and Stratford while we respond to a fire alert at Stratford. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses via any reasonable route. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-17T07:10:00.250Z",
-   "to": "2026-07-17T07:15:00.580Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: Severe delays while we fix a faulty train "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-07-17T07:10:00.250Z",
-   "to": "2026-07-17T07:10:00.250Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Suffragette Line: No service between Barking and Barking Riverside, and SEVERE DELAYS on the rest of line while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-07-17T07:10:00.250Z",
-   "to": "2026-07-17T07:10:00.250Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking and Barking Riverside, and SEVERE DELAYS on the rest of line while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-07-17T07:10:00.250Z",
-   "to": "2026-07-17T07:20:00.480Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: Severe delays while we fix a points failure at Walthamstow Central. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-07-17T07:15:00.580Z",
-   "to": "2026-07-17T07:15:00.580Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking, and MINOR DELAYS on the rest of the line while we respond to a fire alert at Bromley-By-Bow. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-07-17T07:15:00.580Z",
-   "to": "2026-07-17T07:15:00.580Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking, and MINOR DELAYS on the rest of the line while we respond to a fire alert at Bromley-By-Bow. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-07-17T07:15:00.580Z",
-   "to": "2026-07-17T07:15:00.580Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Jubilee Line: No service between West Ham and Stratford while we respond to a fire alert at Stratford. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses via any reasonable route. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-07-17T07:15:00.580Z",
-   "to": "2026-07-17T07:15:00.580Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between West Ham and Stratford while we respond to a fire alert at Stratford. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-07-17T07:15:00.580Z",
-   "to": "2026-07-17T07:15:00.580Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Suffragette Line: No service between Barking and Barking Riverside, and SEVERE DELAYS on the rest of line while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-07-17T07:15:00.580Z",
-   "to": "2026-07-17T07:15:00.580Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking and Barking Riverside, and SEVERE DELAYS on the rest of line while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-07-17T07:20:00.480Z",
-   "to": "2026-07-17T07:20:00.480Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: No service between West Ham and Whitechapel westbound while we respond to a fire alert at Bromley-by-Bow. SEVERE DELAYS between West Ham and Whitechapel eastbound. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-07-17T07:20:00.480Z",
-   "to": "2026-07-17T07:20:00.480Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "District Line: No service between West Ham and Whitechapel westbound while we respond to a fire alert at Bromley-by-Bow. SEVERE DELAYS between West Ham and Whitechapel eastbound. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-07-17T07:20:00.480Z",
-   "to": "2026-07-17T07:20:00.480Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking, and MINOR DELAYS on the rest of the line while we respond to a fire alert at Bromley-By-Bow. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-07-17T07:20:00.480Z",
-   "to": "2026-07-17T07:20:00.480Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking, and MINOR DELAYS on the rest of the line while we respond to a fire alert at Bromley-By-Bow. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-07-17T07:20:00.480Z",
-   "to": "2026-07-17T07:20:00.480Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Jubilee Line: No service between West Ham and Stratford while we respond to a fire alert at Stratford. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses via any reasonable route. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-07-17T07:20:00.480Z",
-   "to": "2026-07-17T07:20:00.480Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between West Ham and Stratford while we respond to a fire alert at Stratford. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-07-17T07:20:00.480Z",
-   "to": "2026-07-17T07:20:00.480Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Suffragette Line: No service between Barking and Barking Riverside, and SEVERE DELAYS on the rest of line while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-07-17T07:20:00.480Z",
-   "to": "2026-07-17T07:20:00.480Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking and Barking Riverside, and SEVERE DELAYS on the rest of line while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
   },
   {
    "line": "district",
@@ -335241,7 +335079,7 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-09-15T04:55:01.982Z",
-   "to": "2026-09-15T07:01:05.921Z",
+   "to": "2026-09-15T07:15:01.781Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Lioness Line: No service on the entire line while we fix a signal failure at Stonebridge Park. "
@@ -335286,7 +335124,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-09-15T05:05:02.040Z",
-   "to": "2026-09-15T07:01:05.921Z",
+   "to": "2026-09-15T07:15:01.781Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
@@ -335592,7 +335430,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-09-15T06:20:04.384Z",
-   "to": "2026-09-15T07:01:05.921Z",
+   "to": "2026-09-15T07:10:05.338Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays between Barking and Upminster due to train cancellations. Tickets will be accepted on London Buses and C2C via reasonable routes. GOOD SERVICE on the rest of the line. "
@@ -335745,10 +335583,64 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-09-15T07:01:05.921Z",
-   "to": "2026-09-15T07:01:05.921Z",
+   "to": "2026-09-15T07:10:05.338Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Minor delays between Ilford and Shenfield eastbound only while we fix a faulty train at Maryland. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-09-15T07:05:01.793Z",
+   "to": "2026-09-15T07:05:01.793Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: No service between Harrow & Wealdstone and Queen's Park while we fix a signal failure at Stonebridge Park. MINOR DELAYS on the rest of the line. Tickets will be accepted on London buses.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-09-15T07:05:01.793Z",
+   "to": "2026-09-15T07:05:01.793Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Harrow & Wealdstone and Queen's Park while we fix a signal failure at Stonebridge Park. MINOR DELAYS on the rest of the line. Tickets will be accepted on London buses.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-09-15T07:10:05.338Z",
+   "to": "2026-09-15T07:10:05.338Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: No service between Harrow & Wealdstone and Queen's Park while we fix a signal failure at Stonebridge Park. MINOR DELAYS on the rest of the line. Tickets will be accepted on London buses.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-09-15T07:10:05.338Z",
+   "to": "2026-09-15T07:10:05.338Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Harrow & Wealdstone and Queen's Park while we fix a signal failure at Stonebridge Park. MINOR DELAYS on the rest of the line. Tickets will be accepted on London buses.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-09-15T07:15:01.781Z",
+   "to": "2026-09-15T07:15:01.781Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: No service between Harrow & Wealdstone and Queen's Park while we fix a signal failure at Stonebridge Park. MINOR DELAYS on the rest of the line. Tickets will be accepted on London buses.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-09-15T07:15:01.781Z",
+   "to": "2026-09-15T07:15:01.781Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Harrow & Wealdstone and Queen's Park while we fix a signal failure at Stonebridge Park. MINOR DELAYS on the rest of the line. Tickets will be accepted on London buses.  "
   }
  ]
 }
