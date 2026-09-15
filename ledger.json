@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-09-15T22:55:04.515Z",
- "sinceISO": "2026-07-17T22:55:03.031Z",
+ "generatedAt": "2026-09-15T23:35:03.728Z",
+ "sinceISO": "2026-07-17T23:35:02.212Z",
  "coverage": [
   {
-   "from": "2026-07-17T23:00:08.181Z",
-   "to": "2026-09-15T22:55:02.140Z",
+   "from": "2026-07-17T23:40:00.305Z",
+   "to": "2026-09-15T23:35:01.994Z",
    "polls": 17272
   }
  ],
@@ -12,7 +12,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-07-17T23:00:08.181Z",
+   "from": "2026-07-17T23:40:00.305Z",
    "to": "2026-07-18T00:15:00.315Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -21,25 +21,34 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-07-17T23:00:08.181Z",
-   "to": "2026-07-17T23:00:08.181Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to an earlier signal failure at South Ealing. GOOD SERVICE on the rest of the line. "
+   "from": "2026-07-17T23:40:00.305Z",
+   "to": "2026-07-18T01:00:06.294Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "PICCADILLY LINE: Saturday 18 July, between 0030 and 0400, no service between Hyde Park Corner and Cockfosters. Replacement buses operate."
   },
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-07-17T23:00:08.181Z",
+   "from": "2026-07-17T23:40:00.305Z",
    "to": "2026-07-18T00:15:00.315Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Suffragette Line: Minor delays due to an earlier signal failure at Gospel Oak. "
   },
   {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-07-17T23:40:00.305Z",
+   "to": "2026-07-18T03:15:00.586Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
+  },
+  {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-17T23:00:08.181Z",
+   "from": "2026-07-17T23:40:00.305Z",
    "to": "2026-07-18T00:15:00.315Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -48,29 +57,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-07-17T23:00:08.181Z",
+   "from": "2026-07-17T23:40:00.305Z",
    "to": "2026-07-18T00:15:00.315Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Windrush Line: Severe delays between New Cross Gate and Crystal Palace/West Croydon due to earlier emergency engineering work to fix a track fault in the Norwood Junction area. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-07-17T23:35:00.547Z",
-   "to": "2026-07-18T01:00:06.294Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Saturday 18 July, between 0030 and 0400, no service between Hyde Park Corner and Cockfosters. Replacement buses operate."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-07-17T23:35:00.547Z",
-   "to": "2026-07-18T03:15:00.586Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
   },
   {
    "line": "bakerloo",
@@ -333949,7 +333940,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-09-15T22:35:01.850Z",
-   "to": "2026-09-15T22:55:02.140Z",
+   "to": "2026-09-15T23:35:01.994Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Monday 14, Tuesday 15, Wednesday 16 and Thursday 17 September, after 2330 each evening, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Crystal Palace, Gipsy Hill, West Norwood, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Norwood Junction and East Croydon. One return bus from Crystal Palace departs at 2359, calling at all stations to London Bridge via New Cross Gate. Alternatively, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324, Crystal Palace to New Cross Gate / Highbury & Islington 2332; New Cross Gate to West Croydon 2330, West Croydon to New Cross Gate / Highbury & Islington 2316. The 2232 and 2247 Highbury & Islington to West Croydon trains are diverted to Crystal Palace and the 2338 Dalston Junction to New Cross Gate train does not run."
@@ -334061,6 +334052,231 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:00:10.896Z",
+   "to": "2026-09-15T23:00:10.896Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Monday 14, Tuesday 15, Wednesday 16 and Thursday 17 September, after 2345 each evening, no service westbound from Stratford to Camden Road after 2345. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:00:10.896Z",
+   "to": "2026-09-15T23:00:10.896Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:00:10.896Z",
+   "to": "2026-09-15T23:00:10.896Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:05:02.232Z",
+   "to": "2026-09-15T23:05:02.232Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Monday 14, Tuesday 15, Wednesday 16 and Thursday 17 September, after 2345 each evening, no service westbound from Stratford to Camden Road after 2345. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:05:02.232Z",
+   "to": "2026-09-15T23:05:02.232Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:05:02.232Z",
+   "to": "2026-09-15T23:05:02.232Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:10:04.399Z",
+   "to": "2026-09-15T23:10:04.399Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Monday 14, Tuesday 15, Wednesday 16 and Thursday 17 September, after 2345 each evening, no service westbound from Stratford to Camden Road after 2345. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:10:04.399Z",
+   "to": "2026-09-15T23:10:04.399Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:10:04.399Z",
+   "to": "2026-09-15T23:10:04.399Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:15:02.094Z",
+   "to": "2026-09-15T23:15:02.094Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Monday 14, Tuesday 15, Wednesday 16 and Thursday 17 September, after 2345 each evening, no service westbound from Stratford to Camden Road after 2345. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:15:02.094Z",
+   "to": "2026-09-15T23:15:02.094Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:15:02.094Z",
+   "to": "2026-09-15T23:15:02.094Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:20:05.578Z",
+   "to": "2026-09-15T23:20:05.578Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Monday 14, Tuesday 15, Wednesday 16 and Thursday 17 September, after 2345 each evening, no service westbound from Stratford to Camden Road after 2345. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:20:05.578Z",
+   "to": "2026-09-15T23:20:05.578Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:20:05.578Z",
+   "to": "2026-09-15T23:20:05.578Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:25:02.100Z",
+   "to": "2026-09-15T23:25:02.100Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Monday 14, Tuesday 15, Wednesday 16 and Thursday 17 September, after 2345 each evening, no service westbound from Stratford to Camden Road after 2345. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:25:02.100Z",
+   "to": "2026-09-15T23:25:02.100Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:25:02.100Z",
+   "to": "2026-09-15T23:25:02.100Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:30:05.345Z",
+   "to": "2026-09-15T23:30:05.345Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Monday 14, Tuesday 15, Wednesday 16 and Thursday 17 September, after 2345 each evening, no service westbound from Stratford to Camden Road after 2345. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:30:05.345Z",
+   "to": "2026-09-15T23:30:05.345Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:30:05.345Z",
+   "to": "2026-09-15T23:30:05.345Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:35:01.994Z",
+   "to": "2026-09-15T23:35:01.994Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Monday 14, Tuesday 15, Wednesday 16 and Thursday 17 September, after 2345 each evening, no service westbound from Stratford to Camden Road after 2345. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:35:01.994Z",
+   "to": "2026-09-15T23:35:01.994Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-15T23:35:01.994Z",
+   "to": "2026-09-15T23:35:01.994Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and Stratford and SEVERE DELAYS on the rest of the line while we fix an electrical fault at Hackney Central. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-09-15T23:35:01.994Z",
+   "to": "2026-09-15T23:35:01.994Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   }
  ]
 }
