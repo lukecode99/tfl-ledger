@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-09-16T03:40:05.992Z",
- "sinceISO": "2026-07-18T03:40:04.525Z",
+ "generatedAt": "2026-09-16T04:35:04.017Z",
+ "sinceISO": "2026-07-18T04:35:02.498Z",
  "coverage": [
   {
-   "from": "2026-07-18T03:45:00.304Z",
-   "to": "2026-09-16T03:40:04.295Z",
+   "from": "2026-07-18T04:40:00.349Z",
+   "to": "2026-09-16T04:35:02.265Z",
    "polls": 17272
   }
  ],
@@ -12,7 +12,7 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-07-18T03:45:00.304Z",
+   "from": "2026-07-18T04:40:00.349Z",
    "to": "2026-07-18T16:30:00.879Z",
    "severity": 5,
    "description": "Part Closure",
@@ -21,7 +21,7 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-07-18T03:45:00.304Z",
+   "from": "2026-07-18T04:40:00.349Z",
    "to": "2026-07-18T05:05:00.174Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -30,7 +30,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-07-18T03:45:00.304Z",
+   "from": "2026-07-18T04:40:00.349Z",
    "to": "2026-07-18T05:00:06.030Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -39,7 +39,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-07-18T03:45:00.304Z",
+   "from": "2026-07-18T04:40:00.349Z",
    "to": "2026-07-18T04:45:00.584Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -48,16 +48,34 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-07-18T03:45:00.304Z",
-   "to": "2026-07-18T04:35:00.582Z",
+   "from": "2026-07-18T04:40:00.349Z",
+   "to": "2026-07-18T04:40:00.349Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "PICCADILLY LINE: Saturday 18 July, from 0400 and all day Sunday 19 July, including Saturday Night Tube, no service between Kings Cross St Pancras and Cockfosters. Replacement buses operate."
   },
   {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-07-18T04:40:00.349Z",
+   "to": "2026-07-18T04:40:00.349Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners lane and Uxbridge, and SEVERE DELAYS between Acton Town and Rayners lane while we fix a points failure at Acton Town. London Buses are accepting valid tickets via any reasonable route.NO SERVICE  between King's Cross St. Pancras and Cockfosters due to planned engineering work. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-07-18T04:40:00.349Z",
+   "to": "2026-07-18T04:40:00.349Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners lane and Uxbridge, and SEVERE DELAYS between Acton Town and Rayners lane while we fix a points failure at Acton Town. London Buses are accepting valid tickets via any reasonable route.NO SERVICE  between King's Cross St. Pancras and Cockfosters due to planned engineering work. GOOD SERVICE on the rest of the line. "
+  },
+  {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-07-18T03:45:00.304Z",
+   "from": "2026-07-18T04:40:00.349Z",
    "to": "2026-07-19T00:15:00.379Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -66,56 +84,11 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-07-18T03:45:00.304Z",
+   "from": "2026-07-18T04:40:00.349Z",
    "to": "2026-07-19T00:25:00.372Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Weaver Line: Minor delays due to a line side fire near Wood Street on Sunday. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-07-18T04:35:00.582Z",
-   "to": "2026-07-18T04:35:00.582Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: No service between Rayners lane and Uxbridge, and SEVERE DELAYS between Acton Town and Rayners lane while we fix a points failure at Northfields. London Buses are accepting valid tickets via any reasonable route.NO SERVICE  between King's Cross St. Pancras and Cockfosters due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-07-18T04:35:00.582Z",
-   "to": "2026-07-18T04:35:00.582Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Piccadilly Line: No service between Rayners lane and Uxbridge, and SEVERE DELAYS between Acton Town and Rayners lane while we fix a points failure at Northfields. London Buses are accepting valid tickets via any reasonable route.NO SERVICE  between King's Cross St. Pancras and Cockfosters due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-07-18T04:40:00.349Z",
-   "to": "2026-07-18T04:40:00.349Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Saturday 18 July, from 0400 and all day Sunday 19 July, including Saturday Night Tube, no service between Kings Cross St Pancras and Cockfosters. Replacement buses operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-07-18T04:40:00.349Z",
-   "to": "2026-07-18T04:40:00.349Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: No service between Rayners lane and Uxbridge, and SEVERE DELAYS between Acton Town and Rayners lane while we fix a points failure at Acton Town. London Buses are accepting valid tickets via any reasonable route.NO SERVICE  between King's Cross St. Pancras and Cockfosters due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-07-18T04:40:00.349Z",
-   "to": "2026-07-18T04:40:00.349Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Piccadilly Line: No service between Rayners lane and Uxbridge, and SEVERE DELAYS between Acton Town and Rayners lane while we fix a points failure at Acton Town. London Buses are accepting valid tickets via any reasonable route.NO SERVICE  between King's Cross St. Pancras and Cockfosters due to planned engineering work. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "piccadilly",
@@ -333607,7 +333580,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-09-15T23:35:01.994Z",
-   "to": "2026-09-16T03:40:04.295Z",
+   "to": "2026-09-16T04:35:02.265Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00. "
@@ -334075,10 +334048,19 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-09-16T03:40:04.295Z",
-   "to": "2026-09-16T03:40:04.295Z",
+   "to": "2026-09-16T04:35:02.265Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-09-16T04:35:02.265Z",
+   "to": "2026-09-16T04:35:02.265Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Windrush Line: Minor delays between West Croydon and Sydenham due to a late finish of engineering works at Norwood Junction. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
