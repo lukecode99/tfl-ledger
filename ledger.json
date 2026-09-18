@@ -1,23 +1,14 @@
 {
- "generatedAt": "2026-09-18T04:55:03.807Z",
- "sinceISO": "2026-07-20T04:55:02.396Z",
+ "generatedAt": "2026-09-18T05:05:04.686Z",
+ "sinceISO": "2026-07-20T05:05:03.232Z",
  "coverage": [
   {
-   "from": "2026-07-20T05:00:07.619Z",
-   "to": "2026-09-18T04:55:02.171Z",
+   "from": "2026-07-20T05:10:02.058Z",
+   "to": "2026-09-18T05:05:02.271Z",
    "polls": 17271
   }
  ],
  "spans": [
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-07-20T05:00:07.619Z",
-   "to": "2026-07-20T08:30:02.674Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, Lioness line, London Northwestern Railway, Chiltern Railways and Thameslink.  "
-  },
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
@@ -26,6 +17,15 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Bakerloo Line: No service between Harrow & Wealdstone and Stonebridge Park while we fix a points failure at Harrow & Wealdstone. Tickets are being accepted on London Buses, Lioness line and London Northwestern Railway. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-07-20T05:10:02.058Z",
+   "to": "2026-07-20T08:30:02.674Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, Lioness line, London Northwestern Railway, Chiltern Railways and Thameslink.  "
   },
   {
    "line": "district",
@@ -316012,7 +316012,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-09-17T23:35:01.983Z",
-   "to": "2026-09-18T04:55:02.171Z",
+   "to": "2026-09-18T05:00:11.435Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
@@ -316453,7 +316453,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-09-18T04:25:02.393Z",
-   "to": "2026-09-18T04:55:02.171Z",
+   "to": "2026-09-18T05:05:02.271Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays due to a late finish of engineering work at Norwood Junction. GOOD SERVICE on the rest of the line. "
@@ -316507,7 +316507,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-09-18T04:45:02.287Z",
-   "to": "2026-09-18T04:55:02.171Z",
+   "to": "2026-09-18T05:05:02.271Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Victoria Line: No service northbound only due to a late finish of engineering work at Brixton. Tickets are being accepted on London Buses, Southeastern, South Western Railway, Greater Anglia, Great Northern, Suffragette line and Weaver line. GOOD SERVICE on the rest of the line. "
@@ -316552,7 +316552,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-09-18T04:55:02.171Z",
-   "to": "2026-09-18T04:55:02.171Z",
+   "to": "2026-09-18T05:05:02.271Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Hammersmith and City Line: Severe delays while we fix a defective train at Whitechapel. "
@@ -316561,10 +316561,37 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-09-18T04:55:02.171Z",
-   "to": "2026-09-18T04:55:02.171Z",
+   "to": "2026-09-18T05:00:11.435Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Northern Line: No service between Kennington and Battersea Power Station due to a communications fault in the control room. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-09-18T05:00:11.435Z",
+   "to": "2026-09-18T05:00:11.435Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to a late finish of engineering work. Tickets are being accepted on London Buses and South Western Railway. MINOR DELAYS between Earl's Court and Upminster westbound only while we fix a faulty train at Whitechapel. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-09-18T05:00:11.435Z",
+   "to": "2026-09-18T05:00:11.435Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to a late finish of engineering work. Tickets are being accepted on London Buses and South Western Railway. MINOR DELAYS between Earl's Court and Upminster westbound only while we fix a faulty train at Whitechapel. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-09-18T05:05:02.271Z",
+   "to": "2026-09-18T05:05:02.271Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to a late finish of engineering work. Tickets are being accepted on London Buses and South Western Railway. SEVERE DELAYS between Earl's Court and Upminster westbound only while we fix a faulty train at Whitechapel. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
