@@ -1,81 +1,18 @@
 {
- "generatedAt": "2026-09-18T23:50:06.313Z",
- "sinceISO": "2026-07-20T23:50:04.883Z",
+ "generatedAt": "2026-09-19T00:20:06.025Z",
+ "sinceISO": "2026-07-21T00:20:04.578Z",
  "coverage": [
   {
-   "from": "2026-07-20T23:55:01.809Z",
-   "to": "2026-09-18T23:50:04.659Z",
+   "from": "2026-07-21T00:25:01.711Z",
+   "to": "2026-09-19T00:20:04.270Z",
    "polls": 17270
   }
  ],
  "spans": [
   {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-07-20T23:55:01.809Z",
-   "to": "2026-07-21T00:15:01.716Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Edgware Road via Embankment clockwise only while we fix a points failure at Gloucester Road. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-07-20T23:55:01.809Z",
-   "to": "2026-07-21T00:15:01.716Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-07-20T23:55:01.809Z",
-   "to": "2026-07-21T00:15:01.716Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays due to an earlier signal failure at Golders Green. London Buses, Trams, Southeastern, Thameslink and South Western Railway are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-07-20T23:55:01.809Z",
-   "to": "2026-07-21T00:20:01.910Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays while we fix a signal failure at South Ealing. London Buses, Elizabeth Line and South Western Railway are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-07-20T23:55:01.809Z",
-   "to": "2026-07-21T00:20:01.910Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: Severe delays due to an earlier fire alert at Green Park. Tickets being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western and Southeastern railway services.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-07-20T23:55:01.809Z",
-   "to": "2026-07-21T05:00:08.488Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06.00. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-07-20T23:55:01.809Z",
-   "to": "2026-07-21T00:25:01.711Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 20, Tuesday 21, Wednesday 22 and Thursday 23 July, after 2245 each evening, no service between Hackney Downs and Enfield Town / Cheshunt. Last through trains operate at 2213 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Use Clapton for Rectory Road and Stoke Newington, and local London Buses services for Stamford Hill. Replacement buses operate. The limited number of southbound GREATER ANGLIA and STANSTED EXPRESS trains after midnight which usually call at Seven Sisters are diverted via Tottenham Hale instead"
-  },
-  {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-07-21T00:20:01.910Z",
+   "from": "2026-07-21T00:25:01.711Z",
    "to": "2026-07-21T03:15:02.181Z",
    "severity": 20,
    "description": "Service Closed",
@@ -84,7 +21,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-07-21T00:20:01.910Z",
+   "from": "2026-07-21T00:25:01.711Z",
    "to": "2026-07-21T03:15:02.181Z",
    "severity": 20,
    "description": "Service Closed",
@@ -93,7 +30,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-07-21T00:20:01.910Z",
+   "from": "2026-07-21T00:25:01.711Z",
    "to": "2026-07-21T03:15:02.181Z",
    "severity": 20,
    "description": "Service Closed",
@@ -102,7 +39,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-07-21T00:20:01.910Z",
+   "from": "2026-07-21T00:25:01.711Z",
    "to": "2026-07-21T03:15:02.181Z",
    "severity": 20,
    "description": "Service Closed",
@@ -111,29 +48,11 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-07-21T00:20:01.910Z",
+   "from": "2026-07-21T00:25:01.711Z",
    "to": "2026-07-21T03:15:02.181Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Docklands Light Railway: Service will resume later this morning. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-07-21T00:20:01.910Z",
-   "to": "2026-07-21T03:15:02.181Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Hammersmith and City Line: Service will resume later this morning. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-07-21T00:20:01.910Z",
-   "to": "2026-07-21T03:15:02.181Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Jubilee Line: Service will resume later this morning. "
   },
   {
    "line": "elizabeth",
@@ -143,6 +62,24 @@
    "severity": 20,
    "description": "Service Closed",
    "reason": "Service will resume later this morning. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-07-21T00:25:01.711Z",
+   "to": "2026-07-21T03:15:02.181Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Hammersmith and City Line: Service will resume later this morning. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-07-21T00:25:01.711Z",
+   "to": "2026-07-21T03:15:02.181Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Jubilee Line: Service will resume later this morning. "
   },
   {
    "line": "liberty",
@@ -215,6 +152,24 @@
    "severity": 20,
    "description": "Service Closed",
    "reason": "Victoria Line: Service will resume later this morning. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-07-21T00:25:01.711Z",
+   "to": "2026-07-21T05:00:08.488Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06.00. "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-07-21T00:25:01.711Z",
+   "to": "2026-07-21T00:25:01.711Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WEAVER LINE: Monday 20, Tuesday 21, Wednesday 22 and Thursday 23 July, after 2245 each evening, no service between Hackney Downs and Enfield Town / Cheshunt. Last through trains operate at 2213 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Use Clapton for Rectory Road and Stoke Newington, and local London Buses services for Stamford Hill. Replacement buses operate. The limited number of southbound GREATER ANGLIA and STANSTED EXPRESS trains after midnight which usually call at Seven Sisters are diverted via Tottenham Hale instead"
   },
   {
    "line": "weaver",
@@ -317263,7 +317218,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-09-18T19:20:04.590Z",
-   "to": "2026-09-18T23:50:04.659Z",
+   "to": "2026-09-19T00:15:02.404Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Hammersmith and City Line: Severe delays due to train cancellations. Tickets being accepted on London Buses, Mildmay line, DLR and Elizabeth line via any reasonable routes. \r\n "
@@ -318064,10 +318019,109 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-09-18T23:40:05.626Z",
-   "to": "2026-09-18T23:50:04.659Z",
+   "to": "2026-09-19T00:20:04.270Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-09-19T00:20:04.270Z",
+   "to": "2026-09-19T00:20:04.270Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Bakerloo Line: Service will resume later this morning. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-09-19T00:20:04.270Z",
+   "to": "2026-09-19T00:20:04.270Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-09-19T00:20:04.270Z",
+   "to": "2026-09-19T00:20:04.270Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-09-19T00:20:04.270Z",
+   "to": "2026-09-19T00:20:04.270Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Docklands Light Railway: Service will resume later this morning. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-09-19T00:20:04.270Z",
+   "to": "2026-09-19T00:20:04.270Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Service will resume later this morning. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-09-19T00:20:04.270Z",
+   "to": "2026-09-19T00:20:04.270Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Hammersmith and City Line: Service will resume later this morning. "
+  },
+  {
+   "line": "liberty",
+   "lineName": "Liberty",
+   "from": "2026-09-19T00:20:04.270Z",
+   "to": "2026-09-19T00:20:04.270Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Liberty Line: Service will resume later this morning. "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-09-19T00:20:04.270Z",
+   "to": "2026-09-19T00:20:04.270Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Lioness Line: Service will resume later this morning. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-09-19T00:20:04.270Z",
+   "to": "2026-09-19T00:20:04.270Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-19T00:20:04.270Z",
+   "to": "2026-09-19T00:20:04.270Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Suffragette Line: Service will resume later this morning. "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-09-19T00:20:04.270Z",
+   "to": "2026-09-19T00:20:04.270Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Weaver Line: Service will resume later this morning. "
   }
  ]
 }
