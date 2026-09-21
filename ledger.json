@@ -1,27 +1,18 @@
 {
- "generatedAt": "2026-09-21T05:00:13.076Z",
- "sinceISO": "2026-07-23T05:00:11.660Z",
+ "generatedAt": "2026-09-21T05:20:07.466Z",
+ "sinceISO": "2026-07-23T05:20:06.000Z",
  "coverage": [
   {
-   "from": "2026-07-23T05:05:01.806Z",
-   "to": "2026-09-21T05:00:11.444Z",
+   "from": "2026-07-23T05:25:01.612Z",
+   "to": "2026-09-21T05:20:05.769Z",
    "polls": 17270
   }
  ],
  "spans": [
   {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-07-23T05:05:01.806Z",
-   "to": "2026-07-23T05:10:02.402Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: Severe delays between Hammersmith and Aldgate clockwise only due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
    "line": "district",
    "lineName": "District",
-   "from": "2026-07-23T05:05:01.806Z",
+   "from": "2026-07-23T05:25:01.612Z",
    "to": "2026-07-23T06:00:08.500Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -30,7 +21,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-07-23T05:05:01.806Z",
+   "from": "2026-07-23T05:25:01.612Z",
    "to": "2026-07-23T06:20:01.768Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -320413,10 +320404,19 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-09-21T04:55:02.188Z",
-   "to": "2026-09-21T05:00:11.444Z",
+   "to": "2026-09-21T05:20:05.769Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Suffragette Line: No service due to a broken down freight train at Upper Holloway. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-09-21T05:20:05.769Z",
+   "to": "2026-09-21T05:20:05.769Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
