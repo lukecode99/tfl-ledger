@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-09-21T04:25:04.038Z",
- "sinceISO": "2026-07-23T04:25:02.647Z",
+ "generatedAt": "2026-09-21T04:45:04.023Z",
+ "sinceISO": "2026-07-23T04:45:02.535Z",
  "coverage": [
   {
-   "from": "2026-07-23T04:30:02.043Z",
-   "to": "2026-09-21T04:25:02.421Z",
+   "from": "2026-07-23T04:50:01.839Z",
+   "to": "2026-09-21T04:45:02.296Z",
    "polls": 17270
   }
  ],
@@ -12,29 +12,29 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-07-23T04:30:02.043Z",
+   "from": "2026-07-23T04:50:01.839Z",
    "to": "2026-07-23T05:10:02.402Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Circle Line: Severe delays between Hammersmith and Aldgate clockwise only due to train cancellations. GOOD SERVICE on the rest of the line. "
   },
   {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-07-23T04:30:02.043Z",
-   "to": "2026-07-23T05:00:08.196Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
-  },
-  {
    "line": "district",
    "lineName": "District",
-   "from": "2026-07-23T04:40:02.253Z",
+   "from": "2026-07-23T04:50:01.839Z",
    "to": "2026-07-23T04:55:01.469Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Upminster and Barking westbound only while we respond to a fire alert at Upminster Bridge. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-07-23T04:50:01.839Z",
+   "to": "2026-07-23T05:00:08.196Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   },
   {
    "line": "district",
@@ -319657,7 +319657,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-09-20T23:50:04.691Z",
-   "to": "2026-09-21T04:25:02.421Z",
+   "to": "2026-09-21T04:45:02.296Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
@@ -320417,6 +320417,15 @@
    "severity": 20,
    "description": "Service Closed",
    "reason": "Windrush Line: Service will resume later this morning.\r\n "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-09-21T04:45:02.296Z",
+   "to": "2026-09-21T04:45:02.296Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Suffragette Line: No service due to a broken down freight train at Holloway. London Underground are accepting tickets via any reasonable route.  "
   }
  ]
 }
