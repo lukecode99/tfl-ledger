@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-09-23T05:00:13.354Z",
- "sinceISO": "2026-07-25T05:00:11.768Z",
+ "generatedAt": "2026-09-23T05:05:04.177Z",
+ "sinceISO": "2026-07-25T05:05:02.709Z",
  "coverage": [
   {
-   "from": "2026-07-25T05:05:01.878Z",
-   "to": "2026-09-23T05:00:11.517Z",
+   "from": "2026-07-25T05:10:01.974Z",
+   "to": "2026-09-23T05:05:02.478Z",
    "polls": 17270
   }
  ],
@@ -12,29 +12,11 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-07-25T05:05:01.878Z",
+   "from": "2026-07-25T05:10:01.974Z",
    "to": "2026-07-25T06:15:02.477Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Circle Line: Severe delays due to train cancellations. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-07-25T05:05:01.878Z",
-   "to": "2026-07-25T05:05:01.878Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-07-25T05:05:01.878Z",
-   "to": "2026-07-25T05:05:01.878Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
   },
   {
    "line": "waterloo-city",
@@ -318496,7 +318478,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-09-23T04:50:05.094Z",
-   "to": "2026-09-23T05:00:11.517Z",
+   "to": "2026-09-23T05:05:02.478Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due train cancellations. GOOD SERVICE on the rest of the line. "
@@ -318536,6 +318518,15 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Bakerloo Line: No service between Paddington and Queen's Park while we fix a signal failure at Queens Park. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway and Thameslink services. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-09-23T05:05:02.478Z",
+   "to": "2026-09-23T05:05:02.478Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Minor delays due to an earlier signal failure at Queens Park. "
   }
  ]
 }
