@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-09-23T12:15:04.252Z",
- "sinceISO": "2026-07-25T12:15:02.793Z",
+ "generatedAt": "2026-09-23T12:25:03.979Z",
+ "sinceISO": "2026-07-25T12:25:02.479Z",
  "coverage": [
   {
-   "from": "2026-07-25T12:20:01.815Z",
-   "to": "2026-09-23T12:15:02.299Z",
+   "from": "2026-07-25T12:30:02.561Z",
+   "to": "2026-09-23T12:25:02.239Z",
    "polls": 17270
   }
  ],
@@ -12,7 +12,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-07-25T12:20:01.815Z",
+   "from": "2026-07-25T12:30:02.561Z",
    "to": "2026-07-25T18:15:02.002Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,7 +21,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-07-25T12:20:01.815Z",
+   "from": "2026-07-25T12:30:02.561Z",
    "to": "2026-07-25T23:55:01.746Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -30,7 +30,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-07-25T12:20:01.815Z",
+   "from": "2026-07-25T12:30:02.561Z",
    "to": "2026-07-25T13:35:01.869Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -39,56 +39,11 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-07-25T12:20:01.815Z",
+   "from": "2026-07-25T12:30:02.561Z",
    "to": "2026-07-25T12:45:01.593Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to an earlier points failure at Walthamstow Central.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-07-25T12:20:01.815Z",
-   "to": "2026-07-25T12:20:01.815Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-07-25T12:20:01.815Z",
-   "to": "2026-07-25T12:20:01.815Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-07-25T12:25:02.465Z",
-   "to": "2026-07-25T12:25:02.465Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-07-25T12:25:02.465Z",
-   "to": "2026-07-25T12:25:02.465Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-07-25T12:25:02.465Z",
-   "to": "2026-07-25T12:25:02.465Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Edmonton Green and Enfield Town while we fix a signal failure at Enfield Town. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "waterloo-city",
@@ -316714,10 +316669,19 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-09-23T12:15:02.299Z",
-   "to": "2026-09-23T12:15:02.299Z",
+   "to": "2026-09-23T12:25:02.239Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays due to an earlier signal failure at Norwood Junction and Crystal Palace. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-09-23T12:25:02.239Z",
+   "to": "2026-09-23T12:25:02.239Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
   }
  ]
 }
