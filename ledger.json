@@ -1,18 +1,27 @@
 {
- "generatedAt": "2026-09-24T20:45:05.392Z",
- "sinceISO": "2026-07-26T20:45:03.345Z",
+ "generatedAt": "2026-09-24T20:55:06.278Z",
+ "sinceISO": "2026-07-26T20:55:03.813Z",
  "coverage": [
   {
-   "from": "2026-07-26T20:50:01.926Z",
-   "to": "2026-09-24T20:45:02.579Z",
+   "from": "2026-07-26T21:00:08.215Z",
+   "to": "2026-09-24T20:55:03.449Z",
    "polls": 17270
   }
  ],
  "spans": [
   {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-07-26T21:00:08.215Z",
+   "to": "2026-07-26T22:25:02.525Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Circle Line: Minor delays due to train cancellations. "
+  },
+  {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-07-26T20:50:01.926Z",
+   "from": "2026-07-26T21:00:08.215Z",
    "to": "2026-07-26T23:45:01.676Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,7 +30,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-07-26T20:50:01.926Z",
+   "from": "2026-07-26T21:00:08.215Z",
    "to": "2026-07-26T23:50:01.975Z",
    "severity": 7,
    "description": "Reduced Service",
@@ -30,7 +39,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-07-26T20:50:01.926Z",
+   "from": "2026-07-26T21:00:08.215Z",
    "to": "2026-07-26T23:50:01.975Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -39,56 +48,11 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-07-26T20:50:01.926Z",
+   "from": "2026-07-26T21:00:08.215Z",
    "to": "2026-07-26T23:45:01.676Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-07-26T20:50:01.926Z",
-   "to": "2026-07-26T20:50:01.926Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 26 July, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-07-26T20:50:01.926Z",
-   "to": "2026-07-26T20:50:01.926Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 26 July, no service between Sydenham and Crystal Palace. Please use local London Buses connections between Anerley and Crystal Palace. In addition, there will be no SOUTHERN service between London Bridge and Balham (via Crystal Palace)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-07-26T20:55:01.955Z",
-   "to": "2026-07-26T22:25:02.525Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Circle Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-07-26T20:55:01.955Z",
-   "to": "2026-07-26T20:55:01.955Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 26 July, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-07-26T20:55:01.955Z",
-   "to": "2026-07-26T20:55:01.955Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 26 July, no service between Sydenham and Crystal Palace. Please use local London Buses connections between Anerley and Crystal Palace. In addition, there will be no SOUTHERN service between London Bridge and Balham (via Crystal Palace)"
   },
   {
    "line": "windrush",
@@ -309172,7 +309136,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-09-24T19:15:02.657Z",
-   "to": "2026-09-24T20:45:02.579Z",
+   "to": "2026-09-24T20:55:03.449Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays Whitechapel to Shenfield due to an obstruction on the track at Harold Wood. GOOD SERVICE on the rest of the line. "
@@ -309370,7 +309334,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-09-24T20:05:02.659Z",
-   "to": "2026-09-24T20:45:02.579Z",
+   "to": "2026-09-24T20:50:08.617Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. The next southbound train will be at 21:52. GOOD SERVICE on the rest of the line. "
