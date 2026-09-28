@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-09-28T04:30:08.671Z",
- "sinceISO": "2026-07-30T04:30:07.077Z",
+ "generatedAt": "2026-09-28T04:40:07.227Z",
+ "sinceISO": "2026-07-30T04:40:05.737Z",
  "coverage": [
   {
-   "from": "2026-07-30T04:35:02.633Z",
-   "to": "2026-09-28T04:30:06.855Z",
-   "polls": 17269
+   "from": "2026-07-30T04:40:05.766Z",
+   "to": "2026-09-28T04:40:05.461Z",
+   "polls": 17270
   }
  ],
  "spans": [
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-07-30T04:35:02.633Z",
+   "from": "2026-07-30T04:40:05.766Z",
    "to": "2026-07-30T04:40:05.766Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -21,7 +21,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-07-30T04:35:02.633Z",
+   "from": "2026-07-30T04:40:05.766Z",
    "to": "2026-07-30T04:40:05.766Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -30,7 +30,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-07-30T04:35:02.633Z",
+   "from": "2026-07-30T04:40:05.766Z",
    "to": "2026-07-30T15:20:05.270Z",
    "severity": 5,
    "description": "Part Closure",
@@ -39,7 +39,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-07-30T04:35:02.633Z",
+   "from": "2026-07-30T04:40:05.766Z",
    "to": "2026-07-30T05:00:11.631Z",
    "severity": 20,
    "description": "Service Closed",
@@ -309433,7 +309433,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-09-28T04:05:02.532Z",
-   "to": "2026-09-28T04:30:06.855Z",
+   "to": "2026-09-28T04:40:05.461Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
@@ -309442,10 +309442,19 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-09-28T04:30:06.855Z",
-   "to": "2026-09-28T04:30:06.855Z",
+   "to": "2026-09-28T04:40:05.461Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays southbound / eastbound only due to a late finish of engineering work. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-09-28T04:40:05.461Z",
+   "to": "2026-09-28T04:40:05.461Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Minor delays between Earl's Court and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line.  "
   }
  ]
 }
