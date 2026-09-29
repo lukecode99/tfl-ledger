@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-09-29T10:40:07.204Z",
- "sinceISO": "2026-07-31T10:40:05.671Z",
+ "generatedAt": "2026-09-29T10:50:08.316Z",
+ "sinceISO": "2026-07-31T10:50:06.819Z",
  "coverage": [
   {
-   "from": "2026-07-31T10:40:05.938Z",
-   "to": "2026-09-29T10:40:05.142Z",
-   "polls": 17270
+   "from": "2026-07-31T10:55:02.870Z",
+   "to": "2026-09-29T10:50:05.839Z",
+   "polls": 17269
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-07-31T10:40:05.938Z",
+   "from": "2026-07-31T10:55:02.870Z",
    "to": "2026-07-31T11:50:04.433Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -21,7 +21,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-07-31T10:40:05.938Z",
+   "from": "2026-07-31T10:55:02.870Z",
    "to": "2026-07-31T10:55:02.870Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -30,7 +30,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-07-31T10:40:05.938Z",
+   "from": "2026-07-31T10:55:02.870Z",
    "to": "2026-07-31T23:30:05.586Z",
    "severity": 5,
    "description": "Part Closure",
@@ -307543,7 +307543,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-09-29T08:30:04.986Z",
-   "to": "2026-09-29T10:40:05.142Z",
+   "to": "2026-09-29T10:50:05.839Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to infrastructure damage at Brixton. "
@@ -307552,10 +307552,19 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-09-29T10:40:05.142Z",
-   "to": "2026-09-29T10:40:05.142Z",
+   "to": "2026-09-29T10:45:02.757Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays between Camden Town and Kennington southbound only (via Bank) while we respond to a fire alert at Angel. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-09-29T10:50:05.839Z",
+   "to": "2026-09-29T10:50:05.839Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington southbound only (via Bank) while we respond to a fire alert at Angel. GOOD SERVICE on the rest of the line.  "
   }
  ]
 }
