@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-09-29T11:15:04.535Z",
- "sinceISO": "2026-07-31T11:15:03.004Z",
+ "generatedAt": "2026-09-29T11:40:07.900Z",
+ "sinceISO": "2026-07-31T11:40:05.903Z",
  "coverage": [
   {
-   "from": "2026-07-31T11:20:04.783Z",
-   "to": "2026-09-29T11:15:02.766Z",
+   "from": "2026-07-31T11:45:02.378Z",
+   "to": "2026-09-29T11:40:05.624Z",
    "polls": 17269
   }
  ],
@@ -12,7 +12,7 @@
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-07-31T11:20:04.783Z",
+   "from": "2026-07-31T11:45:02.378Z",
    "to": "2026-07-31T11:50:04.433Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -21,7 +21,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-07-31T11:20:04.783Z",
+   "from": "2026-07-31T11:45:02.378Z",
    "to": "2026-07-31T12:40:06.014Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -30,7 +30,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-07-31T11:20:04.783Z",
+   "from": "2026-07-31T11:45:02.378Z",
    "to": "2026-07-31T23:30:05.586Z",
    "severity": 5,
    "description": "Part Closure",
@@ -307579,10 +307579,19 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-09-29T11:15:02.766Z",
-   "to": "2026-09-29T11:15:02.766Z",
+   "to": "2026-09-29T11:40:05.624Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to infrastructure damage at Brixton. Tickets are being accepted on, London Buses, Weaver Line, Suffragette Line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-09-29T11:40:05.624Z",
+   "to": "2026-09-29T11:40:05.624Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: Part suspended between Moor Park and Harrow-on-the-Hill southbound only, while we fix a signal failure at Harrow-on-the-Hill. Tickets are being accepted on, London Buses, Lioness Line, Northwestern Railway and Chiltern Railway via any reasonable route. "
   }
  ]
 }
