@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-09-29T18:50:07.173Z",
- "sinceISO": "2026-07-31T18:50:05.698Z",
+ "generatedAt": "2026-09-29T18:55:05.312Z",
+ "sinceISO": "2026-07-31T18:55:03.765Z",
  "coverage": [
   {
-   "from": "2026-07-31T18:50:05.797Z",
-   "to": "2026-09-29T18:50:05.453Z",
-   "polls": 17270
+   "from": "2026-07-31T19:00:11.540Z",
+   "to": "2026-09-29T18:55:03.101Z",
+   "polls": 17269
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-07-31T18:50:05.797Z",
+   "from": "2026-07-31T19:00:11.540Z",
    "to": "2026-07-31T21:35:02.350Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,7 +21,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-07-31T18:50:05.797Z",
+   "from": "2026-07-31T19:00:11.540Z",
    "to": "2026-07-31T23:30:05.586Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -30,7 +30,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-07-31T18:50:05.797Z",
+   "from": "2026-07-31T19:00:11.540Z",
    "to": "2026-07-31T19:25:02.876Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -39,7 +39,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-07-31T18:50:05.797Z",
+   "from": "2026-07-31T19:00:11.540Z",
    "to": "2026-07-31T23:30:05.586Z",
    "severity": 5,
    "description": "Part Closure",
@@ -48,7 +48,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-07-31T18:50:05.797Z",
+   "from": "2026-07-31T19:00:11.540Z",
    "to": "2026-07-31T20:35:02.647Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -306895,7 +306895,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-09-29T11:15:02.766Z",
-   "to": "2026-09-29T18:50:05.453Z",
+   "to": "2026-09-29T18:55:03.101Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to infrastructure damage at Brixton. Tickets are being accepted on, London Buses, Weaver Line, Suffragette Line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route. "
@@ -307471,7 +307471,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-09-29T16:00:12.290Z",
-   "to": "2026-09-29T18:50:05.453Z",
+   "to": "2026-09-29T18:55:03.101Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -307795,10 +307795,19 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-09-29T18:50:05.453Z",
-   "to": "2026-09-29T18:50:05.453Z",
+   "to": "2026-09-29T18:55:03.101Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays due to an earlier trespasser on the track at Edgware and due to train cancellations. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-09-29T18:55:03.101Z",
+   "to": "2026-09-29T18:55:03.101Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Minor delays due to an earlier fire alert at Waterloo.  "
   }
  ]
 }
