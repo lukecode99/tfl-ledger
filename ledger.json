@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-09-29T04:30:07.491Z",
- "sinceISO": "2026-07-31T04:30:06.006Z",
+ "generatedAt": "2026-09-29T04:35:04.178Z",
+ "sinceISO": "2026-07-31T04:35:02.704Z",
  "coverage": [
   {
-   "from": "2026-07-31T04:35:02.599Z",
-   "to": "2026-09-29T04:30:05.774Z",
+   "from": "2026-07-31T04:40:04.907Z",
+   "to": "2026-09-29T04:35:02.470Z",
    "polls": 17269
   }
  ],
@@ -12,7 +12,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-07-31T04:35:02.599Z",
+   "from": "2026-07-31T04:40:04.907Z",
    "to": "2026-07-31T05:05:02.271Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -21,38 +21,11 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-07-31T04:35:02.599Z",
+   "from": "2026-07-31T04:40:04.907Z",
    "to": "2026-07-31T04:45:02.587Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Metropolitan Line: Severe delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-07-31T04:35:02.599Z",
-   "to": "2026-07-31T04:35:02.599Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Charing Cross northbound only while we fix a signal failure at Warren Street. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-07-31T04:35:02.599Z",
-   "to": "2026-07-31T23:30:05.586Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Thursday 30 and Friday 31 July, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow (all terminals), Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-07-31T04:35:02.599Z",
-   "to": "2026-07-31T04:55:02.055Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   },
   {
    "line": "northern",
@@ -62,6 +35,24 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Northern Line: No service between Kennington and Camden Town via Charing Cross northbound only while we fix a signal failure at Warren Street. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-07-31T04:40:04.907Z",
+   "to": "2026-07-31T23:30:05.586Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "PICCADILLY LINE: Thursday 30 and Friday 31 July, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow (all terminals), Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-07-31T04:40:04.907Z",
+   "to": "2026-07-31T04:55:02.055Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   },
   {
    "line": "metropolitan",
@@ -307507,7 +307498,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-09-28T23:35:02.903Z",
-   "to": "2026-09-29T04:30:05.774Z",
+   "to": "2026-09-29T04:35:02.470Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00. "
@@ -307691,6 +307682,15 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Docklands Light Railway: No service between Shadwell and Bank while we fix an electrical fault at Bank. GOOD SERVCIE on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-09-29T04:35:02.470Z",
+   "to": "2026-09-29T04:35:02.470Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Shadwell and Bank while we fix an electrical fault at Bank. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
