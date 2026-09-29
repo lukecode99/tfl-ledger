@@ -1,95 +1,14 @@
 {
- "generatedAt": "2026-09-29T05:20:06.762Z",
- "sinceISO": "2026-07-31T05:20:05.349Z",
+ "generatedAt": "2026-09-29T05:30:07.134Z",
+ "sinceISO": "2026-07-31T05:30:05.641Z",
  "coverage": [
   {
-   "from": "2026-07-31T05:25:02.428Z",
-   "to": "2026-09-29T05:20:05.108Z",
-   "polls": 17269
+   "from": "2026-07-31T05:30:05.685Z",
+   "to": "2026-09-29T05:30:05.392Z",
+   "polls": 17270
   }
  ],
  "spans": [
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-07-31T05:25:02.428Z",
-   "to": "2026-07-31T05:25:02.428Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service clockwise and SEVERE DELAYS anti-clockwise while we fix a points failure at High Street Kensington. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-07-31T05:25:02.428Z",
-   "to": "2026-07-31T05:25:02.428Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "District Line: No service between Earl's Court and Edgware Road and SEVERE DELAYS between Wimbledon and Tower Hill while we fix a points fault at High Street Kensington. Tickets being accepted on London Buses and South Western railway services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-07-31T05:25:02.428Z",
-   "to": "2026-07-31T05:30:05.685Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: No service between Earl's Court and Edgware Road and SEVERE DELAYS between Wimbledon and Tower Hill while we fix a points fault at High Street Kensington. Tickets being accepted on London Buses and South Western railway services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-07-31T05:25:02.428Z",
-   "to": "2026-07-31T07:30:05.879Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Lioness Line: Minor delays due to an operational incident in the depot. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-07-31T05:25:02.428Z",
-   "to": "2026-07-31T05:25:02.428Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-07-31T05:25:02.428Z",
-   "to": "2026-07-31T05:25:02.428Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-07-31T05:25:02.428Z",
-   "to": "2026-07-31T08:45:02.257Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: Severe delays due to an operational incident in the depot. London Underground accepting tickets via any reasonable routes.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-07-31T05:25:02.428Z",
-   "to": "2026-07-31T05:50:05.050Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Charing Cross and Camden Town northbound only while we fix a signal failure at Warren Street. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-07-31T05:25:02.428Z",
-   "to": "2026-07-31T23:30:05.586Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Thursday 30 and Friday 31 July, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow (all terminals), Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate."
-  },
   {
    "line": "circle",
    "lineName": "Circle",
@@ -104,9 +23,27 @@
    "lineName": "District",
    "from": "2026-07-31T05:30:05.685Z",
    "to": "2026-07-31T05:30:05.685Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Edgware Road and SEVERE DELAYS between Wimbledon and Tower Hill while we fix a points fault at High Street Kensington. Tickets being accepted on London Buses and South Western railway services. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-07-31T05:30:05.685Z",
+   "to": "2026-07-31T05:30:05.685Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "District Line: No service between Earl's Court and Edgware Road and SEVERE DELAYS between Wimbledon and Tower Hill while we fix a points fault at High Street Kensington. Tickets being accepted on London Buses and South Western railway services. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-07-31T05:30:05.685Z",
+   "to": "2026-07-31T07:30:05.879Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: Minor delays due to an operational incident in the depot. "
   },
   {
    "line": "metropolitan",
@@ -125,6 +62,33 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Severe delays between Moor Park and Watford and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-07-31T05:30:05.685Z",
+   "to": "2026-07-31T08:45:02.257Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: Severe delays due to an operational incident in the depot. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-07-31T05:30:05.685Z",
+   "to": "2026-07-31T05:50:05.050Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Charing Cross and Camden Town northbound only while we fix a signal failure at Warren Street. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-07-31T05:30:05.685Z",
+   "to": "2026-07-31T23:30:05.586Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "PICCADILLY LINE: Thursday 30 and Friday 31 July, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow (all terminals), Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate."
   },
   {
    "line": "district",
@@ -307579,7 +307543,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-09-29T04:55:02.946Z",
-   "to": "2026-09-29T05:20:05.108Z",
+   "to": "2026-09-29T05:25:02.883Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Docklands Light Railway: Minor delays between Shadwell and Bank while we fix an electrical fault at Bank and MINOR DELAYS between Stratford International and Woolwich Arsenal while we fix an electrical fault at Stratford International. GOOD SERVICE on the rest of the line. "
@@ -307597,10 +307561,19 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-09-29T05:20:05.108Z",
-   "to": "2026-09-29T05:20:05.108Z",
+   "to": "2026-09-29T05:30:05.392Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to while we fix infrastructure damage at Brixton. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-09-29T05:30:05.392Z",
+   "to": "2026-09-29T05:30:05.392Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: Minor delays between Shadwell and Bank while we fix an electrical fault at Bank and MINOR DELAYS between Stratford International and Woolwich Arsenal due to an earlier electrical fault at Stratford International. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
