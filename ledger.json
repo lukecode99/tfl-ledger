@@ -1,19 +1,19 @@
 {
- "generatedAt": "2026-09-29T15:25:04.388Z",
- "sinceISO": "2026-07-31T15:25:02.918Z",
+ "generatedAt": "2026-09-29T15:35:04.392Z",
+ "sinceISO": "2026-07-31T15:35:02.940Z",
  "coverage": [
   {
-   "from": "2026-07-31T15:30:06.233Z",
-   "to": "2026-09-29T15:25:02.610Z",
-   "polls": 17269
+   "from": "2026-07-31T15:35:02.995Z",
+   "to": "2026-09-29T15:35:02.664Z",
+   "polls": 17270
   }
  ],
  "spans": [
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-07-31T15:30:06.233Z",
-   "to": "2026-07-31T15:30:06.233Z",
+   "from": "2026-07-31T15:35:02.995Z",
+   "to": "2026-07-31T15:35:02.995Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Jubilee Line: No service between Waterloo and Willesden Green and SEVERE DELAYS on the rest of the line while we respond to a fire alert at West Hampstead. "
@@ -21,8 +21,8 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-07-31T15:30:06.233Z",
-   "to": "2026-07-31T15:30:06.233Z",
+   "from": "2026-07-31T15:35:02.995Z",
+   "to": "2026-07-31T15:35:02.995Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Jubilee Line: No service between Waterloo and Willesden Green and SEVERE DELAYS on the rest of the line while we respond to a fire alert at West Hampstead. "
@@ -30,7 +30,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-07-31T15:30:06.233Z",
+   "from": "2026-07-31T15:35:02.995Z",
    "to": "2026-07-31T23:30:05.586Z",
    "severity": 5,
    "description": "Part Closure",
@@ -39,29 +39,11 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-07-31T15:30:06.233Z",
+   "from": "2026-07-31T15:35:02.995Z",
    "to": "2026-07-31T20:35:02.647Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-07-31T15:35:02.995Z",
-   "to": "2026-07-31T15:35:02.995Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Waterloo and Willesden Green and SEVERE DELAYS on the rest of the line while we respond to a fire alert at West Hampstead. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-07-31T15:35:02.995Z",
-   "to": "2026-07-31T15:35:02.995Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Waterloo and Willesden Green and SEVERE DELAYS on the rest of the line while we respond to a fire alert at West Hampstead. "
   },
   {
    "line": "jubilee",
@@ -307219,7 +307201,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-09-29T11:15:02.766Z",
-   "to": "2026-09-29T15:25:02.610Z",
+   "to": "2026-09-29T15:35:02.664Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to infrastructure damage at Brixton. Tickets are being accepted on, London Buses, Weaver Line, Suffragette Line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route. "
@@ -307759,10 +307741,37 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-09-29T15:25:02.610Z",
-   "to": "2026-09-29T15:25:02.610Z",
+   "to": "2026-09-29T15:35:02.664Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-09-29T15:30:06.755Z",
+   "to": "2026-09-29T15:30:06.755Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between West Ruislip and Northolt eastbound only while emergency services deal with a casualty on the track. Tickets will be accepted on London Buses. MINOR DELAYS on the rest of the line due to train cancellations. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-09-29T15:30:06.755Z",
+   "to": "2026-09-29T15:30:06.755Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between West Ruislip and Northolt eastbound only while emergency services deal with a casualty on the track. Tickets will be accepted on London Buses. MINOR DELAYS on the rest of the line due to train cancellations. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-09-29T15:35:02.664Z",
+   "to": "2026-09-29T15:35:02.664Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to an earlier customer incident and train cancellations. "
   }
  ]
 }
