@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-09-30T12:45:04.018Z",
- "sinceISO": "2026-08-01T12:45:02.401Z",
+ "generatedAt": "2026-09-30T12:50:07.656Z",
+ "sinceISO": "2026-08-01T12:50:06.147Z",
  "coverage": [
   {
-   "from": "2026-08-01T12:45:02.853Z",
-   "to": "2026-09-30T12:45:02.090Z",
-   "polls": 17270
+   "from": "2026-08-01T12:55:02.434Z",
+   "to": "2026-09-30T12:50:04.902Z",
+   "polls": 17269
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-01T12:45:02.853Z",
+   "from": "2026-08-01T12:55:02.434Z",
    "to": "2026-08-01T17:05:02.182Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,38 +21,11 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-01T12:45:02.853Z",
+   "from": "2026-08-01T12:55:02.434Z",
    "to": "2026-08-01T13:00:10.959Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-01T12:45:02.853Z",
-   "to": "2026-08-01T23:25:01.986Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: From 0400 Saturday 1 until 0030 Sunday 2 August, and again from 0400 Sunday 2 August to the end of service, no service between Cockfosters and Heathrow (all terminals). Trains continue to operate between Acton Town and Uxbridge. Use rail connections between Heathrow terminals. Replacement buses operate."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-01T12:45:02.853Z",
-   "to": "2026-08-02T00:15:01.759Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-01T12:50:04.347Z",
-   "to": "2026-08-01T12:50:04.347Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Mildmay Line: Minor delays between Willesden Junction and Stratford while we respond to a fire alert at Dalston Kingsland. GOOD SERVICE on the rest of the line  "
   },
   {
    "line": "mildmay",
@@ -62,6 +35,24 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Mildmay Line: Minor delays between Willesden Junction and Stratford while we respond to a fire alert at Dalston Kingsland. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-08-01T12:55:02.434Z",
+   "to": "2026-08-01T23:25:01.986Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "PICCADILLY LINE: From 0400 Saturday 1 until 0030 Sunday 2 August, and again from 0400 Sunday 2 August to the end of service, no service between Cockfosters and Heathrow (all terminals). Trains continue to operate between Acton Town and Uxbridge. Use rail connections between Heathrow terminals. Replacement buses operate."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-08-01T12:55:02.434Z",
+   "to": "2026-08-02T00:15:01.759Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
   },
   {
    "line": "jubilee",
@@ -307777,7 +307768,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-09-30T12:20:04.363Z",
-   "to": "2026-09-30T12:45:02.090Z",
+   "to": "2026-09-30T12:50:04.902Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to a track fault at Brixton. Tickets will be accepted on, London Buses, Weaver Line, Suffragette Line, Great Northern, Thameslink, South Western Railway and Southeastern via any reasonable route.   "
@@ -307894,7 +307885,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-09-30T12:45:02.090Z",
-   "to": "2026-09-30T12:45:02.090Z",
+   "to": "2026-09-30T12:50:04.902Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays between Abbey Wood and Heathrow Airport / Reading while we conduct a safety inspection of the track at Paddington. Tickets are being accepted on London Buses and London Underground. GOOD SERVICE on the rest of the line.  "
@@ -307916,6 +307907,33 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Jubilee Line: No service between Willesden Green and Waterloo, and SEVERE DELAYS on the rest of the line while we respond to a fire alert at Kilburn. Tickets are being accepted on London Buses, DLR, C2C, Southeastern, the Mildmay line and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-09-30T12:50:04.902Z",
+   "to": "2026-09-30T12:50:04.902Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Willesden Green and Waterloo, and SEVERE DELAYS on the rest of the line while we respond to a fire alert at Kilburn. Tickets are being accepted on London Buses, DLR, C2C, Southeastern, the Mildmay line and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-09-30T12:50:04.902Z",
+   "to": "2026-09-30T12:50:04.902Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Willesden Green and Waterloo, and SEVERE DELAYS on the rest of the line while we respond to a fire alert at Kilburn. Tickets are being accepted on London Buses, DLR, C2C, Southeastern, the Mildmay line and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-09-30T12:50:04.902Z",
+   "to": "2026-09-30T12:50:04.902Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate while we respond to a fire alert at Kilburn on the Jubilee line. Tickets are being accepted on London Buses, Chiltern Railways and Thameslink. GOOD SERVICE on the rest of the line.  "
   }
  ]
 }
