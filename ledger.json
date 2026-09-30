@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-09-30T13:30:07.969Z",
- "sinceISO": "2026-08-01T13:30:06.471Z",
+ "generatedAt": "2026-09-30T13:50:08.474Z",
+ "sinceISO": "2026-08-01T13:50:06.949Z",
  "coverage": [
   {
-   "from": "2026-08-01T13:30:07.224Z",
-   "to": "2026-09-30T13:30:06.127Z",
-   "polls": 17270
+   "from": "2026-08-01T13:55:02.567Z",
+   "to": "2026-09-30T13:50:04.770Z",
+   "polls": 17269
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-01T13:30:07.224Z",
+   "from": "2026-08-01T13:55:02.567Z",
    "to": "2026-08-01T17:05:02.182Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,8 +21,8 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-01T13:30:07.224Z",
-   "to": "2026-08-01T13:30:07.224Z",
+   "from": "2026-08-01T13:55:02.567Z",
+   "to": "2026-08-01T13:55:02.567Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford while we fix a faulty train at Waterloo. Tickets are being accepted on London Buses. Minor delays on the rest of the line due to train cancellations.  "
@@ -30,8 +30,8 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-01T13:30:07.224Z",
-   "to": "2026-08-01T13:30:07.224Z",
+   "from": "2026-08-01T13:55:02.567Z",
+   "to": "2026-08-01T13:55:02.567Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford while we fix a faulty train at Waterloo. Tickets are being accepted on London Buses. Minor delays on the rest of the line due to train cancellations.  "
@@ -39,16 +39,25 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-01T13:30:07.224Z",
-   "to": "2026-08-01T13:30:07.224Z",
+   "from": "2026-08-01T13:55:02.567Z",
+   "to": "2026-08-01T13:55:02.567Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-08-01T13:55:02.567Z",
+   "to": "2026-08-01T13:55:02.567Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Moor Park and Watford, Chalfont & Latimer and Chesham due to train cancellations. GOOD SERVICE on the rest of the line. "
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. "
   },
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-01T13:30:07.224Z",
+   "from": "2026-08-01T13:55:02.567Z",
    "to": "2026-08-01T23:25:01.986Z",
    "severity": 5,
    "description": "Part Closure",
@@ -57,137 +66,11 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-01T13:30:07.224Z",
+   "from": "2026-08-01T13:55:02.567Z",
    "to": "2026-08-02T00:15:01.759Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-01T13:35:02.354Z",
-   "to": "2026-08-01T13:35:02.354Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford while we fix a faulty train at Waterloo. Tickets are being accepted on London Buses. Minor delays on the rest of the line due to train cancellations.  "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-01T13:35:02.354Z",
-   "to": "2026-08-01T13:35:02.354Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford while we fix a faulty train at Waterloo. Tickets are being accepted on London Buses. Minor delays on the rest of the line due to train cancellations.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-01T13:35:02.354Z",
-   "to": "2026-08-01T13:35:02.354Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays form Moor Park to Watford, Chalfont & Latimer to Chesham and Harrow-on-the-Hill to Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-01T13:40:05.152Z",
-   "to": "2026-08-01T13:40:05.152Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford while we fix a faulty train at Waterloo. Tickets are being accepted on London Buses. Minor delays on the rest of the line due to train cancellations.  "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-01T13:40:05.152Z",
-   "to": "2026-08-01T13:40:05.152Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford while we fix a faulty train at Waterloo. Tickets are being accepted on London Buses. Minor delays on the rest of the line due to train cancellations.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-01T13:40:05.152Z",
-   "to": "2026-08-01T13:50:04.793Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-01T13:45:02.589Z",
-   "to": "2026-08-01T13:45:02.589Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford while we fix a faulty train at Waterloo. Tickets are being accepted on London Buses. Minor delays on the rest of the line due to train cancellations.  "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-01T13:45:02.589Z",
-   "to": "2026-08-01T13:45:02.589Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford while we fix a faulty train at Waterloo. Tickets are being accepted on London Buses. Minor delays on the rest of the line due to train cancellations.  "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-01T13:50:04.793Z",
-   "to": "2026-08-01T13:50:04.793Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford while we fix a faulty train at Waterloo. Tickets are being accepted on London Buses. Minor delays on the rest of the line due to train cancellations.  "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-01T13:50:04.793Z",
-   "to": "2026-08-01T13:50:04.793Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford while we fix a faulty train at Waterloo. Tickets are being accepted on London Buses. Minor delays on the rest of the line due to train cancellations.  "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-01T13:55:02.567Z",
-   "to": "2026-08-01T13:55:02.567Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford while we fix a faulty train at Waterloo. Tickets are being accepted on London Buses. Minor delays on the rest of the line due to train cancellations.  "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-01T13:55:02.567Z",
-   "to": "2026-08-01T13:55:02.567Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford while we fix a faulty train at Waterloo. Tickets are being accepted on London Buses. Minor delays on the rest of the line due to train cancellations.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-01T13:55:02.567Z",
-   "to": "2026-08-01T13:55:02.567Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-01T13:55:02.567Z",
-   "to": "2026-08-01T13:55:02.567Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. "
   },
   {
    "line": "central",
@@ -307669,7 +307552,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-09-30T12:20:04.363Z",
-   "to": "2026-09-30T13:30:06.127Z",
+   "to": "2026-09-30T13:50:04.770Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to a track fault at Brixton. Tickets will be accepted on, London Buses, Weaver Line, Suffragette Line, Great Northern, Thameslink, South Western Railway and Southeastern via any reasonable route.   "
@@ -307858,7 +307741,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-09-30T13:00:12.073Z",
-   "to": "2026-09-30T13:30:06.127Z",
+   "to": "2026-09-30T13:45:02.045Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Minor delays between Abbey Wood and Heathrow Airport / Reading due to an earlier safety inspection of the track at Paddington. GOOD SERVICE on the rest of the line.  "
@@ -307921,7 +307804,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-09-30T13:15:02.044Z",
-   "to": "2026-09-30T13:30:06.127Z",
+   "to": "2026-09-30T13:50:04.770Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Jubilee Line: Severe delays due to an earlier fire alert at Kilburn. Tickets are being accepted on London Buses, DLR, C2C, Southeastern, Mildmay line, Elizabeth line and Thameslink via any reasonable route. "
