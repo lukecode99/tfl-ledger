@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-09-30T05:55:03.485Z",
- "sinceISO": "2026-08-01T05:55:02.052Z",
+ "generatedAt": "2026-09-30T06:30:07.249Z",
+ "sinceISO": "2026-08-01T06:30:05.583Z",
  "coverage": [
   {
-   "from": "2026-08-01T05:55:02.653Z",
-   "to": "2026-09-30T05:55:01.803Z",
-   "polls": 17270
+   "from": "2026-08-01T06:35:02.513Z",
+   "to": "2026-09-30T06:30:05.213Z",
+   "polls": 17269
   }
  ],
  "spans": [
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-01T05:55:02.653Z",
-   "to": "2026-08-01T05:55:02.653Z",
+   "from": "2026-08-01T06:35:02.513Z",
+   "to": "2026-08-01T07:00:49.485Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Jubilee Line: Minor delays while we deal with a customer incident. "
+   "reason": "Jubilee Line: Minor delays due to an earlier customer incident. "
   },
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-01T05:55:02.653Z",
+   "from": "2026-08-01T06:35:02.513Z",
    "to": "2026-08-01T23:25:01.986Z",
    "severity": 5,
    "description": "Part Closure",
@@ -30,29 +30,11 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-01T05:55:02.653Z",
+   "from": "2026-08-01T06:35:02.513Z",
    "to": "2026-08-02T00:15:01.759Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-01T06:05:02.596Z",
-   "to": "2026-08-01T06:25:02.399Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: Severe delays southbound only while we deal with a customer incident. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-01T06:30:04.667Z",
-   "to": "2026-08-01T07:00:49.485Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Jubilee Line: Minor delays due to an earlier customer incident. "
   },
   {
    "line": "windrush",
@@ -307291,10 +307273,19 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-09-30T05:55:01.803Z",
-   "to": "2026-09-30T05:55:01.803Z",
+   "to": "2026-09-30T06:25:01.702Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to infrastructure damage at Brixton. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-09-30T06:30:05.213Z",
+   "to": "2026-09-30T06:30:05.213Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Victoria Line: Severe delays due to infrastructure damage at Brixton. "
   }
  ]
 }
