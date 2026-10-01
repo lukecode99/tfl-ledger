@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-10-01T08:55:03.985Z",
- "sinceISO": "2026-08-02T08:55:02.461Z",
+ "generatedAt": "2026-10-01T09:05:05.123Z",
+ "sinceISO": "2026-08-02T09:05:02.588Z",
  "coverage": [
   {
-   "from": "2026-08-02T08:55:03.246Z",
-   "to": "2026-10-01T08:55:02.205Z",
-   "polls": 17270
+   "from": "2026-08-02T09:10:04.534Z",
+   "to": "2026-10-01T09:05:02.308Z",
+   "polls": 17269
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-02T08:55:03.246Z",
+   "from": "2026-08-02T09:10:04.534Z",
    "to": "2026-08-02T15:35:02.745Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,8 +21,8 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-02T08:55:03.246Z",
-   "to": "2026-08-02T08:55:03.246Z",
+   "from": "2026-08-02T09:10:04.534Z",
+   "to": "2026-08-02T09:10:04.534Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: No service between Wimbledon and Earl's Court and SEVERE DELAYS between Edgware Road and Earl's Court while we fix a signal failure at Wimbledon. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
@@ -30,8 +30,8 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-02T08:55:03.246Z",
-   "to": "2026-08-02T08:55:03.246Z",
+   "from": "2026-08-02T09:10:04.534Z",
+   "to": "2026-08-02T09:10:04.534Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "District Line: No service between Wimbledon and Earl's Court and SEVERE DELAYS between Edgware Road and Earl's Court while we fix a signal failure at Wimbledon. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
@@ -39,7 +39,7 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-08-02T08:55:03.246Z",
+   "from": "2026-08-02T09:10:04.534Z",
    "to": "2026-08-03T00:10:04.240Z",
    "severity": 5,
    "description": "Part Closure",
@@ -48,7 +48,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-02T08:55:03.246Z",
+   "from": "2026-08-02T09:10:04.534Z",
    "to": "2026-08-02T09:50:07.128Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -57,16 +57,25 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-02T08:55:03.246Z",
+   "from": "2026-08-02T09:10:04.534Z",
    "to": "2026-08-02T11:00:11.441Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "LIONESS LINE: Sunday 2 August, before 1200 and after 2030, no service between Euston and Kilburn High Road. Use local buses or London Underground services via any reasonable route (entrance/exit at Euston, Euston Square, Kilburn Park and Queens Park stations). First through trains: Euston to Watford Junction 1215; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2000, Euston to Watford Junction 2045"
   },
   {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-08-02T09:10:04.534Z",
+   "to": "2026-08-02T13:20:06.474Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of line.  "
+  },
+  {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-02T08:55:03.246Z",
+   "from": "2026-08-02T09:10:04.534Z",
    "to": "2026-08-02T21:15:02.745Z",
    "severity": 7,
    "description": "Reduced Service",
@@ -75,7 +84,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-02T08:55:03.246Z",
+   "from": "2026-08-02T09:10:04.534Z",
    "to": "2026-08-03T00:10:04.240Z",
    "severity": 5,
    "description": "Part Closure",
@@ -84,7 +93,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-02T08:55:03.246Z",
+   "from": "2026-08-02T09:10:04.534Z",
    "to": "2026-08-02T23:45:02.301Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -93,74 +102,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-02T08:55:03.246Z",
+   "from": "2026-08-02T09:10:04.534Z",
    "to": "2026-08-03T00:10:04.240Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Sunday 2 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-02T09:00:11.085Z",
-   "to": "2026-08-02T09:00:11.085Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: No service between Wimbledon and Earl's Court and SEVERE DELAYS between Edgware Road and Earl's Court while we fix a signal failure at Wimbledon. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-02T09:00:11.085Z",
-   "to": "2026-08-02T09:00:11.085Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "District Line: No service between Wimbledon and Earl's Court and SEVERE DELAYS between Edgware Road and Earl's Court while we fix a signal failure at Wimbledon. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-02T09:00:11.085Z",
-   "to": "2026-08-02T13:20:06.474Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of line.  "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-02T09:05:01.726Z",
-   "to": "2026-08-02T09:05:01.726Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: No service between Wimbledon and Earl's Court and SEVERE DELAYS between Edgware Road and Earl's Court while we fix a signal failure at Wimbledon. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-02T09:05:01.726Z",
-   "to": "2026-08-02T09:05:01.726Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "District Line: No service between Wimbledon and Earl's Court and SEVERE DELAYS between Edgware Road and Earl's Court while we fix a signal failure at Wimbledon. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-02T09:10:04.534Z",
-   "to": "2026-08-02T09:10:04.534Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: No service between Wimbledon and Earl's Court and SEVERE DELAYS between Edgware Road and Earl's Court while we fix a signal failure at Wimbledon. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-02T09:10:04.534Z",
-   "to": "2026-08-02T09:10:04.534Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "District Line: No service between Wimbledon and Earl's Court and SEVERE DELAYS between Edgware Road and Earl's Court while we fix a signal failure at Wimbledon. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "district",
@@ -306382,7 +306328,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-01T06:05:01.866Z",
-   "to": "2026-10-01T08:55:02.205Z",
+   "to": "2026-10-01T09:05:02.308Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -306418,7 +306364,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-01T06:45:12.454Z",
-   "to": "2026-10-01T08:55:02.205Z",
+   "to": "2026-10-01T09:00:11.642Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to a track fault at Brixton. Tickets are being accepted on, London Buses, London Trams, Southeastern, Thameslink and South Western Railway services via any acceptable route. "
@@ -306445,10 +306391,19 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-01T08:25:02.027Z",
-   "to": "2026-10-01T08:55:02.205Z",
+   "to": "2026-10-01T09:05:02.308Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Metropolitan Line: Severe delays due to an earlier faulty train at Neasden. Tickets are being accepted on London Buses, Lioness Line, London Northwestern and Thameslink services. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-01T09:05:02.308Z",
+   "to": "2026-10-01T09:05:02.308Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to a track fault at Brixton.  "
   }
  ]
 }
