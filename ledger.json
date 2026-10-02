@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-10-02T06:15:04.797Z",
- "sinceISO": "2026-08-03T06:15:03.342Z",
+ "generatedAt": "2026-10-02T06:25:03.992Z",
+ "sinceISO": "2026-08-03T06:25:02.528Z",
  "coverage": [
   {
-   "from": "2026-08-03T06:20:05.337Z",
-   "to": "2026-10-02T06:15:03.100Z",
-   "polls": 17269
+   "from": "2026-08-03T06:25:02.990Z",
+   "to": "2026-10-02T06:25:02.270Z",
+   "polls": 17270
   }
  ],
  "spans": [
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-03T06:20:05.337Z",
+   "from": "2026-08-03T06:25:02.990Z",
    "to": "2026-08-03T16:30:04.632Z",
    "severity": 5,
    "description": "Part Closure",
@@ -304195,7 +304195,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-02T05:45:02.352Z",
-   "to": "2026-10-02T06:15:03.100Z",
+   "to": "2026-10-02T06:20:07.837Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Circle Line: No service while we fix a points failure at Gloucester Road. Tickets will be accepted on London Buses.  "
@@ -304204,7 +304204,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-02T05:45:02.352Z",
-   "to": "2026-10-02T06:15:03.100Z",
+   "to": "2026-10-02T06:20:07.837Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays while we fix a signal failure at Gloucester Road. Tickets will be accepted on London Buses.  "
@@ -304213,7 +304213,7 @@
    "line": "weaver",
    "lineName": "Weaver",
    "from": "2026-10-02T05:45:02.352Z",
-   "to": "2026-10-02T06:15:03.100Z",
+   "to": "2026-10-02T06:25:02.270Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Weaver Line: Minor delays while we fix a signal failure at Clapton. "
@@ -304222,7 +304222,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-02T06:10:04.105Z",
-   "to": "2026-10-02T06:15:03.100Z",
+   "to": "2026-10-02T06:25:02.270Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to a track fault at Brixton. London Buses, Weaver line, Suffragette line, Great Northern, Thameslink and Greater Anglia, South Western Railway and Southeastern are accepting valid tickets via any reasonable route. "
@@ -304231,10 +304231,28 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-02T06:15:03.100Z",
-   "to": "2026-10-02T06:15:03.100Z",
+   "to": "2026-10-02T06:25:02.270Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-02T06:25:02.270Z",
+   "to": "2026-10-02T06:25:02.270Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: Severe delays due to an earlier points failure at Gloucester Road. Tickets will be accepted on London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-02T06:25:02.270Z",
+   "to": "2026-10-02T06:25:02.270Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays due to an earlier points failure at Gloucester Road. Tickets will be accepted on London Buses.  "
   }
  ]
 }
