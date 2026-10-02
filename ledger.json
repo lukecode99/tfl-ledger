@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-02T05:20:06.197Z",
- "sinceISO": "2026-08-03T05:20:04.706Z",
+ "generatedAt": "2026-10-02T05:25:03.524Z",
+ "sinceISO": "2026-08-03T05:25:02.037Z",
  "coverage": [
   {
-   "from": "2026-08-03T05:20:04.737Z",
-   "to": "2026-10-02T05:20:04.474Z",
+   "from": "2026-08-03T05:25:02.999Z",
+   "to": "2026-10-02T05:25:01.818Z",
    "polls": 17270
   }
  ],
@@ -12,7 +12,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-03T05:20:04.737Z",
+   "from": "2026-08-03T05:25:02.999Z",
    "to": "2026-08-03T16:30:04.632Z",
    "severity": 5,
    "description": "Part Closure",
@@ -21,7 +21,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-03T05:20:04.737Z",
+   "from": "2026-08-03T05:25:02.999Z",
    "to": "2026-08-03T05:25:02.999Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -30,7 +30,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-03T05:20:04.737Z",
+   "from": "2026-08-03T05:25:02.999Z",
    "to": "2026-08-03T05:25:02.999Z",
    "severity": 20,
    "description": "Service Closed",
@@ -304123,7 +304123,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-02T05:15:01.976Z",
-   "to": "2026-10-02T05:20:04.474Z",
+   "to": "2026-10-02T05:25:01.818Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays while we fix a faulty train at Warren Street and while we fix a track fault at Brixton.  "
@@ -304150,10 +304150,19 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-02T05:20:04.474Z",
-   "to": "2026-10-02T05:20:04.474Z",
+   "to": "2026-10-02T05:25:01.818Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "District Line: No service between High Street Kensington and Edgware Road while we deal with a customer incident at Paddington. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-02T05:25:01.818Z",
+   "to": "2026-10-02T05:25:01.818Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service  while we fix a signal failure at Gloucester Road and customer incident at Paddington. Tickets will be accepted on London Buses.  "
   }
  ]
 }
