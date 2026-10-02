@@ -1,297 +1,18 @@
 {
- "generatedAt": "2026-10-01T23:35:03.905Z",
- "sinceISO": "2026-08-02T23:35:02.422Z",
+ "generatedAt": "2026-10-02T00:20:06.928Z",
+ "sinceISO": "2026-08-03T00:20:05.415Z",
  "coverage": [
   {
-   "from": "2026-08-02T23:40:05.208Z",
-   "to": "2026-10-01T23:35:02.180Z",
-   "polls": 17269
+   "from": "2026-08-03T00:20:05.488Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "polls": 17270
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-02T23:40:05.208Z",
-   "to": "2026-08-03T00:05:02.176Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: Minor delays due to an earlier fire alert at Paddington. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-02T23:40:05.208Z",
-   "to": "2026-08-02T23:40:05.208Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, the Liberty line, the Elizabeth line and Chiltern Railways. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-02T23:40:05.208Z",
-   "to": "2026-08-02T23:40:05.208Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, the Liberty line, the Elizabeth line and Chiltern Railways. "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-08-02T23:40:05.208Z",
-   "to": "2026-08-03T00:10:04.240Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 2 August, no service between Shadwell and Tower Gateway."
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-02T23:40:05.208Z",
-   "to": "2026-08-03T00:10:04.240Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "LIONESS LINE: Sunday 2 August, before 1200 and after 2030, no service between Euston and Kilburn High Road. Use local buses or London Underground services via any reasonable route (entrance/exit at Euston, Euston Square, Kilburn Park and Queens Park stations). First through trains: Euston to Watford Junction 1215; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2000, Euston to Watford Junction 2045"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-02T23:40:05.208Z",
-   "to": "2026-08-02T23:40:05.208Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 2 August, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes, with additional Southern Railway services. Southern Railway services will not operate between Shepherds Bush and Watford Junction before 1200 and after 2100."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-02T23:40:05.208Z",
-   "to": "2026-08-02T23:40:05.208Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: Sunday 2 August, after 2215, no service between Camden Road and Stratford. Rail replacement buses will run as follows: Service S: Camden Road - Holloway Road (Underground) - Highbury & Islington - Canonbury - Dalston Junction (for Dalston Kingsland) - Hackney Central - Homerton - Hackney Wick - Stratford. For Caledonian Road & Barnsbury use local bus route 274 to/from Camden Road or walk to/from Highbury & Islington. Some late buses continue on request westbound-only from Camden Road as follows: Camden Road - Kentish Town West - Gospel Oak (bus stop in Southampton Road) - Hampstead Heath - Finchley Road Tube (for Finchley Road & Frognal) - West Hampstead - Brondesbury (bus stops in Kilburn High Road) - Queen's Park (walk/local buses for Brondesbury Park) - Kensal Rise - Willesden Junction - Acton Central - South Acton - Gunnersbury - Kew Gardens (Royal Botanic Gardens) - Richmond. Last through trains: Richmond to Stratford 2126; Camden Road to Stratford 2203; Stratford to Richmond 2201; Stratford to Clapham Junction 2208"
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-02T23:40:05.208Z",
-   "to": "2026-08-03T00:10:04.240Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: From 0400 Saturday 1 until 0030 Sunday 2 August, and again from 0400 Sunday 2 August to the end of service, no service between Cockfosters and Heathrow (all terminals). Trains continue to operate between Acton Town and Uxbridge. Use rail connections between Heathrow terminals. Replacement buses operate."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-08-02T23:40:05.208Z",
-   "to": "2026-08-03T00:05:02.176Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: Minor delays due to an earlier fault with the overhead power lines at Leytonstone High Road. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-02T23:40:05.208Z",
-   "to": "2026-08-02T23:45:02.301Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-02T23:40:05.208Z",
-   "to": "2026-08-03T00:10:04.240Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 2 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-02T23:45:02.301Z",
-   "to": "2026-08-02T23:45:02.301Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, the Liberty line, the Elizabeth line and Chiltern Railways. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-02T23:45:02.301Z",
-   "to": "2026-08-02T23:45:02.301Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, the Liberty line, the Elizabeth line and Chiltern Railways. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-02T23:45:02.301Z",
-   "to": "2026-08-02T23:45:02.301Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 2 August, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes, with additional Southern Railway services. Southern Railway services will not operate between Shepherds Bush and Watford Junction before 1200 and after 2100."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-02T23:45:02.301Z",
-   "to": "2026-08-02T23:45:02.301Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: Sunday 2 August, after 2215, no service between Camden Road and Stratford. Rail replacement buses will run as follows: Service S: Camden Road - Holloway Road (Underground) - Highbury & Islington - Canonbury - Dalston Junction (for Dalston Kingsland) - Hackney Central - Homerton - Hackney Wick - Stratford. For Caledonian Road & Barnsbury use local bus route 274 to/from Camden Road or walk to/from Highbury & Islington. Some late buses continue on request westbound-only from Camden Road as follows: Camden Road - Kentish Town West - Gospel Oak (bus stop in Southampton Road) - Hampstead Heath - Finchley Road Tube (for Finchley Road & Frognal) - West Hampstead - Brondesbury (bus stops in Kilburn High Road) - Queen's Park (walk/local buses for Brondesbury Park) - Kensal Rise - Willesden Junction - Acton Central - South Acton - Gunnersbury - Kew Gardens (Royal Botanic Gardens) - Richmond. Last through trains: Richmond to Stratford 2126; Camden Road to Stratford 2203; Stratford to Richmond 2201; Stratford to Clapham Junction 2208"
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-02T23:50:04.812Z",
-   "to": "2026-08-02T23:50:04.812Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, the Liberty line, the Elizabeth line and Chiltern Railways. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-02T23:50:04.812Z",
-   "to": "2026-08-02T23:50:04.812Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, the Liberty line, the Elizabeth line and Chiltern Railways. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-02T23:50:04.812Z",
-   "to": "2026-08-02T23:50:04.812Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 2 August, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes, with additional Southern Railway services. Southern Railway services will not operate between Shepherds Bush and Watford Junction before 1200 and after 2100."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-02T23:50:04.812Z",
-   "to": "2026-08-02T23:50:04.812Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: Sunday 2 August, after 2215, no service between Camden Road and Stratford. Rail replacement buses will run as follows: Service S: Camden Road - Holloway Road (Underground) - Highbury & Islington - Canonbury - Dalston Junction (for Dalston Kingsland) - Hackney Central - Homerton - Hackney Wick - Stratford. For Caledonian Road & Barnsbury use local bus route 274 to/from Camden Road or walk to/from Highbury & Islington. Some late buses continue on request westbound-only from Camden Road as follows: Camden Road - Kentish Town West - Gospel Oak (bus stop in Southampton Road) - Hampstead Heath - Finchley Road Tube (for Finchley Road & Frognal) - West Hampstead - Brondesbury (bus stops in Kilburn High Road) - Queen's Park (walk/local buses for Brondesbury Park) - Kensal Rise - Willesden Junction - Acton Central - South Acton - Gunnersbury - Kew Gardens (Royal Botanic Gardens) - Richmond. Last through trains: Richmond to Stratford 2126; Camden Road to Stratford 2203; Stratford to Richmond 2201; Stratford to Clapham Junction 2208"
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-02T23:55:02.250Z",
-   "to": "2026-08-02T23:55:02.250Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, the Liberty line, the Elizabeth line and Chiltern Railways. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-02T23:55:02.250Z",
-   "to": "2026-08-02T23:55:02.250Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, the Liberty line, the Elizabeth line and Chiltern Railways. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-02T23:55:02.250Z",
-   "to": "2026-08-02T23:55:02.250Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 2 August, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes, with additional Southern Railway services. Southern Railway services will not operate between Shepherds Bush and Watford Junction before 1200 and after 2100."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-02T23:55:02.250Z",
-   "to": "2026-08-02T23:55:02.250Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: Sunday 2 August, after 2215, no service between Camden Road and Stratford. Rail replacement buses will run as follows: Service S: Camden Road - Holloway Road (Underground) - Highbury & Islington - Canonbury - Dalston Junction (for Dalston Kingsland) - Hackney Central - Homerton - Hackney Wick - Stratford. For Caledonian Road & Barnsbury use local bus route 274 to/from Camden Road or walk to/from Highbury & Islington. Some late buses continue on request westbound-only from Camden Road as follows: Camden Road - Kentish Town West - Gospel Oak (bus stop in Southampton Road) - Hampstead Heath - Finchley Road Tube (for Finchley Road & Frognal) - West Hampstead - Brondesbury (bus stops in Kilburn High Road) - Queen's Park (walk/local buses for Brondesbury Park) - Kensal Rise - Willesden Junction - Acton Central - South Acton - Gunnersbury - Kew Gardens (Royal Botanic Gardens) - Richmond. Last through trains: Richmond to Stratford 2126; Camden Road to Stratford 2203; Stratford to Richmond 2201; Stratford to Clapham Junction 2208"
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-03T00:00:11.268Z",
-   "to": "2026-08-03T00:00:11.268Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, the Liberty line, the Elizabeth line and Chiltern Railways. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-03T00:00:11.268Z",
-   "to": "2026-08-03T00:00:11.268Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, the Liberty line, the Elizabeth line and Chiltern Railways. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-03T00:00:11.268Z",
-   "to": "2026-08-03T00:00:11.268Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 2 August, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes, with additional Southern Railway services. Southern Railway services will not operate between Shepherds Bush and Watford Junction before 1200 and after 2100."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-03T00:00:11.268Z",
-   "to": "2026-08-03T00:00:11.268Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: Sunday 2 August, after 2215, no service between Camden Road and Stratford. Rail replacement buses will run as follows: Service S: Camden Road - Holloway Road (Underground) - Highbury & Islington - Canonbury - Dalston Junction (for Dalston Kingsland) - Hackney Central - Homerton - Hackney Wick - Stratford. For Caledonian Road & Barnsbury use local bus route 274 to/from Camden Road or walk to/from Highbury & Islington. Some late buses continue on request westbound-only from Camden Road as follows: Camden Road - Kentish Town West - Gospel Oak (bus stop in Southampton Road) - Hampstead Heath - Finchley Road Tube (for Finchley Road & Frognal) - West Hampstead - Brondesbury (bus stops in Kilburn High Road) - Queen's Park (walk/local buses for Brondesbury Park) - Kensal Rise - Willesden Junction - Acton Central - South Acton - Gunnersbury - Kew Gardens (Royal Botanic Gardens) - Richmond. Last through trains: Richmond to Stratford 2126; Camden Road to Stratford 2203; Stratford to Richmond 2201; Stratford to Clapham Junction 2208"
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-03T00:05:02.176Z",
-   "to": "2026-08-03T00:05:02.176Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, the Liberty line, the Elizabeth line and Chiltern Railways. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-03T00:05:02.176Z",
-   "to": "2026-08-03T00:05:02.176Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, the Liberty line, the Elizabeth line and Chiltern Railways. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-03T00:05:02.176Z",
-   "to": "2026-08-03T00:05:02.176Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 2 August, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes, with additional Southern Railway services. Southern Railway services will not operate between Shepherds Bush and Watford Junction before 1200 and after 2100."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-03T00:05:02.176Z",
-   "to": "2026-08-03T00:05:02.176Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: Sunday 2 August, after 2215, no service between Camden Road and Stratford. Rail replacement buses will run as follows: Service S: Camden Road - Holloway Road (Underground) - Highbury & Islington - Canonbury - Dalston Junction (for Dalston Kingsland) - Hackney Central - Homerton - Hackney Wick - Stratford. For Caledonian Road & Barnsbury use local bus route 274 to/from Camden Road or walk to/from Highbury & Islington. Some late buses continue on request westbound-only from Camden Road as follows: Camden Road - Kentish Town West - Gospel Oak (bus stop in Southampton Road) - Hampstead Heath - Finchley Road Tube (for Finchley Road & Frognal) - West Hampstead - Brondesbury (bus stops in Kilburn High Road) - Queen's Park (walk/local buses for Brondesbury Park) - Kensal Rise - Willesden Junction - Acton Central - South Acton - Gunnersbury - Kew Gardens (Royal Botanic Gardens) - Richmond. Last through trains: Richmond to Stratford 2126; Camden Road to Stratford 2203; Stratford to Richmond 2201; Stratford to Clapham Junction 2208"
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
    "to": "2026-08-03T03:05:02.212Z",
    "severity": 20,
    "description": "Service Closed",
@@ -300,7 +21,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
    "to": "2026-08-03T03:05:02.212Z",
    "severity": 20,
    "description": "Service Closed",
@@ -309,7 +30,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
    "to": "2026-08-03T03:05:02.212Z",
    "severity": 20,
    "description": "Service Closed",
@@ -318,7 +39,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
    "to": "2026-08-03T03:05:02.212Z",
    "severity": 20,
    "description": "Service Closed",
@@ -327,8 +48,17 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-08-03T00:10:04.240Z",
-   "to": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
+   "to": "2026-08-03T00:20:05.488Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 2 August, no service between Shadwell and Tower Gateway."
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-08-03T00:20:05.488Z",
+   "to": "2026-08-03T00:20:05.488Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Docklands Light Railway: Service will resume later this morning.\r\n "
@@ -336,7 +66,7 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
    "to": "2026-08-03T03:05:02.212Z",
    "severity": 20,
    "description": "Service Closed",
@@ -345,7 +75,7 @@
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
    "to": "2026-08-03T03:05:02.212Z",
    "severity": 20,
    "description": "Service Closed",
@@ -354,7 +84,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
    "to": "2026-08-03T03:05:02.212Z",
    "severity": 20,
    "description": "Service Closed",
@@ -363,7 +93,7 @@
   {
    "line": "liberty",
    "lineName": "Liberty",
-   "from": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
    "to": "2026-08-03T03:05:02.212Z",
    "severity": 20,
    "description": "Service Closed",
@@ -372,8 +102,17 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-03T00:10:04.240Z",
-   "to": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
+   "to": "2026-08-03T00:20:05.488Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "LIONESS LINE: Sunday 2 August, before 1200 and after 2030, no service between Euston and Kilburn High Road. Use local buses or London Underground services via any reasonable route (entrance/exit at Euston, Euston Square, Kilburn Park and Queens Park stations). First through trains: Euston to Watford Junction 1215; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2000, Euston to Watford Junction 2045"
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-08-03T00:20:05.488Z",
+   "to": "2026-08-03T00:20:05.488Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Lioness Line: Service will resume later this morning.\r\n "
@@ -381,7 +120,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
    "to": "2026-08-03T03:05:02.212Z",
    "severity": 20,
    "description": "Service Closed",
@@ -390,8 +129,8 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-03T00:10:04.240Z",
-   "to": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
+   "to": "2026-08-03T00:20:05.488Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "MILDMAY LINE: Sunday 2 August, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes, with additional Southern Railway services. Southern Railway services will not operate between Shepherds Bush and Watford Junction before 1200 and after 2100."
@@ -399,8 +138,8 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-03T00:10:04.240Z",
-   "to": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
+   "to": "2026-08-03T00:20:05.488Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "MILDMAY LINE: Sunday 2 August, after 2215, no service between Camden Road and Stratford. Rail replacement buses will run as follows: Service S: Camden Road - Holloway Road (Underground) - Highbury & Islington - Canonbury - Dalston Junction (for Dalston Kingsland) - Hackney Central - Homerton - Hackney Wick - Stratford. For Caledonian Road & Barnsbury use local bus route 274 to/from Camden Road or walk to/from Highbury & Islington. Some late buses continue on request westbound-only from Camden Road as follows: Camden Road - Kentish Town West - Gospel Oak (bus stop in Southampton Road) - Hampstead Heath - Finchley Road Tube (for Finchley Road & Frognal) - West Hampstead - Brondesbury (bus stops in Kilburn High Road) - Queen's Park (walk/local buses for Brondesbury Park) - Kensal Rise - Willesden Junction - Acton Central - South Acton - Gunnersbury - Kew Gardens (Royal Botanic Gardens) - Richmond. Last through trains: Richmond to Stratford 2126; Camden Road to Stratford 2203; Stratford to Richmond 2201; Stratford to Clapham Junction 2208"
@@ -408,8 +147,8 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-03T00:10:04.240Z",
-   "to": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
+   "to": "2026-08-03T00:20:05.488Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Mildmay Line: Service will resume later this morning.\r\n "
@@ -417,7 +156,7 @@
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
    "to": "2026-08-03T03:05:02.212Z",
    "severity": 20,
    "description": "Service Closed",
@@ -426,8 +165,17 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-03T00:10:04.240Z",
-   "to": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
+   "to": "2026-08-03T00:20:05.488Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "PICCADILLY LINE: From 0400 Saturday 1 until 0030 Sunday 2 August, and again from 0400 Sunday 2 August to the end of service, no service between Cockfosters and Heathrow (all terminals). Trains continue to operate between Acton Town and Uxbridge. Use rail connections between Heathrow terminals. Replacement buses operate."
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-08-03T00:20:05.488Z",
+   "to": "2026-08-03T00:20:05.488Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work. "
@@ -435,7 +183,7 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
    "to": "2026-08-03T03:05:02.212Z",
    "severity": 20,
    "description": "Service Closed",
@@ -444,7 +192,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
    "to": "2026-08-03T03:05:02.212Z",
    "severity": 20,
    "description": "Service Closed",
@@ -453,7 +201,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
    "to": "2026-08-03T05:25:02.999Z",
    "severity": 20,
    "description": "Service Closed",
@@ -462,200 +210,11 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-08-03T00:10:04.240Z",
+   "from": "2026-08-03T00:20:05.488Z",
    "to": "2026-08-03T03:05:02.212Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Weaver Line: Service will resume later this morning.\r\n "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-03T00:10:04.240Z",
-   "to": "2026-08-03T00:10:04.240Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Windrush Line: Service will resume later this morning.\r\n "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-08-03T00:15:02.506Z",
-   "to": "2026-08-03T00:15:02.506Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 2 August, no service between Shadwell and Tower Gateway."
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-08-03T00:15:02.506Z",
-   "to": "2026-08-03T00:15:02.506Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Docklands Light Railway: Service will resume later this morning.\r\n "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-03T00:15:02.506Z",
-   "to": "2026-08-03T00:15:02.506Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "LIONESS LINE: Sunday 2 August, before 1200 and after 2030, no service between Euston and Kilburn High Road. Use local buses or London Underground services via any reasonable route (entrance/exit at Euston, Euston Square, Kilburn Park and Queens Park stations). First through trains: Euston to Watford Junction 1215; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2000, Euston to Watford Junction 2045"
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-03T00:15:02.506Z",
-   "to": "2026-08-03T00:15:02.506Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Lioness Line: Service will resume later this morning.\r\n "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-03T00:15:02.506Z",
-   "to": "2026-08-03T00:15:02.506Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 2 August, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes, with additional Southern Railway services. Southern Railway services will not operate between Shepherds Bush and Watford Junction before 1200 and after 2100."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-03T00:15:02.506Z",
-   "to": "2026-08-03T00:15:02.506Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: Sunday 2 August, after 2215, no service between Camden Road and Stratford. Rail replacement buses will run as follows: Service S: Camden Road - Holloway Road (Underground) - Highbury & Islington - Canonbury - Dalston Junction (for Dalston Kingsland) - Hackney Central - Homerton - Hackney Wick - Stratford. For Caledonian Road & Barnsbury use local bus route 274 to/from Camden Road or walk to/from Highbury & Islington. Some late buses continue on request westbound-only from Camden Road as follows: Camden Road - Kentish Town West - Gospel Oak (bus stop in Southampton Road) - Hampstead Heath - Finchley Road Tube (for Finchley Road & Frognal) - West Hampstead - Brondesbury (bus stops in Kilburn High Road) - Queen's Park (walk/local buses for Brondesbury Park) - Kensal Rise - Willesden Junction - Acton Central - South Acton - Gunnersbury - Kew Gardens (Royal Botanic Gardens) - Richmond. Last through trains: Richmond to Stratford 2126; Camden Road to Stratford 2203; Stratford to Richmond 2201; Stratford to Clapham Junction 2208"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-03T00:15:02.506Z",
-   "to": "2026-08-03T00:15:02.506Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Mildmay Line: Service will resume later this morning.\r\n "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-03T00:15:02.506Z",
-   "to": "2026-08-03T00:15:02.506Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: From 0400 Saturday 1 until 0030 Sunday 2 August, and again from 0400 Sunday 2 August to the end of service, no service between Cockfosters and Heathrow (all terminals). Trains continue to operate between Acton Town and Uxbridge. Use rail connections between Heathrow terminals. Replacement buses operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-03T00:15:02.506Z",
-   "to": "2026-08-03T00:15:02.506Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-03T00:15:02.506Z",
-   "to": "2026-08-03T00:15:02.506Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 2 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-03T00:15:02.506Z",
-   "to": "2026-08-03T00:15:02.506Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Windrush Line: Service will resume later this morning.\r\n "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-08-03T00:20:05.488Z",
-   "to": "2026-08-03T00:20:05.488Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 2 August, no service between Shadwell and Tower Gateway."
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-08-03T00:20:05.488Z",
-   "to": "2026-08-03T00:20:05.488Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Docklands Light Railway: Service will resume later this morning.\r\n "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-03T00:20:05.488Z",
-   "to": "2026-08-03T00:20:05.488Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "LIONESS LINE: Sunday 2 August, before 1200 and after 2030, no service between Euston and Kilburn High Road. Use local buses or London Underground services via any reasonable route (entrance/exit at Euston, Euston Square, Kilburn Park and Queens Park stations). First through trains: Euston to Watford Junction 1215; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2000, Euston to Watford Junction 2045"
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-03T00:20:05.488Z",
-   "to": "2026-08-03T00:20:05.488Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Lioness Line: Service will resume later this morning.\r\n "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-03T00:20:05.488Z",
-   "to": "2026-08-03T00:20:05.488Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 2 August, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes, with additional Southern Railway services. Southern Railway services will not operate between Shepherds Bush and Watford Junction before 1200 and after 2100."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-03T00:20:05.488Z",
-   "to": "2026-08-03T00:20:05.488Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: Sunday 2 August, after 2215, no service between Camden Road and Stratford. Rail replacement buses will run as follows: Service S: Camden Road - Holloway Road (Underground) - Highbury & Islington - Canonbury - Dalston Junction (for Dalston Kingsland) - Hackney Central - Homerton - Hackney Wick - Stratford. For Caledonian Road & Barnsbury use local bus route 274 to/from Camden Road or walk to/from Highbury & Islington. Some late buses continue on request westbound-only from Camden Road as follows: Camden Road - Kentish Town West - Gospel Oak (bus stop in Southampton Road) - Hampstead Heath - Finchley Road Tube (for Finchley Road & Frognal) - West Hampstead - Brondesbury (bus stops in Kilburn High Road) - Queen's Park (walk/local buses for Brondesbury Park) - Kensal Rise - Willesden Junction - Acton Central - South Acton - Gunnersbury - Kew Gardens (Royal Botanic Gardens) - Richmond. Last through trains: Richmond to Stratford 2126; Camden Road to Stratford 2203; Stratford to Richmond 2201; Stratford to Clapham Junction 2208"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-03T00:20:05.488Z",
-   "to": "2026-08-03T00:20:05.488Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Mildmay Line: Service will resume later this morning.\r\n "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-03T00:20:05.488Z",
-   "to": "2026-08-03T00:20:05.488Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: From 0400 Saturday 1 until 0030 Sunday 2 August, and again from 0400 Sunday 2 August to the end of service, no service between Cockfosters and Heathrow (all terminals). Trains continue to operate between Acton Town and Uxbridge. Use rail connections between Heathrow terminals. Replacement buses operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-03T00:20:05.488Z",
-   "to": "2026-08-03T00:20:05.488Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work. "
   },
   {
    "line": "windrush",
@@ -304105,7 +303664,7 @@
    "line": "weaver",
    "lineName": "Weaver",
    "from": "2026-10-01T21:45:01.931Z",
-   "to": "2026-10-01T23:35:02.180Z",
+   "to": "2026-10-02T00:20:04.338Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WEAVER LINE: Monday 28, Tuesday 29, Wednesday 30 September and Thursday 1 October, after 2245, no service between Hackney Downs and Chingford. Last trains are at 2231 from Liverpool Street to Chingford and at 2253 from Chingford to Liverpool Street. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton, St James Street, Walthamstow Central, Wood Street and Highams Park. The last three northbound buses start from Liverpool Street at 0014 0044 and 0114 and also serve Bethnal Green, Cambridge Heath and London Fields (Mare Street). At Liverpool Street, buses will serve stops on Wormwood Street instead of Bishopsgate, due to roadworks."
@@ -304501,10 +304060,316 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-01T23:35:02.180Z",
-   "to": "2026-10-01T23:35:02.180Z",
+   "to": "2026-10-02T00:20:04.338Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-01T23:40:04.161Z",
+   "to": "2026-10-01T23:40:04.161Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-01T23:40:04.161Z",
+   "to": "2026-10-01T23:40:04.161Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-01T23:45:01.836Z",
+   "to": "2026-10-01T23:45:01.836Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-01T23:45:01.836Z",
+   "to": "2026-10-01T23:45:01.836Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-01T23:50:04.179Z",
+   "to": "2026-10-01T23:50:04.179Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-01T23:50:04.179Z",
+   "to": "2026-10-01T23:50:04.179Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-01T23:55:02.171Z",
+   "to": "2026-10-01T23:55:02.171Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-01T23:55:02.171Z",
+   "to": "2026-10-01T23:55:02.171Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-02T00:00:13.392Z",
+   "to": "2026-10-02T00:00:13.392Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-02T00:00:13.392Z",
+   "to": "2026-10-02T00:00:13.392Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-02T00:05:02.222Z",
+   "to": "2026-10-02T00:05:02.222Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-02T00:05:02.222Z",
+   "to": "2026-10-02T00:05:02.222Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-02T00:10:04.212Z",
+   "to": "2026-10-02T00:10:04.212Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-02T00:10:04.212Z",
+   "to": "2026-10-02T00:10:04.212Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-02T00:15:02.211Z",
+   "to": "2026-10-02T00:15:02.211Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-02T00:15:02.211Z",
+   "to": "2026-10-02T00:15:02.211Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Bakerloo Line: Service will resume later this morning. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Central Line: Service will resume later this morning. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Docklands Light Railway: Service will resume later this morning. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Service will resume later this morning. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Hammersmith and City Line: Service will resume later this morning. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Jubilee Line: Service will resume later this morning. "
+  },
+  {
+   "line": "liberty",
+   "lineName": "Liberty",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Liberty Line: Service will resume later this morning. "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Lioness Line: Service will resume later this morning. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Metropolitan Line: Service will resume later this morning. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Northern Line: Service will resume later this morning. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Piccadilly Line: Service will resume later this morning. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Suffragette Line: Service will resume later this morning. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Victoria Line: Service will resume later this morning. "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Weaver Line: Service will resume later this morning. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-10-02T00:20:04.338Z",
+   "to": "2026-10-02T00:20:04.338Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Windrush Line: Service will resume later this morning. "
   }
  ]
 }
