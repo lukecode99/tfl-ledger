@@ -1,27 +1,18 @@
 {
- "generatedAt": "2026-10-03T09:00:12.912Z",
- "sinceISO": "2026-08-04T09:00:11.471Z",
+ "generatedAt": "2026-10-03T09:05:04.003Z",
+ "sinceISO": "2026-08-04T09:05:02.537Z",
  "coverage": [
   {
-   "from": "2026-08-04T09:00:11.801Z",
-   "to": "2026-10-03T09:00:11.238Z",
-   "polls": 17270
+   "from": "2026-08-04T09:10:05.429Z",
+   "to": "2026-10-03T09:05:02.313Z",
+   "polls": 17269
   }
  ],
  "spans": [
   {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-04T09:00:11.801Z",
-   "to": "2026-08-04T09:00:11.801Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  "
-  },
-  {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-04T09:00:11.801Z",
+   "from": "2026-08-04T09:10:05.429Z",
    "to": "2026-08-04T09:30:04.944Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -303331,7 +303322,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-03T03:25:01.990Z",
-   "to": "2026-10-03T09:00:11.238Z",
+   "to": "2026-10-03T09:05:02.313Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -303340,7 +303331,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-10-03T03:30:05.621Z",
-   "to": "2026-10-03T09:00:11.238Z",
+   "to": "2026-10-03T09:05:02.313Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "JUBILEE LINE: From 0430 Saturday 3 until 0130 Sunday 4 October, no service between Green Park and Canary Wharf. If travelling between Central London and North Greenwich, please travel via Stratford."
@@ -303538,7 +303529,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-03T07:10:07.452Z",
-   "to": "2026-10-03T09:00:11.238Z",
+   "to": "2026-10-03T09:05:02.313Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to a track fault at Brixton "
@@ -304078,7 +304069,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-03T08:50:04.288Z",
-   "to": "2026-10-03T09:00:11.238Z",
+   "to": "2026-10-03T09:05:02.313Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge due to an earlier track inspection at Eastcote. GOOD SERVICE on the rest of the line. "
@@ -304195,10 +304186,55 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-03T09:00:11.238Z",
-   "to": "2026-10-03T09:00:11.238Z",
+   "to": "2026-10-03T09:05:02.313Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays between Surrey Quays and Clapham Junction while we fix a faulty train at Clapham Junction. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-03T09:05:02.313Z",
+   "to": "2026-10-03T09:05:02.313Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Kensington (Olympia), and SEVERE DELAYS between Earls Court and Ealing Broadway / Richmond due to an earlier signalling problem at Turnham Green. Tickets are being accepted on London Buses, Elizabeth line and South Western Railway. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-03T09:05:02.313Z",
+   "to": "2026-10-03T09:05:02.313Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Kensington (Olympia), and SEVERE DELAYS between Earls Court and Ealing Broadway / Richmond due to an earlier signalling problem at Turnham Green. Tickets are being accepted on London Buses, Elizabeth line and South Western Railway. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-03T09:05:02.313Z",
+   "to": "2026-10-03T09:05:02.313Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Rickmansworth and Amersham/Chesham while we deal with a trespasser on the track at Chalfont & Latimer. SEVERE DELAYS between Harrow-on-the-Hill and Uxbridge while we conduct a track inspection at Eastcote. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-03T09:05:02.313Z",
+   "to": "2026-10-03T09:05:02.313Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Rickmansworth and Amersham/Chesham while we deal with a trespasser on the track at Chalfont & Latimer. SEVERE DELAYS between Harrow-on-the-Hill and Uxbridge while we conduct a track inspection at Eastcote. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-03T09:05:02.313Z",
+   "to": "2026-10-03T09:05:02.313Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Camden Town and High Barnet, northbound only, and between Finchley Central and Mill Hill East due to an earlier points failure at Camden Town. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line. "
   }
  ]
 }
