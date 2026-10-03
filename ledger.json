@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-10-03T06:10:07.528Z",
- "sinceISO": "2026-08-04T06:10:06.031Z",
+ "generatedAt": "2026-10-03T06:40:06.085Z",
+ "sinceISO": "2026-08-04T06:40:04.606Z",
  "coverage": [
   {
-   "from": "2026-08-04T06:15:02.929Z",
-   "to": "2026-10-03T06:10:05.808Z",
-   "polls": 17269
+   "from": "2026-08-04T06:40:05.182Z",
+   "to": "2026-10-03T06:40:04.196Z",
+   "polls": 17270
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-04T06:35:02.257Z",
+   "from": "2026-08-04T06:40:05.182Z",
    "to": "2026-08-04T09:00:11.801Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -303331,7 +303331,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-03T03:25:01.990Z",
-   "to": "2026-10-03T06:10:05.808Z",
+   "to": "2026-10-03T06:40:04.196Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -303340,7 +303340,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-10-03T03:30:05.621Z",
-   "to": "2026-10-03T06:10:05.808Z",
+   "to": "2026-10-03T06:40:04.196Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "JUBILEE LINE: From 0430 Saturday 3 until 0130 Sunday 4 October, no service between Green Park and Canary Wharf. If travelling between Central London and North Greenwich, please travel via Stratford."
@@ -303493,7 +303493,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-03T06:05:01.853Z",
-   "to": "2026-10-03T06:10:05.808Z",
+   "to": "2026-10-03T06:40:04.196Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line.  "
@@ -303502,10 +303502,19 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-03T06:10:05.808Z",
-   "to": "2026-10-03T06:10:05.808Z",
+   "to": "2026-10-03T06:35:01.847Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-03T06:40:04.196Z",
+   "to": "2026-10-03T06:40:04.196Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Kensington (Olympia) due to train cancellations. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
