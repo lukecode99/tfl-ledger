@@ -1,59 +1,14 @@
 {
- "generatedAt": "2026-10-04T00:15:03.541Z",
- "sinceISO": "2026-08-05T00:15:02.066Z",
+ "generatedAt": "2026-10-04T00:20:08.984Z",
+ "sinceISO": "2026-08-05T00:20:06.681Z",
  "coverage": [
   {
-   "from": "2026-08-05T00:15:10.093Z",
-   "to": "2026-10-04T00:15:01.834Z",
-   "polls": 17270
+   "from": "2026-08-05T00:25:02.530Z",
+   "to": "2026-10-04T00:20:06.440Z",
+   "polls": 17269
   }
  ],
  "spans": [
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-05T00:15:10.093Z",
-   "to": "2026-08-05T00:20:05.752Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Minor delays due to train cancellations.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-05T00:15:10.093Z",
-   "to": "2026-08-05T00:20:05.752Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-05T00:15:10.093Z",
-   "to": "2026-08-05T00:25:02.530Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: Monday 3, Tuesday 4, Wednesday 5 and Thursday 6 August, after 2345 each evening, no service westbound from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-05T00:15:10.093Z",
-   "to": "2026-08-05T05:30:07.465Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-05T00:15:10.093Z",
-   "to": "2026-08-05T00:25:02.530Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Monday 3, Tuesday 4, Wednesday 5 and Thursday 6 August, after 2330 each evening, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Crystal Palace, Gipsy Hill, West Norwood, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Norwood Junction and East Croydon. One return bus from Crystal Palace departs at 2359, calling at all stations to London Bridge via New Cross Gate. Alternatively, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324, Crystal Palace to New Cross Gate / Highbury & Islington 2332; New Cross Gate to West Croydon 2330, West Croydon to New Cross Gate / Highbury & Islington 2316. The 2232 and 2247 Highbury & Islington to West Croydon trains are diverted to Crystal Palace. The 2338 Dalston Junction to New Cross Gate train does not run."
-  },
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
@@ -149,6 +104,15 @@
    "lineName": "Mildmay",
    "from": "2026-08-05T00:25:02.530Z",
    "to": "2026-08-05T00:25:02.530Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Monday 3, Tuesday 4, Wednesday 5 and Thursday 6 August, after 2345 each evening, no service westbound from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-08-05T00:25:02.530Z",
+   "to": "2026-08-05T00:25:02.530Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Mildmay Line: Service will resume later this morning. "
@@ -172,6 +136,15 @@
    "reason": "Suffragette Line: Service will resume later this morning. "
   },
   {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-08-05T00:25:02.530Z",
+   "to": "2026-08-05T05:30:07.465Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
+  },
+  {
    "line": "weaver",
    "lineName": "Weaver",
    "from": "2026-08-05T00:25:02.530Z",
@@ -179,6 +152,15 @@
    "severity": 20,
    "description": "Service Closed",
    "reason": "Weaver Line: Service will resume later this morning. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-08-05T00:25:02.530Z",
+   "to": "2026-08-05T00:25:02.530Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: Monday 3, Tuesday 4, Wednesday 5 and Thursday 6 August, after 2330 each evening, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Crystal Palace, Gipsy Hill, West Norwood, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Norwood Junction and East Croydon. One return bus from Crystal Palace departs at 2359, calling at all stations to London Bridge via New Cross Gate. Alternatively, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324, Crystal Palace to New Cross Gate / Highbury & Islington 2332; New Cross Gate to West Croydon 2330, West Croydon to New Cross Gate / Highbury & Islington 2316. The 2232 and 2247 Highbury & Islington to West Croydon trains are diverted to Crystal Palace. The 2338 Dalston Junction to New Cross Gate train does not run."
   },
   {
    "line": "windrush",
@@ -300586,7 +300568,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-10-03T03:30:05.621Z",
-   "to": "2026-10-04T00:15:01.834Z",
+   "to": "2026-10-04T00:20:06.440Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "JUBILEE LINE: From 0430 Saturday 3 until 0130 Sunday 4 October, no service between Green Park and Canary Wharf. If travelling between Central London and North Greenwich, please travel via Stratford."
@@ -302089,7 +302071,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-03T12:00:11.249Z",
-   "to": "2026-10-04T00:15:01.834Z",
+   "to": "2026-10-04T00:20:06.440Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -302314,7 +302296,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-03T18:25:01.890Z",
-   "to": "2026-10-04T00:15:01.834Z",
+   "to": "2026-10-04T00:20:06.440Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction while emergency services deal with a casualty on the track. London Underground is accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
@@ -303583,7 +303565,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-10-04T00:15:01.834Z",
-   "to": "2026-10-04T00:15:01.834Z",
+   "to": "2026-10-04T00:20:06.440Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Bakerloo Line: Service will resume later this morning. "
@@ -303602,6 +303584,60 @@
    "lineName": "Victoria",
    "from": "2026-10-04T00:15:01.834Z",
    "to": "2026-10-04T00:15:01.834Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Victoria Line: No service between Victoria and Brixton due to a track fault at Brixton. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, the Weaver line and the Suffragette line. Southeastern, South Western Railway, Greater Anglia, Great Northern and Thameslink. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-04T00:20:06.440Z",
+   "to": "2026-10-04T00:20:06.440Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-04T00:20:06.440Z",
+   "to": "2026-10-04T00:20:06.440Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-04T00:20:06.440Z",
+   "to": "2026-10-04T00:20:06.440Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Tower Gateway and Shadwell due to planned engineering work. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-10-04T00:20:06.440Z",
+   "to": "2026-10-04T00:20:06.440Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Hammersmith and City Line: Service will resume later this morning. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-04T00:20:06.440Z",
+   "to": "2026-10-04T00:20:06.440Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "VICTORIA LINE: From 1930 Saturday 3 until 1000 Sunday 4 October, no service between Victoria and Brixton. Please use London Buses services or National Rail services between Victoria and Brixton."
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-04T00:20:06.440Z",
+   "to": "2026-10-04T00:20:06.440Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: No service between Victoria and Brixton due to a track fault at Brixton. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, the Weaver line and the Suffragette line. Southeastern, South Western Railway, Greater Anglia, Great Northern and Thameslink. "
