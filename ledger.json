@@ -1,58 +1,31 @@
 {
- "generatedAt": "2026-10-05T04:25:04.040Z",
- "sinceISO": "2026-08-06T04:25:02.629Z",
+ "generatedAt": "2026-10-05T04:55:03.611Z",
+ "sinceISO": "2026-08-06T04:55:02.216Z",
  "coverage": [
   {
-   "from": "2026-08-06T04:30:07.958Z",
-   "to": "2026-10-05T04:25:02.257Z",
-   "polls": 17433
+   "from": "2026-08-06T05:00:10.592Z",
+   "to": "2026-10-05T04:55:01.995Z",
+   "polls": 17451
   }
  ],
  "spans": [
   {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-06T04:30:07.958Z",
-   "to": "2026-08-06T05:05:01.917Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
-  },
-  {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-08-06T04:35:02.125Z",
-   "to": "2026-08-06T04:35:02.125Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays northbound between Morden and Kennington while we fix a points failure at Morden. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-08-06T04:40:05.550Z",
-   "to": "2026-08-06T04:40:05.550Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays northbound between Morden and Kennington while we fix a points failure at Morden. London Buses are accepting tickets. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-08-06T04:45:03.370Z",
-   "to": "2026-08-06T04:45:03.370Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Minor delays between Morden and Camden Town via Bank and Charing Cross northbound only while we fix a points failure at Morden. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-08-06T04:50:09.270Z",
+   "from": "2026-08-06T05:00:10.592Z",
    "to": "2026-08-06T05:55:02.014Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays between Morden and Camden Town via Bank and via Charing Cross northbound only while we fix a points failure at Morden. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-08-06T05:00:10.592Z",
+   "to": "2026-08-06T05:05:01.917Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   },
   {
    "line": "mildmay",
@@ -308200,10 +308173,19 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-05T03:20:07.869Z",
-   "to": "2026-10-05T04:25:02.257Z",
+   "to": "2026-10-05T04:55:01.995Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume later this morning. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-10-05T04:55:01.995Z",
+   "to": "2026-10-05T04:55:01.995Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Windrush Line: Minor delays following a late finish of engineering work. "
   }
  ]
 }
