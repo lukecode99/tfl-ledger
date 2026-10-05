@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-10-05T19:10:08.375Z",
- "sinceISO": "2026-08-06T19:10:06.827Z",
+ "generatedAt": "2026-10-05T19:30:09.089Z",
+ "sinceISO": "2026-08-06T19:30:07.334Z",
  "coverage": [
   {
-   "from": "2026-08-06T19:15:02.364Z",
-   "to": "2026-10-05T19:10:06.574Z",
-   "polls": 17964
+   "from": "2026-08-06T19:35:02.087Z",
+   "to": "2026-10-05T19:30:07.043Z",
+   "polls": 17976
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-06T19:15:02.364Z",
+   "from": "2026-08-06T19:35:02.087Z",
    "to": "2026-08-06T19:55:03.043Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,29 +21,11 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-06T19:15:02.364Z",
+   "from": "2026-08-06T19:35:02.087Z",
    "to": "2026-08-06T21:50:06.199Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to train cancellations.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-06T19:15:02.364Z",
-   "to": "2026-08-06T19:30:06.607Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge due to an earlier signal failure at Caledonian Road. Tickets are being accepted on London Buses. GOOD SERVICE on the res of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-08-06T19:15:02.364Z",
-   "to": "2026-08-07T00:15:02.246Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Victoria Line: Minor delays due to train cancellations. "
   },
   {
    "line": "piccadilly",
@@ -53,6 +35,15 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge due to an earlier signal failure at Caledonian Road. GOOD SERVICE on the res of the line. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-08-06T19:35:02.087Z",
+   "to": "2026-08-07T00:15:02.246Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
   },
   {
    "line": "district",
@@ -310423,7 +310414,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-05T13:15:01.943Z",
-   "to": "2026-10-05T19:10:06.574Z",
+   "to": "2026-10-05T19:30:07.043Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip, and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -312826,7 +312817,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-10-05T19:10:06.574Z",
-   "to": "2026-10-05T19:10:06.574Z",
+   "to": "2026-10-05T19:25:06.042Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Bakerloo Line: Severe delays due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. "
@@ -312835,10 +312826,28 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-05T19:10:06.574Z",
-   "to": "2026-10-05T19:10:06.574Z",
+   "to": "2026-10-05T19:25:06.042Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Minor delays between Hayes & Harlington and Heathrow Terminals due to an earlier faulty train at Heathrow Terminals 2 & 3. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:30:07.043Z",
+   "to": "2026-10-05T19:30:07.043Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:30:07.043Z",
+   "to": "2026-10-05T19:30:07.043Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
   }
  ]
 }
