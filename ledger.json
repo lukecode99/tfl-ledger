@@ -1,76 +1,49 @@
 {
- "generatedAt": "2026-10-05T19:30:09.089Z",
- "sinceISO": "2026-08-06T19:30:07.334Z",
+ "generatedAt": "2026-10-05T20:15:04.355Z",
+ "sinceISO": "2026-08-06T20:15:02.525Z",
  "coverage": [
   {
-   "from": "2026-08-06T19:35:02.087Z",
-   "to": "2026-10-05T19:30:07.043Z",
-   "polls": 17976
+   "from": "2026-08-06T20:20:06.174Z",
+   "to": "2026-10-05T20:15:02.257Z",
+   "polls": 18003
   }
  ],
  "spans": [
   {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-06T19:35:02.087Z",
-   "to": "2026-08-06T19:55:03.043Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-06T19:35:02.087Z",
-   "to": "2026-08-06T21:50:06.199Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Jubilee Line: Minor delays due to train cancellations.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-06T19:35:02.087Z",
-   "to": "2026-08-06T20:10:04.586Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge due to an earlier signal failure at Caledonian Road. GOOD SERVICE on the res of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-08-06T19:35:02.087Z",
-   "to": "2026-08-07T00:15:02.246Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Victoria Line: Minor delays due to train cancellations. "
-  },
-  {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-06T19:40:04.615Z",
-   "to": "2026-08-06T19:40:04.615Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "District Line: No service between Turnham Green and Richmond while we fix a signal failure at Kew Gardens. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-06T19:45:02.039Z",
+   "from": "2026-08-06T20:20:06.174Z",
    "to": "2026-08-07T00:15:02.246Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "District Line: No service between Turnham Green and Richmond while we fix a signal failure at Kew Gardens. London Buses and South Western Railway are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
   },
   {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-08-06T20:20:06.174Z",
+   "to": "2026-08-06T21:50:06.199Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Minor delays due to train cancellations.  "
+  },
+  {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-06T19:55:03.043Z",
+   "from": "2026-08-06T20:20:06.174Z",
    "to": "2026-08-06T20:30:05.854Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Mildmay Line: No service between South Acton and Richmond while we fix a signal failure at Kew Gardens. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-08-06T20:20:06.174Z",
+   "to": "2026-08-07T00:15:02.246Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
   },
   {
    "line": "mildmay",
@@ -310414,7 +310387,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-05T13:15:01.943Z",
-   "to": "2026-10-05T19:30:07.043Z",
+   "to": "2026-10-05T20:15:02.257Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip, and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -312845,6 +312818,636 @@
    "lineName": "Bakerloo",
    "from": "2026-10-05T19:30:07.043Z",
    "to": "2026-10-05T19:30:07.043Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:30:15.902Z",
+   "to": "2026-10-05T19:30:15.902Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:30:15.902Z",
+   "to": "2026-10-05T19:30:15.902Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:30:17.849Z",
+   "to": "2026-10-05T19:30:17.849Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:30:17.849Z",
+   "to": "2026-10-05T19:30:17.849Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:30:18.257Z",
+   "to": "2026-10-05T19:30:18.257Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:30:18.257Z",
+   "to": "2026-10-05T19:30:18.257Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:35:02.000Z",
+   "to": "2026-10-05T19:35:02.000Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:35:02.000Z",
+   "to": "2026-10-05T19:35:02.000Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:35:03.697Z",
+   "to": "2026-10-05T19:35:03.697Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:35:03.697Z",
+   "to": "2026-10-05T19:35:03.697Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:35:05.531Z",
+   "to": "2026-10-05T19:35:05.531Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:35:05.531Z",
+   "to": "2026-10-05T19:35:05.531Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:35:05.940Z",
+   "to": "2026-10-05T19:35:05.940Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:35:05.940Z",
+   "to": "2026-10-05T19:35:05.940Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:40:06.960Z",
+   "to": "2026-10-05T19:40:06.960Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:40:06.960Z",
+   "to": "2026-10-05T19:40:06.960Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:40:12.530Z",
+   "to": "2026-10-05T19:40:12.530Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:40:12.530Z",
+   "to": "2026-10-05T19:40:12.530Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:40:14.303Z",
+   "to": "2026-10-05T19:40:14.303Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:40:14.303Z",
+   "to": "2026-10-05T19:40:14.303Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:40:14.650Z",
+   "to": "2026-10-05T19:40:14.650Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:40:14.650Z",
+   "to": "2026-10-05T19:40:14.650Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:45:01.973Z",
+   "to": "2026-10-05T19:45:01.973Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:45:01.973Z",
+   "to": "2026-10-05T19:45:01.973Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:45:04.243Z",
+   "to": "2026-10-05T19:45:04.243Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:45:04.243Z",
+   "to": "2026-10-05T19:45:04.243Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:45:06.206Z",
+   "to": "2026-10-05T19:45:06.206Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:45:06.206Z",
+   "to": "2026-10-05T19:45:06.206Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:45:06.536Z",
+   "to": "2026-10-05T19:45:06.536Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:45:06.536Z",
+   "to": "2026-10-05T19:45:06.536Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:50:06.866Z",
+   "to": "2026-10-05T19:50:06.866Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:50:06.866Z",
+   "to": "2026-10-05T19:50:06.866Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:50:08.895Z",
+   "to": "2026-10-05T19:50:08.895Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:50:08.895Z",
+   "to": "2026-10-05T19:50:08.895Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:50:10.727Z",
+   "to": "2026-10-05T19:50:10.727Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:50:10.727Z",
+   "to": "2026-10-05T19:50:10.727Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:50:11.058Z",
+   "to": "2026-10-05T19:50:11.058Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:50:11.058Z",
+   "to": "2026-10-05T19:50:11.058Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:55:01.901Z",
+   "to": "2026-10-05T19:55:01.901Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:55:01.901Z",
+   "to": "2026-10-05T19:55:01.901Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:55:03.548Z",
+   "to": "2026-10-05T19:55:03.548Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:55:03.548Z",
+   "to": "2026-10-05T19:55:03.548Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:55:05.246Z",
+   "to": "2026-10-05T19:55:05.246Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:55:05.246Z",
+   "to": "2026-10-05T19:55:05.246Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:55:05.595Z",
+   "to": "2026-10-05T19:55:05.595Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:55:05.595Z",
+   "to": "2026-10-05T19:55:05.595Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:00:06.607Z",
+   "to": "2026-10-05T20:00:06.607Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:00:06.607Z",
+   "to": "2026-10-05T20:00:06.607Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:00:08.356Z",
+   "to": "2026-10-05T20:00:08.356Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:00:08.356Z",
+   "to": "2026-10-05T20:00:08.356Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:00:10.027Z",
+   "to": "2026-10-05T20:00:10.027Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:00:10.027Z",
+   "to": "2026-10-05T20:00:10.027Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:00:10.435Z",
+   "to": "2026-10-05T20:00:10.435Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:00:10.435Z",
+   "to": "2026-10-05T20:00:10.435Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:05:01.844Z",
+   "to": "2026-10-05T20:05:01.844Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:05:01.844Z",
+   "to": "2026-10-05T20:05:01.844Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:05:03.461Z",
+   "to": "2026-10-05T20:05:03.461Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:05:03.461Z",
+   "to": "2026-10-05T20:05:03.461Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:05:05.161Z",
+   "to": "2026-10-05T20:05:05.161Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:05:05.161Z",
+   "to": "2026-10-05T20:05:05.161Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:05:05.490Z",
+   "to": "2026-10-05T20:05:05.490Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:05:05.490Z",
+   "to": "2026-10-05T20:05:05.490Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:10:08.691Z",
+   "to": "2026-10-05T20:10:08.691Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:10:08.691Z",
+   "to": "2026-10-05T20:10:08.691Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:10:10.298Z",
+   "to": "2026-10-05T20:10:10.298Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:10:10.298Z",
+   "to": "2026-10-05T20:10:10.298Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:10:11.998Z",
+   "to": "2026-10-05T20:10:11.998Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:10:11.998Z",
+   "to": "2026-10-05T20:10:11.998Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:10:12.359Z",
+   "to": "2026-10-05T20:10:12.359Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T20:10:12.359Z",
+   "to": "2026-10-05T20:10:12.359Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
