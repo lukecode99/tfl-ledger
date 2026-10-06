@@ -1,31 +1,22 @@
 {
- "generatedAt": "2026-10-06T04:20:08.668Z",
- "sinceISO": "2026-08-07T04:20:07.178Z",
+ "generatedAt": "2026-10-06T04:35:07.042Z",
+ "sinceISO": "2026-08-07T04:35:05.461Z",
  "coverage": [
   {
-   "from": "2026-08-07T04:25:02.858Z",
-   "to": "2026-10-06T04:20:06.950Z",
-   "polls": 18295
+   "from": "2026-08-07T04:40:05.030Z",
+   "to": "2026-10-06T04:35:05.234Z",
+   "polls": 18306
   }
  ],
  "spans": [
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-07T04:25:02.858Z",
+   "from": "2026-08-07T04:40:05.030Z",
    "to": "2026-08-07T05:00:11.630Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Jubilee Line: Severe delays southbound/eastbound only while we fix a signal system failure at Neasden. GOOD SERVICE northbound/westbound.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-07T04:25:02.858Z",
-   "to": "2026-08-07T04:55:02.152Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   },
   {
    "line": "metropolitan",
@@ -35,6 +26,15 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Rickmansworth and Chesham due to train cancellations, the next southbound train will be at 06:30. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-08-07T04:40:05.030Z",
+   "to": "2026-08-07T04:55:02.152Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   },
   {
    "line": "jubilee",
@@ -312970,7 +312970,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-05T23:35:02.178Z",
-   "to": "2026-10-06T04:20:06.950Z",
+   "to": "2026-10-06T04:35:05.234Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00. "
@@ -313339,10 +313339,19 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-06T04:20:06.950Z",
-   "to": "2026-10-06T04:20:06.950Z",
+   "to": "2026-10-06T04:35:05.234Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Ealing Broadway and Earl's Court eastbound only and between Earl's Court and Wimbledon both directions due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-06T04:35:05.234Z",
+   "to": "2026-10-06T04:35:05.234Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Kennington and Battersea Power Station while we fix a faulty train at Nine Elms. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
