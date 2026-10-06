@@ -1,36 +1,27 @@
 {
- "generatedAt": "2026-10-06T05:35:04.806Z",
- "sinceISO": "2026-08-07T05:35:03.169Z",
+ "generatedAt": "2026-10-06T05:45:04.184Z",
+ "sinceISO": "2026-08-07T05:45:02.674Z",
  "coverage": [
   {
-   "from": "2026-08-07T05:35:04.126Z",
-   "to": "2026-10-06T05:35:02.817Z",
-   "polls": 18341
+   "from": "2026-08-07T05:50:05.906Z",
+   "to": "2026-10-06T05:45:02.224Z",
+   "polls": 18346
   }
  ],
  "spans": [
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-07T05:35:04.126Z",
+   "from": "2026-08-07T05:50:05.906Z",
    "to": "2026-08-07T06:05:02.210Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays southbound/eastbound only due to an earlier signal system failure at Neasden. GOOD SERVICE northbound/westbound.  "
   },
   {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-07T05:35:04.126Z",
-   "to": "2026-08-07T05:35:04.126Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Rickmansworth and Chesham due to train cancellations, the next southbound train will be at 06:30. GOOD SERVICE on the rest of the line. "
-  },
-  {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-07T05:45:02.185Z",
+   "from": "2026-08-07T05:50:05.906Z",
    "to": "2026-08-07T07:05:02.221Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -313375,7 +313366,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-06T05:20:08.631Z",
-   "to": "2026-10-06T05:35:02.817Z",
+   "to": "2026-10-06T05:45:02.224Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -313384,7 +313375,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-06T05:25:01.815Z",
-   "to": "2026-10-06T05:35:02.817Z",
+   "to": "2026-10-06T05:40:10.685Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays from Watford / Amersham to Harrow-on-the-Hill Southbound only due to train cancellations. The next train to depart from Amersham will be at 06:49. GOOD SERVICE on the rest of the line. "
@@ -313393,10 +313384,19 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-06T05:35:02.817Z",
-   "to": "2026-10-06T05:35:02.817Z",
+   "to": "2026-10-06T05:40:10.685Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Northern Line: No service between Kennington and Battersea Power Station while we fix a faulty train at Nine Elms. London Underground tickets are being accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-06T05:45:02.224Z",
+   "to": "2026-10-06T05:45:02.224Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Battersea Power Station due to an earlier faulty train at Nine Elms. London Underground tickets are being accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
