@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-10-07T04:50:11.951Z",
- "sinceISO": "2026-08-08T04:50:10.412Z",
+ "generatedAt": "2026-10-07T05:00:10.615Z",
+ "sinceISO": "2026-08-08T05:00:09.085Z",
  "coverage": [
   {
-   "from": "2026-08-08T04:55:01.940Z",
-   "to": "2026-10-07T04:50:10.179Z",
-   "polls": 19177
+   "from": "2026-08-08T05:00:10.597Z",
+   "to": "2026-10-07T05:00:08.659Z",
+   "polls": 19184
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-08T04:55:01.940Z",
+   "from": "2026-08-08T05:00:10.597Z",
    "to": "2026-08-09T00:15:02.066Z",
    "severity": 5,
    "description": "Part Closure",
@@ -21,7 +21,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-08T04:55:01.940Z",
+   "from": "2026-08-08T05:00:10.597Z",
    "to": "2026-08-08T05:35:02.222Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -30,7 +30,7 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-08T04:55:01.940Z",
+   "from": "2026-08-08T05:00:10.597Z",
    "to": "2026-08-09T00:20:06.180Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -39,29 +39,11 @@
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-08-08T04:55:01.940Z",
+   "from": "2026-08-08T05:00:10.597Z",
    "to": "2026-08-08T05:05:02.002Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays between Camden Town and Edgware due to emergency engineering works. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T04:55:01.940Z",
-   "to": "2026-08-08T04:55:01.940Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T04:55:01.940Z",
-   "to": "2026-08-08T04:55:01.940Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
   },
   {
    "line": "waterloo-city",
@@ -311368,7 +311350,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-06T23:35:02.218Z",
-   "to": "2026-10-07T04:50:10.179Z",
+   "to": "2026-10-07T05:00:08.659Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00. "
@@ -311665,7 +311647,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-07T03:45:02.435Z",
-   "to": "2026-10-07T04:50:10.179Z",
+   "to": "2026-10-07T04:55:06.075Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "No service between Paddington and Reading / Heathrow Terminals due to a late finish of engineering work. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
@@ -311683,7 +311665,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-07T04:50:10.179Z",
-   "to": "2026-10-07T04:50:10.179Z",
+   "to": "2026-10-07T05:00:08.659Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line.  "
@@ -311692,10 +311674,28 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-07T04:50:10.179Z",
-   "to": "2026-10-07T04:50:10.179Z",
+   "to": "2026-10-07T05:00:08.659Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to train cancellations. London Underground tickets will be accepted on London buses, Weaver line, Suffragette line, Great Northern, Greater Anglia, South Western railways and Southeastern. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-07T05:00:08.659Z",
+   "to": "2026-10-07T05:00:08.659Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Paddington and Reading / Heathrow Terminals and MINOR DELAYS between Paddington and Abbey Wood eastbound only due to a late finish of engineering work. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-07T05:00:08.659Z",
+   "to": "2026-10-07T05:00:08.659Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Reading / Heathrow Terminals and MINOR DELAYS between Paddington and Abbey Wood eastbound only due to a late finish of engineering work. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
