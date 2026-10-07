@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-07T21:45:03.981Z",
- "sinceISO": "2026-08-08T21:45:02.360Z",
+ "generatedAt": "2026-10-07T22:31:13.413Z",
+ "sinceISO": "2026-08-08T22:31:11.264Z",
  "coverage": [
   {
-   "from": "2026-08-08T21:50:05.025Z",
+   "from": "2026-08-08T22:35:02.444Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 19367
+   "polls": 19358
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-07T21:45:02.118Z",
-   "polls": 431
+   "to": "2026-10-07T22:31:10.889Z",
+   "polls": 489
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-08T21:50:05.025Z",
+   "from": "2026-08-08T22:35:02.444Z",
    "to": "2026-08-09T00:15:02.066Z",
    "severity": 5,
    "description": "Part Closure",
@@ -31,7 +31,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-08T21:50:05.025Z",
+   "from": "2026-08-08T22:35:02.444Z",
    "to": "2026-08-08T22:40:04.548Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -40,16 +40,16 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-08T21:50:05.025Z",
-   "to": "2026-08-08T21:50:05.025Z",
+   "from": "2026-08-08T22:35:02.444Z",
+   "to": "2026-08-09T00:20:06.180Z",
    "severity": 6,
    "description": "Severe Delays",
-   "reason": "Jubilee Line: Severe delays due to an earlier fire alert at Wembley Park. Tickets will be accepted on London Buses, Mildmay line, Elizabeth line, C2C and DLR. "
+   "reason": "Jubilee Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, Mildmay line, Elizabeth line, C2C and DLR. "
   },
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-08T21:50:05.025Z",
+   "from": "2026-08-08T22:35:02.444Z",
    "to": "2026-08-09T00:20:06.180Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -58,7 +58,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-08T21:50:05.025Z",
+   "from": "2026-08-08T22:35:02.444Z",
    "to": "2026-08-09T00:15:02.066Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -67,7 +67,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-08T21:50:05.025Z",
+   "from": "2026-08-08T22:35:02.444Z",
    "to": "2026-08-08T22:45:01.667Z",
    "severity": 7,
    "description": "Reduced Service",
@@ -76,200 +76,11 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-08T21:50:05.025Z",
-   "to": "2026-08-08T21:50:05.025Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: Severe delays due to train cancellations. Tickets are accepted on London Buses, Greater Anglia, Weaver line, South Western Railway and Great Northern. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T21:50:05.025Z",
-   "to": "2026-08-08T21:50:05.025Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T21:50:05.025Z",
-   "to": "2026-08-08T21:50:05.025Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-08T21:50:05.025Z",
-   "to": "2026-08-08T22:10:06.701Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: Minor delays between New Cross and Surrey Quays and between Highbury & Islington and Crystal Palace due to train cancellations. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-08T21:55:02.052Z",
-   "to": "2026-08-09T00:20:06.180Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, Mildmay line, Elizabeth line, C2C and DLR. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-08-08T21:55:02.052Z",
+   "from": "2026-08-08T22:35:02.444Z",
    "to": "2026-08-08T23:00:10.977Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T21:55:02.052Z",
-   "to": "2026-08-08T21:55:02.052Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T21:55:02.052Z",
-   "to": "2026-08-08T21:55:02.052Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T22:00:16.863Z",
-   "to": "2026-08-08T22:00:16.863Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T22:00:16.863Z",
-   "to": "2026-08-08T22:00:16.863Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T22:05:01.839Z",
-   "to": "2026-08-08T22:05:01.839Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T22:05:01.839Z",
-   "to": "2026-08-08T22:05:01.839Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T22:10:06.701Z",
-   "to": "2026-08-08T22:10:06.701Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T22:10:06.701Z",
-   "to": "2026-08-08T22:10:06.701Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T22:15:02.160Z",
-   "to": "2026-08-08T22:15:02.160Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T22:15:02.160Z",
-   "to": "2026-08-08T22:15:02.160Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T22:20:04.077Z",
-   "to": "2026-08-08T22:20:04.077Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T22:20:04.077Z",
-   "to": "2026-08-08T22:20:04.077Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T22:25:02.281Z",
-   "to": "2026-08-08T22:25:02.281Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T22:25:02.281Z",
-   "to": "2026-08-08T22:25:02.281Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T22:30:06.916Z",
-   "to": "2026-08-08T22:30:06.916Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T22:30:06.916Z",
-   "to": "2026-08-08T22:30:06.916Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
   },
   {
    "line": "waterloo-city",
@@ -311387,7 +311198,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-07T17:25:02.894Z",
-   "to": "2026-10-07T21:45:02.118Z",
+   "to": "2026-10-07T22:31:10.889Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.\r\n "
@@ -312143,7 +311954,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-10-07T19:40:02.955Z",
-   "to": "2026-10-07T21:45:02.118Z",
+   "to": "2026-10-07T22:31:10.889Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Bakerloo Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway and Thameslink.  "
@@ -312152,7 +311963,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-10-07T21:45:02.118Z",
-   "to": "2026-10-07T21:45:02.118Z",
+   "to": "2026-10-07T22:30:11.632Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "MILDMAY LINE: Monday 5, Tuesday 6, Wednesday 7 and Thursday 8 October, the 2229 train from Stratford to Richmond will terminate at Camden Road at 2249"
@@ -312171,6 +311982,1050 @@
    "lineName": "Suffragette",
    "from": "2026-10-07T21:45:02.118Z",
    "to": "2026-10-07T21:45:02.118Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:45:12.284Z",
+   "to": "2026-10-07T21:45:12.284Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:45:12.284Z",
+   "to": "2026-10-07T21:45:12.284Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:45:15.678Z",
+   "to": "2026-10-07T21:45:15.678Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:45:15.678Z",
+   "to": "2026-10-07T21:45:15.678Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:45:55.977Z",
+   "to": "2026-10-07T21:45:55.977Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:45:55.977Z",
+   "to": "2026-10-07T21:45:55.977Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:45:59.437Z",
+   "to": "2026-10-07T21:45:59.437Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:45:59.437Z",
+   "to": "2026-10-07T21:45:59.437Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:45:59.757Z",
+   "to": "2026-10-07T21:45:59.757Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:45:59.757Z",
+   "to": "2026-10-07T21:45:59.757Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:50:02.402Z",
+   "to": "2026-10-07T21:50:02.402Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:50:02.402Z",
+   "to": "2026-10-07T21:50:02.402Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:50:08.864Z",
+   "to": "2026-10-07T21:50:08.864Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:50:08.864Z",
+   "to": "2026-10-07T21:50:08.864Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:50:09.332Z",
+   "to": "2026-10-07T21:50:09.332Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:50:09.332Z",
+   "to": "2026-10-07T21:50:09.332Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:51:06.602Z",
+   "to": "2026-10-07T21:51:06.602Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:51:06.602Z",
+   "to": "2026-10-07T21:51:06.602Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:51:10.087Z",
+   "to": "2026-10-07T21:51:10.087Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:51:10.087Z",
+   "to": "2026-10-07T21:51:10.087Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:51:13.490Z",
+   "to": "2026-10-07T21:51:13.490Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:51:13.490Z",
+   "to": "2026-10-07T21:51:13.490Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:55:03.687Z",
+   "to": "2026-10-07T21:55:03.687Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:55:03.687Z",
+   "to": "2026-10-07T21:55:03.687Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:55:07.211Z",
+   "to": "2026-10-07T21:55:07.211Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:55:07.211Z",
+   "to": "2026-10-07T21:55:07.211Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:55:10.628Z",
+   "to": "2026-10-07T21:55:10.628Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:55:10.628Z",
+   "to": "2026-10-07T21:55:10.628Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:56:11.268Z",
+   "to": "2026-10-07T21:56:11.268Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:56:11.268Z",
+   "to": "2026-10-07T21:56:11.268Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:56:14.769Z",
+   "to": "2026-10-07T21:56:14.769Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:56:14.769Z",
+   "to": "2026-10-07T21:56:14.769Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:56:15.093Z",
+   "to": "2026-10-07T21:56:15.093Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T21:56:15.093Z",
+   "to": "2026-10-07T21:56:15.093Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:00:03.580Z",
+   "to": "2026-10-07T22:00:03.580Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:00:03.580Z",
+   "to": "2026-10-07T22:00:03.580Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:00:07.023Z",
+   "to": "2026-10-07T22:00:07.023Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:00:07.023Z",
+   "to": "2026-10-07T22:00:07.023Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:00:07.345Z",
+   "to": "2026-10-07T22:00:07.345Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:00:07.345Z",
+   "to": "2026-10-07T22:00:07.345Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:00:20.142Z",
+   "to": "2026-10-07T22:00:20.142Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:00:20.142Z",
+   "to": "2026-10-07T22:00:20.142Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:00:23.647Z",
+   "to": "2026-10-07T22:00:23.647Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:00:23.647Z",
+   "to": "2026-10-07T22:00:23.647Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:00:27.083Z",
+   "to": "2026-10-07T22:00:27.083Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:00:27.083Z",
+   "to": "2026-10-07T22:00:27.083Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:05:05.354Z",
+   "to": "2026-10-07T22:05:05.354Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:05:05.354Z",
+   "to": "2026-10-07T22:05:05.354Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:05:08.791Z",
+   "to": "2026-10-07T22:05:08.791Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:05:08.791Z",
+   "to": "2026-10-07T22:05:08.791Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:05:12.215Z",
+   "to": "2026-10-07T22:05:12.215Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:05:12.215Z",
+   "to": "2026-10-07T22:05:12.215Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:05:25.505Z",
+   "to": "2026-10-07T22:05:25.505Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:05:25.505Z",
+   "to": "2026-10-07T22:05:25.505Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:05:28.871Z",
+   "to": "2026-10-07T22:05:28.871Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:05:28.871Z",
+   "to": "2026-10-07T22:05:28.871Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:05:29.386Z",
+   "to": "2026-10-07T22:05:29.386Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:05:29.386Z",
+   "to": "2026-10-07T22:05:29.386Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:10:00.297Z",
+   "to": "2026-10-07T22:10:00.297Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:10:00.297Z",
+   "to": "2026-10-07T22:10:00.297Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:10:04.224Z",
+   "to": "2026-10-07T22:10:04.224Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:10:04.224Z",
+   "to": "2026-10-07T22:10:04.224Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:10:07.602Z",
+   "to": "2026-10-07T22:10:07.602Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:10:07.602Z",
+   "to": "2026-10-07T22:10:07.602Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:10:07.933Z",
+   "to": "2026-10-07T22:10:07.933Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:10:07.933Z",
+   "to": "2026-10-07T22:10:07.933Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:10:40.115Z",
+   "to": "2026-10-07T22:10:40.115Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:10:40.115Z",
+   "to": "2026-10-07T22:10:40.115Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:10:43.521Z",
+   "to": "2026-10-07T22:10:43.521Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:10:43.521Z",
+   "to": "2026-10-07T22:10:43.521Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:15:07.227Z",
+   "to": "2026-10-07T22:15:07.227Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:15:07.227Z",
+   "to": "2026-10-07T22:15:07.227Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:15:11.001Z",
+   "to": "2026-10-07T22:15:11.001Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:15:11.001Z",
+   "to": "2026-10-07T22:15:11.001Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:15:36.613Z",
+   "to": "2026-10-07T22:15:36.613Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:15:36.613Z",
+   "to": "2026-10-07T22:15:36.613Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:15:40.145Z",
+   "to": "2026-10-07T22:15:40.145Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:15:40.145Z",
+   "to": "2026-10-07T22:15:40.145Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:15:43.572Z",
+   "to": "2026-10-07T22:15:43.572Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:15:43.572Z",
+   "to": "2026-10-07T22:15:43.572Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:15:44.083Z",
+   "to": "2026-10-07T22:15:44.083Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:15:44.083Z",
+   "to": "2026-10-07T22:15:44.083Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:20:02.850Z",
+   "to": "2026-10-07T22:20:02.850Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:20:02.850Z",
+   "to": "2026-10-07T22:20:02.850Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:20:06.586Z",
+   "to": "2026-10-07T22:20:06.586Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:20:06.586Z",
+   "to": "2026-10-07T22:20:06.586Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:20:10.116Z",
+   "to": "2026-10-07T22:20:10.116Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:20:10.116Z",
+   "to": "2026-10-07T22:20:10.116Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:20:10.462Z",
+   "to": "2026-10-07T22:20:10.462Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:20:10.462Z",
+   "to": "2026-10-07T22:20:10.462Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:21:12.405Z",
+   "to": "2026-10-07T22:21:12.405Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:21:12.405Z",
+   "to": "2026-10-07T22:21:12.405Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:21:15.916Z",
+   "to": "2026-10-07T22:21:15.916Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:21:15.916Z",
+   "to": "2026-10-07T22:21:15.916Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:25:08.346Z",
+   "to": "2026-10-07T22:25:08.346Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:25:08.346Z",
+   "to": "2026-10-07T22:25:08.346Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:25:11.905Z",
+   "to": "2026-10-07T22:25:11.905Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:25:11.905Z",
+   "to": "2026-10-07T22:25:11.905Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:25:55.741Z",
+   "to": "2026-10-07T22:25:55.741Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:25:55.741Z",
+   "to": "2026-10-07T22:25:55.741Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:25:59.101Z",
+   "to": "2026-10-07T22:25:59.101Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:25:59.101Z",
+   "to": "2026-10-07T22:25:59.101Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:26:02.558Z",
+   "to": "2026-10-07T22:26:02.558Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:26:02.558Z",
+   "to": "2026-10-07T22:26:02.558Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:26:03.045Z",
+   "to": "2026-10-07T22:26:03.045Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:26:03.045Z",
+   "to": "2026-10-07T22:26:03.045Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:30:04.143Z",
+   "to": "2026-10-07T22:30:04.143Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:30:04.143Z",
+   "to": "2026-10-07T22:30:04.143Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:30:07.628Z",
+   "to": "2026-10-07T22:30:07.628Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:30:07.628Z",
+   "to": "2026-10-07T22:30:07.628Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:30:11.299Z",
+   "to": "2026-10-07T22:30:11.299Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:30:11.299Z",
+   "to": "2026-10-07T22:30:11.299Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:30:11.632Z",
+   "to": "2026-10-07T22:30:11.632Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:30:11.632Z",
+   "to": "2026-10-07T22:30:11.632Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:31:10.889Z",
+   "to": "2026-10-07T22:31:10.889Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-07T22:31:10.889Z",
+   "to": "2026-10-07T22:31:10.889Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Suffragette Line: Severe delays between Barking and Barking Riverside, and MINOR DELAYS on the rest of the line due to a faulty freight train.  "
