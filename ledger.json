@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-07T14:10:06.413Z",
- "sinceISO": "2026-08-08T14:10:04.191Z",
+ "generatedAt": "2026-10-07T14:35:04.578Z",
+ "sinceISO": "2026-08-08T14:35:02.307Z",
  "coverage": [
   {
-   "from": "2026-08-08T14:10:06.374Z",
+   "from": "2026-08-08T14:40:03.927Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 19459
+   "polls": 19453
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,42 +14,51 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-07T14:10:02.439Z",
-   "polls": 6
+   "to": "2026-10-07T14:35:02.081Z",
+   "polls": 26
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-08T14:10:06.374Z",
+   "from": "2026-08-08T14:40:03.927Z",
    "to": "2026-08-09T00:15:02.066Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "BAKERLOO LINE: Saturday 8 and Sunday 9 August, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. Use LONDON NORTHWESTERN RAILWAY services between Euston and Harrow & Wealdstone, or SOUTHERN services, where available, between Wembley Central and Harrow & Wealdstone. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green, Willesden Junction (Harrow Road), Harlesden (Jubilee Clock / Manor Park Road), Stonebridge Park (Harrow Road), Wembley Central (Park Lane and Station), North Wembley, Preston Road (for Metropolitan line and South Kenton) and Kenton."
   },
   {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-08-08T14:40:03.927Z",
+   "to": "2026-08-08T14:40:03.927Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: No service between Willesden Green and Stanmore while we respond to a fire alert at Wembley Park. Tickets are accepted on London Buses via reasonable routes. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-08-08T14:40:03.927Z",
+   "to": "2026-08-08T14:40:03.927Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Willesden Green and Stanmore while we respond to a fire alert at Wembley Park. Tickets are accepted on London Buses via reasonable routes. MINOR DELAYS on the rest of the line.  "
+  },
+  {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-08T14:10:06.374Z",
+   "from": "2026-08-08T14:40:03.927Z",
    "to": "2026-08-09T00:20:06.180Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "LIONESS LINE: Saturday 8 and Sunday 9 August, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. Use LONDON NORTHWESTERN RAILWAY services between Euston and Watford Junction or SOUTHERN services, where available, between Wembley Central and Watford Junction. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green, Willesden Junction (Harrow Road), Harlesden (Jubilee Clock / Manor Park Road), Stonebridge Park (Harrow Road), Wembley Central (Park Lane and Station), North Wembley, Preston Road (for Metropolitan line and South Kenton) and Kenton. Special bus service 720 operates between Harrow-on-the-Hill (for Metropolitan line) and Watford Junction via Harrow & Wealdstone, Headstone Lane (Long Elmes), Hatch End (Harrow Arts Centre), Carpenders Park (Prestwick Road), Bushey (Eastbury Road) and Watford High Street. Some early Sunday morning LONDON NORTHWESTERN RAILWAY trains are replaced by buses. The 0639 and 0710 Milton Keynes Central to London Euston services, and the 0655 London Euston to Northampton service will not run. Rail replacement buses will operate between London Euston and Milton Keynes Central / Northampton."
   },
   {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-08T14:10:06.374Z",
-   "to": "2026-08-08T14:35:02.174Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-08T14:10:06.374Z",
+   "from": "2026-08-08T14:40:03.927Z",
    "to": "2026-08-08T16:30:05.583Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -58,8 +67,8 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-08T14:10:06.374Z",
-   "to": "2026-08-08T14:10:06.374Z",
+   "from": "2026-08-08T14:40:03.927Z",
+   "to": "2026-08-08T14:40:03.927Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -67,8 +76,8 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-08T14:10:06.374Z",
-   "to": "2026-08-08T14:10:06.374Z",
+   "from": "2026-08-08T14:40:03.927Z",
+   "to": "2026-08-08T14:40:03.927Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
@@ -76,173 +85,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-08T14:10:06.374Z",
+   "from": "2026-08-08T14:40:03.927Z",
    "to": "2026-08-08T15:15:02.163Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays between New Cross and Surrey Quays due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T14:15:02.060Z",
-   "to": "2026-08-08T14:15:02.060Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T14:15:02.060Z",
-   "to": "2026-08-08T14:15:02.060Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T14:20:06.013Z",
-   "to": "2026-08-08T14:20:06.013Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T14:20:06.013Z",
-   "to": "2026-08-08T14:20:06.013Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T14:25:01.883Z",
-   "to": "2026-08-08T14:25:01.883Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T14:25:01.883Z",
-   "to": "2026-08-08T14:25:01.883Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-08T14:30:05.086Z",
-   "to": "2026-08-08T14:30:05.086Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Jubilee Line: No service between Willesden Green and Stanmore while we respond to a fire alert at Wembley Park. Tickets are accepted on London Buses via reasonable routes. MINOR DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-08T14:30:05.086Z",
-   "to": "2026-08-08T14:30:05.086Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Willesden Green and Stanmore while we respond to a fire alert at Wembley Park. Tickets are accepted on London Buses via reasonable routes. MINOR DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T14:30:05.086Z",
-   "to": "2026-08-08T14:30:05.086Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T14:30:05.086Z",
-   "to": "2026-08-08T14:30:05.086Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-08T14:35:02.174Z",
-   "to": "2026-08-08T14:35:02.174Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Jubilee Line: No service between Willesden Green and Stanmore while we respond to a fire alert at Wembley Park. Tickets are accepted on London Buses via reasonable routes. MINOR DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-08T14:35:02.174Z",
-   "to": "2026-08-08T14:35:02.174Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Willesden Green and Stanmore while we respond to a fire alert at Wembley Park. Tickets are accepted on London Buses via reasonable routes. MINOR DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T14:35:02.174Z",
-   "to": "2026-08-08T14:35:02.174Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T14:35:02.174Z",
-   "to": "2026-08-08T14:35:02.174Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-08T14:40:03.927Z",
-   "to": "2026-08-08T14:40:03.927Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Jubilee Line: No service between Willesden Green and Stanmore while we respond to a fire alert at Wembley Park. Tickets are accepted on London Buses via reasonable routes. MINOR DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-08T14:40:03.927Z",
-   "to": "2026-08-08T14:40:03.927Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Willesden Green and Stanmore while we respond to a fire alert at Wembley Park. Tickets are accepted on London Buses via reasonable routes. MINOR DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T14:40:03.927Z",
-   "to": "2026-08-08T14:40:03.927Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-08T14:40:03.927Z",
-   "to": "2026-08-08T14:40:03.927Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
   },
   {
    "line": "jubilee",
@@ -313385,7 +313232,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-07T14:10:02.439Z",
+   "to": "2026-10-07T14:35:02.081Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays due to train cancellations. "
@@ -313394,7 +313241,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-07T14:10:02.439Z",
+   "to": "2026-10-07T14:35:02.081Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations.\r\n "
@@ -313403,7 +313250,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-07T14:10:02.439Z",
+   "to": "2026-10-07T14:35:02.081Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals due to an earlier signal failure at Boston Manor. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, Elizabeth Line and South Western Railway. "
@@ -313412,10 +313259,19 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-10-07T14:10:02.439Z",
-   "to": "2026-10-07T14:10:02.439Z",
+   "to": "2026-10-07T14:35:02.081Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-07T14:35:02.081Z",
+   "to": "2026-10-07T14:35:02.081Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Minor delays between Gidea Park and Shenfield while we fix a track fault at Shenfield. GOOD SERVICE on the rest of the line.  "
   }
  ]
 }
