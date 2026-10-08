@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-08T03:20:10.592Z",
- "sinceISO": "2026-08-09T03:20:08.399Z",
+ "generatedAt": "2026-10-08T03:30:14.036Z",
+ "sinceISO": "2026-08-09T03:30:11.579Z",
  "coverage": [
   {
-   "from": "2026-08-09T03:25:01.919Z",
+   "from": "2026-08-09T03:35:02.106Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 19300
+   "polls": 19298
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-08T03:20:08.183Z",
-   "polls": 840
+   "to": "2026-10-08T03:30:11.331Z",
+   "polls": 854
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-09T03:25:01.919Z",
+   "from": "2026-08-09T03:35:02.106Z",
    "to": "2026-08-09T20:35:02.286Z",
    "severity": 5,
    "description": "Part Closure",
@@ -31,29 +31,11 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-09T03:25:01.919Z",
+   "from": "2026-08-09T03:35:02.106Z",
    "to": "2026-08-09T23:55:01.868Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "LIONESS LINE: Saturday 8 and Sunday 9 August, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. Use LONDON NORTHWESTERN RAILWAY services between Euston and Watford Junction or SOUTHERN services, where available, between Wembley Central and Watford Junction. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green, Willesden Junction (Harrow Road), Harlesden (Jubilee Clock / Manor Park Road), Stonebridge Park (Harrow Road), Wembley Central (Park Lane and Station), North Wembley, Preston Road (for Metropolitan line and South Kenton) and Kenton. Special bus service 720 operates between Harrow-on-the-Hill (for Metropolitan line) and Watford Junction via Harrow & Wealdstone, Headstone Lane (Long Elmes), Hatch End (Harrow Arts Centre), Carpenders Park (Prestwick Road), Bushey (Eastbury Road) and Watford High Street. Some early Sunday morning LONDON NORTHWESTERN RAILWAY trains are replaced by buses. The 0639 and 0710 Milton Keynes Central to London Euston services, and the 0655 London Euston to Northampton service will not run. Rail replacement buses will operate between London Euston and Milton Keynes Central / Northampton."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-09T03:25:01.919Z",
-   "to": "2026-08-09T23:45:03.259Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T03:25:01.919Z",
-   "to": "2026-08-09T15:15:02.318Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
   },
   {
    "line": "mildmay",
@@ -72,6 +54,24 @@
    "severity": 4,
    "description": "Planned Closure",
    "reason": "SUFFRAGETTE LINE: Sunday 9 August, until 0945, no service between Gospel Oak and Barking Riverside. Use local buses between South Tottenham and Barking via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to Barking 0954; Barking to Gospel Oak 0938"
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-08-09T03:35:02.106Z",
+   "to": "2026-08-09T23:45:03.259Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-08-09T03:35:02.106Z",
+   "to": "2026-08-09T15:15:02.318Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
   },
   {
    "line": "jubilee",
@@ -311711,7 +311711,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-07T23:35:04.143Z",
-   "to": "2026-10-08T03:20:08.183Z",
+   "to": "2026-10-08T03:30:11.331Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00. "
@@ -311877,6 +311877,15 @@
    "severity": 20,
    "description": "Service Closed",
    "reason": "Victoria Line: Service will resume later this morning. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-08T03:30:11.331Z",
+   "to": "2026-10-08T03:30:11.331Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway / Richmond / Edgware Road / Wimbledon / Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line.  "
   }
  ]
 }
