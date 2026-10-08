@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-08T19:00:15.623Z",
- "sinceISO": "2026-08-09T19:00:13.169Z",
+ "generatedAt": "2026-10-08T20:01:15.828Z",
+ "sinceISO": "2026-08-09T20:01:13.464Z",
  "coverage": [
   {
-   "from": "2026-08-09T19:05:02.568Z",
+   "from": "2026-08-09T20:05:02.154Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 19113
+   "polls": 19101
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-08T19:00:12.743Z",
-   "polls": 2155
+   "to": "2026-10-08T20:01:13.224Z",
+   "polls": 2241
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-09T19:05:02.568Z",
+   "from": "2026-08-09T20:05:02.154Z",
    "to": "2026-08-09T20:35:02.286Z",
    "severity": 5,
    "description": "Part Closure",
@@ -31,8 +31,8 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-09T19:05:02.568Z",
-   "to": "2026-08-09T19:30:05.896Z",
+   "from": "2026-08-09T20:05:02.154Z",
+   "to": "2026-08-09T21:55:01.863Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -40,7 +40,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-09T19:05:02.568Z",
+   "from": "2026-08-09T20:05:02.154Z",
    "to": "2026-08-09T20:05:02.154Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -49,353 +49,38 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-09T19:05:02.568Z",
+   "from": "2026-08-09T20:05:02.154Z",
    "to": "2026-08-09T23:55:01.868Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "LIONESS LINE: Saturday 8 and Sunday 9 August, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. Use LONDON NORTHWESTERN RAILWAY services between Euston and Watford Junction or SOUTHERN services, where available, between Wembley Central and Watford Junction. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green, Willesden Junction (Harrow Road), Harlesden (Jubilee Clock / Manor Park Road), Stonebridge Park (Harrow Road), Wembley Central (Park Lane and Station), North Wembley, Preston Road (for Metropolitan line and South Kenton) and Kenton. Special bus service 720 operates between Harrow-on-the-Hill (for Metropolitan line) and Watford Junction via Harrow & Wealdstone, Headstone Lane (Long Elmes), Hatch End (Harrow Arts Centre), Carpenders Park (Prestwick Road), Bushey (Eastbury Road) and Watford High Street. Some early Sunday morning LONDON NORTHWESTERN RAILWAY trains are replaced by buses. The 0639 and 0710 Milton Keynes Central to London Euston services, and the 0655 London Euston to Northampton service will not run. Rail replacement buses will operate between London Euston and Milton Keynes Central / Northampton."
   },
   {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-09T19:05:02.568Z",
-   "to": "2026-08-09T19:15:04.229Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Amersham and Moor park due to train cancellations. GOOD SERVICE on the rest of the line "
-  },
-  {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-09T19:05:02.568Z",
+   "from": "2026-08-09T20:05:02.154Z",
    "to": "2026-08-09T23:55:01.868Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "MILDMAY LINE: Sunday 9 August, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes, with additional Southern Railway services. Southern Railway services will terminate at Shepherd's Bush until 1200. Please note that on this day, there will be no step-free access via the Grant Road entrance, please use the Brighton Yard entrance instead. In addition, the 0848 Willesden Junction to Clapham Junction, 0915 Gospel Oak to Clapham Junction and 0956 Camden Road to Clapham Junction trains all start at Willesden Junction. The 0951 Camden Road to Richmond train does not run."
   },
   {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-09T19:05:02.568Z",
-   "to": "2026-08-09T23:45:03.259Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:05:02.568Z",
-   "to": "2026-08-09T19:05:02.568Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:05:02.568Z",
-   "to": "2026-08-09T19:05:02.568Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Clapham Junction and Wandsworth Road due to planned engineering work. SEVERE DELAYS between Surrey Quays and Battersea Park due to train cancellations. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:10:04.990Z",
-   "to": "2026-08-09T19:10:04.990Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:10:04.990Z",
-   "to": "2026-08-09T19:10:04.990Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Clapham Junction and Wandsworth Road due to planned engineering work. SEVERE DELAYS between Surrey Quays and Battersea Park due to train cancellations. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:15:04.229Z",
-   "to": "2026-08-09T19:15:04.229Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:15:04.229Z",
-   "to": "2026-08-09T19:15:04.229Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Clapham Junction and Wandsworth Road due to planned engineering work. SEVERE DELAYS between Surrey Quays and Battersea Park due to train cancellations. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-09T19:20:05.062Z",
-   "to": "2026-08-09T20:00:11.125Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Moor park and Amersham / Chesham due to train cancellations. The next southbound Amersham train will be at 20:52. The next southbound Chesham train will be at 21:00. GOOD SERVICE on the rest of the line "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:20:05.062Z",
-   "to": "2026-08-09T19:20:05.062Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:20:05.062Z",
-   "to": "2026-08-09T19:20:05.062Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Clapham Junction and Wandsworth Road due to planned engineering work. SEVERE DELAYS between Surrey Quays and Battersea Park due to train cancellations. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:25:02.155Z",
-   "to": "2026-08-09T19:25:02.155Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:25:02.155Z",
-   "to": "2026-08-09T19:25:02.155Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Clapham Junction and Wandsworth Road due to planned engineering work. SEVERE DELAYS between Surrey Quays and Battersea Park due to train cancellations. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:30:05.896Z",
-   "to": "2026-08-09T19:30:05.896Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:30:05.896Z",
-   "to": "2026-08-09T19:30:05.896Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Clapham Junction and Wandsworth Road due to planned engineering work. SEVERE DELAYS between Surrey Quays and Battersea Park due to train cancellations. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-09T19:35:02.060Z",
-   "to": "2026-08-09T19:35:02.060Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Leytonstone and Epping/ Hainault via Newbury Park and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-09T19:35:02.060Z",
-   "to": "2026-08-09T19:35:02.060Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Leytonstone and Epping/ Hainault via Newbury Park and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:35:02.060Z",
-   "to": "2026-08-09T19:35:02.060Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:35:02.060Z",
-   "to": "2026-08-09T19:35:02.060Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Clapham Junction and Wandsworth Road due to planned engineering work. SEVERE DELAYS between Surrey Quays and Battersea Park due to train cancellations. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-09T19:40:08.594Z",
-   "to": "2026-08-09T19:40:08.594Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Leytonstone and Epping/ Hainault via Newbury Park and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-09T19:40:08.594Z",
-   "to": "2026-08-09T19:40:08.594Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Leytonstone and Epping/ Hainault via Newbury Park and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:40:08.594Z",
-   "to": "2026-08-09T19:40:08.594Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:40:08.594Z",
-   "to": "2026-08-09T19:40:08.594Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Clapham Junction and Wandsworth Road due to planned engineering work. SEVERE DELAYS between Surrey Quays and Battersea Park due to train cancellations. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-09T19:45:02.427Z",
-   "to": "2026-08-09T19:45:02.427Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Leytonstone and Epping/ Hainault via Newbury Park and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-09T19:45:02.427Z",
-   "to": "2026-08-09T19:45:02.427Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Leytonstone and Epping/ Hainault via Newbury Park and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:45:02.427Z",
-   "to": "2026-08-09T19:45:02.427Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:45:02.427Z",
-   "to": "2026-08-09T19:45:02.427Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Clapham Junction and Wandsworth Road due to planned engineering work. SEVERE DELAYS between Surrey Quays and Battersea Park due to train cancellations. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-09T19:50:04.332Z",
-   "to": "2026-08-09T19:50:04.332Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Leytonstone and Epping/ Hainault via Newbury Park and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-09T19:50:04.332Z",
-   "to": "2026-08-09T19:50:04.332Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Leytonstone and Epping/ Hainault via Newbury Park and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:50:04.332Z",
-   "to": "2026-08-09T19:50:04.332Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:50:04.332Z",
-   "to": "2026-08-09T19:50:04.332Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Clapham Junction and Wandsworth Road due to planned engineering work. SEVERE DELAYS between Surrey Quays and Battersea Park due to train cancellations. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-09T19:55:01.956Z",
-   "to": "2026-08-09T21:55:01.863Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:55:01.956Z",
-   "to": "2026-08-09T19:55:01.956Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T19:55:01.956Z",
-   "to": "2026-08-09T19:55:01.956Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Clapham Junction and Wandsworth Road due to planned engineering work. SEVERE DELAYS between Surrey Quays and Battersea Park due to train cancellations. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
-  },
-  {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-08-09T20:00:11.125Z",
+   "from": "2026-08-09T20:05:02.154Z",
    "to": "2026-08-09T21:55:01.863Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays between Camden Town and Kennington via Bank due to an earlier customer incident at London Bridge. GOOD SERVICE on the rest of the line. "
   },
   {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T20:00:11.125Z",
-   "to": "2026-08-09T20:00:11.125Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T20:00:11.125Z",
-   "to": "2026-08-09T20:00:11.125Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Clapham Junction and Wandsworth Road due to planned engineering work. SEVERE DELAYS between Surrey Quays and Battersea Park due to train cancellations. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-08-09T20:05:02.154Z",
+   "to": "2026-08-09T23:45:03.259Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
   },
   {
    "line": "windrush",
@@ -319901,7 +319586,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-10-08T16:06:43.992Z",
-   "to": "2026-10-08T19:00:12.743Z",
+   "to": "2026-10-08T20:01:13.224Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays due to train cancellations.  "
@@ -319991,7 +319676,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-08T16:10:42.896Z",
-   "to": "2026-10-08T19:00:12.743Z",
+   "to": "2026-10-08T20:01:13.224Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays due to an earlier signal failure at Stockwell. Tickets are being accepted on London Buses, Thameslink, Great Northern, South Western Railway and London Trams. "
@@ -320045,7 +319730,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-08T19:00:12.743Z",
-   "to": "2026-10-08T19:00:12.743Z",
+   "to": "2026-10-08T20:01:13.224Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Minor delays due to an earlier faulty train at Stratford.  "
