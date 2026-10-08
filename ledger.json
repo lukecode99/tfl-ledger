@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-08T23:15:04.674Z",
- "sinceISO": "2026-08-09T23:15:02.493Z",
+ "generatedAt": "2026-10-08T23:30:25.470Z",
+ "sinceISO": "2026-08-09T23:30:22.897Z",
  "coverage": [
   {
-   "from": "2026-08-09T23:15:02.644Z",
+   "from": "2026-08-09T23:35:02.678Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 19063
+   "polls": 19059
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,16 +14,16 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-08T23:15:02.227Z",
-   "polls": 2510
+   "to": "2026-10-08T23:30:22.658Z",
+   "polls": 2531
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-09T23:15:02.644Z",
-   "to": "2026-08-09T23:15:02.644Z",
+   "from": "2026-08-09T23:35:02.678Z",
+   "to": "2026-08-09T23:35:02.678Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "BAKERLOO LINE: Saturday 8 and Sunday 9 August, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. Use LONDON NORTHWESTERN RAILWAY services between Euston and Harrow & Wealdstone, or SOUTHERN services, where available, between Wembley Central and Harrow & Wealdstone. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green, Willesden Junction (Harrow Road), Harlesden (Jubilee Clock / Manor Park Road), Stonebridge Park (Harrow Road), Wembley Central (Park Lane and Station), North Wembley, Preston Road (for Metropolitan line and South Kenton) and Kenton."
@@ -31,8 +31,8 @@
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-09T23:15:02.644Z",
-   "to": "2026-08-09T23:15:02.644Z",
+   "from": "2026-08-09T23:35:02.678Z",
+   "to": "2026-08-09T23:35:02.678Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: No service between Queens Park and Harrow & Wealdstone due to planned engineering work. MINOR DELAYS on the rest of the line due to train cancellations. "
@@ -40,7 +40,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-09T23:15:02.644Z",
+   "from": "2026-08-09T23:35:02.678Z",
    "to": "2026-08-09T23:45:03.259Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -49,16 +49,25 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-09T23:15:02.644Z",
+   "from": "2026-08-09T23:35:02.678Z",
    "to": "2026-08-09T23:45:03.259Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays due to train cancellations. "
   },
   {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-08-09T23:35:02.678Z",
+   "to": "2026-08-09T23:45:03.259Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Minor delays between Paddington and Heathrow Terminals due to flooding. GOOD SERVICE on the rest of the line. "
+  },
+  {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-09T23:15:02.644Z",
+   "from": "2026-08-09T23:35:02.678Z",
    "to": "2026-08-09T23:55:01.868Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -67,7 +76,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-09T23:15:02.644Z",
+   "from": "2026-08-09T23:35:02.678Z",
    "to": "2026-08-09T23:55:01.868Z",
    "severity": 7,
    "description": "Reduced Service",
@@ -76,7 +85,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-09T23:15:02.644Z",
+   "from": "2026-08-09T23:35:02.678Z",
    "to": "2026-08-09T23:45:03.259Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -85,7 +94,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-09T23:15:02.644Z",
+   "from": "2026-08-09T23:35:02.678Z",
    "to": "2026-08-09T23:45:03.259Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -94,92 +103,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-09T23:15:02.644Z",
+   "from": "2026-08-09T23:35:02.678Z",
    "to": "2026-08-09T23:55:01.868Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-09T23:20:04.527Z",
-   "to": "2026-08-09T23:20:04.527Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "BAKERLOO LINE: Saturday 8 and Sunday 9 August, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. Use LONDON NORTHWESTERN RAILWAY services between Euston and Harrow & Wealdstone, or SOUTHERN services, where available, between Wembley Central and Harrow & Wealdstone. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green, Willesden Junction (Harrow Road), Harlesden (Jubilee Clock / Manor Park Road), Stonebridge Park (Harrow Road), Wembley Central (Park Lane and Station), North Wembley, Preston Road (for Metropolitan line and South Kenton) and Kenton."
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-09T23:20:04.527Z",
-   "to": "2026-08-09T23:20:04.527Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: No service between Queens Park and Harrow & Wealdstone due to planned engineering work. MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-09T23:20:04.527Z",
-   "to": "2026-08-09T23:45:03.259Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Minor delays between Paddington and Heathrow Terminals due to flooding. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-09T23:25:02.337Z",
-   "to": "2026-08-09T23:25:02.337Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "BAKERLOO LINE: Saturday 8 and Sunday 9 August, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. Use LONDON NORTHWESTERN RAILWAY services between Euston and Harrow & Wealdstone, or SOUTHERN services, where available, between Wembley Central and Harrow & Wealdstone. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green, Willesden Junction (Harrow Road), Harlesden (Jubilee Clock / Manor Park Road), Stonebridge Park (Harrow Road), Wembley Central (Park Lane and Station), North Wembley, Preston Road (for Metropolitan line and South Kenton) and Kenton."
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-09T23:25:02.337Z",
-   "to": "2026-08-09T23:25:02.337Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: No service between Queens Park and Harrow & Wealdstone due to planned engineering work. MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-09T23:30:05.718Z",
-   "to": "2026-08-09T23:30:05.718Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "BAKERLOO LINE: Saturday 8 and Sunday 9 August, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. Use LONDON NORTHWESTERN RAILWAY services between Euston and Harrow & Wealdstone, or SOUTHERN services, where available, between Wembley Central and Harrow & Wealdstone. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green, Willesden Junction (Harrow Road), Harlesden (Jubilee Clock / Manor Park Road), Stonebridge Park (Harrow Road), Wembley Central (Park Lane and Station), North Wembley, Preston Road (for Metropolitan line and South Kenton) and Kenton."
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-09T23:30:05.718Z",
-   "to": "2026-08-09T23:30:05.718Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: No service between Queens Park and Harrow & Wealdstone due to planned engineering work. MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-09T23:35:02.678Z",
-   "to": "2026-08-09T23:35:02.678Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "BAKERLOO LINE: Saturday 8 and Sunday 9 August, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. Use LONDON NORTHWESTERN RAILWAY services between Euston and Harrow & Wealdstone, or SOUTHERN services, where available, between Wembley Central and Harrow & Wealdstone. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green, Willesden Junction (Harrow Road), Harlesden (Jubilee Clock / Manor Park Road), Stonebridge Park (Harrow Road), Wembley Central (Park Lane and Station), North Wembley, Preston Road (for Metropolitan line and South Kenton) and Kenton."
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-09T23:35:02.678Z",
-   "to": "2026-08-09T23:35:02.678Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: No service between Queens Park and Harrow & Wealdstone due to planned engineering work. MINOR DELAYS on the rest of the line due to train cancellations. "
   },
   {
    "line": "bakerloo",
@@ -318776,7 +318704,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-10-08T16:06:43.992Z",
-   "to": "2026-10-08T23:15:02.227Z",
+   "to": "2026-10-08T23:30:22.658Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays due to train cancellations.  "
@@ -318866,7 +318794,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-08T16:10:42.896Z",
-   "to": "2026-10-08T23:15:02.227Z",
+   "to": "2026-10-08T23:30:22.658Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays due to an earlier signal failure at Stockwell. Tickets are being accepted on London Buses, Thameslink, Great Northern, South Western Railway and London Trams. "
@@ -318938,7 +318866,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-08T22:15:02.385Z",
-   "to": "2026-10-08T23:15:02.227Z",
+   "to": "2026-10-08T23:30:22.658Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Thursday 8 October, after 2315 each evening, no service between Surrey Quays and Clapham Junction / Battersea Park. Please use local London Buses and London Underground services as no replacement bus service operates for this closure."
@@ -318965,7 +318893,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-10-08T22:56:27.502Z",
-   "to": "2026-10-08T23:15:02.227Z",
+   "to": "2026-10-08T23:30:22.658Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Mildmay Line: No service between Richmond and Willesden Junction while we remove an obstruction the track at Kew Gardens. GOOD SERVICE on the rest of the line.  "
@@ -318974,10 +318902,19 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-08T23:15:02.227Z",
-   "to": "2026-10-08T23:15:02.227Z",
+   "to": "2026-10-08T23:26:16.154Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Turnham Green and Richmond due to an earlier obstruction on the track at Kew Gardens. GOOD service on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-08T23:30:22.658Z",
+   "to": "2026-10-08T23:30:22.658Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   }
  ]
 }
