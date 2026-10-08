@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-08T05:40:23.454Z",
- "sinceISO": "2026-08-09T05:40:21.199Z",
+ "generatedAt": "2026-10-08T05:45:14.900Z",
+ "sinceISO": "2026-08-09T05:45:12.290Z",
  "coverage": [
   {
-   "from": "2026-08-09T05:45:02.393Z",
+   "from": "2026-08-09T05:50:04.738Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 19272
+   "polls": 19271
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-08T05:40:20.965Z",
-   "polls": 1036
+   "to": "2026-10-08T05:45:12.062Z",
+   "polls": 1043
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-09T05:45:02.393Z",
+   "from": "2026-08-09T05:50:04.738Z",
    "to": "2026-08-09T20:35:02.286Z",
    "severity": 5,
    "description": "Part Closure",
@@ -31,7 +31,7 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-09T05:45:02.393Z",
+   "from": "2026-08-09T05:50:04.738Z",
    "to": "2026-08-09T23:55:01.868Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -40,7 +40,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-09T05:45:02.393Z",
+   "from": "2026-08-09T05:50:04.738Z",
    "to": "2026-08-09T09:25:01.837Z",
    "severity": 7,
    "description": "Reduced Service",
@@ -49,7 +49,7 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-08-09T05:45:02.393Z",
+   "from": "2026-08-09T05:50:04.738Z",
    "to": "2026-08-09T08:45:02.239Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -58,7 +58,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-09T05:45:02.393Z",
+   "from": "2026-08-09T05:50:04.738Z",
    "to": "2026-08-09T23:45:03.259Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -67,7 +67,7 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-09T05:45:02.393Z",
+   "from": "2026-08-09T05:50:04.738Z",
    "to": "2026-08-09T15:15:02.318Z",
    "severity": 5,
    "description": "Part Closure",
@@ -311909,7 +311909,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-08T05:05:09.568Z",
-   "to": "2026-10-08T05:40:20.965Z",
+   "to": "2026-10-08T05:41:16.774Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe Delays between Paddington and Heathrow Airport / Reading while we fix a signal system failure. GOOD SERVICE on the rest of the line. "
@@ -311918,10 +311918,19 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-08T05:40:20.965Z",
-   "to": "2026-10-08T05:40:20.965Z",
+   "to": "2026-10-08T05:45:12.062Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway / Richmond / Kensington (Olympia), and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-08T05:45:12.062Z",
+   "to": "2026-10-08T05:45:12.062Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe Delays between Paddington and Heathrow Airport / Reading while we fix a signal failure in the Paddington area. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
