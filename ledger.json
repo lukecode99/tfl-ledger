@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-08T12:25:03.973Z",
- "sinceISO": "2026-08-09T12:25:02.280Z",
+ "generatedAt": "2026-10-08T12:40:12.861Z",
+ "sinceISO": "2026-08-09T12:40:11.175Z",
  "coverage": [
   {
-   "from": "2026-08-09T12:25:02.576Z",
+   "from": "2026-08-09T12:45:02.957Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 19193
+   "polls": 19189
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-08T12:25:01.989Z",
-   "polls": 1603
+   "to": "2026-10-08T12:40:10.912Z",
+   "polls": 1625
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-09T12:25:02.576Z",
+   "from": "2026-08-09T12:45:02.957Z",
    "to": "2026-08-09T20:35:02.286Z",
    "severity": 5,
    "description": "Part Closure",
@@ -31,7 +31,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-09T12:25:02.576Z",
+   "from": "2026-08-09T12:45:02.957Z",
    "to": "2026-08-09T18:05:02.218Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,7 +40,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-09T12:25:02.576Z",
+   "from": "2026-08-09T12:45:02.957Z",
    "to": "2026-08-09T20:05:02.154Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -49,7 +49,7 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-09T12:25:02.576Z",
+   "from": "2026-08-09T12:45:02.957Z",
    "to": "2026-08-09T23:55:01.868Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -58,7 +58,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-09T12:25:02.576Z",
+   "from": "2026-08-09T12:45:02.957Z",
    "to": "2026-08-09T13:05:03.184Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -67,29 +67,11 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-09T12:25:02.576Z",
+   "from": "2026-08-09T12:45:02.957Z",
    "to": "2026-08-09T12:45:02.957Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "MILDMAY LINE: Sunday 9 August, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes, with additional Southern Railway services. Southern Railway services will terminate at Shepherd's Bush until 1200. Please note that on this day, there will be no step-free access via the Grant Road entrance, please use the Brighton Yard entrance instead. In addition, the 0848 Willesden Junction to Clapham Junction, 0915 Gospel Oak to Clapham Junction and 0956 Camden Road to Clapham Junction trains all start at Willesden Junction. The 0951 Camden Road to Richmond train does not run."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-09T12:25:02.576Z",
-   "to": "2026-08-09T23:45:03.259Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-09T12:25:02.576Z",
-   "to": "2026-08-09T15:15:02.318Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
   },
   {
    "line": "mildmay",
@@ -99,6 +81,24 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Mildmay Line: Minor delays between Willesden Junction and Clapham Junction due to a late running freight train. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-08-09T12:45:02.957Z",
+   "to": "2026-08-09T23:45:03.259Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-08-09T12:45:02.957Z",
+   "to": "2026-08-09T15:15:02.318Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: Sunday 9 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
   },
   {
    "line": "mildmay",
@@ -315653,7 +315653,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-08T12:20:08.762Z",
-   "to": "2026-10-08T12:25:01.989Z",
+   "to": "2026-10-08T12:40:08.951Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays due to an earlier track fire at Stockwell. Tickets are being accepted on London Buses, Thameslink, Great Northern, South Western Railway and London Trams. "
@@ -315662,7 +315662,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-10-08T12:21:26.004Z",
-   "to": "2026-10-08T12:25:01.989Z",
+   "to": "2026-10-08T12:40:10.912Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line:  Minor delays due to train cancellations. "
@@ -315671,10 +315671,28 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-08T12:25:01.989Z",
-   "to": "2026-10-08T12:25:01.989Z",
+   "to": "2026-10-08T12:40:10.912Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays due to an earlier signal failure at Arnos Grove.  "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-08T12:40:10.912Z",
+   "to": "2026-10-08T12:40:10.912Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Camden Town and Morden via Bank while we fix a signal failure at Stockwell. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Thameslink, Great Northern, South Western Railway and London Trams. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-08T12:40:10.912Z",
+   "to": "2026-10-08T12:40:10.912Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: No service between Camden Town and Morden via Bank while we fix a signal failure at Stockwell. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Thameslink, Great Northern, South Western Railway and London Trams. "
   }
  ]
 }
