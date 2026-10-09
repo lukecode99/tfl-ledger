@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-09T22:30:08.120Z",
- "sinceISO": "2026-08-10T22:30:06.295Z",
+ "generatedAt": "2026-10-09T22:51:22.938Z",
+ "sinceISO": "2026-08-10T22:51:20.578Z",
  "coverage": [
   {
-   "from": "2026-08-10T22:35:02.389Z",
+   "from": "2026-08-10T22:55:02.423Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 18783
+   "polls": 18779
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-09T22:30:06.075Z",
-   "polls": 4463
+   "to": "2026-10-09T22:51:20.133Z",
+   "polls": 4494
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-10T22:35:02.389Z",
+   "from": "2026-08-10T22:55:02.423Z",
    "to": "2026-08-11T00:20:04.380Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,52 +31,16 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-08-10T22:35:02.389Z",
+   "from": "2026-08-10T22:55:02.423Z",
    "to": "2026-08-11T00:25:02.529Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground and London Buses. "
   },
   {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-10T22:35:02.389Z",
-   "to": "2026-08-10T22:35:02.389Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals while we fix a signal failure at Osterley. London Buses and Elizabeth line are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-10T22:35:02.389Z",
-   "to": "2026-08-10T22:35:02.389Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals while we fix a signal failure at Osterley. London Buses and Elizabeth line are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-08-10T22:35:02.389Z",
-   "to": "2026-08-10T22:50:05.693Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Victoria Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-10T22:40:05.221Z",
-   "to": "2026-08-11T00:20:04.380Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Minor delays due to an earlier signal failure at Osterley.  "
-  },
-  {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-10T22:50:05.693Z",
+   "from": "2026-08-10T22:55:02.423Z",
    "to": "2026-08-10T23:45:03.908Z",
    "severity": 7,
    "description": "Reduced Service",
@@ -85,7 +49,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-10T22:50:05.693Z",
+   "from": "2026-08-10T22:55:02.423Z",
    "to": "2026-08-10T23:05:02.329Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -94,11 +58,20 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-10T22:50:05.693Z",
+   "from": "2026-08-10T22:55:02.423Z",
    "to": "2026-08-11T00:25:02.529Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, after 2345 each evening, no westbound service from Camden Road to Willesden Junction. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction, Northern line from Camden Town, or local bus routes 1, 24, 46 88 and 214 from Camden Road / Camden Town."
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-08-10T22:55:02.423Z",
+   "to": "2026-08-11T00:20:04.380Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: Minor delays due to an earlier signal failure at Osterley.  "
   },
   {
    "line": "metropolitan",
@@ -322475,10 +322448,568 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-09T22:30:06.075Z",
-   "to": "2026-10-09T22:30:06.075Z",
+   "to": "2026-10-09T22:50:12.825Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Northern Line: No service between High Barnet and Totteridge & Whetstone while we respond to a security alert. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:30:15.631Z",
+   "to": "2026-10-09T22:30:15.631Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:30:15.631Z",
+   "to": "2026-10-09T22:30:15.631Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:30:20.613Z",
+   "to": "2026-10-09T22:30:20.613Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:30:20.613Z",
+   "to": "2026-10-09T22:30:20.613Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:30:49.575Z",
+   "to": "2026-10-09T22:30:49.575Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:30:49.575Z",
+   "to": "2026-10-09T22:30:49.575Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:30:53.552Z",
+   "to": "2026-10-09T22:30:53.552Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:30:53.552Z",
+   "to": "2026-10-09T22:30:53.552Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:30:53.894Z",
+   "to": "2026-10-09T22:30:53.894Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:30:53.894Z",
+   "to": "2026-10-09T22:30:53.894Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:31:05.251Z",
+   "to": "2026-10-09T22:31:05.251Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:31:05.251Z",
+   "to": "2026-10-09T22:31:05.251Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:35:02.298Z",
+   "to": "2026-10-09T22:35:02.298Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:35:02.298Z",
+   "to": "2026-10-09T22:35:02.298Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:35:07.045Z",
+   "to": "2026-10-09T22:35:07.045Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:35:07.045Z",
+   "to": "2026-10-09T22:35:07.045Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:35:07.425Z",
+   "to": "2026-10-09T22:35:07.425Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:35:07.425Z",
+   "to": "2026-10-09T22:35:07.425Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:35:13.958Z",
+   "to": "2026-10-09T22:35:13.958Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:35:13.958Z",
+   "to": "2026-10-09T22:35:13.958Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:36:00.622Z",
+   "to": "2026-10-09T22:36:00.622Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:36:00.622Z",
+   "to": "2026-10-09T22:36:00.622Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:36:03.716Z",
+   "to": "2026-10-09T22:36:03.716Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:36:03.716Z",
+   "to": "2026-10-09T22:36:03.716Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:36:07.371Z",
+   "to": "2026-10-09T22:36:07.371Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:36:07.371Z",
+   "to": "2026-10-09T22:36:07.371Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:40:05.639Z",
+   "to": "2026-10-09T22:40:05.639Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:40:05.639Z",
+   "to": "2026-10-09T22:40:05.639Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:40:08.883Z",
+   "to": "2026-10-09T22:40:08.883Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:40:08.883Z",
+   "to": "2026-10-09T22:40:08.883Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:40:13.634Z",
+   "to": "2026-10-09T22:40:13.634Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:40:13.634Z",
+   "to": "2026-10-09T22:40:13.634Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:41:04.720Z",
+   "to": "2026-10-09T22:41:04.720Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:41:04.720Z",
+   "to": "2026-10-09T22:41:04.720Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:41:08.864Z",
+   "to": "2026-10-09T22:41:08.864Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:41:08.864Z",
+   "to": "2026-10-09T22:41:08.864Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:41:09.176Z",
+   "to": "2026-10-09T22:41:09.176Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:41:09.176Z",
+   "to": "2026-10-09T22:41:09.176Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:41:14.770Z",
+   "to": "2026-10-09T22:41:14.770Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:41:14.770Z",
+   "to": "2026-10-09T22:41:14.770Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:45:02.385Z",
+   "to": "2026-10-09T22:45:02.385Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:45:02.385Z",
+   "to": "2026-10-09T22:45:02.385Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:45:06.188Z",
+   "to": "2026-10-09T22:45:06.188Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:45:06.188Z",
+   "to": "2026-10-09T22:45:06.188Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:45:06.504Z",
+   "to": "2026-10-09T22:45:06.504Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:45:06.504Z",
+   "to": "2026-10-09T22:45:06.504Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:45:13.242Z",
+   "to": "2026-10-09T22:45:13.242Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:45:13.242Z",
+   "to": "2026-10-09T22:45:13.242Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:46:16.253Z",
+   "to": "2026-10-09T22:46:16.253Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:46:16.253Z",
+   "to": "2026-10-09T22:46:16.253Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:46:18.224Z",
+   "to": "2026-10-09T22:46:18.224Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:46:18.224Z",
+   "to": "2026-10-09T22:46:18.224Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:46:22.929Z",
+   "to": "2026-10-09T22:46:22.929Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:46:22.929Z",
+   "to": "2026-10-09T22:46:22.929Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:50:06.643Z",
+   "to": "2026-10-09T22:50:06.643Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:50:06.643Z",
+   "to": "2026-10-09T22:50:06.643Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:50:08.630Z",
+   "to": "2026-10-09T22:50:08.630Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:50:08.630Z",
+   "to": "2026-10-09T22:50:08.630Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:50:12.825Z",
+   "to": "2026-10-09T22:50:12.825Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:50:12.825Z",
+   "to": "2026-10-09T22:50:12.825Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:51:20.133Z",
+   "to": "2026-10-09T22:51:20.133Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T22:51:20.133Z",
+   "to": "2026-10-09T22:51:20.133Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route. "
   }
  ]
 }
