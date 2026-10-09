@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-09T17:51:03.445Z",
- "sinceISO": "2026-08-10T17:51:00.983Z",
+ "generatedAt": "2026-10-09T18:10:14.590Z",
+ "sinceISO": "2026-08-10T18:10:12.776Z",
  "coverage": [
   {
-   "from": "2026-08-10T17:55:02.198Z",
+   "from": "2026-08-10T18:15:05.013Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 18839
+   "polls": 18835
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-09T17:51:00.493Z",
-   "polls": 4073
+   "to": "2026-10-09T18:10:11.309Z",
+   "polls": 4099
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-10T17:55:02.198Z",
+   "from": "2026-08-10T18:15:05.013Z",
    "to": "2026-08-10T21:05:02.181Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-08-10T17:55:02.198Z",
+   "from": "2026-08-10T18:15:05.013Z",
    "to": "2026-08-10T19:15:02.136Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -40,56 +40,29 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-10T17:55:02.198Z",
-   "to": "2026-08-10T18:10:04.463Z",
+   "from": "2026-08-10T18:15:05.013Z",
+   "to": "2026-08-10T18:15:05.013Z",
    "severity": 6,
    "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Airport while we fix a signal failure at Osterley. London Buses and Elizabeth line are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+   "reason": "Piccadilly Line: No service between Acton Town and Heathrow Airport westbound only, and SEVERE DELAYS between Heathrow Airport and Acton Town eastbound only  while we fix a signal failure at Osterley. London Buses and Elizabeth line are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-08-10T18:15:05.013Z",
+   "to": "2026-08-10T18:15:05.013Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Heathrow Airport westbound only, and SEVERE DELAYS between Heathrow Airport and Acton Town eastbound only  while we fix a signal failure at Osterley. London Buses and Elizabeth line are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-10T17:55:02.198Z",
+   "from": "2026-08-10T18:15:05.013Z",
    "to": "2026-08-10T22:50:05.693Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-10T18:10:04.463Z",
-   "to": "2026-08-10T18:10:04.463Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Piccadilly Line: No service between Acton Town and Heathrow Airport westbound only, and SEVERE DELAYS between Acton Town and Heathrow Airport eastbound only while we fix a signal failure at Osterley. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-10T18:10:04.463Z",
-   "to": "2026-08-10T18:10:04.463Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: No service between Acton Town and Heathrow Airport westbound only, and SEVERE DELAYS between Acton Town and Heathrow Airport eastbound only while we fix a signal failure at Osterley. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-10T18:15:05.013Z",
-   "to": "2026-08-10T18:15:05.013Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: No service between Acton Town and Heathrow Airport westbound only, and SEVERE DELAYS between Heathrow Airport and Acton Town eastbound only  while we fix a signal failure at Osterley. London Buses and Elizabeth line are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-10T18:15:05.013Z",
-   "to": "2026-08-10T18:15:05.013Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Piccadilly Line: No service between Acton Town and Heathrow Airport westbound only, and SEVERE DELAYS between Heathrow Airport and Acton Town eastbound only  while we fix a signal failure at Osterley. London Buses and Elizabeth line are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "piccadilly",
@@ -316994,7 +316967,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-09T05:45:02.650Z",
-   "to": "2026-10-09T17:51:00.493Z",
+   "to": "2026-10-09T18:10:11.309Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
@@ -318627,6 +318600,33 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to the temporary unavailability of train operators. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T18:10:11.309Z",
+   "to": "2026-10-09T18:10:11.309Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Wimbledon and Parsons Green, SEVERE DELAYS between Parsons Green and Earl's Court and MINOR DELAYS between Earl's Court and Edgware Road while emergency services deal with a casualty on the track. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T18:10:11.309Z",
+   "to": "2026-10-09T18:10:11.309Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Wimbledon and Parsons Green, SEVERE DELAYS between Parsons Green and Earl's Court and MINOR DELAYS between Earl's Court and Edgware Road while emergency services deal with a casualty on the track. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-09T18:10:11.309Z",
+   "to": "2026-10-09T18:10:11.309Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Wimbledon and Parsons Green, SEVERE DELAYS between Parsons Green and Earl's Court and MINOR DELAYS between Earl's Court and Edgware Road while emergency services deal with a casualty on the track. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
