@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-10T03:21:11.506Z",
- "sinceISO": "2026-08-11T03:21:09.724Z",
+ "generatedAt": "2026-10-10T03:30:17.123Z",
+ "sinceISO": "2026-08-11T03:30:15.294Z",
  "coverage": [
   {
-   "from": "2026-08-11T03:25:02.213Z",
+   "from": "2026-08-11T03:35:02.339Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 18725
+   "polls": 18723
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,37 +14,37 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-10T03:21:09.423Z",
-   "polls": 4873
+   "to": "2026-10-10T03:30:13.616Z",
+   "polls": 4883
   }
  ],
  "spans": [
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-08-11T03:25:02.213Z",
+   "from": "2026-08-11T03:35:02.339Z",
    "to": "2026-08-11T10:35:02.005Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. Please use the Piccadilly line to travel to Heathrow Airport and Central London. GOOD SERVICE on the rest of the line.  "
   },
   {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-11T03:25:02.213Z",
-   "to": "2026-08-11T05:00:12.734Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
-  },
-  {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-11T03:30:13.977Z",
+   "from": "2026-08-11T03:35:02.339Z",
    "to": "2026-08-11T04:50:05.382Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "MILDMAY LINE: Tuesday 11, Wednesday 12, Thursday 13 and Friday 14 August, until 0615, no service southbound from Willesden Junction to Shepherd's Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 train from Stratford to Clapham Junction will start from Shepherd's Bush at 07:01. (Train normally runs from Stratford, but NLL service will not run)"
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-08-11T03:35:02.339Z",
+   "to": "2026-08-11T05:00:12.734Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   },
   {
    "line": "jubilee",
@@ -325067,10 +325067,37 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-10T03:15:02.619Z",
-   "to": "2026-10-10T03:21:09.423Z",
+   "to": "2026-10-10T03:30:13.616Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-10T03:30:13.616Z",
+   "to": "2026-10-10T03:30:13.616Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road and Aldgate (via Victoria)"
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-10T03:30:13.616Z",
+   "to": "2026-10-10T03:30:13.616Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate."
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-10T03:30:13.616Z",
+   "to": "2026-10-10T03:30:13.616Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 October, no service between Stratford International and Woolwich Arsenal. Please use local London Buses, London Underground and Elizabeth line services (for Woolwich) as no replacement bus services will operate."
   }
  ]
 }
