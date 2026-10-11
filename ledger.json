@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-11T20:16:33.304Z",
- "sinceISO": "2026-08-12T20:16:31.138Z",
+ "generatedAt": "2026-10-11T20:35:04.751Z",
+ "sinceISO": "2026-08-12T20:35:02.581Z",
  "coverage": [
   {
-   "from": "2026-08-12T20:20:06.817Z",
+   "from": "2026-08-12T20:40:04.894Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 18237
+   "polls": 18233
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,25 +14,43 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-11T20:16:30.909Z",
-   "polls": 8310
+   "to": "2026-10-11T20:35:02.315Z",
+   "polls": 8334
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-12T20:20:06.817Z",
-   "to": "2026-08-12T20:25:02.026Z",
+   "from": "2026-08-12T20:40:04.894Z",
+   "to": "2026-08-12T20:40:04.894Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping due to an earlier trespasser on the track at Leyton. MINOR DELAYS between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-08-12T20:40:04.894Z",
+   "to": "2026-08-12T20:40:04.894Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and Between Leytonstone and Epping / Hainault due to train cancellations. "
+   "reason": "Central Line: Severe delays between Leytonstone and Epping due to an earlier trespasser on the track at Leyton. MINOR DELAYS between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-12T20:20:06.817Z",
-   "to": "2026-08-12T20:25:02.026Z",
+   "from": "2026-08-12T20:40:04.894Z",
+   "to": "2026-08-12T20:40:04.894Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run"
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-08-12T20:40:04.894Z",
+   "to": "2026-08-12T20:40:04.894Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Mildmay Line: Minor delays due to train cancellations. "
@@ -40,7 +58,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-12T20:20:06.817Z",
+   "from": "2026-08-12T20:40:04.894Z",
    "to": "2026-08-13T00:20:04.362Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -49,7 +67,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-12T20:20:06.817Z",
+   "from": "2026-08-12T20:40:04.894Z",
    "to": "2026-08-12T23:10:06.420Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -58,119 +76,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-12T20:20:06.817Z",
+   "from": "2026-08-12T20:40:04.894Z",
    "to": "2026-08-12T20:55:02.544Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays due to an earlier customer incident at Whitechapel. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-12T20:30:04.851Z",
-   "to": "2026-08-12T20:30:04.851Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Leytonstone and Epping due to an earlier trespasser on the track at Leyton. MINOR DELAYS between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-12T20:30:04.851Z",
-   "to": "2026-08-12T20:30:04.851Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Leytonstone and Epping due to an earlier trespasser on the track at Leyton. MINOR DELAYS between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-12T20:30:04.851Z",
-   "to": "2026-08-12T20:30:04.851Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-12T20:30:04.851Z",
-   "to": "2026-08-12T20:30:04.851Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Mildmay Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-12T20:35:01.939Z",
-   "to": "2026-08-12T20:35:01.939Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Leytonstone and Epping due to an earlier trespasser on the track at Leyton. MINOR DELAYS between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-12T20:35:01.939Z",
-   "to": "2026-08-12T20:35:01.939Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Leytonstone and Epping due to an earlier trespasser on the track at Leyton. MINOR DELAYS between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-12T20:35:01.939Z",
-   "to": "2026-08-12T20:35:01.939Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-12T20:35:01.939Z",
-   "to": "2026-08-12T20:35:01.939Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Mildmay Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-12T20:40:04.894Z",
-   "to": "2026-08-12T20:40:04.894Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Leytonstone and Epping due to an earlier trespasser on the track at Leyton. MINOR DELAYS between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-12T20:40:04.894Z",
-   "to": "2026-08-12T20:40:04.894Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Leytonstone and Epping due to an earlier trespasser on the track at Leyton. MINOR DELAYS between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-12T20:40:04.894Z",
-   "to": "2026-08-12T20:40:04.894Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-12T20:40:04.894Z",
-   "to": "2026-08-12T20:40:04.894Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Mildmay Line: Minor delays due to train cancellations. "
   },
   {
    "line": "central",
@@ -351428,7 +351338,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-11T03:15:03.445Z",
-   "to": "2026-10-11T20:16:30.909Z",
+   "to": "2026-10-11T20:35:02.315Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -351581,7 +351491,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-11T03:16:09.351Z",
-   "to": "2026-10-11T20:16:30.909Z",
+   "to": "2026-10-11T20:35:02.315Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "CIRCLE LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road and Aldgate (via Victoria)"
@@ -351590,7 +351500,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-11T03:16:09.351Z",
-   "to": "2026-10-11T20:16:30.909Z",
+   "to": "2026-10-11T20:35:02.315Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DISTRICT LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate."
@@ -351779,7 +351689,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-10-11T03:25:02.174Z",
-   "to": "2026-10-11T20:16:30.909Z",
+   "to": "2026-10-11T20:35:02.315Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 October, no service between Stratford International and Woolwich Arsenal. Please use local London Buses, London Underground and Elizabeth line services (for Woolwich) as no replacement bus services will operate."
@@ -351806,7 +351716,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-10-11T03:30:12.713Z",
-   "to": "2026-10-11T20:16:30.909Z",
+   "to": "2026-10-11T20:35:02.315Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
@@ -362300,7 +362210,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-10-11T17:55:03.674Z",
-   "to": "2026-10-11T20:16:30.909Z",
+   "to": "2026-10-11T20:35:02.315Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "SUFFRAGETTE LINE: Sunday 11 October, between 0845 and 2300, no service between Barking and Barking Riverside, please use local London Buses services."
@@ -364964,7 +364874,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-11T19:50:06.774Z",
-   "to": "2026-10-11T20:16:30.909Z",
+   "to": "2026-10-11T20:35:02.315Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Sunday 11 October, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN services to/from Clapham Junction."
@@ -365207,10 +365117,19 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-11T20:00:17.030Z",
-   "to": "2026-10-11T20:16:30.909Z",
+   "to": "2026-10-11T20:30:59.762Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Metropolitan Line: Severe delays between Uxbridge and Harrow-on-the-Hill due to an earlier trespasser on the track at Hillingdon. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-11T20:35:02.315Z",
+   "to": "2026-10-11T20:35:02.315Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Uxbridge and Harrow-on-the-Hill due to an earlier trespasser on the track at Hillingdon. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
