@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-11T12:01:04.796Z",
- "sinceISO": "2026-08-12T12:01:02.670Z",
+ "generatedAt": "2026-10-11T12:25:07.985Z",
+ "sinceISO": "2026-08-12T12:25:05.365Z",
  "coverage": [
   {
-   "from": "2026-08-12T12:05:02.233Z",
+   "from": "2026-08-12T12:30:08.424Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 18336
+   "polls": 18331
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-11T12:01:01.366Z",
-   "polls": 7616
+   "to": "2026-10-11T12:25:04.836Z",
+   "polls": 7648
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-12T12:05:02.233Z",
+   "from": "2026-08-12T12:30:08.424Z",
    "to": "2026-08-12T13:30:06.104Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-12T12:05:02.233Z",
+   "from": "2026-08-12T12:30:08.424Z",
    "to": "2026-08-12T15:15:02.663Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,16 +40,16 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-08-12T12:05:02.233Z",
-   "to": "2026-08-12T12:20:06.921Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Minor delays between Paddington and Reading/Heathrow Terminals while we fix a signal failure at Southall. GOOD SERVICE on the rest of the line. "
+   "from": "2026-08-12T12:30:08.424Z",
+   "to": "2026-08-12T14:15:02.315Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Reading/Heathrow Terminals while we fix a signal failure at Southall. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-12T12:05:02.233Z",
+   "from": "2026-08-12T12:30:08.424Z",
    "to": "2026-08-12T12:30:08.424Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -58,20 +58,11 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-12T12:05:02.233Z",
+   "from": "2026-08-12T12:30:08.424Z",
    "to": "2026-08-12T20:25:02.026Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Mildmay Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-12T12:25:02.304Z",
-   "to": "2026-08-12T14:15:02.315Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Reading/Heathrow Terminals while we fix a signal failure at Southall. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "jubilee",
@@ -352337,7 +352328,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-11T03:15:03.445Z",
-   "to": "2026-10-11T12:01:01.366Z",
+   "to": "2026-10-11T12:25:04.836Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -352490,7 +352481,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-11T03:16:09.351Z",
-   "to": "2026-10-11T12:01:01.366Z",
+   "to": "2026-10-11T12:25:04.836Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "CIRCLE LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road and Aldgate (via Victoria)"
@@ -352499,7 +352490,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-11T03:16:09.351Z",
-   "to": "2026-10-11T12:01:01.366Z",
+   "to": "2026-10-11T12:25:04.836Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DISTRICT LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate."
@@ -352688,7 +352679,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-10-11T03:25:02.174Z",
-   "to": "2026-10-11T12:01:01.366Z",
+   "to": "2026-10-11T12:25:04.836Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 October, no service between Stratford International and Woolwich Arsenal. Please use local London Buses, London Underground and Elizabeth line services (for Woolwich) as no replacement bus services will operate."
@@ -352715,7 +352706,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-10-11T03:30:12.713Z",
-   "to": "2026-10-11T12:01:01.366Z",
+   "to": "2026-10-11T12:25:04.836Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
@@ -359753,7 +359744,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-11T06:05:02.057Z",
-   "to": "2026-10-11T12:01:01.366Z",
+   "to": "2026-10-11T12:25:04.836Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
@@ -360212,7 +360203,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-11T06:20:53.407Z",
-   "to": "2026-10-11T12:01:01.366Z",
+   "to": "2026-10-11T12:25:04.836Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Sunday 11 October, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN services to/from Clapham Junction."
@@ -360239,7 +360230,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-10-11T08:00:05.751Z",
-   "to": "2026-10-11T12:01:01.366Z",
+   "to": "2026-10-11T12:25:04.836Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "SUFFRAGETTE LINE: Sunday 11 October, between 0845 and 2300, no service between Barking and Barking Riverside, please use local London Buses services."
@@ -360284,7 +360275,7 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-10-11T10:30:05.701Z",
-   "to": "2026-10-11T12:01:01.366Z",
+   "to": "2026-10-11T12:25:04.836Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "LIONESS LINE: Saturday 10 and Sunday 11 October, a reduced service will run between Kilburn High Road and Euston. On Saturday, between 0630 and 2030, trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 0715 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road. On Sunday, between 1130 and 2030,  trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 1215 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road"
@@ -360293,7 +360284,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-10-11T11:55:01.980Z",
-   "to": "2026-10-11T12:01:01.366Z",
+   "to": "2026-10-11T12:20:48.673Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays between Queen's Park and Elephant & Castle southbound only while we fix a faulty train at Warwick Avenue. GOOD SERVICE on the rest of the line. "
@@ -360302,10 +360293,19 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-11T12:01:01.366Z",
-   "to": "2026-10-11T12:01:01.366Z",
+   "to": "2026-10-11T12:25:04.836Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge and between Moor Park and Amersham due to train cancellations. The next southbound train from Amersham will be at 13:48. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-11T12:25:04.836Z",
+   "to": "2026-10-11T12:25:04.836Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Minor delays between Queen's Park and Elephant & Castle southbound only due to an earlier faulty train at Warwick Avenue. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
