@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-12T09:15:06.273Z",
- "sinceISO": "2026-08-13T09:15:02.712Z",
+ "generatedAt": "2026-10-12T09:20:09.275Z",
+ "sinceISO": "2026-08-13T09:20:06.972Z",
  "coverage": [
   {
-   "from": "2026-08-13T09:20:04.397Z",
+   "from": "2026-08-13T09:25:02.054Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 18081
+   "polls": 18080
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-12T09:15:02.469Z",
-   "polls": 9398
+   "to": "2026-10-12T09:20:06.411Z",
+   "polls": 9405
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-13T09:20:04.397Z",
+   "from": "2026-08-13T09:25:02.054Z",
    "to": "2026-08-13T09:50:04.666Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,38 +31,11 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-13T09:20:04.397Z",
+   "from": "2026-08-13T09:25:02.054Z",
    "to": "2026-08-13T16:20:33.003Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "District Line: No service between High Street Kensington and Edgware Road due to a points failure at Edgware Road. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-13T09:20:04.397Z",
-   "to": "2026-08-13T09:20:04.397Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: Severe delays due to an earlier trespasser on the track at Green Park. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-13T09:20:04.397Z",
-   "to": "2026-08-13T12:20:04.780Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Mildmay Line: Minor delays due to train cancellations.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-13T09:20:04.397Z",
-   "to": "2026-08-13T15:10:04.812Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: Minor delays due to train cancellations.  "
   },
   {
    "line": "jubilee",
@@ -72,6 +45,24 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-08-13T09:25:02.054Z",
+   "to": "2026-08-13T12:20:04.780Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Mildmay Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-08-13T09:25:02.054Z",
+   "to": "2026-08-13T15:10:04.812Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Windrush Line: Minor delays due to train cancellations.  "
   },
   {
    "line": "elizabeth",
@@ -372029,7 +372020,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-12T07:05:13.480Z",
-   "to": "2026-10-12T09:15:02.469Z",
+   "to": "2026-10-12T09:16:11.440Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Metropolitan Line: Severe delays due to a points failure at Harrow-on-the-Hill. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable routes. "
@@ -372038,7 +372029,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-12T07:05:13.480Z",
-   "to": "2026-10-12T09:15:02.469Z",
+   "to": "2026-10-12T09:20:06.411Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line:  Minor delays due to train cancellations. "
@@ -372047,7 +372038,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-12T08:25:02.221Z",
-   "to": "2026-10-12T09:15:02.469Z",
+   "to": "2026-10-12T09:20:06.411Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -372069,6 +372060,150 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T09:15:16.229Z",
+   "to": "2026-10-12T09:15:16.229Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T09:15:16.229Z",
+   "to": "2026-10-12T09:15:16.229Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T09:15:16.610Z",
+   "to": "2026-10-12T09:15:16.610Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T09:15:16.610Z",
+   "to": "2026-10-12T09:15:16.610Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T09:15:29.206Z",
+   "to": "2026-10-12T09:15:29.206Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T09:15:29.206Z",
+   "to": "2026-10-12T09:15:29.206Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T09:16:03.526Z",
+   "to": "2026-10-12T09:16:03.526Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T09:16:03.526Z",
+   "to": "2026-10-12T09:16:03.526Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T09:16:06.882Z",
+   "to": "2026-10-12T09:16:06.882Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T09:16:06.882Z",
+   "to": "2026-10-12T09:16:06.882Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T09:16:11.440Z",
+   "to": "2026-10-12T09:16:11.440Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T09:16:11.440Z",
+   "to": "2026-10-12T09:16:11.440Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T09:20:06.411Z",
+   "to": "2026-10-12T09:20:06.411Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T09:20:06.411Z",
+   "to": "2026-10-12T09:20:06.411Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T09:20:06.411Z",
+   "to": "2026-10-12T09:20:06.411Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Whitechapel and Stratford and MINOR DELAYS between Heathrow Terminals 2&3 and Heathrow Terminal 5, between Liverpool Street and Whitechapel and between Stratford and Shenfield while we remove an obstruction from the track at Stratford. Tickets will be accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-12T09:20:06.411Z",
+   "to": "2026-10-12T09:20:06.411Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays due to an earlier points failure at Harrow-on-the-Hill.  "
   }
  ]
 }
