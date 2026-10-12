@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-12T08:06:09.306Z",
- "sinceISO": "2026-08-13T08:06:06.233Z",
+ "generatedAt": "2026-10-12T08:25:04.846Z",
+ "sinceISO": "2026-08-13T08:25:02.512Z",
  "coverage": [
   {
-   "from": "2026-08-13T08:10:04.680Z",
+   "from": "2026-08-13T08:30:05.040Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 18095
+   "polls": 18091
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-12T08:06:05.981Z",
-   "polls": 9304
+   "to": "2026-10-12T08:25:02.221Z",
+   "polls": 9328
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-13T08:10:04.680Z",
+   "from": "2026-08-13T08:30:05.040Z",
    "to": "2026-08-13T09:50:04.666Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-13T08:10:04.680Z",
+   "from": "2026-08-13T08:30:05.040Z",
    "to": "2026-08-13T16:20:33.003Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -40,7 +40,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-13T08:10:04.680Z",
+   "from": "2026-08-13T08:30:05.040Z",
    "to": "2026-08-13T08:40:05.868Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -49,7 +49,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-13T08:10:04.680Z",
+   "from": "2026-08-13T08:30:05.040Z",
    "to": "2026-08-13T08:50:05.188Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -58,7 +58,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-13T08:10:04.680Z",
+   "from": "2026-08-13T08:30:05.040Z",
    "to": "2026-08-13T12:20:04.780Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -67,7 +67,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-13T08:10:04.680Z",
+   "from": "2026-08-13T08:30:05.040Z",
    "to": "2026-08-13T09:00:12.115Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -76,7 +76,7 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-13T08:10:04.680Z",
+   "from": "2026-08-13T08:30:05.040Z",
    "to": "2026-08-13T15:10:04.812Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -372065,7 +372065,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-12T07:05:13.480Z",
-   "to": "2026-10-12T08:06:05.981Z",
+   "to": "2026-10-12T08:25:02.221Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Metropolitan Line: Severe delays due to a points failure at Harrow-on-the-Hill. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable routes. "
@@ -372074,10 +372074,19 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-12T07:05:13.480Z",
-   "to": "2026-10-12T08:06:05.981Z",
+   "to": "2026-10-12T08:25:02.221Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line:  Minor delays due to train cancellations. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-12T08:25:02.221Z",
+   "to": "2026-10-12T08:25:02.221Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
