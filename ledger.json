@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-12T21:40:11.453Z",
- "sinceISO": "2026-08-13T21:40:08.658Z",
+ "generatedAt": "2026-10-12T21:45:11.206Z",
+ "sinceISO": "2026-08-13T21:45:08.918Z",
  "coverage": [
   {
-   "from": "2026-08-13T21:45:02.553Z",
+   "from": "2026-08-13T21:50:06.304Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 17932
+   "polls": 17931
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-12T21:40:07.218Z",
-   "polls": 10441
+   "to": "2026-10-12T21:45:08.542Z",
+   "polls": 10449
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-13T21:45:02.553Z",
+   "from": "2026-08-13T21:50:06.304Z",
    "to": "2026-08-13T22:20:04.920Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -31,7 +31,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-13T21:45:02.553Z",
+   "from": "2026-08-13T21:50:06.304Z",
    "to": "2026-08-14T00:15:02.747Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,25 +40,25 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-13T21:45:02.553Z",
-   "to": "2026-08-13T21:45:02.553Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between High Street Kensington and Edgware Road due to a points failure at Edgware Road. Minor delays between Earl's Court and Tower Hill eastbound only due to an earlier faulty train at Hammersmith. GOOD SERVICE on the rest of the line. "
+   "from": "2026-08-13T21:50:06.304Z",
+   "to": "2026-08-13T21:50:06.304Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between High Street Kensington and Edgware Road due to a points failure at Edgware Road. SEVERE DELAYS between Earl's Court and Tower Hill eastbound only due to an earlier faulty train at Hammersmith. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-13T21:45:02.553Z",
-   "to": "2026-08-13T21:45:02.553Z",
+   "from": "2026-08-13T21:50:06.304Z",
+   "to": "2026-08-13T21:50:06.304Z",
    "severity": 3,
    "description": "Part Suspended",
-   "reason": "District Line: No service between High Street Kensington and Edgware Road due to a points failure at Edgware Road. Minor delays between Earl's Court and Tower Hill eastbound only due to an earlier faulty train at Hammersmith. GOOD SERVICE on the rest of the line. "
+   "reason": "District Line: No service between High Street Kensington and Edgware Road due to a points failure at Edgware Road. SEVERE DELAYS between Earl's Court and Tower Hill eastbound only due to an earlier faulty train at Hammersmith. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-08-13T21:45:02.553Z",
+   "from": "2026-08-13T21:50:06.304Z",
    "to": "2026-08-14T00:15:02.747Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -67,7 +67,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-13T21:45:02.553Z",
+   "from": "2026-08-13T21:50:06.304Z",
    "to": "2026-08-14T00:15:02.747Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -76,8 +76,8 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-13T21:45:02.553Z",
-   "to": "2026-08-13T21:45:02.553Z",
+   "from": "2026-08-13T21:50:06.304Z",
+   "to": "2026-08-13T21:50:06.304Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run"
@@ -85,8 +85,8 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-13T21:45:02.553Z",
-   "to": "2026-08-13T21:45:02.553Z",
+   "from": "2026-08-13T21:50:06.304Z",
+   "to": "2026-08-13T21:50:06.304Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. "
@@ -94,47 +94,11 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-13T21:45:02.553Z",
+   "from": "2026-08-13T21:50:06.304Z",
    "to": "2026-08-14T00:15:02.747Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays while we fix a signal failure at Bounds Green. London Buses, London Overground and South Western Railway are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-13T21:50:06.304Z",
-   "to": "2026-08-13T21:50:06.304Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: No service between High Street Kensington and Edgware Road due to a points failure at Edgware Road. SEVERE DELAYS between Earl's Court and Tower Hill eastbound only due to an earlier faulty train at Hammersmith. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-13T21:50:06.304Z",
-   "to": "2026-08-13T21:50:06.304Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "District Line: No service between High Street Kensington and Edgware Road due to a points failure at Edgware Road. SEVERE DELAYS between Earl's Court and Tower Hill eastbound only due to an earlier faulty train at Hammersmith. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-13T21:50:06.304Z",
-   "to": "2026-08-13T21:50:06.304Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-13T21:50:06.304Z",
-   "to": "2026-08-13T21:50:06.304Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. "
   },
   {
    "line": "district",
@@ -373343,7 +373307,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-10-12T20:10:06.689Z",
-   "to": "2026-10-12T21:40:07.218Z",
+   "to": "2026-10-12T21:45:08.542Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
@@ -373352,7 +373316,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-10-12T20:46:00.907Z",
-   "to": "2026-10-12T21:40:07.218Z",
+   "to": "2026-10-12T21:45:08.542Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "MILDMAY LINE: Monday 12 October, the 2148 train from Richmond to Stratford will terminate at Willesden Junction at 2206. The 2300 train from Stratford to Richmond will not run"
@@ -373379,10 +373343,28 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-12T21:40:07.218Z",
-   "to": "2026-10-12T21:40:07.218Z",
+   "to": "2026-10-12T21:45:03.541Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "No service between Whitechapel and Shenfield while we deal with trespassers on the track at Romford. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, London Underground and Greater Anglia.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-12T21:45:08.542Z",
+   "to": "2026-10-12T21:45:08.542Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Whitechapel and Shenfield while we deal with trespassers on the track at Romford. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, London Underground, C2C and Greater Anglia.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-12T21:45:08.542Z",
+   "to": "2026-10-12T21:45:08.542Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
   }
  ]
 }
