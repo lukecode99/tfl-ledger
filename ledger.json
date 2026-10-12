@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-12T11:30:09.617Z",
- "sinceISO": "2026-08-13T11:30:07.264Z",
+ "generatedAt": "2026-10-12T11:50:08.994Z",
+ "sinceISO": "2026-08-13T11:50:06.664Z",
  "coverage": [
   {
-   "from": "2026-08-13T11:35:02.463Z",
+   "from": "2026-08-13T11:55:03.978Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 18054
+   "polls": 18050
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,24 +14,33 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-12T11:30:07.020Z",
-   "polls": 9587
+   "to": "2026-10-12T11:50:06.399Z",
+   "polls": 9615
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-13T11:35:02.463Z",
-   "to": "2026-08-13T11:45:03.049Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: Minor delays due to train cancellations. "
+   "from": "2026-08-13T11:55:03.978Z",
+   "to": "2026-08-13T11:55:03.978Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service from Harrow & Wealdstone to Queen's Park Southbound only while we respond to a fire alert at Kensal Green and SEVERE DELAYS on the rest of the line due to train cancellations. London Underground tickets will be accepted on London buses, London Northwestern Railway and Thameslink. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-08-13T11:55:03.978Z",
+   "to": "2026-08-13T11:55:03.978Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service from Harrow & Wealdstone to Queen's Park Southbound only while we respond to a fire alert at Kensal Green and SEVERE DELAYS on the rest of the line due to train cancellations. London Underground tickets will be accepted on London buses, London Northwestern Railway and Thameslink. "
   },
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-13T11:35:02.463Z",
+   "from": "2026-08-13T11:55:03.978Z",
    "to": "2026-08-13T16:20:33.003Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -40,16 +49,25 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-08-13T11:35:02.463Z",
-   "to": "2026-08-13T11:35:02.463Z",
+   "from": "2026-08-13T11:55:03.978Z",
+   "to": "2026-08-13T11:55:03.978Z",
    "severity": 6,
    "description": "Severe Delays",
-   "reason": "Severe delays between Abbey Wood and Reading / Heathrow Terminals while we fix a power supply failure. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via reasonable routes. "
+   "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via reasonable routes. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-08-13T11:55:03.978Z",
+   "to": "2026-08-13T11:55:03.978Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via reasonable routes. "
   },
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-13T11:35:02.463Z",
+   "from": "2026-08-13T11:55:03.978Z",
    "to": "2026-08-13T12:20:04.780Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -58,110 +76,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-13T11:35:02.463Z",
+   "from": "2026-08-13T11:55:03.978Z",
    "to": "2026-08-13T15:10:04.812Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays due to train cancellations.  "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T11:40:05.058Z",
-   "to": "2026-08-13T11:40:05.058Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Abbey Wood and Reading / Heathrow Terminals due to an earlier a power supply failure. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via reasonable routes. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T11:45:03.049Z",
-   "to": "2026-08-13T11:45:03.049Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via reasonable routes. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T11:45:03.049Z",
-   "to": "2026-08-13T11:45:03.049Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via reasonable routes. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-13T11:50:05.379Z",
-   "to": "2026-08-13T11:50:05.379Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Bakerloo Line: No service from Harrow & Wealdstone to Queen's Park Southbound only while we respond to a fire alert at Kensal Green and SEVERE DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-13T11:50:05.379Z",
-   "to": "2026-08-13T11:50:05.379Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Bakerloo Line: No service from Harrow & Wealdstone to Queen's Park Southbound only while we respond to a fire alert at Kensal Green and SEVERE DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T11:50:05.379Z",
-   "to": "2026-08-13T11:50:05.379Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via reasonable routes. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T11:50:05.379Z",
-   "to": "2026-08-13T11:50:05.379Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via reasonable routes. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-13T11:55:03.978Z",
-   "to": "2026-08-13T11:55:03.978Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Bakerloo Line: No service from Harrow & Wealdstone to Queen's Park Southbound only while we respond to a fire alert at Kensal Green and SEVERE DELAYS on the rest of the line due to train cancellations. London Underground tickets will be accepted on London buses, London Northwestern Railway and Thameslink. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-13T11:55:03.978Z",
-   "to": "2026-08-13T11:55:03.978Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Bakerloo Line: No service from Harrow & Wealdstone to Queen's Park Southbound only while we respond to a fire alert at Kensal Green and SEVERE DELAYS on the rest of the line due to train cancellations. London Underground tickets will be accepted on London buses, London Northwestern Railway and Thameslink. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T11:55:03.978Z",
-   "to": "2026-08-13T11:55:03.978Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via reasonable routes. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T11:55:03.978Z",
-   "to": "2026-08-13T11:55:03.978Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via reasonable routes. "
   },
   {
    "line": "bakerloo",
@@ -374711,7 +374630,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-12T10:40:07.234Z",
-   "to": "2026-10-12T11:30:07.020Z",
+   "to": "2026-10-12T11:46:09.914Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Minor delays between Whitechapel and Shenfield due to an earlier animal on the track at Stratford. MINOR DELAYS between Paddington and Reading/Heathrow Terminals due to an earlier trespasser on the track at Acton Main line. GOOD SERVICE on the rest of the line. "
@@ -375854,7 +375773,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-12T11:25:02.302Z",
-   "to": "2026-10-12T11:30:07.020Z",
+   "to": "2026-10-12T11:50:06.399Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays due to an earlier ill person on a train at Shadwell.  "
@@ -375989,10 +375908,514 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-10-12T11:30:07.020Z",
-   "to": "2026-10-12T11:30:07.020Z",
+   "to": "2026-10-12T11:50:06.399Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays while we fix a points failure at West Hampstead.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:30:16.866Z",
+   "to": "2026-10-12T11:30:16.866Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:30:16.866Z",
+   "to": "2026-10-12T11:30:16.866Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:30:20.814Z",
+   "to": "2026-10-12T11:30:20.814Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:30:20.814Z",
+   "to": "2026-10-12T11:30:20.814Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:30:34.396Z",
+   "to": "2026-10-12T11:30:34.396Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:30:34.396Z",
+   "to": "2026-10-12T11:30:34.396Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:30:40.503Z",
+   "to": "2026-10-12T11:30:40.503Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:30:40.503Z",
+   "to": "2026-10-12T11:30:40.503Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:30:40.881Z",
+   "to": "2026-10-12T11:30:40.881Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:30:40.881Z",
+   "to": "2026-10-12T11:30:40.881Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:30:51.919Z",
+   "to": "2026-10-12T11:30:51.919Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:30:51.919Z",
+   "to": "2026-10-12T11:30:51.919Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:35:02.674Z",
+   "to": "2026-10-12T11:35:02.674Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:35:02.674Z",
+   "to": "2026-10-12T11:35:02.674Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:35:07.624Z",
+   "to": "2026-10-12T11:35:07.624Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:35:07.624Z",
+   "to": "2026-10-12T11:35:07.624Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:35:07.968Z",
+   "to": "2026-10-12T11:35:07.968Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:35:07.968Z",
+   "to": "2026-10-12T11:35:07.968Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:35:14.685Z",
+   "to": "2026-10-12T11:35:14.685Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:35:14.685Z",
+   "to": "2026-10-12T11:35:14.685Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:35:48.773Z",
+   "to": "2026-10-12T11:35:48.773Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:35:48.773Z",
+   "to": "2026-10-12T11:35:48.773Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:35:51.231Z",
+   "to": "2026-10-12T11:35:51.231Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:35:51.231Z",
+   "to": "2026-10-12T11:35:51.231Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:35:55.333Z",
+   "to": "2026-10-12T11:35:55.333Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:35:55.333Z",
+   "to": "2026-10-12T11:35:55.333Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:40:06.527Z",
+   "to": "2026-10-12T11:40:06.527Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:40:06.527Z",
+   "to": "2026-10-12T11:40:06.527Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:40:17.946Z",
+   "to": "2026-10-12T11:40:17.946Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:40:17.946Z",
+   "to": "2026-10-12T11:40:17.946Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:40:22.700Z",
+   "to": "2026-10-12T11:40:22.700Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:40:22.700Z",
+   "to": "2026-10-12T11:40:22.700Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:40:52.431Z",
+   "to": "2026-10-12T11:40:52.431Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:40:52.431Z",
+   "to": "2026-10-12T11:40:52.431Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:40:58.963Z",
+   "to": "2026-10-12T11:40:58.963Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:40:58.963Z",
+   "to": "2026-10-12T11:40:58.963Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:40:59.296Z",
+   "to": "2026-10-12T11:40:59.296Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:40:59.296Z",
+   "to": "2026-10-12T11:40:59.296Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:41:05.206Z",
+   "to": "2026-10-12T11:41:05.206Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:41:05.206Z",
+   "to": "2026-10-12T11:41:05.206Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:45:05.277Z",
+   "to": "2026-10-12T11:45:05.277Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:45:05.277Z",
+   "to": "2026-10-12T11:45:05.277Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:45:09.082Z",
+   "to": "2026-10-12T11:45:09.082Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:45:09.082Z",
+   "to": "2026-10-12T11:45:09.082Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:45:09.421Z",
+   "to": "2026-10-12T11:45:09.421Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:45:09.421Z",
+   "to": "2026-10-12T11:45:09.421Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:45:17.141Z",
+   "to": "2026-10-12T11:45:17.141Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:45:17.141Z",
+   "to": "2026-10-12T11:45:17.141Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:46:03.979Z",
+   "to": "2026-10-12T11:46:03.979Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:46:03.979Z",
+   "to": "2026-10-12T11:46:03.979Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:46:06.065Z",
+   "to": "2026-10-12T11:46:06.065Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:46:06.065Z",
+   "to": "2026-10-12T11:46:06.065Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:46:09.914Z",
+   "to": "2026-10-12T11:46:09.914Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:46:09.914Z",
+   "to": "2026-10-12T11:46:09.914Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:50:06.399Z",
+   "to": "2026-10-12T11:50:06.399Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-12T11:50:06.399Z",
+   "to": "2026-10-12T11:50:06.399Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Earl's Court and Wimbledon and SEVERE DELAYS between Earl's Court and Edgware Road whilst we fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, South Western Railway and Mildmay Line. "
   }
  ]
 }
