@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-12T16:30:56.244Z",
- "sinceISO": "2026-08-13T16:30:53.957Z",
+ "generatedAt": "2026-10-12T16:35:05.782Z",
+ "sinceISO": "2026-08-13T16:35:03.457Z",
  "coverage": [
   {
-   "from": "2026-08-13T16:35:02.427Z",
+   "from": "2026-08-13T16:40:05.128Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 17994
+   "polls": 17993
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-12T16:30:52.949Z",
-   "polls": 10010
+   "to": "2026-10-12T16:35:03.222Z",
+   "polls": 10014
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-13T16:35:02.427Z",
+   "from": "2026-08-13T16:40:05.128Z",
    "to": "2026-08-13T17:00:13.857Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -31,7 +31,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-13T16:35:02.427Z",
+   "from": "2026-08-13T16:40:05.128Z",
    "to": "2026-08-13T17:00:13.857Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,7 +40,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-13T16:35:02.427Z",
+   "from": "2026-08-13T16:40:05.128Z",
    "to": "2026-08-13T17:05:02.101Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -49,16 +49,34 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-08-13T16:35:02.427Z",
-   "to": "2026-08-13T16:35:02.427Z",
+   "from": "2026-08-13T16:40:05.128Z",
+   "to": "2026-08-13T16:40:05.128Z",
    "severity": 6,
    "description": "Severe Delays",
-   "reason": "Severe delays between Abbey Wood and Heathrow Airport / Reading due to an earlier power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, DLR, Great Western Railway, South Western Railway, Chiltern Railway's Thameslink and Southeastern. "
+   "reason": "Severe delays between Paddington and Heathrow Airport / Reading due to an earlier power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. MINOR DELAYS between Abbey Wood and Paddington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway, South Western Railway and Chiltern Railway's "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-08-13T16:40:05.128Z",
+   "to": "2026-08-13T16:40:05.128Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Airport / Reading due to an earlier power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. MINOR DELAYS between Abbey Wood and Paddington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway, South Western Railway and Chiltern Railway's "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-08-13T16:40:05.128Z",
+   "to": "2026-08-13T16:45:02.638Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Airport / Reading due to an earlier power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. MINOR DELAYS between Abbey Wood and Paddington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway, South Western Railway and Chiltern Railway's "
   },
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-13T16:35:02.427Z",
+   "from": "2026-08-13T16:40:05.128Z",
    "to": "2026-08-13T16:45:02.638Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -67,7 +85,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-13T16:35:02.427Z",
+   "from": "2026-08-13T16:40:05.128Z",
    "to": "2026-08-13T16:40:05.128Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -76,7 +94,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-13T16:35:02.427Z",
+   "from": "2026-08-13T16:40:05.128Z",
    "to": "2026-08-13T20:30:05.530Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -85,7 +103,7 @@
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-08-13T16:35:02.427Z",
+   "from": "2026-08-13T16:40:05.128Z",
    "to": "2026-08-13T20:30:05.530Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -94,38 +112,11 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-13T16:35:02.427Z",
+   "from": "2026-08-13T16:40:05.128Z",
    "to": "2026-08-14T00:15:02.747Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays while we fix a signal failure at Bounds Green. London Buses, London Overground and South Western Railway are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T16:40:05.128Z",
-   "to": "2026-08-13T16:40:05.128Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Airport / Reading due to an earlier power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. MINOR DELAYS between Abbey Wood and Paddington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway, South Western Railway and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T16:40:05.128Z",
-   "to": "2026-08-13T16:40:05.128Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Severe delays between Paddington and Heathrow Airport / Reading due to an earlier power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. MINOR DELAYS between Abbey Wood and Paddington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway, South Western Railway and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T16:40:05.128Z",
-   "to": "2026-08-13T16:45:02.638Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Airport / Reading due to an earlier power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. MINOR DELAYS between Abbey Wood and Paddington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway, South Western Railway and Chiltern Railway's "
   },
   {
    "line": "elizabeth",
@@ -375224,7 +375215,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-12T15:45:03.490Z",
-   "to": "2026-10-12T16:30:52.949Z",
+   "to": "2026-10-12T16:31:13.169Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Airport while we fix a points failure at Northfields. GOOD SERVICE on the rest of the line. "
@@ -375233,10 +375224,19 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-12T16:30:52.949Z",
-   "to": "2026-10-12T16:30:52.949Z",
+   "to": "2026-10-12T16:35:03.222Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor Delays between Turnham Green and Ealing Broadway due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-12T16:35:03.222Z",
+   "to": "2026-10-12T16:35:03.222Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Airport due to an earlier points failure at Northfields. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
