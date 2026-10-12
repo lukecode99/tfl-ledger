@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-12T20:10:09.404Z",
- "sinceISO": "2026-08-13T20:10:06.977Z",
+ "generatedAt": "2026-10-12T20:46:04.942Z",
+ "sinceISO": "2026-08-13T20:46:01.191Z",
  "coverage": [
   {
-   "from": "2026-08-13T20:15:02.133Z",
+   "from": "2026-08-13T20:50:05.277Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 17950
+   "polls": 17943
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-12T20:10:06.689Z",
-   "polls": 10315
+   "to": "2026-10-12T20:46:00.907Z",
+   "polls": 10368
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-13T20:15:02.133Z",
+   "from": "2026-08-13T20:50:05.277Z",
    "to": "2026-08-13T22:20:04.920Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -31,7 +31,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-13T20:15:02.133Z",
+   "from": "2026-08-13T20:50:05.277Z",
    "to": "2026-08-13T21:35:02.421Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -40,34 +40,16 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:15:02.133Z",
-   "to": "2026-08-13T20:15:02.133Z",
+   "from": "2026-08-13T20:50:05.277Z",
+   "to": "2026-08-14T00:15:02.747Z",
    "severity": 6,
    "description": "Severe Delays",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:15:02.133Z",
-   "to": "2026-08-13T20:15:02.133Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:15:02.133Z",
-   "to": "2026-08-13T20:15:02.133Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
+   "reason": "Severe delays due to an earlier customer incident and a faulty train at Hanwell. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's. "
   },
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-13T20:15:02.133Z",
+   "from": "2026-08-13T20:50:05.277Z",
    "to": "2026-08-14T00:15:02.747Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -76,7 +58,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-13T20:15:02.133Z",
+   "from": "2026-08-13T20:50:05.277Z",
    "to": "2026-08-13T20:50:05.277Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -85,218 +67,29 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-13T20:15:02.133Z",
-   "to": "2026-08-13T20:30:05.530Z",
+   "from": "2026-08-13T20:50:05.277Z",
+   "to": "2026-08-13T20:50:05.277Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run"
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-08-13T20:50:05.277Z",
+   "to": "2026-08-13T20:50:05.277Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-08-13T20:15:02.133Z",
-   "to": "2026-08-13T20:30:05.530Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Minor delays due to an earlier fire alert at Golders Green.  "
   },
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-13T20:15:02.133Z",
+   "from": "2026-08-13T20:50:05.277Z",
    "to": "2026-08-14T00:15:02.747Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays while we fix a signal failure at Bounds Green. London Buses, London Overground and South Western Railway are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:20:05.246Z",
-   "to": "2026-08-13T20:20:05.246Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:20:05.246Z",
-   "to": "2026-08-13T20:20:05.246Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:20:05.246Z",
-   "to": "2026-08-13T20:20:05.246Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:25:02.265Z",
-   "to": "2026-08-13T20:25:02.265Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:25:02.265Z",
-   "to": "2026-08-13T20:25:02.265Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:25:02.265Z",
-   "to": "2026-08-13T20:25:02.265Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:30:05.530Z",
-   "to": "2026-08-13T20:30:05.530Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:30:05.530Z",
-   "to": "2026-08-13T20:30:05.530Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:30:05.530Z",
-   "to": "2026-08-13T20:30:05.530Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:35:02.039Z",
-   "to": "2026-08-13T20:35:02.039Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:35:02.039Z",
-   "to": "2026-08-13T20:35:02.039Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:35:02.039Z",
-   "to": "2026-08-13T20:35:02.039Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-13T20:35:02.039Z",
-   "to": "2026-08-13T20:35:02.039Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-13T20:35:02.039Z",
-   "to": "2026-08-13T20:35:02.039Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-13T20:40:06.524Z",
-   "to": "2026-08-14T00:15:02.747Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays due to an earlier customer incident and a faulty train at Hanwell. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-13T20:40:06.524Z",
-   "to": "2026-08-13T20:40:06.524Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-13T20:40:06.524Z",
-   "to": "2026-08-13T20:40:06.524Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-13T20:45:02.172Z",
-   "to": "2026-08-13T20:45:02.172Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-13T20:45:02.172Z",
-   "to": "2026-08-13T20:45:02.172Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-13T20:50:05.277Z",
-   "to": "2026-08-13T20:50:05.277Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-13T20:50:05.277Z",
-   "to": "2026-08-13T20:50:05.277Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. "
   },
   {
    "line": "mildmay",
@@ -373766,7 +373559,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-12T19:45:02.306Z",
-   "to": "2026-10-12T20:10:06.689Z",
+   "to": "2026-10-12T20:46:00.907Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
@@ -373775,7 +373568,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-10-12T20:05:02.471Z",
-   "to": "2026-10-12T20:10:06.689Z",
+   "to": "2026-10-12T20:46:00.907Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Barking and Barking Riverside while we fix a points failure at Barking. GOOD SERVICE on the rest of the line. "
@@ -373784,10 +373577,19 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-10-12T20:10:06.689Z",
-   "to": "2026-10-12T20:10:06.689Z",
+   "to": "2026-10-12T20:46:00.907Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-12T20:46:00.907Z",
+   "to": "2026-10-12T20:46:00.907Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Monday 12 October, the 2148 train from Richmond to Stratford will terminate at Willesden Junction at 2206. The 2300 train from Stratford to Richmond will not run"
   }
  ]
 }
