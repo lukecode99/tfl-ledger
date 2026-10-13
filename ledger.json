@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-13T11:50:11.336Z",
- "sinceISO": "2026-08-14T11:50:08.954Z",
+ "generatedAt": "2026-10-13T12:00:19.998Z",
+ "sinceISO": "2026-08-14T12:00:17.582Z",
  "coverage": [
   {
-   "from": "2026-08-14T11:55:02.633Z",
+   "from": "2026-08-14T12:05:02.748Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 17762
+   "polls": 17760
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-13T11:50:08.232Z",
-   "polls": 11631
+   "to": "2026-10-13T12:00:10.514Z",
+   "polls": 11645
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-14T11:55:02.633Z",
+   "from": "2026-08-14T12:05:02.748Z",
    "to": "2026-08-14T16:40:04.967Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-14T11:55:02.633Z",
+   "from": "2026-08-14T12:05:02.748Z",
    "to": "2026-08-14T12:55:02.340Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,29 +40,11 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-08-14T11:55:02.633Z",
+   "from": "2026-08-14T12:05:02.748Z",
    "to": "2026-08-14T12:10:04.883Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Minor delays between Paddington and Heathrow Terminal 4 while we fix a track fault at Paddington. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-08-14T11:55:02.633Z",
-   "to": "2026-08-14T12:25:02.374Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and Battersea Power Station via Charing Cross due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-14T11:55:02.633Z",
-   "to": "2026-08-14T11:55:02.633Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: Severe delays between Highbury & Islington and Dalston Junction due to a track fault at Sydenham. Tickets are being accepted on London Underground via any reasonable route. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "metropolitan",
@@ -72,6 +54,15 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Moor Park and Chesham due to train cancellations. The next southbound departure will be at 14:00. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-08-14T12:05:02.748Z",
+   "to": "2026-08-14T12:25:02.374Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Camden Town and Battersea Power Station via Charing Cross due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "jubilee",
@@ -379112,7 +379103,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-13T11:30:07.356Z",
-   "to": "2026-10-13T11:50:08.232Z",
+   "to": "2026-10-13T11:56:00.949Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Aldgate southbound only due to an earlier points failure at Harrow-on-Hill. GOOD SERVICE on the rest of the line. "
@@ -379751,7 +379742,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-13T11:50:08.232Z",
-   "to": "2026-10-13T11:50:08.232Z",
+   "to": "2026-10-13T11:50:20.043Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
@@ -379773,6 +379764,519 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:50:20.043Z",
+   "to": "2026-10-13T11:50:20.043Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:50:20.043Z",
+   "to": "2026-10-13T11:50:24.057Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:50:20.043Z",
+   "to": "2026-10-13T11:50:20.043Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:50:20.043Z",
+   "to": "2026-10-13T11:50:20.043Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:50:24.057Z",
+   "to": "2026-10-13T11:50:24.057Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:50:24.057Z",
+   "to": "2026-10-13T11:50:41.307Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:50:24.057Z",
+   "to": "2026-10-13T11:50:24.057Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:50:24.057Z",
+   "to": "2026-10-13T11:50:24.057Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:50:41.307Z",
+   "to": "2026-10-13T11:50:41.307Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:50:41.307Z",
+   "to": "2026-10-13T11:50:45.244Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:50:41.307Z",
+   "to": "2026-10-13T11:50:41.307Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:50:41.307Z",
+   "to": "2026-10-13T11:50:41.307Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:50:45.244Z",
+   "to": "2026-10-13T11:50:45.244Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:50:45.244Z",
+   "to": "2026-10-13T11:50:45.589Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:50:45.244Z",
+   "to": "2026-10-13T11:50:45.244Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:50:45.244Z",
+   "to": "2026-10-13T11:50:45.244Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:50:45.589Z",
+   "to": "2026-10-13T11:50:45.589Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:50:45.589Z",
+   "to": "2026-10-13T11:50:52.176Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:50:45.589Z",
+   "to": "2026-10-13T11:50:45.589Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:50:45.589Z",
+   "to": "2026-10-13T11:50:45.589Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:50:52.176Z",
+   "to": "2026-10-13T11:50:52.176Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:50:52.176Z",
+   "to": "2026-10-13T11:55:02.744Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:50:52.176Z",
+   "to": "2026-10-13T11:50:52.176Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:50:52.176Z",
+   "to": "2026-10-13T11:50:52.176Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:55:02.744Z",
+   "to": "2026-10-13T11:55:02.744Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:55:02.744Z",
+   "to": "2026-10-13T11:55:07.907Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:55:02.744Z",
+   "to": "2026-10-13T11:55:02.744Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:55:02.744Z",
+   "to": "2026-10-13T11:55:02.744Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:55:07.907Z",
+   "to": "2026-10-13T11:55:07.907Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:55:07.907Z",
+   "to": "2026-10-13T11:55:08.474Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:55:07.907Z",
+   "to": "2026-10-13T11:55:07.907Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:55:07.907Z",
+   "to": "2026-10-13T11:55:07.907Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:55:08.474Z",
+   "to": "2026-10-13T11:55:08.474Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:55:08.474Z",
+   "to": "2026-10-13T11:55:15.429Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:55:08.474Z",
+   "to": "2026-10-13T11:55:08.474Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:55:08.474Z",
+   "to": "2026-10-13T11:55:08.474Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:55:15.429Z",
+   "to": "2026-10-13T11:55:15.429Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:55:15.429Z",
+   "to": "2026-10-13T11:55:54.709Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:55:15.429Z",
+   "to": "2026-10-13T11:55:15.429Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:55:15.429Z",
+   "to": "2026-10-13T11:55:15.429Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:55:54.709Z",
+   "to": "2026-10-13T11:55:54.709Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:55:54.709Z",
+   "to": "2026-10-13T11:55:56.780Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:55:54.709Z",
+   "to": "2026-10-13T11:55:54.709Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:55:54.709Z",
+   "to": "2026-10-13T11:55:54.709Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:55:56.780Z",
+   "to": "2026-10-13T11:55:56.780Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:55:56.780Z",
+   "to": "2026-10-13T11:56:00.949Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:55:56.780Z",
+   "to": "2026-10-13T11:55:56.780Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:55:56.780Z",
+   "to": "2026-10-13T11:55:56.780Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:56:00.949Z",
+   "to": "2026-10-13T11:56:00.949Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T11:56:00.949Z",
+   "to": "2026-10-13T12:00:10.514Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:56:00.949Z",
+   "to": "2026-10-13T11:56:00.949Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T11:56:00.949Z",
+   "to": "2026-10-13T11:56:00.949Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T12:00:10.514Z",
+   "to": "2026-10-13T12:00:10.514Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T12:00:10.514Z",
+   "to": "2026-10-13T12:00:10.514Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T12:00:10.514Z",
+   "to": "2026-10-13T12:00:10.514Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-13T12:00:10.514Z",
+   "to": "2026-10-13T12:00:10.514Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Canning Town and King George V and SEVERE DELAYS between Canning Town and Stratford International/Bank and between King George V and Woolwich Arsenal while we fix a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-13T12:00:10.514Z",
+   "to": "2026-10-13T12:00:10.514Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Aldgate southbound only due to an earlier points failure at Harrow-on-the-Hill. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
