@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-13T18:07:04.304Z",
- "sinceISO": "2026-08-14T18:07:01.903Z",
+ "generatedAt": "2026-10-13T18:30:11.386Z",
+ "sinceISO": "2026-08-14T18:30:08.912Z",
  "coverage": [
   {
-   "from": "2026-08-14T18:10:05.355Z",
+   "from": "2026-08-14T18:35:01.966Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 17687
+   "polls": 17682
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,33 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-13T18:07:01.481Z",
-   "polls": 12162
+   "to": "2026-10-13T18:30:08.643Z",
+   "polls": 12191
   }
  ],
  "spans": [
   {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-08-14T18:35:01.966Z",
+   "to": "2026-08-14T18:35:01.966Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a faulty track at Harlesden. Tickets are being accepted on London Northwestern Railway and London Buses.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-08-14T18:35:01.966Z",
+   "to": "2026-08-14T18:35:01.966Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a faulty track at Harlesden. Tickets are being accepted on London Northwestern Railway and London Buses.  "
+  },
+  {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-14T18:10:05.355Z",
+   "from": "2026-08-14T18:35:01.966Z",
    "to": "2026-08-14T19:15:02.391Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -31,7 +49,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-14T18:10:05.355Z",
+   "from": "2026-08-14T18:35:01.966Z",
    "to": "2026-08-14T20:05:01.932Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,7 +58,7 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-08-14T18:10:05.355Z",
+   "from": "2026-08-14T18:35:01.966Z",
    "to": "2026-08-14T18:40:04.996Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -49,16 +67,34 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-14T18:10:05.355Z",
+   "from": "2026-08-14T18:35:01.966Z",
    "to": "2026-08-14T19:35:02.633Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Jubilee Line: Severe delays due to an earlier points failure at Stanmore. Tickets are being accepted on London Buses, DLR, Elizabeth line, Mildmay line and Thameslink.  "
   },
   {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-08-14T18:35:01.966Z",
+   "to": "2026-08-14T18:35:01.966Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Watford Junction and Willesden Junction while we fix a faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-08-14T18:35:01.966Z",
+   "to": "2026-08-14T18:35:01.966Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Watford Junction and Willesden Junction while we fix a faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
+  },
+  {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-14T18:10:05.355Z",
+   "from": "2026-08-14T18:35:01.966Z",
    "to": "2026-08-14T19:10:04.712Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -67,7 +103,7 @@
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-08-14T18:10:05.355Z",
+   "from": "2026-08-14T18:35:01.966Z",
    "to": "2026-08-14T18:35:01.966Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -76,236 +112,11 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-14T18:10:05.355Z",
+   "from": "2026-08-14T18:35:01.966Z",
    "to": "2026-08-14T22:45:02.333Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays due to an earlier customer incident. Tickets will be accepted on London Buses and Great Northern.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-14T18:10:05.355Z",
-   "to": "2026-08-14T18:10:05.355Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. SEVERE DELAYS between Highbury & Islington and Crystal Palace while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-14T18:10:05.355Z",
-   "to": "2026-08-14T18:10:05.355Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. SEVERE DELAYS between Highbury & Islington and Crystal Palace while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-14T18:15:02.180Z",
-   "to": "2026-08-14T18:20:04.468Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a faulty track at Harlesden. Tickets are being accepted on London Northwestern Railway and London Buses.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-14T18:15:02.180Z",
-   "to": "2026-08-14T18:15:02.180Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. SEVERE DELAYS between Highbury & Islington and Crystal Palace while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-14T18:15:02.180Z",
-   "to": "2026-08-14T18:15:02.180Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. SEVERE DELAYS between Highbury & Islington and Crystal Palace while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-14T18:20:04.468Z",
-   "to": "2026-08-14T18:20:04.468Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Lioness Line: No service between Watford Junction and Willesden Junction while we fix a faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-14T18:20:04.468Z",
-   "to": "2026-08-14T18:20:04.468Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Lioness Line: No service between Watford Junction and Willesden Junction while we fix a faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-14T18:20:04.468Z",
-   "to": "2026-08-14T18:20:04.468Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. SEVERE DELAYS between Highbury & Islington and Crystal Palace while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-14T18:20:04.468Z",
-   "to": "2026-08-14T18:20:04.468Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. SEVERE DELAYS between Highbury & Islington and Crystal Palace while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-14T18:25:02.116Z",
-   "to": "2026-08-14T18:25:02.116Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a faulty track at Harlesden. Tickets are being accepted on London Northwestern Railway and London Buses.  "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-14T18:25:02.116Z",
-   "to": "2026-08-14T18:25:02.116Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a faulty track at Harlesden. Tickets are being accepted on London Northwestern Railway and London Buses.  "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-14T18:25:02.116Z",
-   "to": "2026-08-14T18:25:02.116Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Lioness Line: No service between Watford Junction and Willesden Junction while we fix a faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-14T18:25:02.116Z",
-   "to": "2026-08-14T18:25:02.116Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Lioness Line: No service between Watford Junction and Willesden Junction while we fix a faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-14T18:25:02.116Z",
-   "to": "2026-08-14T18:25:02.116Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. SEVERE DELAYS between Highbury & Islington and Crystal Palace while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-14T18:25:02.116Z",
-   "to": "2026-08-14T18:25:02.116Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. SEVERE DELAYS between Highbury & Islington and Crystal Palace while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-14T18:30:05.135Z",
-   "to": "2026-08-14T18:30:05.135Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a faulty track at Harlesden. Tickets are being accepted on London Northwestern Railway and London Buses.  "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-14T18:30:05.135Z",
-   "to": "2026-08-14T18:30:05.135Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a faulty track at Harlesden. Tickets are being accepted on London Northwestern Railway and London Buses.  "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-14T18:30:05.135Z",
-   "to": "2026-08-14T18:30:05.135Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Lioness Line: No service between Watford Junction and Willesden Junction while we fix a faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-14T18:30:05.135Z",
-   "to": "2026-08-14T18:30:05.135Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Lioness Line: No service between Watford Junction and Willesden Junction while we fix a faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-14T18:30:05.135Z",
-   "to": "2026-08-14T18:30:05.135Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. SEVERE DELAYS between Highbury & Islington and Crystal Palace while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-14T18:30:05.135Z",
-   "to": "2026-08-14T18:30:05.135Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. SEVERE DELAYS between Highbury & Islington and Crystal Palace while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-14T18:35:01.966Z",
-   "to": "2026-08-14T18:35:01.966Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a faulty track at Harlesden. Tickets are being accepted on London Northwestern Railway and London Buses.  "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-14T18:35:01.966Z",
-   "to": "2026-08-14T18:35:01.966Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a faulty track at Harlesden. Tickets are being accepted on London Northwestern Railway and London Buses.  "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-14T18:35:01.966Z",
-   "to": "2026-08-14T18:35:01.966Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Lioness Line: No service between Watford Junction and Willesden Junction while we fix a faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-14T18:35:01.966Z",
-   "to": "2026-08-14T18:35:01.966Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Lioness Line: No service between Watford Junction and Willesden Junction while we fix a faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
   },
   {
    "line": "windrush",
@@ -384674,7 +384485,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-10-13T16:05:02.710Z",
-   "to": "2026-10-13T18:07:01.481Z",
+   "to": "2026-10-13T18:30:08.643Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays due to train cancellations.  "
@@ -384926,7 +384737,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-13T16:15:02.341Z",
-   "to": "2026-10-13T18:07:01.481Z",
+   "to": "2026-10-13T18:30:08.643Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays due to an earlier trespasser on the track at Snaresbrook. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways, Elizabeth Line and Greater Anglia and Great Western Railway. "
@@ -385358,7 +385169,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-13T17:50:27.500Z",
-   "to": "2026-10-13T18:07:01.481Z",
+   "to": "2026-10-13T18:26:21.402Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays between Sydenham and West Croydon while we conduct a safety inspection of the track. GOOD SERVICE on the rest of the line. "
@@ -385736,7 +385547,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-10-13T18:07:01.481Z",
-   "to": "2026-10-13T18:07:01.481Z",
+   "to": "2026-10-13T18:30:08.643Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Jubilee Line: Severe delays due to an earlier signal failure at Canary Wharf. Tickets will be accepted on London Buses, London Overground, DLR, Elizabeth Line, C2C, South Eastern and Thameslink via any reasonable route.  "
