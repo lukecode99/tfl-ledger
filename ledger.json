@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-13T07:20:12.320Z",
- "sinceISO": "2026-08-14T07:20:08.588Z",
+ "generatedAt": "2026-10-13T07:40:47.892Z",
+ "sinceISO": "2026-08-14T07:40:45.413Z",
  "coverage": [
   {
-   "from": "2026-08-14T07:20:13.187Z",
+   "from": "2026-08-14T07:45:02.640Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 17817
+   "polls": 17812
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,24 +14,33 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-13T07:20:08.352Z",
-   "polls": 11253
+   "to": "2026-10-13T07:40:41.193Z",
+   "polls": 11285
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-14T07:20:13.187Z",
+   "from": "2026-08-14T07:45:02.640Z",
    "to": "2026-08-14T09:35:02.254Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between Leytonstone and Epping/Woodford via Hainault and between North Acton and Ealing Broadway/West Ruislip due to train cancellations. GOOD SERVICE on the rest of the line.  "
   },
   {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-08-14T07:45:02.640Z",
+   "to": "2026-08-14T08:45:02.165Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-14T07:20:13.187Z",
+   "from": "2026-08-14T07:45:02.640Z",
    "to": "2026-08-14T07:55:02.236Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -40,20 +49,11 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-14T07:20:13.187Z",
+   "from": "2026-08-14T07:45:02.640Z",
    "to": "2026-08-14T08:55:02.029Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-14T07:35:02.654Z",
-   "to": "2026-08-14T08:45:02.165Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "windrush",
@@ -372488,7 +372488,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-13T05:00:06.577Z",
-   "to": "2026-10-13T07:20:08.352Z",
+   "to": "2026-10-13T07:40:41.193Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations.  "
@@ -372803,10 +372803,595 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-13T07:20:08.352Z",
-   "to": "2026-10-13T07:20:08.352Z",
+   "to": "2026-10-13T07:20:20.058Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:20:20.058Z",
+   "to": "2026-10-13T07:20:20.058Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:20:20.058Z",
+   "to": "2026-10-13T07:20:23.954Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:20:23.954Z",
+   "to": "2026-10-13T07:20:23.954Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:20:23.954Z",
+   "to": "2026-10-13T07:20:50.797Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:20:50.797Z",
+   "to": "2026-10-13T07:20:50.797Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:20:50.797Z",
+   "to": "2026-10-13T07:20:59.246Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:20:59.246Z",
+   "to": "2026-10-13T07:20:59.246Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:20:59.246Z",
+   "to": "2026-10-13T07:20:59.594Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:20:59.594Z",
+   "to": "2026-10-13T07:20:59.594Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:20:59.594Z",
+   "to": "2026-10-13T07:21:05.698Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:21:05.698Z",
+   "to": "2026-10-13T07:21:05.698Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:21:05.698Z",
+   "to": "2026-10-13T07:25:02.319Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:25:02.319Z",
+   "to": "2026-10-13T07:25:02.319Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:25:02.319Z",
+   "to": "2026-10-13T07:25:13.312Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:25:13.312Z",
+   "to": "2026-10-13T07:25:13.312Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:25:13.312Z",
+   "to": "2026-10-13T07:25:13.629Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:25:13.629Z",
+   "to": "2026-10-13T07:25:13.629Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:25:13.629Z",
+   "to": "2026-10-13T07:25:27.274Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:25:27.274Z",
+   "to": "2026-10-13T07:25:27.274Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:25:27.274Z",
+   "to": "2026-10-13T07:26:05.045Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:26:05.045Z",
+   "to": "2026-10-13T07:26:05.045Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:26:05.045Z",
+   "to": "2026-10-13T07:26:07.386Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:26:07.386Z",
+   "to": "2026-10-13T07:26:07.386Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:26:07.386Z",
+   "to": "2026-10-13T07:26:21.296Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:26:21.296Z",
+   "to": "2026-10-13T07:26:21.296Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:26:21.296Z",
+   "to": "2026-10-13T07:30:06.668Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:30:06.668Z",
+   "to": "2026-10-13T07:30:06.668Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:30:06.668Z",
+   "to": "2026-10-13T07:30:08.924Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:30:08.924Z",
+   "to": "2026-10-13T07:30:08.924Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:30:08.924Z",
+   "to": "2026-10-13T07:30:12.910Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:30:12.910Z",
+   "to": "2026-10-13T07:30:12.910Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:30:12.910Z",
+   "to": "2026-10-13T07:31:12.563Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:31:12.563Z",
+   "to": "2026-10-13T07:31:12.563Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:31:12.563Z",
+   "to": "2026-10-13T07:31:18.529Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:31:18.529Z",
+   "to": "2026-10-13T07:31:18.529Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:31:18.529Z",
+   "to": "2026-10-13T07:31:19.356Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:31:19.356Z",
+   "to": "2026-10-13T07:31:19.356Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:31:19.356Z",
+   "to": "2026-10-13T07:31:26.365Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:31:26.365Z",
+   "to": "2026-10-13T07:31:26.365Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:31:26.365Z",
+   "to": "2026-10-13T07:35:02.546Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:35:02.546Z",
+   "to": "2026-10-13T07:35:02.546Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:35:02.546Z",
+   "to": "2026-10-13T07:35:08.371Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:35:08.371Z",
+   "to": "2026-10-13T07:35:08.371Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:35:08.371Z",
+   "to": "2026-10-13T07:35:09.079Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:35:09.079Z",
+   "to": "2026-10-13T07:35:09.079Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:35:09.079Z",
+   "to": "2026-10-13T07:35:15.511Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:35:15.511Z",
+   "to": "2026-10-13T07:35:15.511Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:35:15.511Z",
+   "to": "2026-10-13T07:35:27.620Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:35:27.620Z",
+   "to": "2026-10-13T07:35:27.620Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:35:27.620Z",
+   "to": "2026-10-13T07:35:35.940Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:35:35.940Z",
+   "to": "2026-10-13T07:35:35.940Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:35:35.940Z",
+   "to": "2026-10-13T07:35:40.010Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:35:40.010Z",
+   "to": "2026-10-13T07:35:40.010Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:35:40.010Z",
+   "to": "2026-10-13T07:40:05.799Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:40:05.799Z",
+   "to": "2026-10-13T07:40:05.799Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:40:05.799Z",
+   "to": "2026-10-13T07:40:07.977Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:40:07.977Z",
+   "to": "2026-10-13T07:40:07.977Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:40:07.977Z",
+   "to": "2026-10-13T07:40:11.976Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:40:11.976Z",
+   "to": "2026-10-13T07:40:11.976Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:40:11.976Z",
+   "to": "2026-10-13T07:40:37.075Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:40:37.075Z",
+   "to": "2026-10-13T07:40:37.075Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:40:37.075Z",
+   "to": "2026-10-13T07:40:41.193Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:40:41.193Z",
+   "to": "2026-10-13T07:40:41.193Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-13T07:40:41.193Z",
+   "to": "2026-10-13T07:40:41.193Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-13T07:40:41.193Z",
+   "to": "2026-10-13T07:40:41.193Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Battersea Power Station via Charing Cross due to an earlier faulty train and Nine Elms. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
