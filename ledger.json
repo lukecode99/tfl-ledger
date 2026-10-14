@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-14T05:00:10.412Z",
- "sinceISO": "2026-08-15T05:00:07.020Z",
+ "generatedAt": "2026-10-14T06:01:25.666Z",
+ "sinceISO": "2026-08-15T06:01:22.047Z",
  "coverage": [
   {
-   "from": "2026-08-15T05:00:11.273Z",
+   "from": "2026-08-15T06:05:01.953Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 17557
+   "polls": 17544
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-14T05:00:06.793Z",
-   "polls": 13073
+   "to": "2026-10-14T06:01:21.790Z",
+   "polls": 13160
   }
  ],
  "spans": [
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-15T05:00:11.273Z",
+   "from": "2026-08-15T06:05:01.953Z",
    "to": "2026-08-15T06:25:02.390Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,16 +31,16 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-15T05:00:11.273Z",
-   "to": "2026-08-15T05:10:16.193Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "District Line: No service between Earl's Court and Wimbledon due to a late finish of engineering work. GOOD SERVICE on the rest of the line.  "
+   "from": "2026-08-15T06:05:01.953Z",
+   "to": "2026-08-15T06:40:18.668Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Wimbledon following a late finish of engineering work. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-15T05:00:11.273Z",
+   "from": "2026-08-15T06:05:01.953Z",
    "to": "2026-08-15T08:20:04.537Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -49,8 +49,8 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:00:11.273Z",
-   "to": "2026-08-15T05:00:11.273Z",
+   "from": "2026-08-15T06:05:01.953Z",
+   "to": "2026-08-15T06:05:01.953Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -58,8 +58,8 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:00:11.273Z",
-   "to": "2026-08-15T05:00:11.273Z",
+   "from": "2026-08-15T06:05:01.953Z",
+   "to": "2026-08-15T06:05:01.953Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
@@ -67,272 +67,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-15T05:00:11.273Z",
-   "to": "2026-08-15T05:25:02.513Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Clapham Junction and Surrey Quays while we fix a track fault at Shepherd's Bush. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:05:02.050Z",
-   "to": "2026-08-15T05:05:02.050Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:05:02.050Z",
-   "to": "2026-08-15T05:05:02.050Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:10:16.193Z",
-   "to": "2026-08-15T05:10:16.193Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:10:16.193Z",
-   "to": "2026-08-15T05:10:16.193Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-15T05:15:02.072Z",
-   "to": "2026-08-15T06:40:18.668Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: Severe delays between Earl's Court and Wimbledon following a late finish of engineering work. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:15:02.072Z",
-   "to": "2026-08-15T05:15:02.072Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:15:02.072Z",
-   "to": "2026-08-15T05:15:02.072Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:20:05.039Z",
-   "to": "2026-08-15T05:20:05.039Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:20:05.039Z",
-   "to": "2026-08-15T05:20:05.039Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:25:02.513Z",
-   "to": "2026-08-15T05:25:02.513Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:25:02.513Z",
-   "to": "2026-08-15T05:25:02.513Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:30:05.563Z",
-   "to": "2026-08-15T05:30:05.563Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:30:05.563Z",
-   "to": "2026-08-15T05:30:05.563Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T05:30:05.563Z",
-   "to": "2026-08-15T05:45:02.285Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Clapham Junction and Surrey Quays while we fix a track fault at Shepherd's Bush. NO SERVICE between Crystal Palace and Sydenham while we fix a track fault at Sydenham. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:35:01.982Z",
-   "to": "2026-08-15T05:35:01.982Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:35:01.982Z",
-   "to": "2026-08-15T05:35:01.982Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:40:07.421Z",
-   "to": "2026-08-15T05:40:07.421Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:40:07.421Z",
-   "to": "2026-08-15T05:40:07.421Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:45:02.285Z",
-   "to": "2026-08-15T05:45:02.285Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:45:02.285Z",
-   "to": "2026-08-15T05:45:02.285Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:50:05.502Z",
-   "to": "2026-08-15T05:50:05.502Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:50:05.502Z",
-   "to": "2026-08-15T05:50:05.502Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T05:50:05.502Z",
+   "from": "2026-08-15T06:05:01.953Z",
    "to": "2026-08-15T06:25:02.390Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Windrush Line: No service between Clapham Junction and Surrey Quays while we fix a track fault at Shepherd's Bush. NO SERVICE between Crystal Palace and Sydenham and between Highbury & Islington and Dalston Junction while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:55:01.916Z",
-   "to": "2026-08-15T05:55:01.916Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T05:55:01.916Z",
-   "to": "2026-08-15T05:55:01.916Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T06:00:10.693Z",
-   "to": "2026-08-15T06:00:10.693Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T06:00:10.693Z",
-   "to": "2026-08-15T06:00:10.693Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T06:05:01.953Z",
-   "to": "2026-08-15T06:05:01.953Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T06:05:01.953Z",
-   "to": "2026-08-15T06:05:01.953Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
   },
   {
    "line": "waterloo-city",
