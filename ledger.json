@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-14T23:05:33.657Z",
- "sinceISO": "2026-08-15T23:05:30.144Z",
+ "generatedAt": "2026-10-14T23:40:10.222Z",
+ "sinceISO": "2026-08-15T23:40:06.532Z",
  "coverage": [
   {
-   "from": "2026-08-15T23:10:04.726Z",
+   "from": "2026-08-15T23:45:02.311Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 17339
+   "polls": 17332
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-14T23:05:28.936Z",
-   "polls": 14597
+   "to": "2026-10-14T23:40:06.160Z",
+   "polls": 14641
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-15T23:10:04.726Z",
+   "from": "2026-08-15T23:45:02.311Z",
    "to": "2026-08-16T00:50:04.282Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,25 +31,16 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-15T23:10:04.726Z",
+   "from": "2026-08-15T23:45:02.311Z",
    "to": "2026-08-16T00:15:02.305Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Sloane Square and Tower Hill eastbound only due to faulty train a Slone Square. GOOD SERVICE on the rest of the line.  "
   },
   {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-15T23:10:04.726Z",
-   "to": "2026-08-15T23:10:04.726Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Jubilee Line: Minor delays due to earlier signal failure at Bond Street.  "
-  },
-  {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-15T23:10:04.726Z",
+   "from": "2026-08-15T23:45:02.311Z",
    "to": "2026-08-16T00:20:04.386Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -58,7 +49,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-15T23:10:04.726Z",
+   "from": "2026-08-15T23:45:02.311Z",
    "to": "2026-08-16T00:20:04.386Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -67,16 +58,25 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-15T23:10:04.726Z",
-   "to": "2026-08-15T23:35:02.124Z",
+   "from": "2026-08-15T23:45:02.311Z",
+   "to": "2026-08-15T23:45:02.311Z",
    "severity": 6,
    "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays while we fix a signal failure at Manor House. Tickets are being accepted on London Buses, the Elizabeth line, the Weaver line and South Western Railway.  "
+   "reason": "Piccadilly Line: No service between Arnos Grove and Cockfosters while we fix a signal failure at Cockfosters. SEVERE DELAYS on the rest of the line due to an earlier a signal failure at Manor House. Tickets are being accepted on London Buses, the Elizabeth line, the Weaver line and South Western Railway.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-08-15T23:45:02.311Z",
+   "to": "2026-08-15T23:45:02.311Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Arnos Grove and Cockfosters while we fix a signal failure at Cockfosters. SEVERE DELAYS on the rest of the line due to an earlier a signal failure at Manor House. Tickets are being accepted on London Buses, the Elizabeth line, the Weaver line and South Western Railway.  "
   },
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-15T23:10:04.726Z",
+   "from": "2026-08-15T23:45:02.311Z",
    "to": "2026-08-16T00:30:04.533Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -85,263 +85,11 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-15T23:10:04.726Z",
-   "to": "2026-08-15T23:10:04.726Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T23:10:04.726Z",
-   "to": "2026-08-15T23:10:04.726Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T23:10:04.726Z",
-   "to": "2026-08-15T23:10:04.726Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 16 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T23:10:04.726Z",
-   "to": "2026-08-15T23:10:04.726Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: Minor delays between Surrey Quays and New Cross and between Highbury & Islington and Dalston Junction due to train cancellations. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T23:15:02.286Z",
-   "to": "2026-08-15T23:15:02.286Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T23:15:02.286Z",
-   "to": "2026-08-15T23:15:02.286Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T23:15:02.286Z",
-   "to": "2026-08-15T23:15:02.286Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 16 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T23:15:02.286Z",
-   "to": "2026-08-15T23:15:02.286Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: Minor delays between Surrey Quays and New Cross and between Highbury & Islington and Dalston Junction due to train cancellations. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T23:20:05.133Z",
-   "to": "2026-08-15T23:20:05.133Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T23:20:05.133Z",
-   "to": "2026-08-15T23:20:05.133Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T23:20:05.133Z",
-   "to": "2026-08-15T23:20:05.133Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 16 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T23:20:05.133Z",
-   "to": "2026-08-15T23:20:05.133Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: Minor delays between Surrey Quays and New Cross and between Highbury & Islington and Dalston Junction due to train cancellations. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T23:25:02.115Z",
-   "to": "2026-08-15T23:25:02.115Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T23:25:02.115Z",
-   "to": "2026-08-15T23:25:02.115Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T23:25:02.115Z",
-   "to": "2026-08-15T23:25:02.115Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 16 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T23:25:02.115Z",
-   "to": "2026-08-15T23:25:02.115Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: Minor delays between Surrey Quays and New Cross and between Highbury & Islington and Dalston Junction due to train cancellations. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T23:30:04.753Z",
-   "to": "2026-08-15T23:30:04.753Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T23:30:04.753Z",
-   "to": "2026-08-15T23:30:04.753Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T23:30:04.753Z",
-   "to": "2026-08-15T23:30:04.753Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 16 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T23:30:04.753Z",
-   "to": "2026-08-15T23:30:04.753Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: Minor delays between Surrey Quays and New Cross and between Highbury & Islington and Dalston Junction due to train cancellations. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T23:35:02.124Z",
+   "from": "2026-08-15T23:45:02.311Z",
    "to": "2026-08-16T00:15:02.305Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T23:35:02.124Z",
-   "to": "2026-08-15T23:35:02.124Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 16 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T23:35:02.124Z",
-   "to": "2026-08-15T23:35:02.124Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: Minor delays between Surrey Quays and New Cross and between Highbury & Islington and Dalston Junction due to train cancellations. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-15T23:40:04.907Z",
-   "to": "2026-08-15T23:40:04.907Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: No service between Arnos Grove and Cockfosters while we fix a signal failure at Cockfosters. SEVERE DELAYS on the rest of the line due to an earlier a signal failure at Manor House. Tickets are being accepted on London Buses, the Elizabeth line, the Weaver line and South Western Railway.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-15T23:40:04.907Z",
-   "to": "2026-08-15T23:40:04.907Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Piccadilly Line: No service between Arnos Grove and Cockfosters while we fix a signal failure at Cockfosters. SEVERE DELAYS on the rest of the line due to an earlier a signal failure at Manor House. Tickets are being accepted on London Buses, the Elizabeth line, the Weaver line and South Western Railway.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T23:40:04.907Z",
-   "to": "2026-08-15T23:40:04.907Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 16 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T23:40:04.907Z",
-   "to": "2026-08-15T23:40:04.907Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: Minor delays between Surrey Quays and New Cross and between Highbury & Islington and Dalston Junction due to train cancellations. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-15T23:45:02.311Z",
-   "to": "2026-08-15T23:45:02.311Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: No service between Arnos Grove and Cockfosters while we fix a signal failure at Cockfosters. SEVERE DELAYS on the rest of the line due to an earlier a signal failure at Manor House. Tickets are being accepted on London Buses, the Elizabeth line, the Weaver line and South Western Railway.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-15T23:45:02.311Z",
-   "to": "2026-08-15T23:45:02.311Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Piccadilly Line: No service between Arnos Grove and Cockfosters while we fix a signal failure at Cockfosters. SEVERE DELAYS on the rest of the line due to an earlier a signal failure at Manor House. Tickets are being accepted on London Buses, the Elizabeth line, the Weaver line and South Western Railway.  "
   },
   {
    "line": "windrush",
@@ -378824,7 +378572,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-14T20:25:02.164Z",
-   "to": "2026-10-14T23:05:28.936Z",
+   "to": "2026-10-14T23:40:06.160Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
@@ -378833,7 +378581,7 @@
    "line": "weaver",
    "lineName": "Weaver",
    "from": "2026-10-14T21:45:02.298Z",
-   "to": "2026-10-14T23:05:28.936Z",
+   "to": "2026-10-14T23:40:06.160Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
@@ -378873,6 +378621,15 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Docklands Light Railway: Minor delays between Stratford International and Woolwich Arsenal due to an earlier faulty train at London City Airport. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-14T23:40:06.160Z",
+   "to": "2026-10-14T23:40:06.160Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   }
  ]
 }
