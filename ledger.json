@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-14T12:20:08.794Z",
- "sinceISO": "2026-08-15T12:20:06.367Z",
+ "generatedAt": "2026-10-14T12:25:05.108Z",
+ "sinceISO": "2026-08-15T12:25:02.719Z",
  "coverage": [
   {
-   "from": "2026-08-15T12:25:02.344Z",
+   "from": "2026-08-15T12:30:04.709Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 17468
+   "polls": 17467
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-14T12:20:06.102Z",
-   "polls": 13689
+   "to": "2026-10-14T12:25:02.454Z",
+   "polls": 13696
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-15T12:25:02.344Z",
+   "from": "2026-08-15T12:30:04.709Z",
    "to": "2026-08-15T12:40:05.111Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,47 +31,11 @@
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-08-15T12:25:02.344Z",
+   "from": "2026-08-15T12:30:04.709Z",
    "to": "2026-08-15T14:00:12.508Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to an earlier points failure at Tower Hill.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-15T12:25:02.344Z",
-   "to": "2026-08-15T12:25:02.344Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Willesden Junction and Shepherd's Bush due to a track fault at Shepherd's Bush. SEVERE DELAYS between Stratford and Richmond following emergency engineering work to fix overhead power lines. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-15T12:25:02.344Z",
-   "to": "2026-08-15T12:25:02.344Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Willesden Junction and Shepherd's Bush due to a track fault at Shepherd's Bush. SEVERE DELAYS between Stratford and Richmond following emergency engineering work to fix overhead power lines. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T12:25:02.344Z",
-   "to": "2026-08-15T12:25:02.344Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T12:25:02.344Z",
-   "to": "2026-08-15T12:25:02.344Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
   },
   {
    "line": "mildmay",
@@ -377330,7 +377294,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-14T08:30:23.582Z",
-   "to": "2026-10-14T12:20:06.102Z",
+   "to": "2026-10-14T12:25:02.454Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -377361,6 +377325,132 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-14T12:20:16.941Z",
+   "to": "2026-10-14T12:20:16.941Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-14T12:20:16.941Z",
+   "to": "2026-10-14T12:20:16.941Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-14T12:20:21.261Z",
+   "to": "2026-10-14T12:20:21.261Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-14T12:20:21.261Z",
+   "to": "2026-10-14T12:20:21.261Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-14T12:20:54.601Z",
+   "to": "2026-10-14T12:20:54.601Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-14T12:20:54.601Z",
+   "to": "2026-10-14T12:20:54.601Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-14T12:20:58.582Z",
+   "to": "2026-10-14T12:20:58.582Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-14T12:20:58.582Z",
+   "to": "2026-10-14T12:20:58.582Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-14T12:20:58.914Z",
+   "to": "2026-10-14T12:20:58.914Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-14T12:20:58.914Z",
+   "to": "2026-10-14T12:20:58.914Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-14T12:21:04.614Z",
+   "to": "2026-10-14T12:21:04.614Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-14T12:21:04.614Z",
+   "to": "2026-10-14T12:21:04.614Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-14T12:25:02.454Z",
+   "to": "2026-10-14T12:25:02.454Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. SEVERE DELAYS on the rest of the line. Tickets will be accepted on London Underground via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-14T12:25:02.454Z",
+   "to": "2026-10-14T12:25:02.454Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a faulty freight train at Upper Holloway. SEVERE DELAYS on the rest of the line. Tickets will be accepted on London Underground via any reasonable route.  "
   }
  ]
 }
