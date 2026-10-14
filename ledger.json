@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-14T06:40:13.308Z",
- "sinceISO": "2026-08-15T06:40:09.651Z",
+ "generatedAt": "2026-10-14T06:40:35.903Z",
+ "sinceISO": "2026-08-15T06:40:33.359Z",
  "coverage": [
   {
-   "from": "2026-08-15T06:40:18.668Z",
+   "from": "2026-08-15T06:45:09.139Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 17537
+   "polls": 17536
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,65 +14,11 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-14T06:40:09.377Z",
-   "polls": 13213
+   "to": "2026-10-14T06:40:32.390Z",
+   "polls": 13216
   }
  ],
  "spans": [
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-15T06:40:18.668Z",
-   "to": "2026-08-15T06:40:18.668Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: Severe delays between Earl's Court and Wimbledon following a late finish of engineering work. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-15T06:40:18.668Z",
-   "to": "2026-08-15T06:40:18.668Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. After the 07:22 departure from Amersham, the next southbound train will be at 07:52. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-15T06:40:18.668Z",
-   "to": "2026-08-15T08:20:04.537Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Willesden Junction and Shepherd's Bush while we fix a track fault at Shepherd's Bush. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T06:40:18.668Z",
-   "to": "2026-08-15T06:40:18.668Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-15T06:40:18.668Z",
-   "to": "2026-08-15T06:40:18.668Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-15T06:40:18.668Z",
-   "to": "2026-08-15T06:40:18.668Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Crystal Palace and Sydenham and between Highbury & Islington and Dalston Junction while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
-  },
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
@@ -81,6 +27,15 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. After the 07:22 departure from Amersham, the next southbound train will be at 08:22. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-08-15T06:45:09.139Z",
+   "to": "2026-08-15T08:20:04.537Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Willesden Junction and Shepherd's Bush while we fix a track fault at Shepherd's Bush. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "waterloo-city",
@@ -379616,7 +379571,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-14T06:40:09.377Z",
-   "to": "2026-10-14T06:40:09.377Z",
+   "to": "2026-10-14T06:40:32.390Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line:  Minor delays due to train cancellations. "
@@ -379625,10 +379580,19 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-14T06:40:09.377Z",
-   "to": "2026-10-14T06:40:09.377Z",
+   "to": "2026-10-14T06:40:27.069Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-14T06:40:32.390Z",
+   "to": "2026-10-14T06:40:32.390Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
   }
  ]
 }
