@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-16T15:56:09.568Z",
- "sinceISO": "2026-08-17T15:56:05.354Z",
+ "generatedAt": "2026-10-16T15:56:19.996Z",
+ "sinceISO": "2026-08-17T15:56:17.148Z",
  "coverage": [
   {
    "from": "2026-08-17T16:00:12.345Z",
@@ -14,8 +14,8 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-16T15:56:05.099Z",
-   "polls": 18026
+   "to": "2026-10-16T15:56:16.910Z",
+   "polls": 18027
   }
  ],
  "spans": [
@@ -387140,7 +387140,7 @@
    "line": "weaver",
    "lineName": "Weaver",
    "from": "2026-10-16T15:30:06.118Z",
-   "to": "2026-10-16T15:56:05.099Z",
+   "to": "2026-10-16T15:56:16.910Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "Weaver Line: Reduced service due to an earlier operational incident.  "
@@ -387162,6 +387162,15 @@
    "severity": 2,
    "description": "Suspended",
    "reason": "Victoria Line: No service while we respond to a fire alert at King's Cross St. Pancras. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-16T15:56:16.910Z",
+   "to": "2026-10-16T15:56:16.910Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
   }
  ]
 }
