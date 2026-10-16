@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-16T15:56:19.996Z",
- "sinceISO": "2026-08-17T15:56:17.148Z",
+ "generatedAt": "2026-10-16T15:56:32.538Z",
+ "sinceISO": "2026-08-17T15:56:29.749Z",
  "coverage": [
   {
    "from": "2026-08-17T16:00:12.345Z",
@@ -14,8 +14,8 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-16T15:56:16.910Z",
-   "polls": 18027
+   "to": "2026-10-16T15:56:29.505Z",
+   "polls": 18028
   }
  ],
  "spans": [
@@ -387140,7 +387140,7 @@
    "line": "weaver",
    "lineName": "Weaver",
    "from": "2026-10-16T15:30:06.118Z",
-   "to": "2026-10-16T15:56:16.910Z",
+   "to": "2026-10-16T15:56:29.505Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "Weaver Line: Reduced service due to an earlier operational incident.  "
@@ -387149,7 +387149,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-16T15:56:05.099Z",
-   "to": "2026-10-16T15:56:05.099Z",
+   "to": "2026-10-16T15:56:29.505Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line.  "
@@ -387171,6 +387171,15 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-16T15:56:29.505Z",
+   "to": "2026-10-16T15:56:29.505Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Victoria Line: No service while we respond to a fire alert at King's Cross St. Pancras. "
   }
  ]
 }
