@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-16T21:00:12.253Z",
- "sinceISO": "2026-08-17T21:00:07.593Z",
+ "generatedAt": "2026-10-16T21:00:55.929Z",
+ "sinceISO": "2026-08-17T21:00:52.958Z",
  "coverage": [
   {
-   "from": "2026-08-17T21:00:11.377Z",
+   "from": "2026-08-17T21:05:01.964Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 16789
+   "polls": 16788
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,46 +14,19 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-16T21:00:07.081Z",
-   "polls": 18449
+   "to": "2026-10-16T21:00:52.468Z",
+   "polls": 18452
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-17T21:00:11.377Z",
+   "from": "2026-08-17T21:05:01.964Z",
    "to": "2026-08-18T00:10:05.081Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Woodford via Hainault due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-17T21:00:11.377Z",
-   "to": "2026-08-17T21:00:11.377Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: Severe delays while we deal with an animal on the track at St James's Park. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-17T21:00:11.377Z",
-   "to": "2026-08-17T21:00:11.377Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway / Richmond, and between Tower Hill and Upminster eastbound only while we deal with an animal on the track at St. James Park. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-17T21:00:11.377Z",
-   "to": "2026-08-17T21:15:02.259Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Airport/Reading while we fix a track fault at Hanwell. Tickets are being accepted on London Underground via any reasonable route. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "circle",
@@ -72,6 +45,15 @@
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway / Richmond, and between West Ham and Upminster eastbound only while we deal with an animal on the track at St. James Park. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-08-17T21:05:01.964Z",
+   "to": "2026-08-17T21:15:02.259Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Airport/Reading while we fix a track fault at Hanwell. Tickets are being accepted on London Underground via any reasonable route. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "elizabeth",
@@ -386555,7 +386537,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-16T16:25:02.253Z",
-   "to": "2026-10-16T21:00:07.081Z",
+   "to": "2026-10-16T21:00:52.468Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to an earlier fire alert at King's Cross St. Pancras. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services. "
@@ -387527,7 +387509,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-16T18:36:16.139Z",
-   "to": "2026-10-16T21:00:07.081Z",
+   "to": "2026-10-16T21:00:52.468Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays due to train cancellations. "
@@ -387797,7 +387779,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-10-16T20:55:07.325Z",
-   "to": "2026-10-16T21:00:07.081Z",
+   "to": "2026-10-16T21:00:52.468Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "MILDMAY LINE: Friday 16 October, the 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. The 2318 train from Richmond to Willesden Junction will not run"
@@ -387806,10 +387788,19 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-16T21:00:07.081Z",
-   "to": "2026-10-16T21:00:07.081Z",
+   "to": "2026-10-16T21:00:23.649Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays while we help a person ill on a train at Arnos Grove. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-16T21:00:52.468Z",
+   "to": "2026-10-16T21:00:52.468Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: Severe delays while we help a person ill on a train at Arnos Grove. Tickets are being accepted on, London Buses, Elizabeth line, Weaver line and Great Northern services. "
   }
  ]
 }
