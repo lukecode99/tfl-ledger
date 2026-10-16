@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-16T20:41:20.065Z",
- "sinceISO": "2026-08-17T20:41:16.420Z",
+ "generatedAt": "2026-10-16T20:50:10.702Z",
+ "sinceISO": "2026-08-17T20:50:06.769Z",
  "coverage": [
   {
-   "from": "2026-08-17T20:45:02.108Z",
+   "from": "2026-08-17T20:55:02.241Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 16792
+   "polls": 16790
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-16T20:41:15.931Z",
-   "polls": 18425
+   "to": "2026-10-16T20:50:06.514Z",
+   "polls": 18435
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-17T20:45:02.108Z",
+   "from": "2026-08-17T20:55:02.241Z",
    "to": "2026-08-18T00:10:05.081Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-17T20:45:02.108Z",
+   "from": "2026-08-17T20:55:02.241Z",
    "to": "2026-08-17T21:00:11.377Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -40,29 +40,20 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-17T20:45:02.108Z",
-   "to": "2026-08-17T20:45:02.108Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: Severe delays between Earl's Court and Upminster while we deal with an animal on the track at St. James's Park. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-17T20:45:02.108Z",
-   "to": "2026-08-17T21:15:02.259Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Airport/Reading while we fix a track fault at Hanwell. Tickets are being accepted on London Underground via any reasonable route. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-17T20:50:05.454Z",
+   "from": "2026-08-17T20:55:02.241Z",
    "to": "2026-08-17T21:00:11.377Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway / Richmond, and between Tower Hill and Upminster eastbound only while we deal with an animal on the track at St. James Park. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-08-17T20:55:02.241Z",
+   "to": "2026-08-17T21:15:02.259Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Airport/Reading while we fix a track fault at Hanwell. Tickets are being accepted on London Underground via any reasonable route. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "circle",
@@ -386384,7 +386375,7 @@
    "line": "weaver",
    "lineName": "Weaver",
    "from": "2026-10-16T15:30:06.118Z",
-   "to": "2026-10-16T20:41:15.931Z",
+   "to": "2026-10-16T20:45:30.061Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "Weaver Line: Reduced service due to an earlier operational incident.  "
@@ -386564,7 +386555,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-16T16:25:02.253Z",
-   "to": "2026-10-16T20:41:15.931Z",
+   "to": "2026-10-16T20:50:06.514Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to an earlier fire alert at King's Cross St. Pancras. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services. "
@@ -387536,7 +387527,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-16T18:36:16.139Z",
-   "to": "2026-10-16T20:41:15.931Z",
+   "to": "2026-10-16T20:50:06.514Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays due to train cancellations. "
@@ -387770,7 +387761,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-16T19:55:02.318Z",
-   "to": "2026-10-16T20:41:15.931Z",
+   "to": "2026-10-16T20:45:30.061Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge due to a person taken ill on a train earlier at Piccadilly Circus. Tickets. GOOD SERVICE on the rest of the line. "
@@ -387792,6 +387783,15 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Aldgate and Baker Street due to an earlier faulty train at Farringdon. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-16T20:50:06.514Z",
+   "to": "2026-10-16T20:50:06.514Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: Minor delays while we help a person ill on a train at Arnos Grove. "
   }
  ]
 }
