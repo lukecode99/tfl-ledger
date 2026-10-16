@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-16T15:56:32.538Z",
- "sinceISO": "2026-08-17T15:56:29.749Z",
+ "generatedAt": "2026-10-16T16:05:06.568Z",
+ "sinceISO": "2026-08-17T16:05:03.332Z",
  "coverage": [
   {
-   "from": "2026-08-17T16:00:12.345Z",
+   "from": "2026-08-17T16:10:06.020Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 16849
+   "polls": 16847
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,47 +14,11 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-16T15:56:29.505Z",
-   "polls": 18028
+   "to": "2026-10-16T16:05:03.082Z",
+   "polls": 18036
   }
  ],
  "spans": [
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-17T16:00:12.345Z",
-   "to": "2026-08-17T16:30:09.875Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: Severe delays due to an earlier points failure at Stratford.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-17T16:00:12.345Z",
-   "to": "2026-08-17T16:00:12.345Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays due to an earlier fire alert at Chiswick Park. Tickets will be accepted on London Buses, Elizabeth line and Weaver line via reasonable routes. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-17T16:05:02.418Z",
-   "to": "2026-08-17T16:05:02.418Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge, MINOR DELAYS on the rest of the line due to an earlier fire alert at Chiswick Park. Tickets will be accepted on London Buses.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-17T16:05:02.418Z",
-   "to": "2026-08-17T16:05:02.418Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge, MINOR DELAYS on the rest of the line due to an earlier fire alert at Chiswick Park. Tickets will be accepted on London Buses.  "
-  },
   {
    "line": "central",
    "lineName": "Central",
@@ -63,6 +27,15 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Woodford via Hainault due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-08-17T16:10:06.020Z",
+   "to": "2026-08-17T16:30:09.875Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: Severe delays due to an earlier points failure at Stratford.  "
   },
   {
    "line": "piccadilly",
@@ -387140,7 +387113,7 @@
    "line": "weaver",
    "lineName": "Weaver",
    "from": "2026-10-16T15:30:06.118Z",
-   "to": "2026-10-16T15:56:29.505Z",
+   "to": "2026-10-16T16:05:03.082Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "Weaver Line: Reduced service due to an earlier operational incident.  "
@@ -387149,7 +387122,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-16T15:56:05.099Z",
-   "to": "2026-10-16T15:56:29.505Z",
+   "to": "2026-10-16T16:05:03.082Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line.  "
@@ -387176,10 +387149,19 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-16T15:56:29.505Z",
-   "to": "2026-10-16T15:56:29.505Z",
+   "to": "2026-10-16T16:01:22.420Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Victoria Line: No service while we respond to a fire alert at King's Cross St. Pancras. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-16T16:05:03.082Z",
+   "to": "2026-10-16T16:05:03.082Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Victoria Line: No service while we respond to a fire alert at King's Cross St. Pancras. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services. "
   }
  ]
 }
