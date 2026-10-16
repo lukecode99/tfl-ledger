@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-16T19:36:15.888Z",
- "sinceISO": "2026-08-17T19:36:11.932Z",
+ "generatedAt": "2026-10-16T19:45:08.142Z",
+ "sinceISO": "2026-08-17T19:45:03.982Z",
  "coverage": [
   {
-   "from": "2026-08-17T19:40:05.077Z",
+   "from": "2026-08-17T19:50:06.913Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 16805
+   "polls": 16803
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-16T19:36:11.467Z",
-   "polls": 18334
+   "to": "2026-10-16T19:45:02.785Z",
+   "polls": 18344
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-17T19:40:05.077Z",
+   "from": "2026-08-17T19:50:06.913Z",
    "to": "2026-08-18T00:10:05.081Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-08-17T19:40:05.077Z",
+   "from": "2026-08-17T19:50:06.913Z",
    "to": "2026-08-17T20:00:13.135Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -40,7 +40,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-17T19:40:05.077Z",
+   "from": "2026-08-17T19:50:06.913Z",
    "to": "2026-08-17T20:30:05.931Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -386573,7 +386573,7 @@
    "line": "weaver",
    "lineName": "Weaver",
    "from": "2026-10-16T15:30:06.118Z",
-   "to": "2026-10-16T19:36:11.467Z",
+   "to": "2026-10-16T19:45:02.785Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "Weaver Line: Reduced service due to an earlier operational incident.  "
@@ -386753,7 +386753,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-16T16:25:02.253Z",
-   "to": "2026-10-16T19:36:11.467Z",
+   "to": "2026-10-16T19:45:02.785Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to an earlier fire alert at King's Cross St. Pancras. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services. "
@@ -387113,7 +387113,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-10-16T18:15:02.547Z",
-   "to": "2026-10-16T19:36:11.467Z",
+   "to": "2026-10-16T19:45:02.785Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Mildmay Line: Minor delays due to an earlier fault with the overhead power lines at Hackney Central. "
@@ -387725,7 +387725,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-16T18:36:16.139Z",
-   "to": "2026-10-16T19:36:11.467Z",
+   "to": "2026-10-16T19:45:02.785Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays due to train cancellations. "
@@ -387914,10 +387914,19 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-16T18:45:02.443Z",
-   "to": "2026-10-16T19:36:11.467Z",
+   "to": "2026-10-16T19:41:28.279Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge due to a person taken ill on a train earlier at Piccadilly Circus. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-16T19:45:02.785Z",
+   "to": "2026-10-16T19:45:02.785Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge due to a person taken ill on a train earlier at Piccadilly Circus. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
