@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-16T09:20:10.001Z",
- "sinceISO": "2026-08-17T09:20:06.423Z",
+ "generatedAt": "2026-10-16T09:25:05.347Z",
+ "sinceISO": "2026-08-17T09:25:02.651Z",
  "coverage": [
   {
-   "from": "2026-08-17T09:25:02.256Z",
+   "from": "2026-08-17T09:30:05.361Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 16928
+   "polls": 16927
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-16T09:20:06.143Z",
-   "polls": 17469
+   "to": "2026-10-16T09:25:02.394Z",
+   "polls": 17476
   }
  ],
  "spans": [
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-08-17T09:25:02.256Z",
+   "from": "2026-08-17T09:30:05.361Z",
    "to": "2026-08-17T09:45:02.126Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -31,7 +31,7 @@
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-08-17T09:25:02.256Z",
+   "from": "2026-08-17T09:30:05.361Z",
    "to": "2026-08-17T10:00:13.339Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,8 +40,8 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-17T09:25:02.256Z",
-   "to": "2026-08-17T09:25:02.256Z",
+   "from": "2026-08-17T09:30:05.361Z",
+   "to": "2026-08-17T09:30:05.361Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Mildmay Line: Severe delays between Willesden Junction and Stratford and MINOR DELAYS on the rest of the line due to train cancellations. "
@@ -49,8 +49,8 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-17T09:25:02.256Z",
-   "to": "2026-08-17T09:25:02.256Z",
+   "from": "2026-08-17T09:30:05.361Z",
+   "to": "2026-08-17T09:30:05.361Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Mildmay Line: Severe delays between Willesden Junction and Stratford and MINOR DELAYS on the rest of the line due to train cancellations. "
@@ -58,7 +58,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-17T09:25:02.256Z",
+   "from": "2026-08-17T09:30:05.361Z",
    "to": "2026-08-17T10:25:02.178Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -67,29 +67,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-17T09:25:02.256Z",
+   "from": "2026-08-17T09:30:05.361Z",
    "to": "2026-08-17T11:10:06.962Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays between Highbury & Islington and West Croydon / Clapham Junction due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-17T09:30:05.361Z",
-   "to": "2026-08-17T09:30:05.361Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: Severe delays between Willesden Junction and Stratford and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-17T09:30:05.361Z",
-   "to": "2026-08-17T09:30:05.361Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Mildmay Line: Severe delays between Willesden Junction and Stratford and MINOR DELAYS on the rest of the line due to train cancellations. "
   },
   {
    "line": "mildmay",
@@ -384017,10 +383999,28 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-16T09:00:07.119Z",
-   "to": "2026-10-16T09:20:06.143Z",
+   "to": "2026-10-16T09:20:42.672Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "No service between Whitechapel and Shenfield while we deal with trespassers on the track in the Chadwell Heath area. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-16T09:25:02.394Z",
+   "to": "2026-10-16T09:25:02.394Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Whitechapel and Shenfield and MINOR DELAYS between Whitechapel and Paddington while we deal with trespassers on the track in the Chadwell Heath area. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-16T09:25:02.394Z",
+   "to": "2026-10-16T09:25:02.394Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Whitechapel and Shenfield and MINOR DELAYS between Whitechapel and Paddington while we deal with trespassers on the track in the Chadwell Heath area. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
