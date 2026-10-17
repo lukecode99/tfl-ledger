@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-17T22:20:19.888Z",
- "sinceISO": "2026-08-18T22:20:15.203Z",
+ "generatedAt": "2026-10-17T23:21:17.560Z",
+ "sinceISO": "2026-08-18T23:21:13.384Z",
  "coverage": [
   {
-   "from": "2026-08-18T22:25:02.332Z",
+   "from": "2026-08-18T23:25:02.484Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 16484
+   "polls": 16472
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-17T22:20:13.205Z",
-   "polls": 20579
+   "to": "2026-10-17T23:21:13.147Z",
+   "polls": 20664
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-18T22:25:02.332Z",
+   "from": "2026-08-18T23:25:02.484Z",
    "to": "2026-08-19T00:15:02.460Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,16 +31,25 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-18T22:25:02.332Z",
-   "to": "2026-08-18T22:40:04.397Z",
+   "from": "2026-08-18T23:25:02.484Z",
+   "to": "2026-08-18T23:25:02.484Z",
    "severity": 6,
    "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays while we fix a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
+   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-08-18T23:25:02.484Z",
+   "to": "2026-08-18T23:25:02.484Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
   },
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-18T22:25:02.332Z",
+   "from": "2026-08-18T23:25:02.484Z",
    "to": "2026-08-19T00:25:02.032Z",
    "severity": 5,
    "description": "Part Closure",
@@ -49,7 +58,7 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-08-18T22:25:02.332Z",
+   "from": "2026-08-18T23:25:02.484Z",
    "to": "2026-08-19T00:20:05.078Z",
    "severity": 5,
    "description": "Part Closure",
@@ -58,173 +67,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-18T22:25:02.332Z",
+   "from": "2026-08-18T23:25:02.484Z",
    "to": "2026-08-19T00:15:02.460Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Windrush Line: No service for the rest of the day due to a fire alert in the Bermondsey area. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T22:45:02.585Z",
-   "to": "2026-08-18T22:45:02.585Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T22:45:02.585Z",
-   "to": "2026-08-18T22:45:02.585Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T22:50:05.382Z",
-   "to": "2026-08-18T22:50:05.382Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T22:50:05.382Z",
-   "to": "2026-08-18T22:50:05.382Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T22:55:02.062Z",
-   "to": "2026-08-18T22:55:02.062Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T22:55:02.062Z",
-   "to": "2026-08-18T22:55:02.062Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T23:00:11.584Z",
-   "to": "2026-08-18T23:00:11.584Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T23:00:11.584Z",
-   "to": "2026-08-18T23:00:11.584Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T23:05:01.897Z",
-   "to": "2026-08-18T23:05:01.897Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T23:05:01.897Z",
-   "to": "2026-08-18T23:05:01.897Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T23:10:05.396Z",
-   "to": "2026-08-18T23:10:05.396Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T23:10:05.396Z",
-   "to": "2026-08-18T23:10:05.396Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T23:15:02.542Z",
-   "to": "2026-08-18T23:15:02.542Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T23:15:02.542Z",
-   "to": "2026-08-18T23:15:02.542Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T23:20:04.855Z",
-   "to": "2026-08-18T23:20:04.855Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T23:20:04.855Z",
-   "to": "2026-08-18T23:20:04.855Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T23:25:02.484Z",
-   "to": "2026-08-18T23:25:02.484Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-18T23:25:02.484Z",
-   "to": "2026-08-18T23:25:02.484Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
   },
   {
    "line": "metropolitan",
@@ -386492,7 +386339,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-17T00:30:06.112Z",
-   "to": "2026-10-17T22:20:13.205Z",
+   "to": "2026-10-17T23:21:13.147Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate."
@@ -386825,7 +386672,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-17T03:30:05.610Z",
-   "to": "2026-10-17T22:20:13.205Z",
+   "to": "2026-10-17T23:21:13.147Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -386843,7 +386690,7 @@
    "line": "weaver",
    "lineName": "Weaver",
    "from": "2026-10-17T03:30:15.781Z",
-   "to": "2026-10-17T22:20:13.205Z",
+   "to": "2026-10-17T23:21:13.147Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WEAVER LINE: Saturday 17 and Sunday 18 October, no service between Edmonton Green and Cheshunt. Replacement bus service L2 operates between Enfield Town and Cheshunt via Southbury, Turkey Street (Hertford Road), Waltham Cross (for Greater Anglia) and Theobalds Grove."
@@ -406760,7 +406607,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-17T18:00:06.140Z",
-   "to": "2026-10-17T22:20:13.205Z",
+   "to": "2026-10-17T23:21:13.147Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford/Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -409307,7 +409154,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-10-17T19:40:06.453Z",
-   "to": "2026-10-17T22:20:13.205Z",
+   "to": "2026-10-17T23:21:13.147Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Hammersmith and City Line: Severe delays due to train cancellations. Tickets are being accepted on, London Buses, Mildmay line, DLR, Elizabeth line, C2C and South Western Railway service via any reasonable route. "
@@ -411323,7 +411170,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-17T21:00:08.076Z",
-   "to": "2026-10-17T22:20:13.205Z",
+   "to": "2026-10-17T23:21:13.147Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays due to train cancellations.  "
@@ -413402,10 +413249,1540 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-17T22:20:13.205Z",
-   "to": "2026-10-17T22:20:13.205Z",
+   "to": "2026-10-17T23:21:13.147Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:21:15.404Z",
+   "to": "2026-10-17T22:21:15.404Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:21:15.404Z",
+   "to": "2026-10-17T22:21:15.404Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:21:20.385Z",
+   "to": "2026-10-17T22:21:20.385Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:21:20.385Z",
+   "to": "2026-10-17T22:21:20.385Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:21:21.241Z",
+   "to": "2026-10-17T22:21:21.241Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:21:21.241Z",
+   "to": "2026-10-17T22:21:21.241Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:21:26.995Z",
+   "to": "2026-10-17T22:21:26.995Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:21:26.995Z",
+   "to": "2026-10-17T22:21:26.995Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:25:02.566Z",
+   "to": "2026-10-17T22:25:02.566Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:25:02.566Z",
+   "to": "2026-10-17T22:25:02.566Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:25:06.507Z",
+   "to": "2026-10-17T22:25:06.507Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:25:06.507Z",
+   "to": "2026-10-17T22:25:06.507Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:25:06.882Z",
+   "to": "2026-10-17T22:25:06.882Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:25:06.882Z",
+   "to": "2026-10-17T22:25:06.882Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:25:12.551Z",
+   "to": "2026-10-17T22:25:12.551Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:25:12.551Z",
+   "to": "2026-10-17T22:25:12.551Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:25:27.303Z",
+   "to": "2026-10-17T22:25:27.303Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:25:27.303Z",
+   "to": "2026-10-17T22:25:27.303Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:25:29.382Z",
+   "to": "2026-10-17T22:25:29.382Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:25:29.382Z",
+   "to": "2026-10-17T22:25:29.382Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:25:33.431Z",
+   "to": "2026-10-17T22:25:33.431Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:25:33.431Z",
+   "to": "2026-10-17T22:25:33.431Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:30:06.014Z",
+   "to": "2026-10-17T22:30:06.014Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:30:06.014Z",
+   "to": "2026-10-17T22:30:06.014Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:30:08.751Z",
+   "to": "2026-10-17T22:30:08.751Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:30:08.751Z",
+   "to": "2026-10-17T22:30:08.751Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:30:12.845Z",
+   "to": "2026-10-17T22:30:12.845Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:30:12.845Z",
+   "to": "2026-10-17T22:30:12.845Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:30:33.868Z",
+   "to": "2026-10-17T22:30:33.868Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:30:33.868Z",
+   "to": "2026-10-17T22:30:33.868Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:30:39.034Z",
+   "to": "2026-10-17T22:30:39.034Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:30:39.034Z",
+   "to": "2026-10-17T22:30:39.034Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:30:39.397Z",
+   "to": "2026-10-17T22:30:39.397Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:30:39.397Z",
+   "to": "2026-10-17T22:30:39.397Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:30:45.214Z",
+   "to": "2026-10-17T22:30:45.214Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:30:45.214Z",
+   "to": "2026-10-17T22:30:45.214Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:35:02.367Z",
+   "to": "2026-10-17T22:35:02.367Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:35:02.367Z",
+   "to": "2026-10-17T22:35:02.367Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:35:06.883Z",
+   "to": "2026-10-17T22:35:06.883Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:35:06.883Z",
+   "to": "2026-10-17T22:35:06.883Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:35:07.228Z",
+   "to": "2026-10-17T22:35:07.228Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:35:07.228Z",
+   "to": "2026-10-17T22:35:07.228Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:35:13.952Z",
+   "to": "2026-10-17T22:35:13.952Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:35:13.952Z",
+   "to": "2026-10-17T22:35:13.952Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:35:48.231Z",
+   "to": "2026-10-17T22:35:48.231Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:35:48.231Z",
+   "to": "2026-10-17T22:35:48.231Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:35:50.335Z",
+   "to": "2026-10-17T22:35:50.335Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:35:50.335Z",
+   "to": "2026-10-17T22:35:50.335Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:35:54.285Z",
+   "to": "2026-10-17T22:35:54.285Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:35:54.285Z",
+   "to": "2026-10-17T22:35:54.285Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:40:06.505Z",
+   "to": "2026-10-17T22:40:06.505Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:40:06.505Z",
+   "to": "2026-10-17T22:40:06.505Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:40:10.080Z",
+   "to": "2026-10-17T22:40:10.080Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:40:10.080Z",
+   "to": "2026-10-17T22:40:10.080Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:40:13.964Z",
+   "to": "2026-10-17T22:40:13.964Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:40:13.964Z",
+   "to": "2026-10-17T22:40:13.964Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:40:53.360Z",
+   "to": "2026-10-17T22:40:53.360Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:40:53.360Z",
+   "to": "2026-10-17T22:40:53.360Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:40:58.262Z",
+   "to": "2026-10-17T22:40:58.262Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:40:58.262Z",
+   "to": "2026-10-17T22:40:58.262Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:40:58.621Z",
+   "to": "2026-10-17T22:40:58.621Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:40:58.621Z",
+   "to": "2026-10-17T22:40:58.621Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:41:05.202Z",
+   "to": "2026-10-17T22:41:05.202Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:41:05.202Z",
+   "to": "2026-10-17T22:41:05.202Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:45:02.404Z",
+   "to": "2026-10-17T22:45:02.404Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:45:02.404Z",
+   "to": "2026-10-17T22:45:02.404Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:45:06.393Z",
+   "to": "2026-10-17T22:45:06.393Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:45:06.393Z",
+   "to": "2026-10-17T22:45:06.393Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:45:06.724Z",
+   "to": "2026-10-17T22:45:06.724Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:45:06.724Z",
+   "to": "2026-10-17T22:45:06.724Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:45:13.470Z",
+   "to": "2026-10-17T22:45:13.470Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:45:13.470Z",
+   "to": "2026-10-17T22:45:13.470Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:46:08.525Z",
+   "to": "2026-10-17T22:46:08.525Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:46:08.525Z",
+   "to": "2026-10-17T22:46:08.525Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:46:10.640Z",
+   "to": "2026-10-17T22:46:10.640Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:46:10.640Z",
+   "to": "2026-10-17T22:46:10.640Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:46:14.749Z",
+   "to": "2026-10-17T22:46:14.749Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:46:14.749Z",
+   "to": "2026-10-17T22:46:14.749Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:50:06.376Z",
+   "to": "2026-10-17T22:50:06.376Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:50:06.376Z",
+   "to": "2026-10-17T22:50:06.376Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:50:12.056Z",
+   "to": "2026-10-17T22:50:12.056Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:50:12.056Z",
+   "to": "2026-10-17T22:50:12.056Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:50:16.136Z",
+   "to": "2026-10-17T22:50:16.136Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:50:16.136Z",
+   "to": "2026-10-17T22:50:16.136Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:51:14.089Z",
+   "to": "2026-10-17T22:51:14.089Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:51:14.089Z",
+   "to": "2026-10-17T22:51:14.089Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:51:18.051Z",
+   "to": "2026-10-17T22:51:18.051Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:51:18.051Z",
+   "to": "2026-10-17T22:51:18.051Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:51:27.739Z",
+   "to": "2026-10-17T22:51:27.739Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:51:27.739Z",
+   "to": "2026-10-17T22:51:27.739Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:51:33.422Z",
+   "to": "2026-10-17T22:51:33.422Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:51:33.422Z",
+   "to": "2026-10-17T22:51:33.422Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:55:02.165Z",
+   "to": "2026-10-17T22:55:02.165Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:55:02.165Z",
+   "to": "2026-10-17T22:55:02.165Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:55:06.091Z",
+   "to": "2026-10-17T22:55:06.091Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:55:06.091Z",
+   "to": "2026-10-17T22:55:06.091Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:55:06.425Z",
+   "to": "2026-10-17T22:55:06.425Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:55:06.425Z",
+   "to": "2026-10-17T22:55:06.425Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:55:12.513Z",
+   "to": "2026-10-17T22:55:12.513Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:55:12.513Z",
+   "to": "2026-10-17T22:55:12.513Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:55:26.858Z",
+   "to": "2026-10-17T22:55:26.858Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:55:26.858Z",
+   "to": "2026-10-17T22:55:26.858Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:55:28.972Z",
+   "to": "2026-10-17T22:55:28.972Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:55:28.972Z",
+   "to": "2026-10-17T22:55:28.972Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:55:32.732Z",
+   "to": "2026-10-17T22:55:32.732Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T22:55:32.732Z",
+   "to": "2026-10-17T22:55:32.732Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:00:06.224Z",
+   "to": "2026-10-17T23:00:06.224Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:00:06.224Z",
+   "to": "2026-10-17T23:00:06.224Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:00:11.921Z",
+   "to": "2026-10-17T23:00:11.921Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:00:11.921Z",
+   "to": "2026-10-17T23:00:11.921Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:00:15.949Z",
+   "to": "2026-10-17T23:00:15.949Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:00:15.949Z",
+   "to": "2026-10-17T23:00:15.949Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:00:32.445Z",
+   "to": "2026-10-17T23:00:32.445Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:00:32.445Z",
+   "to": "2026-10-17T23:00:32.445Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:00:36.323Z",
+   "to": "2026-10-17T23:00:36.323Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:00:36.323Z",
+   "to": "2026-10-17T23:00:36.323Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:00:36.692Z",
+   "to": "2026-10-17T23:00:36.692Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:00:36.692Z",
+   "to": "2026-10-17T23:00:36.692Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:00:42.318Z",
+   "to": "2026-10-17T23:00:42.318Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:00:42.318Z",
+   "to": "2026-10-17T23:00:42.318Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:05:02.559Z",
+   "to": "2026-10-17T23:05:02.559Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:05:02.559Z",
+   "to": "2026-10-17T23:05:02.559Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:05:07.369Z",
+   "to": "2026-10-17T23:05:07.369Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:05:07.369Z",
+   "to": "2026-10-17T23:05:07.369Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:05:07.781Z",
+   "to": "2026-10-17T23:05:07.781Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:05:07.781Z",
+   "to": "2026-10-17T23:05:07.781Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:05:13.629Z",
+   "to": "2026-10-17T23:05:13.629Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:05:13.629Z",
+   "to": "2026-10-17T23:05:13.629Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:05:46.521Z",
+   "to": "2026-10-17T23:05:46.521Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:05:46.521Z",
+   "to": "2026-10-17T23:05:46.521Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:05:48.656Z",
+   "to": "2026-10-17T23:05:48.656Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:05:48.656Z",
+   "to": "2026-10-17T23:05:48.656Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:05:52.484Z",
+   "to": "2026-10-17T23:05:52.484Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:05:52.484Z",
+   "to": "2026-10-17T23:05:52.484Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:10:06.687Z",
+   "to": "2026-10-17T23:10:06.687Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:10:06.687Z",
+   "to": "2026-10-17T23:10:06.687Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:10:08.801Z",
+   "to": "2026-10-17T23:10:08.801Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:10:08.801Z",
+   "to": "2026-10-17T23:10:08.801Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:10:13.126Z",
+   "to": "2026-10-17T23:10:13.126Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:10:13.126Z",
+   "to": "2026-10-17T23:10:13.126Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:10:52.777Z",
+   "to": "2026-10-17T23:10:52.777Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:10:52.777Z",
+   "to": "2026-10-17T23:10:52.777Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:10:57.113Z",
+   "to": "2026-10-17T23:10:57.113Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:10:57.113Z",
+   "to": "2026-10-17T23:10:57.113Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:10:57.486Z",
+   "to": "2026-10-17T23:10:57.486Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:10:57.486Z",
+   "to": "2026-10-17T23:10:57.486Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:11:03.813Z",
+   "to": "2026-10-17T23:11:03.813Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:11:03.813Z",
+   "to": "2026-10-17T23:11:03.813Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:15:03.199Z",
+   "to": "2026-10-17T23:15:03.199Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:15:03.199Z",
+   "to": "2026-10-17T23:15:03.199Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:15:07.498Z",
+   "to": "2026-10-17T23:15:07.498Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:15:07.498Z",
+   "to": "2026-10-17T23:15:07.498Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:15:07.823Z",
+   "to": "2026-10-17T23:15:07.823Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:15:07.823Z",
+   "to": "2026-10-17T23:15:07.823Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:15:13.453Z",
+   "to": "2026-10-17T23:15:13.453Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:15:13.453Z",
+   "to": "2026-10-17T23:15:13.453Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:16:06.056Z",
+   "to": "2026-10-17T23:16:06.056Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:16:06.056Z",
+   "to": "2026-10-17T23:16:06.056Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:16:08.245Z",
+   "to": "2026-10-17T23:16:08.245Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:16:08.245Z",
+   "to": "2026-10-17T23:16:08.245Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:16:12.156Z",
+   "to": "2026-10-17T23:16:12.156Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:16:12.156Z",
+   "to": "2026-10-17T23:16:12.156Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:20:05.735Z",
+   "to": "2026-10-17T23:20:05.735Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:20:05.735Z",
+   "to": "2026-10-17T23:20:05.735Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:20:07.999Z",
+   "to": "2026-10-17T23:20:07.999Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:20:07.999Z",
+   "to": "2026-10-17T23:20:07.999Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:20:11.981Z",
+   "to": "2026-10-17T23:20:11.981Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:20:11.981Z",
+   "to": "2026-10-17T23:20:11.981Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:21:13.147Z",
+   "to": "2026-10-17T23:21:13.147Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-17T23:21:13.147Z",
+   "to": "2026-10-17T23:21:13.147Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
