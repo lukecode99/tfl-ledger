@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-18T11:00:04.142Z",
- "sinceISO": "2026-08-19T11:00:00.842Z",
+ "generatedAt": "2026-10-18T12:00:40.027Z",
+ "sinceISO": "2026-08-19T12:00:35.799Z",
  "coverage": [
   {
-   "from": "2026-08-19T11:00:11.300Z",
+   "from": "2026-08-19T12:00:39.405Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 16333
+   "polls": 16321
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,24 +14,33 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-18T11:00:00.583Z",
-   "polls": 21631
+   "to": "2026-10-18T12:00:35.562Z",
+   "polls": 21718
   }
  ],
  "spans": [
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-19T11:00:11.300Z",
-   "to": "2026-08-19T11:20:04.704Z",
-   "severity": 2,
-   "description": "Suspended",
-   "reason": "Circle Line: No service due to an earlier customer incident. Please board the first train and change where necessary. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
+   "from": "2026-08-19T12:00:39.405Z",
+   "to": "2026-08-19T12:00:39.405Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-08-19T12:00:39.405Z",
+   "to": "2026-08-19T12:00:39.405Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
   },
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-19T11:00:11.300Z",
+   "from": "2026-08-19T12:00:39.405Z",
    "to": "2026-08-19T13:50:04.732Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -40,196 +49,7 @@
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-08-19T11:00:11.300Z",
-   "to": "2026-08-19T11:30:04.860Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays while we help a casualty on the track. Tickets are being accepted on London Buses, DLR, Elizabeth line, C2C and Thameslink. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-19T11:00:11.300Z",
-   "to": "2026-08-19T18:55:02.174Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Tuesday 18, Wednesday 19 and Thursday 20 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-08-19T11:00:11.300Z",
-   "to": "2026-08-19T11:55:02.881Z",
-   "severity": 2,
-   "description": "Suspended",
-   "reason": "Suffragette Line: No service on the entire line while we fix a faulty train at Leyton Midland Road. London Underground are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:00:11.300Z",
-   "to": "2026-08-19T11:00:11.300Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:00:11.300Z",
-   "to": "2026-08-19T11:00:11.300Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:05:02.143Z",
-   "to": "2026-08-19T11:05:02.143Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:05:02.143Z",
-   "to": "2026-08-19T11:05:02.143Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:10:05.272Z",
-   "to": "2026-08-19T11:10:05.272Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:10:05.272Z",
-   "to": "2026-08-19T11:10:05.272Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:15:02.206Z",
-   "to": "2026-08-19T11:15:02.206Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:15:02.206Z",
-   "to": "2026-08-19T11:15:02.206Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:20:04.704Z",
-   "to": "2026-08-19T11:20:04.704Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:20:04.704Z",
-   "to": "2026-08-19T11:20:04.704Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:25:02.388Z",
-   "to": "2026-08-19T11:25:02.388Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:25:02.388Z",
-   "to": "2026-08-19T11:25:02.388Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-19T11:30:04.860Z",
-   "to": "2026-08-19T11:30:04.860Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-19T11:30:04.860Z",
-   "to": "2026-08-19T11:30:04.860Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:30:04.860Z",
-   "to": "2026-08-19T11:30:04.860Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:30:04.860Z",
-   "to": "2026-08-19T11:30:04.860Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-19T11:35:02.333Z",
-   "to": "2026-08-19T11:35:02.333Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-19T11:35:02.333Z",
-   "to": "2026-08-19T11:35:02.333Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-08-19T11:35:02.333Z",
+   "from": "2026-08-19T12:00:39.405Z",
    "to": "2026-08-19T12:30:04.863Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -238,191 +58,20 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-19T11:35:02.333Z",
+   "from": "2026-08-19T12:00:39.405Z",
    "to": "2026-08-19T12:40:06.179Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to an earlier faulty train at Canary Wharf. "
   },
   {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:35:02.333Z",
-   "to": "2026-08-19T11:35:02.333Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:35:02.333Z",
-   "to": "2026-08-19T11:35:02.333Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-19T11:40:04.837Z",
-   "to": "2026-08-19T11:40:04.837Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-19T11:40:04.837Z",
-   "to": "2026-08-19T11:40:04.837Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:40:04.837Z",
-   "to": "2026-08-19T11:40:04.837Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:40:04.837Z",
-   "to": "2026-08-19T11:40:04.837Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-19T11:45:02.551Z",
-   "to": "2026-08-19T11:45:02.551Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-19T11:45:02.551Z",
-   "to": "2026-08-19T11:45:02.551Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:45:02.551Z",
-   "to": "2026-08-19T11:45:02.551Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:45:02.551Z",
-   "to": "2026-08-19T11:45:02.551Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-19T11:50:05.247Z",
-   "to": "2026-08-19T11:50:05.247Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-19T11:50:05.247Z",
-   "to": "2026-08-19T11:50:05.247Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:50:05.247Z",
-   "to": "2026-08-19T11:50:05.247Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:50:05.247Z",
-   "to": "2026-08-19T11:50:05.247Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-19T11:55:02.881Z",
-   "to": "2026-08-19T11:55:02.881Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-19T11:55:02.881Z",
-   "to": "2026-08-19T11:55:02.881Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:55:02.881Z",
-   "to": "2026-08-19T11:55:02.881Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-19T11:55:02.881Z",
-   "to": "2026-08-19T11:55:02.881Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
    "from": "2026-08-19T12:00:39.405Z",
-   "to": "2026-08-19T12:00:39.405Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-19T12:00:39.405Z",
-   "to": "2026-08-19T12:00:39.405Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service anticlockwise and SEVERE DELAYS clockwise due to an earlier customer incident. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
+   "to": "2026-08-19T18:55:02.174Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "PICCADILLY LINE: Tuesday 18, Wednesday 19 and Thursday 20 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
   },
   {
    "line": "suffragette",
@@ -384143,7 +383792,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-17T00:30:06.112Z",
-   "to": "2026-10-18T11:00:00.583Z",
+   "to": "2026-10-18T12:00:35.562Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate."
@@ -422447,7 +422096,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-18T03:15:11.346Z",
-   "to": "2026-10-18T11:00:00.583Z",
+   "to": "2026-10-18T12:00:35.562Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -423149,7 +422798,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-10-18T03:31:23.426Z",
-   "to": "2026-10-18T11:00:00.583Z",
+   "to": "2026-10-18T12:00:35.562Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 18 October, no service between Shadwell and Tower Gateway."
@@ -423194,7 +422843,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-10-18T03:31:23.426Z",
-   "to": "2026-10-18T11:00:00.583Z",
+   "to": "2026-10-18T12:00:35.562Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "SUFFRAGETTE LINE: Sunday 18 October, no service between Barking and Barking Riverside, please use local London Buses services."
@@ -423383,7 +423032,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-18T03:35:04.322Z",
-   "to": "2026-10-18T11:00:00.583Z",
+   "to": "2026-10-18T12:00:35.562Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
@@ -423401,7 +423050,7 @@
    "line": "weaver",
    "lineName": "Weaver",
    "from": "2026-10-18T03:35:04.322Z",
-   "to": "2026-10-18T11:00:00.583Z",
+   "to": "2026-10-18T12:00:35.562Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WEAVER LINE: Saturday 17 and Sunday 18 October, no service between Edmonton Green and Cheshunt. Replacement bus service L2 operates between Enfield Town and Cheshunt via Southbury, Turkey Street (Hertford Road), Waltham Cross (for Greater Anglia) and Theobalds Grove."
@@ -423428,7 +423077,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-18T07:10:00.618Z",
-   "to": "2026-10-18T11:00:00.583Z",
+   "to": "2026-10-18T12:00:35.562Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations.  "
@@ -423446,7 +423095,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-10-18T07:31:27.023Z",
-   "to": "2026-10-18T11:00:00.583Z",
+   "to": "2026-10-18T12:00:35.562Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Bakerloo Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway and Thameslink. "
@@ -427595,7 +427244,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-18T10:10:00.440Z",
-   "to": "2026-10-18T11:00:00.583Z",
+   "to": "2026-10-18T12:00:35.562Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
@@ -427730,7 +427379,7 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-10-18T10:15:03.875Z",
-   "to": "2026-10-18T11:00:00.583Z",
+   "to": "2026-10-18T12:00:35.562Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "LIONESS LINE: Saturday 17 and Sunday 18 October, a reduced service will run between Kilburn High Road and Euston. On Saturday, between 0630 and 2030, trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 0715 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road. On Sunday, between 1130 and 2030,  trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 1215 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road"
@@ -428099,7 +427748,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-18T10:55:04.297Z",
-   "to": "2026-10-18T11:00:00.583Z",
+   "to": "2026-10-18T12:00:35.562Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between North Acton and West Ruislip/ Ealing Broadway and MINOR DELAYS between Leytonstone and Epping/ Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
