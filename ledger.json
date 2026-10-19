@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-19T17:15:43.467Z",
- "sinceISO": "2026-08-20T17:15:38.100Z",
+ "generatedAt": "2026-10-19T17:35:09.100Z",
+ "sinceISO": "2026-08-20T17:35:04.565Z",
  "coverage": [
   {
-   "from": "2026-08-20T17:20:04.626Z",
+   "from": "2026-08-20T17:40:04.819Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 15969
+   "polls": 15965
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,24 +14,33 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-19T17:15:37.826Z",
-   "polls": 24174
+   "to": "2026-10-19T17:35:03.937Z",
+   "polls": 24198
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-20T17:20:04.626Z",
+   "from": "2026-08-20T17:40:04.819Z",
    "to": "2026-08-21T00:15:01.989Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to a points failure at White City.  "
   },
   {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-08-20T17:40:04.819Z",
+   "to": "2026-08-20T19:10:06.969Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Minor delays between Paddington and Reading / Heathrow Terminals due to an earlier faulty train at Acton Main Line. GOOD SERVICE on the rest of the line. "
+  },
+  {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-20T17:20:04.626Z",
+   "from": "2026-08-20T17:40:04.819Z",
    "to": "2026-08-21T00:25:02.026Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,7 +49,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-20T17:20:04.626Z",
+   "from": "2026-08-20T17:40:04.819Z",
    "to": "2026-08-21T00:30:05.353Z",
    "severity": 5,
    "description": "Part Closure",
@@ -49,101 +58,11 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-20T17:20:04.626Z",
-   "to": "2026-08-20T17:30:04.791Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: Severe delays while we help a person ill on a train at Seven Sisters. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Thameslink and Great Northern.   "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T17:20:04.626Z",
-   "to": "2026-08-20T17:20:04.626Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T17:20:04.626Z",
-   "to": "2026-08-20T17:20:04.626Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T17:25:02.316Z",
-   "to": "2026-08-20T17:25:02.316Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T17:25:02.316Z",
-   "to": "2026-08-20T17:25:02.316Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-20T17:30:04.791Z",
-   "to": "2026-08-20T19:10:06.969Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Minor delays between Paddington and Reading / Heathrow Terminals due to an earlier faulty train at Acton Main Line. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T17:30:04.791Z",
-   "to": "2026-08-20T17:30:04.791Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T17:30:04.791Z",
-   "to": "2026-08-20T17:30:04.791Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-08-20T17:35:02.405Z",
+   "from": "2026-08-20T17:40:04.819Z",
    "to": "2026-08-21T00:30:05.353Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to an earlier person ill on a train at Seven Sisters. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T17:35:02.405Z",
-   "to": "2026-08-20T17:35:02.405Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T17:35:02.405Z",
-   "to": "2026-08-20T17:35:02.405Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "windrush",
@@ -439250,7 +439169,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-19T13:55:03.775Z",
-   "to": "2026-10-19T17:15:37.826Z",
+   "to": "2026-10-19T17:35:03.937Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -439268,7 +439187,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-19T16:15:04.468Z",
-   "to": "2026-10-19T17:15:37.826Z",
+   "to": "2026-10-19T17:31:24.498Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays due to train cancellations. "
