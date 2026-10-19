@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-19T13:10:05.602Z",
- "sinceISO": "2026-08-20T13:10:00.969Z",
+ "generatedAt": "2026-10-19T13:35:10.697Z",
+ "sinceISO": "2026-08-20T13:35:05.599Z",
  "coverage": [
   {
-   "from": "2026-08-20T13:10:05.165Z",
+   "from": "2026-08-20T13:40:06.107Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 16019
+   "polls": 16013
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,42 +14,42 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-19T13:10:00.546Z",
-   "polls": 23827
+   "to": "2026-10-19T13:35:04.758Z",
+   "polls": 23862
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-20T13:10:05.165Z",
+   "from": "2026-08-20T13:40:06.107Z",
    "to": "2026-08-21T00:15:01.989Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to a points failure at White City.  "
   },
   {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-08-20T13:40:06.107Z",
+   "to": "2026-08-20T17:10:04.534Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
+  },
+  {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-20T13:10:05.165Z",
+   "from": "2026-08-20T13:40:06.107Z",
    "to": "2026-08-20T14:00:12.523Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to train cancellations.  "
   },
   {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-20T13:10:05.165Z",
-   "to": "2026-08-20T13:10:05.165Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations and between Harrow-on-the-Hill and Aldgate due to an earlier signal failure at Harrow-on-the-Hill. GOOD SERVICE on the rest of the line. "
-  },
-  {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-20T13:10:05.165Z",
+   "from": "2026-08-20T13:40:06.107Z",
    "to": "2026-08-20T15:30:05.877Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -58,137 +58,11 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-20T13:10:05.165Z",
+   "from": "2026-08-20T13:40:06.107Z",
    "to": "2026-08-21T00:30:05.353Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "PICCADILLY LINE: Tuesday 18, Wednesday 19 and Thursday 20 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T13:10:05.165Z",
-   "to": "2026-08-20T13:10:05.165Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T13:10:05.165Z",
-   "to": "2026-08-20T13:10:05.165Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T13:15:02.206Z",
-   "to": "2026-08-20T13:15:02.206Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T13:15:02.206Z",
-   "to": "2026-08-20T13:15:02.206Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-20T13:20:04.911Z",
-   "to": "2026-08-20T13:20:04.911Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Aldgate and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T13:20:04.911Z",
-   "to": "2026-08-20T13:20:04.911Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T13:20:04.911Z",
-   "to": "2026-08-20T13:20:04.911Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-08-20T13:25:03.053Z",
-   "to": "2026-08-20T17:10:04.534Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T13:25:03.053Z",
-   "to": "2026-08-20T13:25:03.053Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T13:25:03.053Z",
-   "to": "2026-08-20T13:25:03.053Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T13:30:07.064Z",
-   "to": "2026-08-20T13:30:07.064Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T13:30:07.064Z",
-   "to": "2026-08-20T13:30:07.064Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T13:35:02.153Z",
-   "to": "2026-08-20T13:35:02.153Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-20T13:35:02.153Z",
-   "to": "2026-08-20T13:35:02.153Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "windrush",
@@ -439821,6 +439695,627 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:10:15.794Z",
+   "to": "2026-10-19T13:10:15.794Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:10:15.794Z",
+   "to": "2026-10-19T13:10:15.794Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:10:21.980Z",
+   "to": "2026-10-19T13:10:21.980Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:10:21.980Z",
+   "to": "2026-10-19T13:10:21.980Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:10:40.913Z",
+   "to": "2026-10-19T13:10:40.913Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:10:40.913Z",
+   "to": "2026-10-19T13:10:40.913Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:10:41.512Z",
+   "to": "2026-10-19T13:10:41.512Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:10:41.512Z",
+   "to": "2026-10-19T13:10:41.512Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:10:47.984Z",
+   "to": "2026-10-19T13:10:47.984Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:10:47.984Z",
+   "to": "2026-10-19T13:10:47.984Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:10:48.342Z",
+   "to": "2026-10-19T13:10:48.342Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:10:48.342Z",
+   "to": "2026-10-19T13:10:48.342Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:15:04.403Z",
+   "to": "2026-10-19T13:15:04.403Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:15:04.403Z",
+   "to": "2026-10-19T13:15:04.403Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:15:05.441Z",
+   "to": "2026-10-19T13:15:05.441Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:15:05.441Z",
+   "to": "2026-10-19T13:15:05.441Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:15:11.771Z",
+   "to": "2026-10-19T13:15:11.771Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:15:11.771Z",
+   "to": "2026-10-19T13:15:11.771Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:15:12.151Z",
+   "to": "2026-10-19T13:15:12.151Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:15:12.151Z",
+   "to": "2026-10-19T13:15:12.151Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:15:47.658Z",
+   "to": "2026-10-19T13:15:47.658Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:15:47.658Z",
+   "to": "2026-10-19T13:15:47.658Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:15:51.692Z",
+   "to": "2026-10-19T13:15:51.692Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:15:51.692Z",
+   "to": "2026-10-19T13:15:51.692Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:15:57.266Z",
+   "to": "2026-10-19T13:15:57.266Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:15:57.266Z",
+   "to": "2026-10-19T13:15:57.266Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:20:00.698Z",
+   "to": "2026-10-19T13:20:00.698Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:20:00.698Z",
+   "to": "2026-10-19T13:20:00.698Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:20:04.911Z",
+   "to": "2026-10-19T13:20:04.911Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:20:04.911Z",
+   "to": "2026-10-19T13:20:04.911Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:20:10.423Z",
+   "to": "2026-10-19T13:20:10.423Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:20:10.423Z",
+   "to": "2026-10-19T13:20:10.423Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:21:03.231Z",
+   "to": "2026-10-19T13:21:03.231Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:21:03.231Z",
+   "to": "2026-10-19T13:21:03.231Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:21:03.605Z",
+   "to": "2026-10-19T13:21:03.605Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:21:03.605Z",
+   "to": "2026-10-19T13:21:03.605Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:21:09.834Z",
+   "to": "2026-10-19T13:21:09.834Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:21:09.834Z",
+   "to": "2026-10-19T13:21:09.834Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:21:10.194Z",
+   "to": "2026-10-19T13:21:10.194Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:21:10.194Z",
+   "to": "2026-10-19T13:21:10.194Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:25:04.750Z",
+   "to": "2026-10-19T13:25:04.750Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:25:04.750Z",
+   "to": "2026-10-19T13:25:04.750Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:25:06.758Z",
+   "to": "2026-10-19T13:25:06.758Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:25:06.758Z",
+   "to": "2026-10-19T13:25:06.758Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:25:13.227Z",
+   "to": "2026-10-19T13:25:13.227Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:25:13.227Z",
+   "to": "2026-10-19T13:25:13.227Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:25:17.096Z",
+   "to": "2026-10-19T13:25:17.096Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:25:17.096Z",
+   "to": "2026-10-19T13:25:17.096Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:26:09.701Z",
+   "to": "2026-10-19T13:26:09.701Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:26:09.701Z",
+   "to": "2026-10-19T13:26:09.701Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:26:13.893Z",
+   "to": "2026-10-19T13:26:13.893Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:26:13.893Z",
+   "to": "2026-10-19T13:26:13.893Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:26:21.079Z",
+   "to": "2026-10-19T13:26:21.079Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:26:21.079Z",
+   "to": "2026-10-19T13:26:21.079Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:30:00.564Z",
+   "to": "2026-10-19T13:30:00.564Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:30:00.564Z",
+   "to": "2026-10-19T13:30:00.564Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:30:04.693Z",
+   "to": "2026-10-19T13:30:04.693Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:30:04.693Z",
+   "to": "2026-10-19T13:30:04.693Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:30:10.362Z",
+   "to": "2026-10-19T13:30:10.362Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:30:10.362Z",
+   "to": "2026-10-19T13:30:10.362Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:30:22.481Z",
+   "to": "2026-10-19T13:30:22.481Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:30:22.481Z",
+   "to": "2026-10-19T13:30:22.481Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:30:22.800Z",
+   "to": "2026-10-19T13:30:22.800Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:30:22.800Z",
+   "to": "2026-10-19T13:30:22.800Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:30:28.708Z",
+   "to": "2026-10-19T13:30:28.708Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:30:28.708Z",
+   "to": "2026-10-19T13:30:28.708Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:30:29.045Z",
+   "to": "2026-10-19T13:30:29.045Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:30:29.045Z",
+   "to": "2026-10-19T13:30:29.045Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Weaver Line: No service between Chingford and Hackney Downs while we fix a points failure at Clapton. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-19T13:35:04.758Z",
+   "to": "2026-10-19T13:35:04.758Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Weaver Line: No service while we fix a points failure at Clapton. London Underground are accepting tickets via any reasonable route.  "
   }
  ]
 }
