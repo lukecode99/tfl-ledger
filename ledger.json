@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-20T06:55:04.150Z",
- "sinceISO": "2026-08-21T06:55:00.696Z",
+ "generatedAt": "2026-10-20T07:55:16.846Z",
+ "sinceISO": "2026-08-21T07:55:12.394Z",
  "coverage": [
   {
-   "from": "2026-08-21T06:55:02.396Z",
+   "from": "2026-08-21T08:00:11.674Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 15806
+   "polls": 15793
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-20T06:55:00.275Z",
-   "polls": 25318
+   "to": "2026-10-20T07:55:12.166Z",
+   "polls": 25405
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-21T06:55:02.396Z",
+   "from": "2026-08-21T08:00:11.674Z",
    "to": "2026-08-21T08:00:11.674Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,290 +31,20 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-21T06:55:02.396Z",
+   "from": "2026-08-21T08:00:11.674Z",
    "to": "2026-08-21T08:00:11.674Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays due to train cancellations. "
   },
   {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-08-21T06:55:02.396Z",
-   "to": "2026-08-21T07:01:06.505Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Docklands Light Railway: No service between Langdon Park and Poplar while we fix a faulty train at Poplar. GOOD SERVICE on all other routes. "
-  },
-  {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-21T06:55:02.396Z",
+   "from": "2026-08-21T08:00:11.674Z",
    "to": "2026-08-21T23:00:11.280Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to an earlier track fault at Vauxhall. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T06:55:02.396Z",
-   "to": "2026-08-21T06:55:02.396Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T06:55:02.396Z",
-   "to": "2026-08-21T06:55:02.396Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:01:06.505Z",
-   "to": "2026-08-21T07:01:06.505Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:01:06.505Z",
-   "to": "2026-08-21T07:01:06.505Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-08-21T07:05:01.909Z",
-   "to": "2026-08-21T07:05:01.909Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Docklands Light Railway: Severe delays between Canary wharf and Stratford due to an earlier faulty train. GOOD SERVICE to the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:05:01.909Z",
-   "to": "2026-08-21T07:05:01.909Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:05:01.909Z",
-   "to": "2026-08-21T07:05:01.909Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-08-21T07:10:04.676Z",
-   "to": "2026-08-21T07:10:04.676Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Docklands Light Railway: Severe delays between Canary wharf and Stratford due to an earlier faulty train. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:10:04.676Z",
-   "to": "2026-08-21T07:10:04.676Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:10:04.676Z",
-   "to": "2026-08-21T07:10:04.676Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:15:01.950Z",
-   "to": "2026-08-21T07:15:01.950Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:15:01.950Z",
-   "to": "2026-08-21T07:15:01.950Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-08-21T07:20:04.852Z",
-   "to": "2026-08-21T07:30:05.207Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Docklands Light Railway: Minor delays between Canary wharf and Stratford due to an earlier faulty train. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:20:04.852Z",
-   "to": "2026-08-21T07:20:04.852Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:20:04.852Z",
-   "to": "2026-08-21T07:20:04.852Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:25:02.016Z",
-   "to": "2026-08-21T07:25:02.016Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:25:02.016Z",
-   "to": "2026-08-21T07:25:02.016Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:30:05.207Z",
-   "to": "2026-08-21T07:30:05.207Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:30:05.207Z",
-   "to": "2026-08-21T07:30:05.207Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:35:02.050Z",
-   "to": "2026-08-21T07:35:02.050Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:35:02.050Z",
-   "to": "2026-08-21T07:35:02.050Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:40:12.675Z",
-   "to": "2026-08-21T07:40:12.675Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:40:12.675Z",
-   "to": "2026-08-21T07:40:12.675Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:45:02.180Z",
-   "to": "2026-08-21T07:45:02.180Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:45:02.180Z",
-   "to": "2026-08-21T07:45:02.180Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:50:05.365Z",
-   "to": "2026-08-21T07:50:05.365Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:50:05.365Z",
-   "to": "2026-08-21T07:50:05.365Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:55:02.104Z",
-   "to": "2026-08-21T07:55:02.104Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T07:55:02.104Z",
-   "to": "2026-08-21T07:55:02.104Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
   },
   {
    "line": "windrush",
@@ -440465,7 +440195,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-20T06:40:03.973Z",
-   "to": "2026-10-20T06:55:00.275Z",
+   "to": "2026-10-20T07:55:12.166Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -440492,7 +440222,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-20T06:50:18.855Z",
-   "to": "2026-10-20T06:55:00.275Z",
+   "to": "2026-10-20T07:55:12.166Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe  delays between Paddington and Heathrow Terminals /Reading while we fix a track fault at Langley. GOOD SERVICE on the rest of the line.  "
