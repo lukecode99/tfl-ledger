@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-20T06:50:08.062Z",
- "sinceISO": "2026-08-21T06:50:04.247Z",
+ "generatedAt": "2026-10-20T06:50:22.773Z",
+ "sinceISO": "2026-08-21T06:50:19.392Z",
  "coverage": [
   {
-   "from": "2026-08-21T06:50:06.033Z",
+   "from": "2026-08-21T06:55:02.396Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 15807
+   "polls": 15806
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-20T06:50:04.010Z",
-   "polls": 25311
+   "to": "2026-10-20T06:50:18.855Z",
+   "polls": 25312
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-21T06:50:06.033Z",
+   "from": "2026-08-21T06:55:02.396Z",
    "to": "2026-08-21T08:00:11.674Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-21T06:50:06.033Z",
+   "from": "2026-08-21T06:55:02.396Z",
    "to": "2026-08-21T08:00:11.674Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,7 +40,7 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-08-21T06:50:06.033Z",
+   "from": "2026-08-21T06:55:02.396Z",
    "to": "2026-08-21T07:01:06.505Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -49,29 +49,11 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-21T06:50:06.033Z",
+   "from": "2026-08-21T06:55:02.396Z",
    "to": "2026-08-21T23:00:11.280Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to an earlier track fault at Vauxhall. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T06:50:06.033Z",
-   "to": "2026-08-21T06:50:06.033Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T06:50:06.033Z",
-   "to": "2026-08-21T06:50:06.033Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
   },
   {
    "line": "windrush",
@@ -440474,7 +440456,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-20T06:25:38.545Z",
-   "to": "2026-10-20T06:50:04.010Z",
+   "to": "2026-10-20T06:50:18.855Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe Delays between King's Cross St. Pancras and Acton Town westbound only due to an earlier faulty train. GOOD SERVICE on the rest of the line. Tickets will be accepted on London Buses, Elizabeth line and Great Northern Railway. "
@@ -440483,7 +440465,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-20T06:40:03.973Z",
-   "to": "2026-10-20T06:50:04.010Z",
+   "to": "2026-10-20T06:50:18.855Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -440505,6 +440487,15 @@
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe  delays between Paddington and Heathrow Terminals /Reading while we fix a track fault at Langley. GOOD SERVCIE on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-20T06:50:18.855Z",
+   "to": "2026-10-20T06:50:18.855Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe  delays between Paddington and Heathrow Terminals /Reading while we fix a track fault at Langley. GOOD SERVICE on the rest of the line.  "
   }
  ]
 }
