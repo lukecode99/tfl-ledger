@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-20T09:05:04.821Z",
- "sinceISO": "2026-08-21T09:05:00.989Z",
+ "generatedAt": "2026-10-20T09:10:07.787Z",
+ "sinceISO": "2026-08-21T09:10:04.342Z",
  "coverage": [
   {
-   "from": "2026-08-21T09:05:02.475Z",
+   "from": "2026-08-21T09:10:04.745Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 15780
+   "polls": 15779
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-20T09:05:00.530Z",
-   "polls": 25500
+   "to": "2026-10-20T09:10:04.073Z",
+   "polls": 25507
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-21T09:05:02.475Z",
+   "from": "2026-08-21T09:10:04.745Z",
    "to": "2026-08-21T11:15:02.458Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-21T09:05:02.475Z",
+   "from": "2026-08-21T09:10:04.745Z",
    "to": "2026-08-21T11:10:12.444Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,29 +40,11 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-21T09:05:02.475Z",
+   "from": "2026-08-21T09:10:04.745Z",
    "to": "2026-08-21T23:00:11.280Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to an earlier track fault at Vauxhall. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T09:05:02.475Z",
-   "to": "2026-08-21T09:05:02.475Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T09:05:02.475Z",
-   "to": "2026-08-21T09:05:02.475Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
   },
   {
    "line": "windrush",
@@ -440483,7 +440465,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-20T08:40:04.183Z",
-   "to": "2026-10-20T09:05:00.530Z",
+   "to": "2026-10-20T09:10:04.073Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays while we fix a faulty train at Queensway. "
@@ -441023,7 +441005,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-20T09:00:04.363Z",
-   "to": "2026-10-20T09:05:00.530Z",
+   "to": "2026-10-20T09:10:04.073Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Northern Line: No service between Camden Town and Kennington via Bank northbound only while respond to a fire alert at Moorgate. Tickets are being accepted on London Buses and Southeastern services. GOOD SERVICE on the rest of the line.  "
@@ -441135,6 +441117,24 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Severe delays between Reading and Hayes & Harlington, and MINOR DELAYS between Hayes & Harlington and Paddington due to an earlier bridge strike at Langley. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T09:10:04.073Z",
+   "to": "2026-10-20T09:10:04.073Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Circle Line: Minor delays clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T09:10:04.073Z",
+   "to": "2026-10-20T09:10:04.073Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Minor delays between Upminster and Earl's Court westbound only while we fix a signal fault at Mansion house. GOOD SERVICE on the rest of the line.  "
   }
  ]
 }
