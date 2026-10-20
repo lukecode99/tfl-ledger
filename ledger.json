@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-20T22:00:08.784Z",
- "sinceISO": "2026-08-21T22:00:04.062Z",
+ "generatedAt": "2026-10-20T22:00:24.021Z",
+ "sinceISO": "2026-08-21T22:00:20.429Z",
  "coverage": [
   {
-   "from": "2026-08-21T22:00:11.791Z",
+   "from": "2026-08-21T22:05:02.172Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 15625
+   "polls": 15624
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-20T22:00:02.574Z",
-   "polls": 26585
+   "to": "2026-10-20T22:00:20.165Z",
+   "polls": 26586
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-21T22:00:11.791Z",
+   "from": "2026-08-21T22:05:02.172Z",
    "to": "2026-08-21T23:35:02.053Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,8 +31,8 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-21T22:00:11.791Z",
-   "to": "2026-08-21T22:00:11.791Z",
+   "from": "2026-08-21T22:05:02.172Z",
+   "to": "2026-08-21T22:05:02.172Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "MILDMAY LINE: Friday 21 August, the 2159 train from Stratford to Richmond will terminate at Camden Road at 2219 and the 2318 train from Richmond to Willesden Junction will not run."
@@ -40,8 +40,8 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-21T22:00:11.791Z",
-   "to": "2026-08-21T22:00:11.791Z",
+   "from": "2026-08-21T22:05:02.172Z",
+   "to": "2026-08-21T22:05:02.172Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Mildmay Line: Minor delays due to train cancellations  "
@@ -49,65 +49,11 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-21T22:00:11.791Z",
+   "from": "2026-08-21T22:05:02.172Z",
    "to": "2026-08-22T00:25:02.191Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays due to an earlier fire alert at Barons Court. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-08-21T22:00:11.791Z",
-   "to": "2026-08-21T23:00:11.280Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: Severe delays due to an earlier track fault at Vauxhall. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T22:00:11.791Z",
-   "to": "2026-08-21T22:00:11.791Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T22:00:11.791Z",
-   "to": "2026-08-21T22:00:11.791Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T22:00:11.791Z",
-   "to": "2026-08-21T22:00:11.791Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-21T22:05:02.172Z",
-   "to": "2026-08-21T22:05:02.172Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Friday 21 August, the 2159 train from Stratford to Richmond will terminate at Camden Road at 2219 and the 2318 train from Richmond to Willesden Junction will not run."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-21T22:05:02.172Z",
-   "to": "2026-08-21T22:05:02.172Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Mildmay Line: Minor delays due to train cancellations  "
   },
   {
    "line": "suffragette",
@@ -117,6 +63,15 @@
    "severity": 7,
    "description": "Reduced Service",
    "reason": "SUFFRAGETTE LINE: Friday 21 August, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338"
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-08-21T22:05:02.172Z",
+   "to": "2026-08-21T23:00:11.280Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Victoria Line: Severe delays due to an earlier track fault at Vauxhall. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route. "
   },
   {
    "line": "windrush",
@@ -449366,7 +449321,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-20T13:20:05.050Z",
-   "to": "2026-10-20T22:00:02.574Z",
+   "to": "2026-10-20T22:00:20.165Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.  "
@@ -459122,7 +459077,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-20T20:01:15.368Z",
-   "to": "2026-10-20T22:00:02.574Z",
+   "to": "2026-10-20T22:00:20.165Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
@@ -459311,7 +459266,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-20T20:10:06.043Z",
-   "to": "2026-10-20T22:00:02.574Z",
+   "to": "2026-10-20T22:00:20.165Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays due to an earlier security alert. Tickets are being accepted on London Buses, Elizabeth line, Weaver Line, Great Northern and South Western Railway.  "
@@ -463389,6 +463344,42 @@
    "lineName": "Mildmay",
    "from": "2026-10-20T22:00:02.574Z",
    "to": "2026-10-20T22:00:02.574Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T22:00:20.165Z",
+   "to": "2026-10-20T22:00:20.165Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Ealing Broadway and Upminster and MINOR DELAYS between Earl's Court and Wimbledon and between Turnham Green and Richmond due to an earlier signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, South Western Railway and Mildmay Line. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T22:00:20.165Z",
+   "to": "2026-10-20T22:00:20.165Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Ealing Broadway and Upminster and MINOR DELAYS between Earl's Court and Wimbledon and between Turnham Green and Richmond due to an earlier signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, South Western Railway and Mildmay Line. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-20T22:00:20.165Z",
+   "to": "2026-10-20T22:00:20.165Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-20T22:00:20.165Z",
+   "to": "2026-10-20T22:00:20.165Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
