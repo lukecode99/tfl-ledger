@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-20T05:00:04.831Z",
- "sinceISO": "2026-08-21T05:00:01.122Z",
+ "generatedAt": "2026-10-20T05:01:23.167Z",
+ "sinceISO": "2026-08-21T05:01:19.333Z",
  "coverage": [
   {
-   "from": "2026-08-21T05:00:13.107Z",
+   "from": "2026-08-21T05:05:02.313Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 15829
+   "polls": 15828
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,25 +14,34 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-20T05:00:00.613Z",
-   "polls": 25157
+   "to": "2026-10-20T05:01:18.839Z",
+   "polls": 25160
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-21T05:00:13.107Z",
-   "to": "2026-08-21T05:00:13.107Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Central Line: No service between Marble Arch and Northolt / Ealing Broadway due to a late finish of engineering work. GOOD SERVICE on the rest of the line.  "
+   "from": "2026-08-21T05:05:02.313Z",
+   "to": "2026-08-21T05:05:02.313Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between Ealing Broadway and Leytonstone eastbound only and MINOR DELAYS between West Ruislip and North Acton following a late finish of engineering work. Good service on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-08-21T05:05:02.313Z",
+   "to": "2026-08-21T05:05:02.313Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Ealing Broadway and Leytonstone eastbound only and MINOR DELAYS between West Ruislip and North Acton following a late finish of engineering work. Good service on the rest of the line.  "
   },
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-21T05:00:13.107Z",
-   "to": "2026-08-21T05:00:13.107Z",
+   "from": "2026-08-21T05:05:02.313Z",
+   "to": "2026-08-21T05:05:02.313Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: No service between Brixton and Victoria while we fix a track fault at Vauxhall. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses.  "
@@ -40,8 +49,8 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-21T05:00:13.107Z",
-   "to": "2026-08-21T05:00:13.107Z",
+   "from": "2026-08-21T05:05:02.313Z",
+   "to": "2026-08-21T05:05:02.313Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Victoria Line: No service between Brixton and Victoria while we fix a track fault at Vauxhall. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses.  "
@@ -49,65 +58,11 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-21T05:00:13.107Z",
+   "from": "2026-08-21T05:05:02.313Z",
    "to": "2026-08-21T05:10:04.891Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T05:00:13.107Z",
-   "to": "2026-08-21T05:00:13.107Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T05:00:13.107Z",
-   "to": "2026-08-21T05:00:13.107Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-21T05:05:02.313Z",
-   "to": "2026-08-21T05:05:02.313Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Ealing Broadway and Leytonstone eastbound only and MINOR DELAYS between West Ruislip and North Acton following a late finish of engineering work. Good service on the rest of the line.  "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-21T05:05:02.313Z",
-   "to": "2026-08-21T05:05:02.313Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Ealing Broadway and Leytonstone eastbound only and MINOR DELAYS between West Ruislip and North Acton following a late finish of engineering work. Good service on the rest of the line.  "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-08-21T05:05:02.313Z",
-   "to": "2026-08-21T05:05:02.313Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Brixton and Victoria while we fix a track fault at Vauxhall. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses.  "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-08-21T05:05:02.313Z",
-   "to": "2026-08-21T05:05:02.313Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Brixton and Victoria while we fix a track fault at Vauxhall. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses.  "
   },
   {
    "line": "windrush",
@@ -440132,7 +440087,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-20T04:50:02.600Z",
-   "to": "2026-10-20T05:00:00.613Z",
+   "to": "2026-10-20T05:00:24.704Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays between Parsons Green and Wimbledon due to train cancellations. Tickets will be accepted on London Buses and South Western Railway. GOOD SERVICE on the rest of the line. "
@@ -440141,7 +440096,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-20T04:50:02.600Z",
-   "to": "2026-10-20T05:00:00.613Z",
+   "to": "2026-10-20T05:01:18.839Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a signal failure. Tickets will be accepted on London Underground via any reasonable route. GOOD SERVICE on the rest of the line.  "
@@ -440286,6 +440241,69 @@
    "lineName": "Metropolitan",
    "from": "2026-10-20T05:00:00.613Z",
    "to": "2026-10-20T05:00:00.613Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham  and MINOR DELAYS between Moor Park and Watford. due to train cancellations. GOOD SERVICE on the rest of line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-20T05:00:19.081Z",
+   "to": "2026-10-20T05:00:19.081Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham  and MINOR DELAYS between Moor Park and Watford. due to train cancellations. GOOD SERVICE on the rest of line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-20T05:00:19.081Z",
+   "to": "2026-10-20T05:00:19.081Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham  and MINOR DELAYS between Moor Park and Watford. due to train cancellations. GOOD SERVICE on the rest of line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-20T05:00:24.704Z",
+   "to": "2026-10-20T05:00:24.704Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham  and MINOR DELAYS between Moor Park and Watford. due to train cancellations. GOOD SERVICE on the rest of line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-20T05:00:24.704Z",
+   "to": "2026-10-20T05:00:24.704Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham  and MINOR DELAYS between Moor Park and Watford. due to train cancellations. GOOD SERVICE on the rest of line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T05:01:18.839Z",
+   "to": "2026-10-20T05:01:18.839Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earls Court and Wimbledon due to train cancellations. Tickets will be accepted on London Buses and South Western Railway. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-20T05:01:18.839Z",
+   "to": "2026-10-20T05:01:18.839Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham  and MINOR DELAYS between Moor Park and Watford. due to train cancellations. GOOD SERVICE on the rest of line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-20T05:01:18.839Z",
+   "to": "2026-10-20T05:01:18.839Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham  and MINOR DELAYS between Moor Park and Watford. due to train cancellations. GOOD SERVICE on the rest of line. "
