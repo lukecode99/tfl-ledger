@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-20T06:15:05.878Z",
- "sinceISO": "2026-08-21T06:15:00.868Z",
+ "generatedAt": "2026-10-20T06:20:08.472Z",
+ "sinceISO": "2026-08-21T06:20:05.049Z",
  "coverage": [
   {
-   "from": "2026-08-21T06:15:02.841Z",
+   "from": "2026-08-21T06:20:08.220Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 15814
+   "polls": 15813
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-20T06:15:00.461Z",
-   "polls": 25262
+   "to": "2026-10-20T06:20:04.386Z",
+   "polls": 25269
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-21T06:15:02.841Z",
+   "from": "2026-08-21T06:20:08.220Z",
    "to": "2026-08-21T08:00:11.674Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,38 +31,11 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-08-21T06:15:02.841Z",
+   "from": "2026-08-21T06:20:08.220Z",
    "to": "2026-08-21T07:01:06.505Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Docklands Light Railway: No service between Langdon Park and Poplar while we fix a faulty train at Poplar. GOOD SERVICE on all other routes. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-08-21T06:15:02.841Z",
-   "to": "2026-08-21T06:15:02.841Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: Severe delays due to an earlier track fault at Vauxhall. Tickets are being accepted on London Buses.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T06:15:02.841Z",
-   "to": "2026-08-21T06:15:02.841Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T06:15:02.841Z",
-   "to": "2026-08-21T06:15:02.841Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
   },
   {
    "line": "victoria",
@@ -440447,7 +440420,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-20T06:00:04.017Z",
-   "to": "2026-10-20T06:15:00.461Z",
+   "to": "2026-10-20T06:20:04.386Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earls Court and Wimbledon and MINOR DELAYS between  Barking and Upminster eastbound only due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -440456,7 +440429,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-20T06:15:00.461Z",
-   "to": "2026-10-20T06:15:00.461Z",
+   "to": "2026-10-20T06:20:04.386Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Minor delays between Reading and Hayes and Harlington eastbound only while we fix a track fault at Langley. GOOD SERVICE on the rest of the line. "
@@ -440465,10 +440438,19 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-20T06:15:00.461Z",
-   "to": "2026-10-20T06:15:00.461Z",
+   "to": "2026-10-20T06:16:18.961Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe Delays between Wood Green and Acton Town westbound only while we fix a faulty train. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-20T06:20:04.386Z",
+   "to": "2026-10-20T06:20:04.386Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: Severe Delays between Wood Green and Acton Town westbound only due to an earlier faulty train. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
