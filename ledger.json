@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-20T23:30:06.701Z",
- "sinceISO": "2026-08-21T23:30:02.972Z",
+ "generatedAt": "2026-10-20T23:31:08.513Z",
+ "sinceISO": "2026-08-21T23:31:05.122Z",
  "coverage": [
   {
-   "from": "2026-08-21T23:30:06.318Z",
+   "from": "2026-08-21T23:35:02.053Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 15607
+   "polls": 15606
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-20T23:30:02.725Z",
-   "polls": 26711
+   "to": "2026-10-20T23:31:04.193Z",
+   "polls": 26717
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-21T23:30:06.318Z",
+   "from": "2026-08-21T23:35:02.053Z",
    "to": "2026-08-21T23:35:02.053Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-21T23:30:06.318Z",
+   "from": "2026-08-21T23:35:02.053Z",
    "to": "2026-08-22T00:20:04.909Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,38 +40,11 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-21T23:30:06.318Z",
+   "from": "2026-08-21T23:35:02.053Z",
    "to": "2026-08-22T00:25:02.191Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays due to an earlier fire alert at Barons Court. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T23:30:06.318Z",
-   "to": "2026-08-21T23:30:06.318Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T23:30:06.318Z",
-   "to": "2026-08-21T23:30:06.318Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T23:30:06.318Z",
-   "to": "2026-08-21T23:30:06.318Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
   },
   {
    "line": "waterloo-city",
@@ -448745,7 +448718,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-20T13:20:05.050Z",
-   "to": "2026-10-20T23:30:02.725Z",
+   "to": "2026-10-20T23:31:04.193Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.  "
@@ -467465,7 +467438,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-20T23:05:02.855Z",
-   "to": "2026-10-20T23:30:02.725Z",
+   "to": "2026-10-20T23:31:04.193Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays due to an earlier security alert.  "
@@ -468698,7 +468671,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-20T23:30:02.725Z",
-   "to": "2026-10-20T23:30:02.725Z",
+   "to": "2026-10-20T23:31:04.193Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Tower Hill and Upminster eastbound only due to an earlier signal fault at Mansion House. GOOD SERVICE on the rest of the line.  "
@@ -468720,6 +468693,123 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-20T23:30:18.725Z",
+   "to": "2026-10-20T23:30:18.725Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-20T23:30:18.725Z",
+   "to": "2026-10-20T23:30:18.725Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-20T23:30:20.788Z",
+   "to": "2026-10-20T23:30:20.788Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-20T23:30:20.788Z",
+   "to": "2026-10-20T23:30:20.788Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-20T23:30:53.643Z",
+   "to": "2026-10-20T23:30:53.643Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-20T23:30:53.643Z",
+   "to": "2026-10-20T23:30:53.643Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-20T23:30:57.394Z",
+   "to": "2026-10-20T23:30:57.394Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-20T23:30:57.394Z",
+   "to": "2026-10-20T23:30:57.394Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-20T23:31:01.508Z",
+   "to": "2026-10-20T23:31:01.508Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-20T23:31:01.508Z",
+   "to": "2026-10-20T23:31:01.508Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-20T23:31:04.193Z",
+   "to": "2026-10-20T23:31:04.193Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-20T23:31:04.193Z",
+   "to": "2026-10-20T23:31:04.193Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-20T23:31:04.193Z",
+   "to": "2026-10-20T23:31:04.193Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   }
  ]
 }
