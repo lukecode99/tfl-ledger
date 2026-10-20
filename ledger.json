@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-20T09:40:08.956Z",
- "sinceISO": "2026-08-21T09:40:05.534Z",
+ "generatedAt": "2026-10-20T09:50:08.512Z",
+ "sinceISO": "2026-08-21T09:50:05.069Z",
  "coverage": [
   {
-   "from": "2026-08-21T09:45:02.475Z",
+   "from": "2026-08-21T09:55:02.260Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 15772
+   "polls": 15770
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,33 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-20T09:40:05.226Z",
-   "polls": 25549
+   "to": "2026-10-20T09:50:04.361Z",
+   "polls": 25563
   }
  ],
  "spans": [
   {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-08-21T09:55:02.260Z",
+   "to": "2026-08-21T09:55:02.260Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a track fault at Stonebridge Park. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-08-21T09:55:02.260Z",
+   "to": "2026-08-21T09:55:02.260Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a track fault at Stonebridge Park. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-21T09:45:02.475Z",
+   "from": "2026-08-21T09:55:02.260Z",
    "to": "2026-08-21T11:15:02.458Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +49,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-21T09:45:02.475Z",
+   "from": "2026-08-21T09:55:02.260Z",
    "to": "2026-08-21T11:10:12.444Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,74 +58,11 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-21T09:45:02.475Z",
+   "from": "2026-08-21T09:55:02.260Z",
    "to": "2026-08-21T23:00:11.280Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to an earlier track fault at Vauxhall. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T09:45:02.475Z",
-   "to": "2026-08-21T09:45:02.475Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T09:45:02.475Z",
-   "to": "2026-08-21T09:45:02.475Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-21T09:50:04.660Z",
-   "to": "2026-08-21T09:50:04.660Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a track fault at Stonebridge Park. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T09:50:04.660Z",
-   "to": "2026-08-21T09:50:04.660Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T09:50:04.660Z",
-   "to": "2026-08-21T09:50:04.660Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-21T09:55:02.260Z",
-   "to": "2026-08-21T09:55:02.260Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a track fault at Stonebridge Park. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-21T09:55:02.260Z",
-   "to": "2026-08-21T09:55:02.260Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a track fault at Stonebridge Park. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
   },
   {
    "line": "windrush",
@@ -440339,7 +440294,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-20T08:40:04.183Z",
-   "to": "2026-10-20T09:40:05.226Z",
+   "to": "2026-10-20T09:46:27.472Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays while we fix a faulty train at Queensway. "
@@ -441185,7 +441140,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-20T09:30:04.904Z",
-   "to": "2026-10-20T09:40:05.226Z",
+   "to": "2026-10-20T09:50:04.361Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Windrush Line: Severe delays between Clapham Junction and Wandsworth Road due to an earlier person ill on a train at Norwood Junction. GOOD SERVICE on the rest of the line.  "
@@ -441257,7 +441212,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-20T09:30:40.342Z",
-   "to": "2026-10-20T09:40:05.226Z",
+   "to": "2026-10-20T09:50:04.361Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays between Paddington and Heathrow Terminals/Reading while we fix a faulty train at Hayes & Harlington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway and South Western Railway services via any reasonable route. "
@@ -441302,7 +441257,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-20T09:35:00.662Z",
-   "to": "2026-10-20T09:40:05.226Z",
+   "to": "2026-10-20T09:46:27.472Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses. "
@@ -441329,7 +441284,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-10-20T09:35:00.662Z",
-   "to": "2026-10-20T09:40:05.226Z",
+   "to": "2026-10-20T09:46:27.472Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking while we fix a signal failure at Mansion House. GOOD SERVICE on the rest of the line. Tickets will be accepted on London buses. "
@@ -441446,10 +441401,28 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-20T09:40:05.226Z",
-   "to": "2026-10-20T09:40:05.226Z",
+   "to": "2026-10-20T09:50:04.361Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays due to an earlier signal fault at Mansion House. Tickets will be accepted on London Buses, C2C, Elizabeth Line and DLR services. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-20T09:50:04.361Z",
+   "to": "2026-10-20T09:50:04.361Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to an earlier faulty train at Queensway. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T09:50:04.361Z",
+   "to": "2026-10-20T09:50:04.361Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: Severe delays service clockwise only due to an earlier signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses. "
   }
  ]
 }
