@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-20T13:35:04.459Z",
- "sinceISO": "2026-08-21T13:35:00.976Z",
+ "generatedAt": "2026-10-20T13:45:05.508Z",
+ "sinceISO": "2026-08-21T13:45:01.102Z",
  "coverage": [
   {
-   "from": "2026-08-21T13:35:01.951Z",
+   "from": "2026-08-21T13:45:02.441Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 15726
+   "polls": 15724
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,33 +14,51 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-20T13:35:00.710Z",
-   "polls": 25878
+   "to": "2026-10-20T13:45:00.803Z",
+   "polls": 25892
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-21T13:35:01.951Z",
+   "from": "2026-08-21T13:45:02.441Z",
    "to": "2026-08-21T13:55:02.349Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays due to an earlier track fault at Stonebridge Park. "
   },
   {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-08-21T13:45:02.441Z",
+   "to": "2026-08-21T20:40:04.716Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations. "
+  },
+  {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-21T13:35:01.951Z",
+   "from": "2026-08-21T13:45:02.441Z",
    "to": "2026-08-21T13:50:08.369Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Lioness Line: Minor delays due to an earlier track fault at Stonebridge Park. "
   },
   {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-08-21T13:45:02.441Z",
+   "to": "2026-08-21T14:05:02.169Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Amersham/Chesham/Watford while we fix a signal failure at Harrow-on-the-Hill. GOOD SERVICE on the rest of the line. "
+  },
+  {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-21T13:35:01.951Z",
+   "from": "2026-08-21T13:45:02.441Z",
    "to": "2026-08-21T13:50:08.369Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -49,65 +67,11 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-21T13:35:01.951Z",
+   "from": "2026-08-21T13:45:02.441Z",
    "to": "2026-08-21T23:00:11.280Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to an earlier track fault at Vauxhall. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T13:35:01.951Z",
-   "to": "2026-08-21T13:35:01.951Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T13:35:01.951Z",
-   "to": "2026-08-21T13:35:01.951Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-21T13:40:06.363Z",
-   "to": "2026-08-21T20:40:04.716Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-21T13:40:06.363Z",
-   "to": "2026-08-21T14:05:02.169Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Amersham/Chesham/Watford while we fix a signal failure at Harrow-on-the-Hill. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T13:40:06.363Z",
-   "to": "2026-08-21T13:40:06.363Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-21T13:40:06.363Z",
-   "to": "2026-08-21T13:40:06.363Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line.  "
   },
   {
    "line": "windrush",
@@ -452210,7 +452174,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-20T13:20:05.050Z",
-   "to": "2026-10-20T13:35:00.710Z",
+   "to": "2026-10-20T13:45:00.803Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.  "
@@ -453389,10 +453353,523 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-10-20T13:35:00.710Z",
-   "to": "2026-10-20T13:35:00.710Z",
+   "to": "2026-10-20T13:45:00.803Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Hammersmith and City Line: SEVERE DELAYS while we fix a signal failure at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:35:14.960Z",
+   "to": "2026-10-20T13:35:14.960Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:35:14.960Z",
+   "to": "2026-10-20T13:35:14.960Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:35:14.960Z",
+   "to": "2026-10-20T13:35:14.960Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:35:14.960Z",
+   "to": "2026-10-20T13:35:14.960Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:35:25.976Z",
+   "to": "2026-10-20T13:35:25.976Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:35:25.976Z",
+   "to": "2026-10-20T13:35:25.976Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:35:25.976Z",
+   "to": "2026-10-20T13:35:25.976Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:35:25.976Z",
+   "to": "2026-10-20T13:35:25.976Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:35:29.818Z",
+   "to": "2026-10-20T13:35:29.818Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:35:29.818Z",
+   "to": "2026-10-20T13:35:29.818Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:35:29.818Z",
+   "to": "2026-10-20T13:35:29.818Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:35:29.818Z",
+   "to": "2026-10-20T13:35:29.818Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:35:50.045Z",
+   "to": "2026-10-20T13:35:50.045Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:35:50.045Z",
+   "to": "2026-10-20T13:35:50.045Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:35:50.045Z",
+   "to": "2026-10-20T13:35:50.045Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:35:50.045Z",
+   "to": "2026-10-20T13:35:50.045Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:35:55.667Z",
+   "to": "2026-10-20T13:35:55.667Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:35:55.667Z",
+   "to": "2026-10-20T13:35:55.667Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:35:55.667Z",
+   "to": "2026-10-20T13:35:55.667Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:35:55.667Z",
+   "to": "2026-10-20T13:35:55.667Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:36:01.993Z",
+   "to": "2026-10-20T13:36:01.993Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:36:01.993Z",
+   "to": "2026-10-20T13:36:01.993Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:36:01.993Z",
+   "to": "2026-10-20T13:36:01.993Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:36:01.993Z",
+   "to": "2026-10-20T13:36:01.993Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:40:04.441Z",
+   "to": "2026-10-20T13:40:04.441Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:40:04.441Z",
+   "to": "2026-10-20T13:40:04.441Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:40:04.441Z",
+   "to": "2026-10-20T13:40:04.441Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:40:04.441Z",
+   "to": "2026-10-20T13:40:04.441Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:40:11.370Z",
+   "to": "2026-10-20T13:40:11.370Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:40:11.370Z",
+   "to": "2026-10-20T13:40:11.370Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:40:11.370Z",
+   "to": "2026-10-20T13:40:11.370Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:40:11.370Z",
+   "to": "2026-10-20T13:40:11.370Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:40:14.009Z",
+   "to": "2026-10-20T13:40:14.009Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:40:14.009Z",
+   "to": "2026-10-20T13:40:14.009Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:40:14.009Z",
+   "to": "2026-10-20T13:40:14.009Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:40:14.009Z",
+   "to": "2026-10-20T13:40:14.009Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:40:58.195Z",
+   "to": "2026-10-20T13:40:58.195Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:40:58.195Z",
+   "to": "2026-10-20T13:40:58.195Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:40:58.195Z",
+   "to": "2026-10-20T13:40:58.195Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:40:58.195Z",
+   "to": "2026-10-20T13:40:58.195Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:41:02.869Z",
+   "to": "2026-10-20T13:41:02.869Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:41:02.869Z",
+   "to": "2026-10-20T13:41:02.869Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:41:02.869Z",
+   "to": "2026-10-20T13:41:02.869Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:41:02.869Z",
+   "to": "2026-10-20T13:41:02.869Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:41:07.356Z",
+   "to": "2026-10-20T13:41:07.356Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:41:07.356Z",
+   "to": "2026-10-20T13:41:07.356Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:41:07.356Z",
+   "to": "2026-10-20T13:41:07.356Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:41:07.356Z",
+   "to": "2026-10-20T13:41:07.356Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:41:11.665Z",
+   "to": "2026-10-20T13:41:11.665Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:41:11.665Z",
+   "to": "2026-10-20T13:41:11.665Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:41:11.665Z",
+   "to": "2026-10-20T13:41:11.665Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:41:11.665Z",
+   "to": "2026-10-20T13:41:11.665Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:45:00.803Z",
+   "to": "2026-10-20T13:45:00.803Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line."
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:45:00.803Z",
+   "to": "2026-10-20T13:45:00.803Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Embankment and SEVERE DELAYS between Hammersmith and Aldgate while we fix a signal failure at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-20T13:45:00.803Z",
+   "to": "2026-10-20T13:45:00.803Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Embankment and SEVERE DELAYS between Hammersmith and Aldgate while we fix a signal failure at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:45:00.803Z",
+   "to": "2026-10-20T13:45:00.803Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T13:45:00.803Z",
+   "to": "2026-10-20T13:45:00.803Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. "
   }
  ]
 }
