@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-22T19:32:02.996Z",
- "sinceISO": "2026-08-23T19:31:59.259Z",
+ "generatedAt": "2026-10-22T19:35:06.318Z",
+ "sinceISO": "2026-08-23T19:35:02.618Z",
  "coverage": [
   {
-   "from": "2026-08-23T19:35:02.148Z",
+   "from": "2026-08-23T19:40:04.739Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 15079
+   "polls": 15078
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-22T19:31:58.853Z",
-   "polls": 30403
+   "to": "2026-10-22T19:35:02.367Z",
+   "polls": 30404
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-23T19:35:02.148Z",
+   "from": "2026-08-23T19:40:04.739Z",
    "to": "2026-08-23T20:25:01.992Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,8 +31,8 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-23T19:35:02.148Z",
-   "to": "2026-08-23T19:35:02.148Z",
+   "from": "2026-08-23T19:40:04.739Z",
+   "to": "2026-08-23T19:40:04.739Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DISTRICT LINE: Saturday 22 August, from 1400, and all day Sunday 23 August, no service between Earls Court and Kensington (Olympia)"
@@ -40,8 +40,8 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-23T19:35:02.148Z",
-   "to": "2026-08-23T19:35:02.148Z",
+   "from": "2026-08-23T19:40:04.739Z",
+   "to": "2026-08-23T19:40:04.739Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DISTRICT LINE: Saturday 22 August, from 1400, and all day Sunday 23 August, no service between Fulham Broadway and Wimbledon. Replacement bus service DL5 operates between Fulham Broadway and Wimbledon via Parsons Green, Putney Bridge, East Putney, Southfields and Wimbledon Park."
@@ -49,7 +49,7 @@
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-08-23T19:35:02.148Z",
+   "from": "2026-08-23T19:40:04.739Z",
    "to": "2026-08-23T23:50:07.636Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -58,7 +58,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-23T19:35:02.148Z",
+   "from": "2026-08-23T19:40:04.739Z",
    "to": "2026-08-23T23:45:01.745Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -67,29 +67,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-23T19:35:02.148Z",
+   "from": "2026-08-23T19:40:04.739Z",
    "to": "2026-08-23T21:15:02.209Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Sunday 23 August, no service between New Cross Gate and Crystal Palace / West Croydon. Use local London Buses or London Trams services. SOUTHERN services via Forest Hill will not operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-23T19:40:04.739Z",
-   "to": "2026-08-23T19:40:04.739Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 22 August, from 1400, and all day Sunday 23 August, no service between Earls Court and Kensington (Olympia)"
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-23T19:40:04.739Z",
-   "to": "2026-08-23T19:40:04.739Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 22 August, from 1400, and all day Sunday 23 August, no service between Fulham Broadway and Wimbledon. Replacement bus service DL5 operates between Fulham Broadway and Wimbledon via Parsons Green, Putney Bridge, East Putney, Southfields and Wimbledon Park."
   },
   {
    "line": "district",
@@ -466133,7 +466115,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-22T19:30:04.240Z",
-   "to": "2026-10-22T19:31:58.853Z",
+   "to": "2026-10-22T19:35:02.367Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays while we fix a signal failure at Leicester Square. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern and Weaver line services via any reasonable route. "
@@ -466173,6 +466155,15 @@
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays between Abbey Wood and Reading/Heathrow Airport and MINOR DELAYS between Whitechapel and Shenfield due to an earlier customer incident. Tickets will be accepted on London Underground, London Buses, DLR, Thameslink, Great Western Railways and Southeastern services via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-22T19:35:02.367Z",
+   "to": "2026-10-22T19:35:02.367Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Minor delays due to an earlier customer incident at Tottenham Court Road. "
   }
  ]
 }
