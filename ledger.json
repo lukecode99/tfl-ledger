@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-23T14:05:06.533Z",
- "sinceISO": "2026-08-24T14:05:00.942Z",
+ "generatedAt": "2026-10-23T14:25:06.251Z",
+ "sinceISO": "2026-08-24T14:25:00.773Z",
  "coverage": [
   {
-   "from": "2026-08-24T14:05:02.337Z",
+   "from": "2026-08-24T14:25:02.167Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14857
+   "polls": 14853
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-23T14:05:00.661Z",
-   "polls": 31958
+   "to": "2026-10-23T14:25:00.415Z",
+   "polls": 31986
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-24T14:05:02.337Z",
+   "from": "2026-08-24T14:25:02.167Z",
    "to": "2026-08-24T23:05:02.138Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-24T14:15:02.350Z",
+   "from": "2026-08-24T14:25:02.167Z",
    "to": "2026-08-24T14:50:06.585Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -477599,7 +477599,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-23T12:50:00.533Z",
-   "to": "2026-10-23T14:05:00.661Z",
+   "to": "2026-10-23T14:25:00.415Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford due to an earlier signal failure at Harrow-on-the-Hill. GOOD SERVICE on the rest of the line. "
@@ -477608,7 +477608,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-10-23T13:10:00.804Z",
-   "to": "2026-10-23T14:05:00.661Z",
+   "to": "2026-10-23T14:25:00.415Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to an operational incident. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
@@ -477617,7 +477617,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-23T13:45:00.774Z",
-   "to": "2026-10-23T14:05:00.661Z",
+   "to": "2026-10-23T14:25:00.415Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays due to an earlier signal failure at Archway.  "
@@ -477626,10 +477626,19 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-23T14:05:00.661Z",
-   "to": "2026-10-23T14:05:00.661Z",
+   "to": "2026-10-23T14:25:00.415Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays while we fix a signal failure at Leicester Square.  "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-10-23T14:25:00.415Z",
+   "to": "2026-10-23T14:25:00.415Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Windrush Line: Minor delays due to a track Circuit Failure at Norwood Junction. Good service on the rest of the line. "
   }
  ]
 }
