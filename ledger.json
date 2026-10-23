@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-23T10:40:05.054Z",
- "sinceISO": "2026-08-24T10:40:01.248Z",
+ "generatedAt": "2026-10-23T10:45:05.670Z",
+ "sinceISO": "2026-08-24T10:45:01.132Z",
  "coverage": [
   {
-   "from": "2026-08-24T10:40:04.952Z",
+   "from": "2026-08-24T10:45:02.036Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14898
+   "polls": 14897
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-23T10:40:00.625Z",
-   "polls": 31671
+   "to": "2026-10-23T10:45:00.847Z",
+   "polls": 31678
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-24T10:40:04.952Z",
+   "from": "2026-08-24T10:45:02.036Z",
    "to": "2026-08-24T23:05:02.138Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,29 +31,11 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-24T10:40:04.952Z",
+   "from": "2026-08-24T10:45:02.036Z",
    "to": "2026-08-24T11:00:12.039Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Wimbledon / Richmond / Ealing Broadway due to an earlier security alert at Earl's Court. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-08-24T10:40:04.952Z",
-   "to": "2026-08-24T10:40:04.952Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Seven Sisters and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-08-24T10:40:04.952Z",
-   "to": "2026-08-24T10:40:04.952Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Seven Sisters and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  "
   },
   {
    "line": "weaver",
@@ -476771,7 +476753,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-23T08:51:28.699Z",
-   "to": "2026-10-23T10:40:00.625Z",
+   "to": "2026-10-23T10:40:34.910Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Metropolitan Line: Severe delays due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
@@ -477347,7 +477329,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-23T09:25:00.609Z",
-   "to": "2026-10-23T10:40:00.625Z",
+   "to": "2026-10-23T10:45:00.847Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays while we fix a signal failure at Leicester Square. Please avoid the Piccadilly line where possible. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern, Weaver Line and South Western Railway.  "
@@ -477986,10 +477968,19 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-23T10:40:00.625Z",
-   "to": "2026-10-23T10:40:00.625Z",
+   "to": "2026-10-23T10:45:00.847Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays due to an earlier signal failure at Archway. Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T10:45:00.847Z",
+   "to": "2026-10-23T10:45:00.847Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
   }
  ]
 }
