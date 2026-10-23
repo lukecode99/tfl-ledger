@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-23T22:35:04.727Z",
- "sinceISO": "2026-08-24T22:35:00.882Z",
+ "generatedAt": "2026-10-23T22:55:07.148Z",
+ "sinceISO": "2026-08-24T22:55:01.311Z",
  "coverage": [
   {
-   "from": "2026-08-24T22:35:02.108Z",
+   "from": "2026-08-24T22:55:01.838Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14755
+   "polls": 14751
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-23T22:35:00.647Z",
-   "polls": 32672
+   "to": "2026-10-23T22:55:00.688Z",
+   "polls": 32700
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-24T22:35:02.108Z",
+   "from": "2026-08-24T22:55:01.838Z",
    "to": "2026-08-24T23:05:02.138Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-24T22:35:02.108Z",
+   "from": "2026-08-24T22:55:01.838Z",
    "to": "2026-08-25T00:10:14.098Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,7 +40,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-24T22:35:02.108Z",
+   "from": "2026-08-24T22:55:01.838Z",
    "to": "2026-08-25T00:10:14.098Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -49,7 +49,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-24T22:35:02.108Z",
+   "from": "2026-08-24T22:55:01.838Z",
    "to": "2026-08-24T22:55:01.838Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -476807,7 +476807,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-23T15:00:00.820Z",
-   "to": "2026-10-23T22:35:00.647Z",
+   "to": "2026-10-23T22:55:00.688Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
@@ -477590,7 +477590,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-10-23T15:30:00.662Z",
-   "to": "2026-10-23T22:35:00.647Z",
+   "to": "2026-10-23T22:55:00.688Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Suffragette Line: No service due to a power supply failure and an operational incident. London Underground are accepting tickets via any reasonable route.  "
@@ -479606,7 +479606,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-23T17:20:00.560Z",
-   "to": "2026-10-23T22:35:00.647Z",
+   "to": "2026-10-23T22:55:00.688Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Windrush Line: No service between West Croydon and Sydenham due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. "
@@ -482900,7 +482900,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-23T19:40:00.649Z",
-   "to": "2026-10-23T22:35:00.647Z",
+   "to": "2026-10-23T22:55:00.688Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays due to an earlier points failure at Morden.  "
@@ -486653,10 +486653,19 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-23T22:35:00.647Z",
-   "to": "2026-10-23T22:35:00.647Z",
+   "to": "2026-10-23T22:55:00.688Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow on-the-Hill and Uxbridge, and between Watford and Moor Park due to train cancellations. GOOD SERVICE on the rest of the line.\r\n "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-23T22:55:00.688Z",
+   "to": "2026-10-23T22:55:00.688Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between High Street Kensington and Edgware Road while we fix a points failure at High Street Kensington. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
