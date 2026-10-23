@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-23T08:45:06.598Z",
- "sinceISO": "2026-08-24T08:45:00.982Z",
+ "generatedAt": "2026-10-23T08:50:06.785Z",
+ "sinceISO": "2026-08-24T08:50:01.414Z",
  "coverage": [
   {
-   "from": "2026-08-24T08:45:02.113Z",
+   "from": "2026-08-24T08:50:05.487Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14921
+   "polls": 14920
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-23T08:45:00.697Z",
-   "polls": 31510
+   "to": "2026-10-23T08:50:01.088Z",
+   "polls": 31517
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-24T08:45:02.113Z",
+   "from": "2026-08-24T08:50:05.487Z",
    "to": "2026-08-24T10:30:04.637Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -31,29 +31,11 @@
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-08-24T08:45:02.113Z",
+   "from": "2026-08-24T08:50:05.487Z",
    "to": "2026-08-24T10:25:02.097Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-08-24T08:45:02.113Z",
-   "to": "2026-08-24T08:45:02.113Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Seven Sisters and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-08-24T08:45:02.113Z",
-   "to": "2026-08-24T08:45:02.113Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Seven Sisters and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  "
   },
   {
    "line": "mildmay",
@@ -472379,7 +472361,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-23T06:45:00.769Z",
-   "to": "2026-10-23T08:45:00.697Z",
+   "to": "2026-10-23T08:50:01.088Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to an earlier faulty train at Perivale and following a late finish of engineering work. "
@@ -473189,7 +473171,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-23T07:05:18.365Z",
-   "to": "2026-10-23T08:45:00.697Z",
+   "to": "2026-10-23T08:50:01.088Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
@@ -475223,7 +475205,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-23T08:10:00.647Z",
-   "to": "2026-10-23T08:45:00.697Z",
+   "to": "2026-10-23T08:50:01.088Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays due to an earlier faulty train at Euston Square. "
@@ -475232,7 +475214,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-10-23T08:10:00.647Z",
-   "to": "2026-10-23T08:45:00.697Z",
+   "to": "2026-10-23T08:50:01.088Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to an earlier faulty train at Euston Square. "
@@ -475619,7 +475601,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-23T08:20:00.552Z",
-   "to": "2026-10-23T08:45:00.697Z",
+   "to": "2026-10-23T08:46:05.461Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Turnham Green and Ealing Broadway / Richmond while we fix faulty platform equipment. GOOD SERVICE on the rest of the line. "
@@ -476906,7 +476888,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-23T08:45:00.697Z",
-   "to": "2026-10-23T08:45:00.697Z",
+   "to": "2026-10-23T08:50:01.088Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Northern Line: No service between Camden Town and High Barnet while we fix a signal failure at Archway. Tickets are being accepted on London Buses via any reasonable route. GOOD SERVICE on the rest of the line. "
@@ -476925,6 +476907,258 @@
    "lineName": "Piccadilly",
    "from": "2026-10-23T08:45:00.697Z",
    "to": "2026-10-23T08:45:00.697Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T08:45:13.073Z",
+   "to": "2026-10-23T08:45:13.073Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T08:45:13.073Z",
+   "to": "2026-10-23T08:45:13.073Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T08:45:13.073Z",
+   "to": "2026-10-23T08:45:13.073Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T08:45:13.073Z",
+   "to": "2026-10-23T08:45:13.073Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T08:45:17.491Z",
+   "to": "2026-10-23T08:45:17.491Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T08:45:17.491Z",
+   "to": "2026-10-23T08:45:17.491Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T08:45:17.491Z",
+   "to": "2026-10-23T08:45:17.491Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T08:45:17.491Z",
+   "to": "2026-10-23T08:45:17.491Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T08:45:17.873Z",
+   "to": "2026-10-23T08:45:17.873Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T08:45:17.873Z",
+   "to": "2026-10-23T08:45:17.873Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T08:45:17.873Z",
+   "to": "2026-10-23T08:45:17.873Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T08:45:17.873Z",
+   "to": "2026-10-23T08:45:17.873Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T08:45:49.706Z",
+   "to": "2026-10-23T08:45:49.706Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T08:45:49.706Z",
+   "to": "2026-10-23T08:45:49.706Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T08:45:49.706Z",
+   "to": "2026-10-23T08:45:49.706Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T08:45:49.706Z",
+   "to": "2026-10-23T08:45:49.706Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T08:45:58.279Z",
+   "to": "2026-10-23T08:45:58.279Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T08:45:58.279Z",
+   "to": "2026-10-23T08:45:58.279Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T08:45:58.279Z",
+   "to": "2026-10-23T08:45:58.279Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T08:45:58.279Z",
+   "to": "2026-10-23T08:45:58.279Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T08:46:05.461Z",
+   "to": "2026-10-23T08:46:05.461Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T08:46:05.461Z",
+   "to": "2026-10-23T08:46:05.461Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T08:46:05.461Z",
+   "to": "2026-10-23T08:46:05.461Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T08:46:05.461Z",
+   "to": "2026-10-23T08:46:05.461Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T08:50:01.088Z",
+   "to": "2026-10-23T08:50:01.088Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-23T08:50:01.088Z",
+   "to": "2026-10-23T08:50:01.088Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T08:50:01.088Z",
+   "to": "2026-10-23T08:50:01.088Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T08:50:01.088Z",
+   "to": "2026-10-23T08:50:01.088Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.  "
