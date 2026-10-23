@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-23T11:45:08.844Z",
- "sinceISO": "2026-08-24T11:45:02.288Z",
+ "generatedAt": "2026-10-23T12:31:05.448Z",
+ "sinceISO": "2026-08-24T12:31:00.083Z",
  "coverage": [
   {
-   "from": "2026-08-24T11:50:04.959Z",
+   "from": "2026-08-24T12:35:01.977Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14884
+   "polls": 14875
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,37 +14,37 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-23T11:45:00.806Z",
-   "polls": 31762
+   "to": "2026-10-23T12:30:59.689Z",
+   "polls": 31828
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-24T11:50:04.959Z",
+   "from": "2026-08-24T12:35:01.977Z",
    "to": "2026-08-24T23:05:02.138Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
   },
   {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-08-24T11:50:04.959Z",
-   "to": "2026-08-24T13:25:02.221Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: Severe delays due to an earlier fault with the signalling system.  "
-  },
-  {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-24T12:10:04.623Z",
+   "from": "2026-08-24T12:35:01.977Z",
    "to": "2026-08-24T12:50:11.411Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Metropolitan Line: No service between Watford and Moor Park while we respond to a fire alert at Watford. Tickets will be accepted on Lioness line and London Northwestern Railway services. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-08-24T12:35:01.977Z",
+   "to": "2026-08-24T13:25:02.221Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Weaver Line: Severe delays due to an earlier fault with the signalling system.  "
   },
   {
    "line": "metropolitan",
@@ -477104,7 +477104,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-23T09:25:00.609Z",
-   "to": "2026-10-23T11:45:00.806Z",
+   "to": "2026-10-23T12:30:59.689Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays while we fix a signal failure at Leicester Square. Please avoid the Piccadilly line where possible. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern, Weaver Line and South Western Railway.  "
@@ -477743,7 +477743,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-23T10:40:00.625Z",
-   "to": "2026-10-23T11:45:00.806Z",
+   "to": "2026-10-23T12:30:59.689Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays due to an earlier signal failure at Archway. Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway via any reasonable route.  "
@@ -477761,10 +477761,19 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-23T11:45:00.806Z",
-   "to": "2026-10-23T11:45:00.806Z",
+   "to": "2026-10-23T12:30:59.689Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford / Chesham due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-23T12:30:59.689Z",
+   "to": "2026-10-23T12:30:59.689Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Suffragette Line: No service due to an operational incident.  "
   }
  ]
 }
