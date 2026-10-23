@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-23T05:31:23.266Z",
- "sinceISO": "2026-08-24T05:31:17.190Z",
+ "generatedAt": "2026-10-23T05:35:13.608Z",
+ "sinceISO": "2026-08-24T05:35:06.384Z",
  "coverage": [
   {
-   "from": "2026-08-24T05:35:02.116Z",
+   "from": "2026-08-24T05:40:04.043Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14959
+   "polls": 14958
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-23T05:31:16.947Z",
-   "polls": 31243
+   "to": "2026-10-23T05:35:05.813Z",
+   "polls": 31246
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-24T05:35:02.116Z",
+   "from": "2026-08-24T05:40:04.043Z",
    "to": "2026-08-24T06:25:02.174Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-24T05:35:02.116Z",
+   "from": "2026-08-24T05:40:04.043Z",
    "to": "2026-08-24T08:20:06.857Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,7 +40,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-24T05:35:02.116Z",
+   "from": "2026-08-24T05:40:04.043Z",
    "to": "2026-08-24T07:01:07.218Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -49,7 +49,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-24T05:35:02.116Z",
+   "from": "2026-08-24T05:40:04.043Z",
    "to": "2026-08-24T07:35:03.381Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -58,7 +58,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-24T05:35:02.116Z",
+   "from": "2026-08-24T05:40:04.043Z",
    "to": "2026-08-24T05:55:02.061Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -67,16 +67,7 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-08-24T05:35:02.116Z",
-   "to": "2026-08-24T05:35:02.116Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Seven Sisters and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-08-24T05:35:02.116Z",
+   "from": "2026-08-24T05:40:04.043Z",
    "to": "2026-08-24T05:40:04.043Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -469742,7 +469733,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-23T05:06:16.732Z",
-   "to": "2026-10-23T05:31:16.947Z",
+   "to": "2026-10-23T05:35:05.813Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -471128,7 +471119,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-23T05:31:16.947Z",
-   "to": "2026-10-23T05:31:16.947Z",
+   "to": "2026-10-23T05:35:05.813Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Ealing Broadway and Acton Town due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -471147,6 +471138,96 @@
    "lineName": "Piccadilly",
    "from": "2026-10-23T05:31:16.947Z",
    "to": "2026-10-23T05:31:16.947Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-23T05:35:00.600Z",
+   "to": "2026-10-23T05:35:00.600Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between North Acton and West Ruislip due to a faulty train at Perivale. SEVERE DELAYS between Hainault and Leytonstone following a late finish of engineering work. Tickets are being accepted on London Buses, Elizabeth Line, Chiltern Railways and Great Western Railway services via any reasonable routes. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-23T05:35:00.600Z",
+   "to": "2026-10-23T05:35:00.600Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between North Acton and West Ruislip due to a faulty train at Perivale. SEVERE DELAYS between Hainault and Leytonstone following a late finish of engineering work. Tickets are being accepted on London Buses, Elizabeth Line, Chiltern Railways and Great Western Railway services via any reasonable routes. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T05:35:00.600Z",
+   "to": "2026-10-23T05:35:00.600Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T05:35:00.600Z",
+   "to": "2026-10-23T05:35:00.600Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-23T05:35:01.119Z",
+   "to": "2026-10-23T05:35:01.119Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between North Acton and West Ruislip due to a faulty train at Perivale. SEVERE DELAYS between Hainault and Leytonstone following a late finish of engineering work. Tickets are being accepted on London Buses, Elizabeth Line, Chiltern Railways and Great Western Railway services via any reasonable routes. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-23T05:35:01.119Z",
+   "to": "2026-10-23T05:35:01.119Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between North Acton and West Ruislip due to a faulty train at Perivale. SEVERE DELAYS between Hainault and Leytonstone following a late finish of engineering work. Tickets are being accepted on London Buses, Elizabeth Line, Chiltern Railways and Great Western Railway services via any reasonable routes. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T05:35:01.119Z",
+   "to": "2026-10-23T05:35:01.119Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T05:35:01.119Z",
+   "to": "2026-10-23T05:35:01.119Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T05:35:05.813Z",
+   "to": "2026-10-23T05:35:05.813Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T05:35:05.813Z",
+   "to": "2026-10-23T05:35:05.813Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses. "
