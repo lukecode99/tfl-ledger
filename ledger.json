@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-23T06:35:06.406Z",
- "sinceISO": "2026-08-24T06:35:01.845Z",
+ "generatedAt": "2026-10-23T06:45:08.715Z",
+ "sinceISO": "2026-08-24T06:45:01.706Z",
  "coverage": [
   {
-   "from": "2026-08-24T06:35:02.287Z",
+   "from": "2026-08-24T06:45:09.545Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14947
+   "polls": 14945
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-23T06:35:00.872Z",
-   "polls": 31328
+   "to": "2026-10-23T06:45:00.769Z",
+   "polls": 31342
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-24T06:35:02.287Z",
+   "from": "2026-08-24T06:45:09.545Z",
    "to": "2026-08-24T06:50:06.116Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -31,16 +31,25 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-24T06:35:02.287Z",
+   "from": "2026-08-24T06:45:09.545Z",
    "to": "2026-08-24T08:20:06.857Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays due to train cancellations. "
   },
   {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-08-24T06:45:09.545Z",
+   "to": "2026-08-24T06:45:09.545Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: Minor delays between Stratford and Canary Wharf while we remove an animal from the track at Pudding Mill Lane. GOOD SERVICE on all other routes. "
+  },
+  {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-08-24T06:35:02.287Z",
+   "from": "2026-08-24T06:45:09.545Z",
    "to": "2026-08-24T07:35:03.381Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -49,7 +58,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-24T06:35:02.287Z",
+   "from": "2026-08-24T06:45:09.545Z",
    "to": "2026-08-24T07:01:07.218Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -58,7 +67,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-24T06:35:02.287Z",
+   "from": "2026-08-24T06:45:09.545Z",
    "to": "2026-08-24T07:35:03.381Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -67,56 +76,11 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-24T06:35:02.287Z",
+   "from": "2026-08-24T06:45:09.545Z",
    "to": "2026-08-24T06:50:06.116Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to an earlier signal failure at Cockfosters. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-08-24T06:35:02.287Z",
-   "to": "2026-08-24T06:35:02.287Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Seven Sisters and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-08-24T06:35:02.287Z",
-   "to": "2026-08-24T06:35:02.287Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Seven Sisters and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-08-24T06:40:04.328Z",
-   "to": "2026-08-24T06:45:09.545Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Docklands Light Railway: Minor delays between Stratford and Canary Wharf while we remove an animal from the track at Pudding Mill Lane. GOOD SERVICE on all other routes. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-08-24T06:40:04.328Z",
-   "to": "2026-08-24T06:40:04.328Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Seven Sisters and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-08-24T06:40:04.328Z",
-   "to": "2026-08-24T06:40:04.328Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Seven Sisters and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  "
   },
   {
    "line": "weaver",
@@ -471344,7 +471308,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-10-23T05:50:00.467Z",
-   "to": "2026-10-23T06:35:00.872Z",
+   "to": "2026-10-23T06:45:00.769Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Mildmay Line: Severe delays while we fix a signal failure at Stratford. "
@@ -471695,7 +471659,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-23T06:01:15.986Z",
-   "to": "2026-10-23T06:35:00.872Z",
+   "to": "2026-10-23T06:45:00.769Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Waterloo and City Line: No service due to the unavailability of control room staff. Tickets are being accepted on London Buses. "
@@ -472271,7 +472235,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-23T06:25:11.884Z",
-   "to": "2026-10-23T06:35:00.872Z",
+   "to": "2026-10-23T06:40:59.758Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between North Acton and West Ruislip due to an earlier faulty train at Perivale. MINOR DELAYS between Hainault and Leytonstone via Newbury Park following a late finish of engineering work. GOOD SERVICE on the rest of the line. "
@@ -472596,6 +472560,393 @@
    "lineName": "Piccadilly",
    "from": "2026-10-23T06:35:00.872Z",
    "to": "2026-10-23T06:35:00.872Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:12.435Z",
+   "to": "2026-10-23T06:35:12.435Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:12.435Z",
+   "to": "2026-10-23T06:35:12.435Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:12.435Z",
+   "to": "2026-10-23T06:35:12.435Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:16.935Z",
+   "to": "2026-10-23T06:35:16.935Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:16.935Z",
+   "to": "2026-10-23T06:35:16.935Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:16.935Z",
+   "to": "2026-10-23T06:35:16.935Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:17.535Z",
+   "to": "2026-10-23T06:35:17.535Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:17.535Z",
+   "to": "2026-10-23T06:35:17.535Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:17.535Z",
+   "to": "2026-10-23T06:35:17.535Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:41.853Z",
+   "to": "2026-10-23T06:35:41.853Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:41.853Z",
+   "to": "2026-10-23T06:35:41.853Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:41.853Z",
+   "to": "2026-10-23T06:35:41.853Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:49.541Z",
+   "to": "2026-10-23T06:35:49.541Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:49.541Z",
+   "to": "2026-10-23T06:35:49.541Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:49.541Z",
+   "to": "2026-10-23T06:35:49.541Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:53.462Z",
+   "to": "2026-10-23T06:35:53.462Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:53.462Z",
+   "to": "2026-10-23T06:35:53.462Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:35:53.462Z",
+   "to": "2026-10-23T06:35:53.462Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:00.706Z",
+   "to": "2026-10-23T06:40:00.706Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:00.706Z",
+   "to": "2026-10-23T06:40:00.706Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:00.706Z",
+   "to": "2026-10-23T06:40:00.706Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:09.163Z",
+   "to": "2026-10-23T06:40:09.163Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:09.163Z",
+   "to": "2026-10-23T06:40:09.163Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:09.163Z",
+   "to": "2026-10-23T06:40:09.163Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:13.742Z",
+   "to": "2026-10-23T06:40:13.742Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:13.742Z",
+   "to": "2026-10-23T06:40:13.742Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:13.742Z",
+   "to": "2026-10-23T06:40:13.742Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:54.290Z",
+   "to": "2026-10-23T06:40:54.290Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:54.290Z",
+   "to": "2026-10-23T06:40:54.290Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:54.290Z",
+   "to": "2026-10-23T06:40:54.290Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:54.811Z",
+   "to": "2026-10-23T06:40:54.811Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:54.811Z",
+   "to": "2026-10-23T06:40:54.811Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:54.811Z",
+   "to": "2026-10-23T06:40:54.811Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:59.373Z",
+   "to": "2026-10-23T06:40:59.373Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:59.373Z",
+   "to": "2026-10-23T06:40:59.373Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:59.373Z",
+   "to": "2026-10-23T06:40:59.373Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:59.758Z",
+   "to": "2026-10-23T06:40:59.758Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:59.758Z",
+   "to": "2026-10-23T06:40:59.758Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:40:59.758Z",
+   "to": "2026-10-23T06:40:59.758Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-23T06:45:00.769Z",
+   "to": "2026-10-23T06:45:00.769Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to an earlier faulty train at Perivale and following a late finish of engineering work. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:45:00.769Z",
+   "to": "2026-10-23T06:45:00.769Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:45:00.769Z",
+   "to": "2026-10-23T06:45:00.769Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T06:45:00.769Z",
+   "to": "2026-10-23T06:45:00.769Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. "
