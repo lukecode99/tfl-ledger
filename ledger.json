@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-24T04:10:06.735Z",
- "sinceISO": "2026-08-25T04:10:01.370Z",
+ "generatedAt": "2026-10-24T05:05:06.177Z",
+ "sinceISO": "2026-08-25T05:05:00.694Z",
  "coverage": [
   {
-   "from": "2026-08-25T04:10:15.806Z",
+   "from": "2026-08-25T05:05:02.017Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14688
+   "polls": 14677
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,24 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-24T04:10:00.595Z",
-   "polls": 33141
+   "to": "2026-10-24T05:05:00.398Z",
+   "polls": 33218
   }
  ],
  "spans": [
   {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-08-25T05:05:02.017Z",
+   "to": "2026-08-25T18:20:04.019Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations. "
+  },
+  {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-25T04:10:15.806Z",
+   "from": "2026-08-25T05:05:02.017Z",
    "to": "2026-08-25T05:10:04.598Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -31,7 +40,7 @@
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-08-25T04:10:15.806Z",
+   "from": "2026-08-25T05:05:02.017Z",
    "to": "2026-08-25T05:20:04.767Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,38 +49,11 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-25T04:10:15.806Z",
+   "from": "2026-08-25T05:05:02.017Z",
    "to": "2026-08-25T15:10:08.896Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-25T04:10:15.806Z",
-   "to": "2026-08-25T05:10:04.598Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-25T04:30:08.360Z",
-   "to": "2026-08-25T18:20:04.019Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-08-25T04:45:01.981Z",
-   "to": "2026-08-25T05:00:10.972Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Victoria Line: Minor delays while we fix a faulty train at Stockwell.  "
   },
   {
    "line": "victoria",
@@ -81,6 +63,15 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-08-25T05:05:02.017Z",
+   "to": "2026-08-25T05:10:04.598Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   },
   {
    "line": "circle",
@@ -490163,7 +490154,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-24T03:35:00.346Z",
-   "to": "2026-10-24T04:10:00.595Z",
+   "to": "2026-10-24T05:05:00.398Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
@@ -490172,7 +490163,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-24T03:35:00.346Z",
-   "to": "2026-10-24T04:10:00.595Z",
+   "to": "2026-10-24T05:05:00.398Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
@@ -491567,7 +491558,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-24T03:55:00.382Z",
-   "to": "2026-10-24T04:10:00.595Z",
+   "to": "2026-10-24T05:05:00.398Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Northern Line: No service between Golders Green and Camden Town while we fix a faulty train at Golders Green. GOOD SERVICE on the rest of the line. "
@@ -491576,7 +491567,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-24T03:55:00.382Z",
-   "to": "2026-10-24T04:10:00.595Z",
+   "to": "2026-10-24T05:00:32.490Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays due to earlier emergency engineering work to fix a signal fault at Leicester Square. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
@@ -492377,10 +492368,2791 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-24T04:10:00.595Z",
-   "to": "2026-10-24T04:10:00.595Z",
+   "to": "2026-10-24T05:05:00.398Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at Norwood Junction. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:10:20.181Z",
+   "to": "2026-10-24T04:10:20.181Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:10:20.181Z",
+   "to": "2026-10-24T04:10:20.181Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:10:20.181Z",
+   "to": "2026-10-24T04:10:20.181Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:10:20.181Z",
+   "to": "2026-10-24T04:10:20.181Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:10:25.164Z",
+   "to": "2026-10-24T04:10:25.164Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:10:25.164Z",
+   "to": "2026-10-24T04:10:25.164Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:10:25.164Z",
+   "to": "2026-10-24T04:10:25.164Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:10:25.164Z",
+   "to": "2026-10-24T04:10:25.164Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:11:25.712Z",
+   "to": "2026-10-24T04:11:25.712Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:11:25.712Z",
+   "to": "2026-10-24T04:11:25.712Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:11:25.712Z",
+   "to": "2026-10-24T04:11:25.712Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:11:25.712Z",
+   "to": "2026-10-24T04:11:25.712Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:11:26.442Z",
+   "to": "2026-10-24T04:11:26.442Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:11:26.442Z",
+   "to": "2026-10-24T04:11:26.442Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:11:26.442Z",
+   "to": "2026-10-24T04:11:26.442Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:11:26.442Z",
+   "to": "2026-10-24T04:11:26.442Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:11:31.006Z",
+   "to": "2026-10-24T04:11:31.006Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:11:31.006Z",
+   "to": "2026-10-24T04:11:31.006Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:11:31.006Z",
+   "to": "2026-10-24T04:11:31.006Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:11:31.006Z",
+   "to": "2026-10-24T04:11:31.006Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:11:31.373Z",
+   "to": "2026-10-24T04:11:31.373Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:11:31.373Z",
+   "to": "2026-10-24T04:11:31.373Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:11:31.373Z",
+   "to": "2026-10-24T04:11:31.373Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:11:31.373Z",
+   "to": "2026-10-24T04:11:31.373Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:15:00.661Z",
+   "to": "2026-10-24T04:15:00.661Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:15:00.661Z",
+   "to": "2026-10-24T04:15:00.661Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:15:00.661Z",
+   "to": "2026-10-24T04:15:00.661Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:15:00.661Z",
+   "to": "2026-10-24T04:15:00.661Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:15:01.166Z",
+   "to": "2026-10-24T04:15:01.166Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:15:01.166Z",
+   "to": "2026-10-24T04:15:01.166Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:15:01.166Z",
+   "to": "2026-10-24T04:15:01.166Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:15:01.166Z",
+   "to": "2026-10-24T04:15:01.166Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:15:05.399Z",
+   "to": "2026-10-24T04:15:05.399Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:15:05.399Z",
+   "to": "2026-10-24T04:15:05.399Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:15:05.399Z",
+   "to": "2026-10-24T04:15:05.399Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:15:05.399Z",
+   "to": "2026-10-24T04:15:05.399Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:15:05.738Z",
+   "to": "2026-10-24T04:15:05.738Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:15:05.738Z",
+   "to": "2026-10-24T04:15:05.738Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:15:05.738Z",
+   "to": "2026-10-24T04:15:05.738Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:15:05.738Z",
+   "to": "2026-10-24T04:15:05.738Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:15:36.161Z",
+   "to": "2026-10-24T04:15:36.161Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:15:36.161Z",
+   "to": "2026-10-24T04:15:36.161Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:15:36.161Z",
+   "to": "2026-10-24T04:15:36.161Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:15:36.161Z",
+   "to": "2026-10-24T04:15:36.161Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:15:45.428Z",
+   "to": "2026-10-24T04:15:45.428Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:15:45.428Z",
+   "to": "2026-10-24T04:15:45.428Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:15:45.428Z",
+   "to": "2026-10-24T04:15:45.428Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:15:45.428Z",
+   "to": "2026-10-24T04:15:45.428Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:15:49.790Z",
+   "to": "2026-10-24T04:15:49.790Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:15:49.790Z",
+   "to": "2026-10-24T04:15:49.790Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:15:49.790Z",
+   "to": "2026-10-24T04:15:49.790Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:15:49.790Z",
+   "to": "2026-10-24T04:15:49.790Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:20:00.429Z",
+   "to": "2026-10-24T04:20:00.429Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:20:00.429Z",
+   "to": "2026-10-24T04:20:00.429Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:20:00.429Z",
+   "to": "2026-10-24T04:20:00.429Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:20:00.429Z",
+   "to": "2026-10-24T04:20:00.429Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:20:08.500Z",
+   "to": "2026-10-24T04:20:08.500Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:20:08.500Z",
+   "to": "2026-10-24T04:20:08.500Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:20:08.500Z",
+   "to": "2026-10-24T04:20:08.500Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:20:08.500Z",
+   "to": "2026-10-24T04:20:08.500Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:20:12.661Z",
+   "to": "2026-10-24T04:20:12.661Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:20:12.661Z",
+   "to": "2026-10-24T04:20:12.661Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:20:12.661Z",
+   "to": "2026-10-24T04:20:12.661Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:20:12.661Z",
+   "to": "2026-10-24T04:20:12.661Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:20:48.424Z",
+   "to": "2026-10-24T04:20:48.424Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:20:48.424Z",
+   "to": "2026-10-24T04:20:48.424Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:20:48.424Z",
+   "to": "2026-10-24T04:20:48.424Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:20:48.424Z",
+   "to": "2026-10-24T04:20:48.424Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:20:48.764Z",
+   "to": "2026-10-24T04:20:48.764Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:20:48.764Z",
+   "to": "2026-10-24T04:20:48.764Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:20:48.764Z",
+   "to": "2026-10-24T04:20:48.764Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:20:48.764Z",
+   "to": "2026-10-24T04:20:48.764Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:20:53.163Z",
+   "to": "2026-10-24T04:20:53.163Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:20:53.163Z",
+   "to": "2026-10-24T04:20:53.163Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:20:53.163Z",
+   "to": "2026-10-24T04:20:53.163Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:20:53.163Z",
+   "to": "2026-10-24T04:20:53.163Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:20:53.567Z",
+   "to": "2026-10-24T04:20:53.567Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:20:53.567Z",
+   "to": "2026-10-24T04:20:53.567Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:20:53.567Z",
+   "to": "2026-10-24T04:20:53.567Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:20:53.567Z",
+   "to": "2026-10-24T04:20:53.567Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:25:00.323Z",
+   "to": "2026-10-24T04:25:00.323Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:25:00.323Z",
+   "to": "2026-10-24T04:25:00.323Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:25:00.323Z",
+   "to": "2026-10-24T04:25:00.323Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:25:00.323Z",
+   "to": "2026-10-24T04:25:00.323Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:25:00.671Z",
+   "to": "2026-10-24T04:25:00.671Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:25:00.671Z",
+   "to": "2026-10-24T04:25:00.671Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:25:00.671Z",
+   "to": "2026-10-24T04:25:00.671Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:25:00.671Z",
+   "to": "2026-10-24T04:25:00.671Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:25:05.512Z",
+   "to": "2026-10-24T04:25:05.512Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:25:05.512Z",
+   "to": "2026-10-24T04:25:05.512Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:25:05.512Z",
+   "to": "2026-10-24T04:25:05.512Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:25:05.512Z",
+   "to": "2026-10-24T04:25:05.512Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:25:05.883Z",
+   "to": "2026-10-24T04:25:05.883Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:25:05.883Z",
+   "to": "2026-10-24T04:25:05.883Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:25:05.883Z",
+   "to": "2026-10-24T04:25:05.883Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:25:05.883Z",
+   "to": "2026-10-24T04:25:05.883Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:26:00.971Z",
+   "to": "2026-10-24T04:26:00.971Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:26:00.971Z",
+   "to": "2026-10-24T04:26:00.971Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:26:00.971Z",
+   "to": "2026-10-24T04:26:00.971Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:26:00.971Z",
+   "to": "2026-10-24T04:26:00.971Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:26:09.431Z",
+   "to": "2026-10-24T04:26:09.431Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:26:09.431Z",
+   "to": "2026-10-24T04:26:09.431Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:26:09.431Z",
+   "to": "2026-10-24T04:26:09.431Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:26:09.431Z",
+   "to": "2026-10-24T04:26:09.431Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:26:13.908Z",
+   "to": "2026-10-24T04:26:13.908Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:26:13.908Z",
+   "to": "2026-10-24T04:26:13.908Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:26:13.908Z",
+   "to": "2026-10-24T04:26:13.908Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:26:13.908Z",
+   "to": "2026-10-24T04:26:13.908Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:30:00.522Z",
+   "to": "2026-10-24T04:30:00.522Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:30:00.522Z",
+   "to": "2026-10-24T04:30:00.522Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:30:00.522Z",
+   "to": "2026-10-24T04:30:00.522Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:30:00.522Z",
+   "to": "2026-10-24T04:30:00.522Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:30:08.604Z",
+   "to": "2026-10-24T04:30:08.604Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:30:08.604Z",
+   "to": "2026-10-24T04:30:08.604Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:30:08.604Z",
+   "to": "2026-10-24T04:30:08.604Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:30:08.604Z",
+   "to": "2026-10-24T04:30:08.604Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:30:13.145Z",
+   "to": "2026-10-24T04:30:13.145Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:30:13.145Z",
+   "to": "2026-10-24T04:30:13.145Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:30:13.145Z",
+   "to": "2026-10-24T04:30:13.145Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:30:13.145Z",
+   "to": "2026-10-24T04:30:13.145Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:31:14.031Z",
+   "to": "2026-10-24T04:31:14.031Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:31:14.031Z",
+   "to": "2026-10-24T04:31:14.031Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:31:14.031Z",
+   "to": "2026-10-24T04:31:14.031Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:31:14.031Z",
+   "to": "2026-10-24T04:31:14.031Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:31:14.475Z",
+   "to": "2026-10-24T04:31:14.475Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:31:14.475Z",
+   "to": "2026-10-24T04:31:14.475Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:31:14.475Z",
+   "to": "2026-10-24T04:31:14.475Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:31:14.475Z",
+   "to": "2026-10-24T04:31:14.475Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:31:18.864Z",
+   "to": "2026-10-24T04:31:18.864Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:31:18.864Z",
+   "to": "2026-10-24T04:31:18.864Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:31:18.864Z",
+   "to": "2026-10-24T04:31:18.864Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:31:18.864Z",
+   "to": "2026-10-24T04:31:18.864Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:31:19.219Z",
+   "to": "2026-10-24T04:31:19.219Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:31:19.219Z",
+   "to": "2026-10-24T04:31:19.219Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:31:19.219Z",
+   "to": "2026-10-24T04:31:19.219Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:31:19.219Z",
+   "to": "2026-10-24T04:31:19.219Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:35:00.423Z",
+   "to": "2026-10-24T04:35:00.423Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:35:00.423Z",
+   "to": "2026-10-24T04:35:00.423Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:35:00.423Z",
+   "to": "2026-10-24T04:35:00.423Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:35:00.423Z",
+   "to": "2026-10-24T04:35:00.423Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:35:00.791Z",
+   "to": "2026-10-24T04:35:00.791Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:35:00.791Z",
+   "to": "2026-10-24T04:35:00.791Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:35:00.791Z",
+   "to": "2026-10-24T04:35:00.791Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:35:00.791Z",
+   "to": "2026-10-24T04:35:00.791Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:35:04.912Z",
+   "to": "2026-10-24T04:35:04.912Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:35:04.912Z",
+   "to": "2026-10-24T04:35:04.912Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:35:04.912Z",
+   "to": "2026-10-24T04:35:04.912Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:35:04.912Z",
+   "to": "2026-10-24T04:35:04.912Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:35:05.303Z",
+   "to": "2026-10-24T04:35:05.303Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:35:05.303Z",
+   "to": "2026-10-24T04:35:05.303Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:35:05.303Z",
+   "to": "2026-10-24T04:35:05.303Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:35:05.303Z",
+   "to": "2026-10-24T04:35:05.303Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:35:25.978Z",
+   "to": "2026-10-24T04:35:25.978Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:35:25.978Z",
+   "to": "2026-10-24T04:35:25.978Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:35:25.978Z",
+   "to": "2026-10-24T04:35:25.978Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:35:25.978Z",
+   "to": "2026-10-24T04:35:25.978Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:35:35.238Z",
+   "to": "2026-10-24T04:35:35.238Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:35:35.238Z",
+   "to": "2026-10-24T04:35:35.238Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:35:35.238Z",
+   "to": "2026-10-24T04:35:35.238Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:35:35.238Z",
+   "to": "2026-10-24T04:35:35.238Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:35:41.641Z",
+   "to": "2026-10-24T04:35:41.641Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:35:41.641Z",
+   "to": "2026-10-24T04:35:41.641Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:35:41.641Z",
+   "to": "2026-10-24T04:35:41.641Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:35:41.641Z",
+   "to": "2026-10-24T04:35:41.641Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:40:00.383Z",
+   "to": "2026-10-24T04:40:00.383Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:40:00.383Z",
+   "to": "2026-10-24T04:40:00.383Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:40:00.383Z",
+   "to": "2026-10-24T04:40:00.383Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:40:00.383Z",
+   "to": "2026-10-24T04:40:00.383Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:40:11.125Z",
+   "to": "2026-10-24T04:40:11.125Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:40:11.125Z",
+   "to": "2026-10-24T04:40:11.125Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:40:11.125Z",
+   "to": "2026-10-24T04:40:11.125Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:40:11.125Z",
+   "to": "2026-10-24T04:40:11.125Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:40:15.199Z",
+   "to": "2026-10-24T04:40:15.199Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:40:15.199Z",
+   "to": "2026-10-24T04:40:15.199Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:40:15.199Z",
+   "to": "2026-10-24T04:40:15.199Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:40:15.199Z",
+   "to": "2026-10-24T04:40:15.199Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:40:38.930Z",
+   "to": "2026-10-24T04:40:38.930Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:40:38.930Z",
+   "to": "2026-10-24T04:40:38.930Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:40:38.930Z",
+   "to": "2026-10-24T04:40:38.930Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:40:38.930Z",
+   "to": "2026-10-24T04:40:38.930Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:40:39.321Z",
+   "to": "2026-10-24T04:40:39.321Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:40:39.321Z",
+   "to": "2026-10-24T04:40:39.321Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:40:39.321Z",
+   "to": "2026-10-24T04:40:39.321Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:40:39.321Z",
+   "to": "2026-10-24T04:40:39.321Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:40:43.522Z",
+   "to": "2026-10-24T04:40:43.522Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:40:43.522Z",
+   "to": "2026-10-24T04:40:43.522Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:40:43.522Z",
+   "to": "2026-10-24T04:40:43.522Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:40:43.522Z",
+   "to": "2026-10-24T04:40:43.522Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:40:43.857Z",
+   "to": "2026-10-24T04:40:43.857Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:40:43.857Z",
+   "to": "2026-10-24T04:40:43.857Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:40:43.857Z",
+   "to": "2026-10-24T04:40:43.857Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:40:43.857Z",
+   "to": "2026-10-24T04:40:43.857Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:45:00.361Z",
+   "to": "2026-10-24T04:45:00.361Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:45:00.361Z",
+   "to": "2026-10-24T04:45:00.361Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:45:00.361Z",
+   "to": "2026-10-24T04:45:00.361Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:45:00.361Z",
+   "to": "2026-10-24T04:45:00.361Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:45:01.405Z",
+   "to": "2026-10-24T04:45:01.405Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:45:01.405Z",
+   "to": "2026-10-24T04:45:01.405Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:45:01.405Z",
+   "to": "2026-10-24T04:45:01.405Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:45:01.405Z",
+   "to": "2026-10-24T04:45:01.405Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:45:06.107Z",
+   "to": "2026-10-24T04:45:06.107Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:45:06.107Z",
+   "to": "2026-10-24T04:45:06.107Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:45:06.107Z",
+   "to": "2026-10-24T04:45:06.107Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:45:06.107Z",
+   "to": "2026-10-24T04:45:06.107Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:45:06.429Z",
+   "to": "2026-10-24T04:45:06.429Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:45:06.429Z",
+   "to": "2026-10-24T04:45:06.429Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:45:06.429Z",
+   "to": "2026-10-24T04:45:06.429Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:45:06.429Z",
+   "to": "2026-10-24T04:45:06.429Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:45:51.438Z",
+   "to": "2026-10-24T04:45:51.438Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:45:51.438Z",
+   "to": "2026-10-24T04:45:51.438Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:45:51.438Z",
+   "to": "2026-10-24T04:45:51.438Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:45:51.438Z",
+   "to": "2026-10-24T04:45:51.438Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:45:59.415Z",
+   "to": "2026-10-24T04:45:59.415Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:45:59.415Z",
+   "to": "2026-10-24T04:45:59.415Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:45:59.415Z",
+   "to": "2026-10-24T04:45:59.415Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:45:59.415Z",
+   "to": "2026-10-24T04:45:59.415Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:46:03.532Z",
+   "to": "2026-10-24T04:46:03.532Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:46:03.532Z",
+   "to": "2026-10-24T04:46:03.532Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:46:03.532Z",
+   "to": "2026-10-24T04:46:03.532Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:46:03.532Z",
+   "to": "2026-10-24T04:46:03.532Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:50:00.767Z",
+   "to": "2026-10-24T04:50:00.767Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:50:00.767Z",
+   "to": "2026-10-24T04:50:00.767Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:50:00.767Z",
+   "to": "2026-10-24T04:50:00.767Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:50:00.767Z",
+   "to": "2026-10-24T04:50:00.767Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:50:10.034Z",
+   "to": "2026-10-24T04:50:10.034Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:50:10.034Z",
+   "to": "2026-10-24T04:50:10.034Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:50:10.034Z",
+   "to": "2026-10-24T04:50:10.034Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:50:10.034Z",
+   "to": "2026-10-24T04:50:10.034Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:50:14.191Z",
+   "to": "2026-10-24T04:50:14.191Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:50:14.191Z",
+   "to": "2026-10-24T04:50:14.191Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:50:14.191Z",
+   "to": "2026-10-24T04:50:14.191Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:50:14.191Z",
+   "to": "2026-10-24T04:50:14.191Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:51:03.734Z",
+   "to": "2026-10-24T04:51:03.734Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:51:03.734Z",
+   "to": "2026-10-24T04:51:03.734Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:51:03.734Z",
+   "to": "2026-10-24T04:51:03.734Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:51:03.734Z",
+   "to": "2026-10-24T04:51:03.734Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:51:13.317Z",
+   "to": "2026-10-24T04:51:13.317Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:51:13.317Z",
+   "to": "2026-10-24T04:51:13.317Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:51:13.317Z",
+   "to": "2026-10-24T04:51:13.317Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:51:13.317Z",
+   "to": "2026-10-24T04:51:13.317Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:51:18.552Z",
+   "to": "2026-10-24T04:51:18.552Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:51:18.552Z",
+   "to": "2026-10-24T04:51:18.552Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:51:18.552Z",
+   "to": "2026-10-24T04:51:18.552Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:51:18.552Z",
+   "to": "2026-10-24T04:51:18.552Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:51:19.267Z",
+   "to": "2026-10-24T04:51:19.267Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:51:19.267Z",
+   "to": "2026-10-24T04:51:19.267Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:51:19.267Z",
+   "to": "2026-10-24T04:51:19.267Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:51:19.267Z",
+   "to": "2026-10-24T04:51:19.267Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:55:00.728Z",
+   "to": "2026-10-24T04:55:00.728Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:55:00.728Z",
+   "to": "2026-10-24T04:55:00.728Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:55:00.728Z",
+   "to": "2026-10-24T04:55:00.728Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:55:00.728Z",
+   "to": "2026-10-24T04:55:00.728Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:55:01.106Z",
+   "to": "2026-10-24T04:55:01.106Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:55:01.106Z",
+   "to": "2026-10-24T04:55:01.106Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:55:01.106Z",
+   "to": "2026-10-24T04:55:01.106Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:55:01.106Z",
+   "to": "2026-10-24T04:55:01.106Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:55:05.337Z",
+   "to": "2026-10-24T04:55:05.337Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:55:05.337Z",
+   "to": "2026-10-24T04:55:05.337Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:55:05.337Z",
+   "to": "2026-10-24T04:55:05.337Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:55:05.337Z",
+   "to": "2026-10-24T04:55:05.337Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:55:05.956Z",
+   "to": "2026-10-24T04:55:05.956Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:55:05.956Z",
+   "to": "2026-10-24T04:55:05.956Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:55:05.956Z",
+   "to": "2026-10-24T04:55:05.956Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:55:05.956Z",
+   "to": "2026-10-24T04:55:05.956Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:56:16.320Z",
+   "to": "2026-10-24T04:56:16.320Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:56:16.320Z",
+   "to": "2026-10-24T04:56:16.320Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:56:16.320Z",
+   "to": "2026-10-24T04:56:16.320Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:56:16.320Z",
+   "to": "2026-10-24T04:56:16.320Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:56:24.636Z",
+   "to": "2026-10-24T04:56:24.636Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:56:24.636Z",
+   "to": "2026-10-24T04:56:24.636Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:56:24.636Z",
+   "to": "2026-10-24T04:56:24.636Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:56:24.636Z",
+   "to": "2026-10-24T04:56:24.636Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:56:30.146Z",
+   "to": "2026-10-24T04:56:30.146Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T04:56:30.146Z",
+   "to": "2026-10-24T04:56:30.146Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:56:30.146Z",
+   "to": "2026-10-24T04:56:30.146Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T04:56:30.146Z",
+   "to": "2026-10-24T04:56:30.146Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:00:00.808Z",
+   "to": "2026-10-24T05:00:00.808Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:00:00.808Z",
+   "to": "2026-10-24T05:00:00.808Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:00:00.808Z",
+   "to": "2026-10-24T05:00:00.808Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:00:00.808Z",
+   "to": "2026-10-24T05:00:00.808Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:00:09.310Z",
+   "to": "2026-10-24T05:00:09.310Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:00:09.310Z",
+   "to": "2026-10-24T05:00:09.310Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:00:09.310Z",
+   "to": "2026-10-24T05:00:09.310Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:00:09.310Z",
+   "to": "2026-10-24T05:00:09.310Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:00:13.388Z",
+   "to": "2026-10-24T05:00:13.388Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:00:13.388Z",
+   "to": "2026-10-24T05:00:13.388Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:00:13.388Z",
+   "to": "2026-10-24T05:00:13.388Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:00:13.388Z",
+   "to": "2026-10-24T05:00:13.388Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:00:26.838Z",
+   "to": "2026-10-24T05:00:26.838Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:00:26.838Z",
+   "to": "2026-10-24T05:00:26.838Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:00:26.838Z",
+   "to": "2026-10-24T05:00:26.838Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:00:26.838Z",
+   "to": "2026-10-24T05:00:26.838Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:00:27.302Z",
+   "to": "2026-10-24T05:00:27.302Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:00:27.302Z",
+   "to": "2026-10-24T05:00:27.302Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:00:27.302Z",
+   "to": "2026-10-24T05:00:27.302Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:00:27.302Z",
+   "to": "2026-10-24T05:00:27.302Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:00:32.073Z",
+   "to": "2026-10-24T05:00:32.073Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:00:32.073Z",
+   "to": "2026-10-24T05:00:32.073Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:00:32.073Z",
+   "to": "2026-10-24T05:00:32.073Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:00:32.073Z",
+   "to": "2026-10-24T05:00:32.073Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:00:32.490Z",
+   "to": "2026-10-24T05:00:32.490Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:00:32.490Z",
+   "to": "2026-10-24T05:00:32.490Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:00:32.490Z",
+   "to": "2026-10-24T05:00:32.490Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:00:32.490Z",
+   "to": "2026-10-24T05:00:32.490Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-24T05:05:00.398Z",
+   "to": "2026-10-24T05:05:00.398Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: Severe delays between Cockfosters and Heathrow Terminals due to earlier emergency engineering work to fix a signal fault at Leicester Square. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:05:00.398Z",
+   "to": "2026-10-24T05:05:00.398Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T05:05:00.398Z",
+   "to": "2026-10-24T05:05:00.398Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:05:00.398Z",
+   "to": "2026-10-24T05:05:00.398Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T05:05:00.398Z",
+   "to": "2026-10-24T05:05:00.398Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
   }
  ]
 }
