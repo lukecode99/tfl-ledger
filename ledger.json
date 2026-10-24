@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-24T19:45:09.721Z",
- "sinceISO": "2026-08-25T19:45:05.274Z",
+ "generatedAt": "2026-10-24T19:55:11.190Z",
+ "sinceISO": "2026-08-25T19:55:05.281Z",
  "coverage": [
   {
-   "from": "2026-08-25T19:50:17.604Z",
+   "from": "2026-08-25T20:00:11.017Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14501
+   "polls": 14499
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,24 +14,24 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-24T19:45:05.020Z",
-   "polls": 34450
+   "to": "2026-10-24T19:55:04.210Z",
+   "polls": 34464
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-25T19:50:17.604Z",
-   "to": "2026-08-25T19:50:17.604Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses. "
+   "from": "2026-08-25T20:00:11.017Z",
+   "to": "2026-08-25T22:00:10.757Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations. "
   },
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-25T19:50:17.604Z",
+   "from": "2026-08-25T20:00:11.017Z",
    "to": "2026-08-25T20:00:11.017Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -40,7 +40,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-25T19:50:17.604Z",
+   "from": "2026-08-25T20:00:11.017Z",
    "to": "2026-08-26T00:10:04.653Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -49,29 +49,11 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-25T19:50:17.604Z",
+   "from": "2026-08-25T20:00:11.017Z",
    "to": "2026-08-25T20:00:11.017Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-25T19:50:17.604Z",
-   "to": "2026-08-25T21:15:01.819Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: Minor delays between Surrey Quays and Clapham Junction due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-25T19:55:01.864Z",
-   "to": "2026-08-25T22:00:10.757Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Minor delays due to train cancellations. "
   },
   {
    "line": "piccadilly",
@@ -81,6 +63,15 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: No service between Cockfosters and Uxbridge due to planned engineering works. MINOR DELAYS on the rest of the line while we respond to a customer incident at Osterley. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-08-25T20:00:11.017Z",
+   "to": "2026-08-25T21:15:01.819Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Windrush Line: Minor delays between Surrey Quays and Clapham Junction due to train cancellations. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "piccadilly",
@@ -489542,7 +489533,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-24T03:35:00.346Z",
-   "to": "2026-10-24T19:45:05.020Z",
+   "to": "2026-10-24T19:55:04.210Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
@@ -489551,7 +489542,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-24T03:35:00.346Z",
-   "to": "2026-10-24T19:45:05.020Z",
+   "to": "2026-10-24T19:55:04.210Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
@@ -517307,7 +517298,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-24T12:40:00.338Z",
-   "to": "2026-10-24T19:45:05.020Z",
+   "to": "2026-10-24T19:55:04.210Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth line, Chiltern Railways, Greater Anglia and Great Western Railway.  "
@@ -539681,7 +539672,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-24T19:06:21.129Z",
-   "to": "2026-10-24T19:45:05.020Z",
+   "to": "2026-10-24T19:51:18.943Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays between Morden and Camden Town via Bank only due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -539708,7 +539699,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-24T19:06:21.129Z",
-   "to": "2026-10-24T19:45:05.020Z",
+   "to": "2026-10-24T19:55:04.210Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -543867,6 +543858,1140 @@
    "lineName": "Suffragette",
    "from": "2026-10-24T19:45:05.020Z",
    "to": "2026-10-24T19:45:05.020Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:45:17.038Z",
+   "to": "2026-10-24T19:45:17.038Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:45:17.038Z",
+   "to": "2026-10-24T19:45:17.038Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:45:17.038Z",
+   "to": "2026-10-24T19:45:17.038Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:45:17.038Z",
+   "to": "2026-10-24T19:45:17.038Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:45:17.038Z",
+   "to": "2026-10-24T19:45:17.038Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:45:17.038Z",
+   "to": "2026-10-24T19:45:17.038Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:45:17.038Z",
+   "to": "2026-10-24T19:45:17.038Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Richmond and Stratford due to an earlier obstruction from the overhead power lines at West Hampstead. NO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:45:17.038Z",
+   "to": "2026-10-24T19:45:17.038Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:45:17.038Z",
+   "to": "2026-10-24T19:45:17.038Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:45:25.139Z",
+   "to": "2026-10-24T19:45:25.139Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:45:25.139Z",
+   "to": "2026-10-24T19:45:25.139Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:45:25.139Z",
+   "to": "2026-10-24T19:45:25.139Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:45:25.139Z",
+   "to": "2026-10-24T19:45:25.139Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:45:25.139Z",
+   "to": "2026-10-24T19:45:25.139Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:45:25.139Z",
+   "to": "2026-10-24T19:45:25.139Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:45:25.139Z",
+   "to": "2026-10-24T19:45:25.139Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Richmond and Stratford due to an earlier obstruction from the overhead power lines at West Hampstead. NO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:45:25.139Z",
+   "to": "2026-10-24T19:45:25.139Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:45:25.139Z",
+   "to": "2026-10-24T19:45:25.139Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:45:25.492Z",
+   "to": "2026-10-24T19:45:25.492Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:45:25.492Z",
+   "to": "2026-10-24T19:45:25.492Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:45:25.492Z",
+   "to": "2026-10-24T19:45:25.492Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:45:25.492Z",
+   "to": "2026-10-24T19:45:25.492Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:45:25.492Z",
+   "to": "2026-10-24T19:45:25.492Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:45:25.492Z",
+   "to": "2026-10-24T19:45:25.492Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:45:25.492Z",
+   "to": "2026-10-24T19:45:25.492Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Richmond and Stratford due to an earlier obstruction from the overhead power lines at West Hampstead. NO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:45:25.492Z",
+   "to": "2026-10-24T19:45:25.492Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:45:25.492Z",
+   "to": "2026-10-24T19:45:25.492Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:45:59.732Z",
+   "to": "2026-10-24T19:45:59.732Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:45:59.732Z",
+   "to": "2026-10-24T19:45:59.732Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:45:59.732Z",
+   "to": "2026-10-24T19:45:59.732Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:45:59.732Z",
+   "to": "2026-10-24T19:45:59.732Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:45:59.732Z",
+   "to": "2026-10-24T19:45:59.732Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:45:59.732Z",
+   "to": "2026-10-24T19:45:59.732Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:45:59.732Z",
+   "to": "2026-10-24T19:45:59.732Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Richmond and Stratford due to an earlier obstruction from the overhead power lines at West Hampstead. NO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:45:59.732Z",
+   "to": "2026-10-24T19:45:59.732Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:45:59.732Z",
+   "to": "2026-10-24T19:45:59.732Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:46:04.341Z",
+   "to": "2026-10-24T19:46:04.341Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:46:04.341Z",
+   "to": "2026-10-24T19:46:04.341Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:46:04.341Z",
+   "to": "2026-10-24T19:46:04.341Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:46:04.341Z",
+   "to": "2026-10-24T19:46:04.341Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:46:04.341Z",
+   "to": "2026-10-24T19:46:04.341Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:46:04.341Z",
+   "to": "2026-10-24T19:46:04.341Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:46:04.341Z",
+   "to": "2026-10-24T19:46:04.341Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Richmond and Stratford due to an earlier obstruction from the overhead power lines at West Hampstead. NO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:46:04.341Z",
+   "to": "2026-10-24T19:46:04.341Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:46:04.341Z",
+   "to": "2026-10-24T19:46:04.341Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:46:07.923Z",
+   "to": "2026-10-24T19:46:07.923Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:46:07.923Z",
+   "to": "2026-10-24T19:46:07.923Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:46:07.923Z",
+   "to": "2026-10-24T19:46:07.923Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:46:07.923Z",
+   "to": "2026-10-24T19:46:07.923Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:46:07.923Z",
+   "to": "2026-10-24T19:46:07.923Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:46:07.923Z",
+   "to": "2026-10-24T19:46:07.923Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:46:07.923Z",
+   "to": "2026-10-24T19:46:07.923Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Richmond and Stratford due to an earlier obstruction from the overhead power lines at West Hampstead. NO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:46:07.923Z",
+   "to": "2026-10-24T19:46:07.923Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:46:07.923Z",
+   "to": "2026-10-24T19:46:07.923Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:50:09.212Z",
+   "to": "2026-10-24T19:50:09.212Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:50:09.212Z",
+   "to": "2026-10-24T19:50:09.212Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:50:09.212Z",
+   "to": "2026-10-24T19:50:09.212Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:50:09.212Z",
+   "to": "2026-10-24T19:50:09.212Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:50:09.212Z",
+   "to": "2026-10-24T19:50:09.212Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:50:09.212Z",
+   "to": "2026-10-24T19:50:09.212Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:50:09.212Z",
+   "to": "2026-10-24T19:50:09.212Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Richmond and Stratford due to an earlier obstruction from the overhead power lines at West Hampstead. NO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:50:09.212Z",
+   "to": "2026-10-24T19:50:09.212Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:50:09.212Z",
+   "to": "2026-10-24T19:50:09.212Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:50:13.846Z",
+   "to": "2026-10-24T19:50:13.846Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:50:13.846Z",
+   "to": "2026-10-24T19:50:13.846Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:50:13.846Z",
+   "to": "2026-10-24T19:50:13.846Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:50:13.846Z",
+   "to": "2026-10-24T19:50:13.846Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:50:13.846Z",
+   "to": "2026-10-24T19:50:13.846Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:50:13.846Z",
+   "to": "2026-10-24T19:50:13.846Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:50:13.846Z",
+   "to": "2026-10-24T19:50:13.846Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Richmond and Stratford due to an earlier obstruction from the overhead power lines at West Hampstead. NO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:50:13.846Z",
+   "to": "2026-10-24T19:50:13.846Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:50:13.846Z",
+   "to": "2026-10-24T19:50:13.846Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:50:16.031Z",
+   "to": "2026-10-24T19:50:16.031Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:50:16.031Z",
+   "to": "2026-10-24T19:50:16.031Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:50:16.031Z",
+   "to": "2026-10-24T19:50:16.031Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:50:16.031Z",
+   "to": "2026-10-24T19:50:16.031Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:50:16.031Z",
+   "to": "2026-10-24T19:50:16.031Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:50:16.031Z",
+   "to": "2026-10-24T19:50:16.031Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:50:16.031Z",
+   "to": "2026-10-24T19:50:16.031Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Richmond and Stratford due to an earlier obstruction from the overhead power lines at West Hampstead. NO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:50:16.031Z",
+   "to": "2026-10-24T19:50:16.031Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:50:16.031Z",
+   "to": "2026-10-24T19:50:16.031Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:51:08.704Z",
+   "to": "2026-10-24T19:51:08.704Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:51:08.704Z",
+   "to": "2026-10-24T19:51:08.704Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:51:08.704Z",
+   "to": "2026-10-24T19:51:08.704Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:51:08.704Z",
+   "to": "2026-10-24T19:51:08.704Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:51:08.704Z",
+   "to": "2026-10-24T19:51:08.704Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:51:08.704Z",
+   "to": "2026-10-24T19:51:08.704Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:51:08.704Z",
+   "to": "2026-10-24T19:51:08.704Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Richmond and Stratford due to an earlier obstruction from the overhead power lines at West Hampstead. NO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:51:08.704Z",
+   "to": "2026-10-24T19:51:08.704Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:51:08.704Z",
+   "to": "2026-10-24T19:51:08.704Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:51:10.254Z",
+   "to": "2026-10-24T19:51:10.254Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:51:10.254Z",
+   "to": "2026-10-24T19:51:10.254Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:51:10.254Z",
+   "to": "2026-10-24T19:51:10.254Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:51:10.254Z",
+   "to": "2026-10-24T19:51:10.254Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:51:10.254Z",
+   "to": "2026-10-24T19:51:10.254Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:51:10.254Z",
+   "to": "2026-10-24T19:51:10.254Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:51:10.254Z",
+   "to": "2026-10-24T19:51:10.254Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Richmond and Stratford due to an earlier obstruction from the overhead power lines at West Hampstead. NO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:51:10.254Z",
+   "to": "2026-10-24T19:51:10.254Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:51:10.254Z",
+   "to": "2026-10-24T19:51:10.254Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:51:18.563Z",
+   "to": "2026-10-24T19:51:18.563Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:51:18.563Z",
+   "to": "2026-10-24T19:51:18.563Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:51:18.563Z",
+   "to": "2026-10-24T19:51:18.563Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:51:18.563Z",
+   "to": "2026-10-24T19:51:18.563Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:51:18.563Z",
+   "to": "2026-10-24T19:51:18.563Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:51:18.563Z",
+   "to": "2026-10-24T19:51:18.563Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:51:18.563Z",
+   "to": "2026-10-24T19:51:18.563Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Richmond and Stratford due to an earlier obstruction from the overhead power lines at West Hampstead. NO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:51:18.563Z",
+   "to": "2026-10-24T19:51:18.563Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:51:18.563Z",
+   "to": "2026-10-24T19:51:18.563Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:51:18.943Z",
+   "to": "2026-10-24T19:51:18.943Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:51:18.943Z",
+   "to": "2026-10-24T19:51:18.943Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:51:18.943Z",
+   "to": "2026-10-24T19:51:18.943Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:51:18.943Z",
+   "to": "2026-10-24T19:51:18.943Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:51:18.943Z",
+   "to": "2026-10-24T19:51:18.943Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:51:18.943Z",
+   "to": "2026-10-24T19:51:18.943Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:51:18.943Z",
+   "to": "2026-10-24T19:51:18.943Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Richmond and Stratford due to an earlier obstruction from the overhead power lines at West Hampstead. NO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:51:18.943Z",
+   "to": "2026-10-24T19:51:18.943Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:51:18.943Z",
+   "to": "2026-10-24T19:51:18.943Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:55:04.210Z",
+   "to": "2026-10-24T19:55:04.210Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-24T19:55:04.210Z",
+   "to": "2026-10-24T19:55:04.210Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:55:04.210Z",
+   "to": "2026-10-24T19:55:04.210Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T19:55:04.210Z",
+   "to": "2026-10-24T19:55:04.210Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:53. The next southbound train from Chesham will be at 20:56. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:55:04.210Z",
+   "to": "2026-10-24T19:55:04.210Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:55:04.210Z",
+   "to": "2026-10-24T19:55:04.210Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T19:55:04.210Z",
+   "to": "2026-10-24T19:55:04.210Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Richmond and Stratford due to an earlier obstruction from the overhead power lines at West Hampstead. NO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:55:04.210Z",
+   "to": "2026-10-24T19:55:04.210Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T19:55:04.210Z",
+   "to": "2026-10-24T19:55:04.210Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
