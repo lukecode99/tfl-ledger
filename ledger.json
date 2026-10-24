@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-24T21:35:11.423Z",
- "sinceISO": "2026-08-25T21:35:06.793Z",
+ "generatedAt": "2026-10-24T22:00:14.273Z",
+ "sinceISO": "2026-08-25T22:00:08.629Z",
  "coverage": [
   {
-   "from": "2026-08-25T21:40:07.770Z",
+   "from": "2026-08-25T22:00:10.757Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14479
+   "polls": 14475
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,24 +14,33 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-24T21:35:04.361Z",
-   "polls": 34604
+   "to": "2026-10-24T22:00:08.379Z",
+   "polls": 34639
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-25T21:40:07.770Z",
+   "from": "2026-08-25T22:00:10.757Z",
    "to": "2026-08-25T22:00:10.757Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
   },
   {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-08-25T22:00:10.757Z",
+   "to": "2026-08-26T00:15:02.160Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: Severe delays due to train cancellations. "
+  },
+  {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-25T21:40:07.770Z",
+   "from": "2026-08-25T22:00:10.757Z",
    "to": "2026-08-26T00:10:04.653Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,74 +49,11 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-25T21:40:07.770Z",
+   "from": "2026-08-25T22:00:10.757Z",
    "to": "2026-08-26T00:15:02.160Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-08-25T21:45:01.979Z",
-   "to": "2026-08-25T21:45:01.979Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and SEVERE DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground is accepting tickets via reasonable routes. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-08-25T21:45:01.979Z",
-   "to": "2026-08-25T21:45:01.979Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and SEVERE DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground is accepting tickets via reasonable routes. "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-25T21:50:04.797Z",
-   "to": "2026-08-26T00:15:02.160Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: Severe delays due to train cancellations. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-08-25T21:50:04.797Z",
-   "to": "2026-08-25T21:50:04.797Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and SEVERE DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground is accepting tickets via reasonable routes. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-08-25T21:50:04.797Z",
-   "to": "2026-08-25T21:50:04.797Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and SEVERE DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground is accepting tickets via reasonable routes. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-08-25T21:55:02.072Z",
-   "to": "2026-08-25T21:55:02.072Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and SEVERE DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground is accepting tickets via reasonable routes. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-08-25T21:55:02.072Z",
-   "to": "2026-08-25T21:55:02.072Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and SEVERE DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground is accepting tickets via reasonable routes. "
   },
   {
    "line": "suffragette",
@@ -489407,7 +489353,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-24T03:35:00.346Z",
-   "to": "2026-10-24T21:35:04.361Z",
+   "to": "2026-10-24T22:00:08.379Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
@@ -489416,7 +489362,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-24T03:35:00.346Z",
-   "to": "2026-10-24T21:35:04.361Z",
+   "to": "2026-10-24T22:00:08.379Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
@@ -539573,7 +539519,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-24T19:06:21.129Z",
-   "to": "2026-10-24T21:35:04.361Z",
+   "to": "2026-10-24T22:00:08.379Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -547898,7 +547844,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-10-24T20:25:04.367Z",
-   "to": "2026-10-24T21:35:04.361Z",
+   "to": "2026-10-24T22:00:08.379Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to an earlier faulty train at Westminster and Finchley Road. "
@@ -549518,7 +549464,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-24T20:50:09.165Z",
-   "to": "2026-10-24T21:35:04.361Z",
+   "to": "2026-10-24T22:00:08.379Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -552110,7 +552056,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-10-24T21:30:08.231Z",
-   "to": "2026-10-24T21:35:04.361Z",
+   "to": "2026-10-24T22:00:08.379Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Docklands Light Railway: Severe delays between Bank and Woolwich Arsenal, and between Tower Gateway and Beckton while we fix a points failure at Canning Town. GOOD SERVICE on other DLR routes.  "
@@ -552543,6 +552489,1896 @@
    "lineName": "Suffragette",
    "from": "2026-10-24T21:35:04.361Z",
    "to": "2026-10-24T21:35:04.361Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:35:17.856Z",
+   "to": "2026-10-24T21:35:17.856Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:35:17.856Z",
+   "to": "2026-10-24T21:35:17.856Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:35:17.856Z",
+   "to": "2026-10-24T21:35:17.856Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:35:17.856Z",
+   "to": "2026-10-24T21:35:17.856Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:35:17.856Z",
+   "to": "2026-10-24T21:35:17.856Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:35:17.856Z",
+   "to": "2026-10-24T21:35:17.856Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:35:26.208Z",
+   "to": "2026-10-24T21:35:26.208Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:35:26.208Z",
+   "to": "2026-10-24T21:35:26.208Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:35:26.208Z",
+   "to": "2026-10-24T21:35:26.208Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:35:26.208Z",
+   "to": "2026-10-24T21:35:26.208Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:35:26.208Z",
+   "to": "2026-10-24T21:35:26.208Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:35:26.208Z",
+   "to": "2026-10-24T21:35:26.208Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:35:26.560Z",
+   "to": "2026-10-24T21:35:26.560Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:35:26.560Z",
+   "to": "2026-10-24T21:35:26.560Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:35:26.560Z",
+   "to": "2026-10-24T21:35:26.560Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:35:26.560Z",
+   "to": "2026-10-24T21:35:26.560Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:35:26.560Z",
+   "to": "2026-10-24T21:35:26.560Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:35:26.560Z",
+   "to": "2026-10-24T21:35:26.560Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:35:41.206Z",
+   "to": "2026-10-24T21:35:41.206Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:35:41.206Z",
+   "to": "2026-10-24T21:35:41.206Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:35:41.206Z",
+   "to": "2026-10-24T21:35:41.206Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:35:41.206Z",
+   "to": "2026-10-24T21:35:41.206Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:35:41.206Z",
+   "to": "2026-10-24T21:35:41.206Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:35:41.206Z",
+   "to": "2026-10-24T21:35:41.206Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:35:45.427Z",
+   "to": "2026-10-24T21:35:45.427Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:35:45.427Z",
+   "to": "2026-10-24T21:35:45.427Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:35:45.427Z",
+   "to": "2026-10-24T21:35:45.427Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:35:45.427Z",
+   "to": "2026-10-24T21:35:45.427Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:35:45.427Z",
+   "to": "2026-10-24T21:35:45.427Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:35:45.427Z",
+   "to": "2026-10-24T21:35:45.427Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:35:47.699Z",
+   "to": "2026-10-24T21:35:47.699Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:35:47.699Z",
+   "to": "2026-10-24T21:35:47.699Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:35:47.699Z",
+   "to": "2026-10-24T21:35:47.699Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:35:47.699Z",
+   "to": "2026-10-24T21:35:47.699Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:35:47.699Z",
+   "to": "2026-10-24T21:35:47.699Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:35:47.699Z",
+   "to": "2026-10-24T21:35:47.699Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:40:08.252Z",
+   "to": "2026-10-24T21:40:08.252Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:40:08.252Z",
+   "to": "2026-10-24T21:40:08.252Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:40:08.252Z",
+   "to": "2026-10-24T21:40:08.252Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:40:08.252Z",
+   "to": "2026-10-24T21:40:08.252Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:40:08.252Z",
+   "to": "2026-10-24T21:40:08.252Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:40:08.252Z",
+   "to": "2026-10-24T21:40:08.252Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:40:13.524Z",
+   "to": "2026-10-24T21:40:13.524Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:40:13.524Z",
+   "to": "2026-10-24T21:40:13.524Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:40:13.524Z",
+   "to": "2026-10-24T21:40:13.524Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:40:13.524Z",
+   "to": "2026-10-24T21:40:13.524Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:40:13.524Z",
+   "to": "2026-10-24T21:40:13.524Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:40:13.524Z",
+   "to": "2026-10-24T21:40:13.524Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:40:15.805Z",
+   "to": "2026-10-24T21:40:15.805Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:40:15.805Z",
+   "to": "2026-10-24T21:40:15.805Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:40:15.805Z",
+   "to": "2026-10-24T21:40:15.805Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:40:15.805Z",
+   "to": "2026-10-24T21:40:15.805Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:40:15.805Z",
+   "to": "2026-10-24T21:40:15.805Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:40:15.805Z",
+   "to": "2026-10-24T21:40:15.805Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:40:52.344Z",
+   "to": "2026-10-24T21:40:52.344Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:40:52.344Z",
+   "to": "2026-10-24T21:40:52.344Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:40:52.344Z",
+   "to": "2026-10-24T21:40:52.344Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:40:52.344Z",
+   "to": "2026-10-24T21:40:52.344Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:40:52.344Z",
+   "to": "2026-10-24T21:40:52.344Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:40:52.344Z",
+   "to": "2026-10-24T21:40:52.344Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:40:52.703Z",
+   "to": "2026-10-24T21:40:52.703Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:40:52.703Z",
+   "to": "2026-10-24T21:40:52.703Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:40:52.703Z",
+   "to": "2026-10-24T21:40:52.703Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:40:52.703Z",
+   "to": "2026-10-24T21:40:52.703Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:40:52.703Z",
+   "to": "2026-10-24T21:40:52.703Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:40:52.703Z",
+   "to": "2026-10-24T21:40:52.703Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:41:00.358Z",
+   "to": "2026-10-24T21:41:00.358Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:41:00.358Z",
+   "to": "2026-10-24T21:41:00.358Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:41:00.358Z",
+   "to": "2026-10-24T21:41:00.358Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:41:00.358Z",
+   "to": "2026-10-24T21:41:00.358Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:41:00.358Z",
+   "to": "2026-10-24T21:41:00.358Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:41:00.358Z",
+   "to": "2026-10-24T21:41:00.358Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:41:01.493Z",
+   "to": "2026-10-24T21:41:01.493Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:41:01.493Z",
+   "to": "2026-10-24T21:41:01.493Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:41:01.493Z",
+   "to": "2026-10-24T21:41:01.493Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:41:01.493Z",
+   "to": "2026-10-24T21:41:01.493Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:41:01.493Z",
+   "to": "2026-10-24T21:41:01.493Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:41:01.493Z",
+   "to": "2026-10-24T21:41:01.493Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:45:04.360Z",
+   "to": "2026-10-24T21:45:04.360Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:45:04.360Z",
+   "to": "2026-10-24T21:45:04.360Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:45:04.360Z",
+   "to": "2026-10-24T21:45:04.360Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:45:04.360Z",
+   "to": "2026-10-24T21:45:04.360Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:45:04.360Z",
+   "to": "2026-10-24T21:45:04.360Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:45:04.360Z",
+   "to": "2026-10-24T21:45:04.360Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:45:04.733Z",
+   "to": "2026-10-24T21:45:04.733Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:45:04.733Z",
+   "to": "2026-10-24T21:45:04.733Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:45:04.733Z",
+   "to": "2026-10-24T21:45:04.733Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:45:04.733Z",
+   "to": "2026-10-24T21:45:04.733Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:45:04.733Z",
+   "to": "2026-10-24T21:45:04.733Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:45:04.733Z",
+   "to": "2026-10-24T21:45:04.733Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:45:13.178Z",
+   "to": "2026-10-24T21:45:13.178Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:45:13.178Z",
+   "to": "2026-10-24T21:45:13.178Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:45:13.178Z",
+   "to": "2026-10-24T21:45:13.178Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:45:13.178Z",
+   "to": "2026-10-24T21:45:13.178Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:45:13.178Z",
+   "to": "2026-10-24T21:45:13.178Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:45:13.178Z",
+   "to": "2026-10-24T21:45:13.178Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:45:14.653Z",
+   "to": "2026-10-24T21:45:14.653Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:45:14.653Z",
+   "to": "2026-10-24T21:45:14.653Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:45:14.653Z",
+   "to": "2026-10-24T21:45:14.653Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:45:14.653Z",
+   "to": "2026-10-24T21:45:14.653Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:45:14.653Z",
+   "to": "2026-10-24T21:45:14.653Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:45:14.653Z",
+   "to": "2026-10-24T21:45:14.653Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:46:08.127Z",
+   "to": "2026-10-24T21:46:08.127Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:46:08.127Z",
+   "to": "2026-10-24T21:46:08.127Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:46:08.127Z",
+   "to": "2026-10-24T21:46:08.127Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:46:08.127Z",
+   "to": "2026-10-24T21:46:08.127Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:46:08.127Z",
+   "to": "2026-10-24T21:46:08.127Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:46:08.127Z",
+   "to": "2026-10-24T21:46:08.127Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:46:12.163Z",
+   "to": "2026-10-24T21:46:12.163Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:46:12.163Z",
+   "to": "2026-10-24T21:46:12.163Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:46:12.163Z",
+   "to": "2026-10-24T21:46:12.163Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:46:12.163Z",
+   "to": "2026-10-24T21:46:12.163Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:46:12.163Z",
+   "to": "2026-10-24T21:46:12.163Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:46:12.163Z",
+   "to": "2026-10-24T21:46:12.163Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:46:14.390Z",
+   "to": "2026-10-24T21:46:14.390Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:46:14.390Z",
+   "to": "2026-10-24T21:46:14.390Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:46:14.390Z",
+   "to": "2026-10-24T21:46:14.390Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:46:14.390Z",
+   "to": "2026-10-24T21:46:14.390Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:46:14.390Z",
+   "to": "2026-10-24T21:46:14.390Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:46:14.390Z",
+   "to": "2026-10-24T21:46:14.390Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:50:09.373Z",
+   "to": "2026-10-24T21:50:09.373Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:50:09.373Z",
+   "to": "2026-10-24T21:50:09.373Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:50:09.373Z",
+   "to": "2026-10-24T21:50:09.373Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:50:09.373Z",
+   "to": "2026-10-24T21:50:09.373Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:50:09.373Z",
+   "to": "2026-10-24T21:50:09.373Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:50:09.373Z",
+   "to": "2026-10-24T21:50:09.373Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:50:14.256Z",
+   "to": "2026-10-24T21:50:14.256Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:50:14.256Z",
+   "to": "2026-10-24T21:50:14.256Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:50:14.256Z",
+   "to": "2026-10-24T21:50:14.256Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:50:14.256Z",
+   "to": "2026-10-24T21:50:14.256Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:50:14.256Z",
+   "to": "2026-10-24T21:50:14.256Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:50:14.256Z",
+   "to": "2026-10-24T21:50:14.256Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:50:16.579Z",
+   "to": "2026-10-24T21:50:16.579Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:50:16.579Z",
+   "to": "2026-10-24T21:50:16.579Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:50:16.579Z",
+   "to": "2026-10-24T21:50:16.579Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:50:16.579Z",
+   "to": "2026-10-24T21:50:16.579Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:50:16.579Z",
+   "to": "2026-10-24T21:50:16.579Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:50:16.579Z",
+   "to": "2026-10-24T21:50:16.579Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:51:17.580Z",
+   "to": "2026-10-24T21:51:17.580Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:51:17.580Z",
+   "to": "2026-10-24T21:51:17.580Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:51:17.580Z",
+   "to": "2026-10-24T21:51:17.580Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:51:17.580Z",
+   "to": "2026-10-24T21:51:17.580Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:51:17.580Z",
+   "to": "2026-10-24T21:51:17.580Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:51:17.580Z",
+   "to": "2026-10-24T21:51:17.580Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:51:18.335Z",
+   "to": "2026-10-24T21:51:18.335Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:51:18.335Z",
+   "to": "2026-10-24T21:51:18.335Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:51:18.335Z",
+   "to": "2026-10-24T21:51:18.335Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:51:18.335Z",
+   "to": "2026-10-24T21:51:18.335Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:51:18.335Z",
+   "to": "2026-10-24T21:51:18.335Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:51:18.335Z",
+   "to": "2026-10-24T21:51:18.335Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:51:27.380Z",
+   "to": "2026-10-24T21:51:27.380Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:51:27.380Z",
+   "to": "2026-10-24T21:51:27.380Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:51:27.380Z",
+   "to": "2026-10-24T21:51:27.380Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:51:27.380Z",
+   "to": "2026-10-24T21:51:27.380Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:51:27.380Z",
+   "to": "2026-10-24T21:51:27.380Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:51:27.380Z",
+   "to": "2026-10-24T21:51:27.380Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:51:27.795Z",
+   "to": "2026-10-24T21:51:27.795Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:51:27.795Z",
+   "to": "2026-10-24T21:51:27.795Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:51:27.795Z",
+   "to": "2026-10-24T21:51:27.795Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:51:27.795Z",
+   "to": "2026-10-24T21:51:27.795Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:51:27.795Z",
+   "to": "2026-10-24T21:51:27.795Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:51:27.795Z",
+   "to": "2026-10-24T21:51:27.795Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:55:05.219Z",
+   "to": "2026-10-24T21:55:05.219Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:55:05.219Z",
+   "to": "2026-10-24T21:55:05.219Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:55:05.219Z",
+   "to": "2026-10-24T21:55:05.219Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:55:05.219Z",
+   "to": "2026-10-24T21:55:05.219Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:55:05.219Z",
+   "to": "2026-10-24T21:55:05.219Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:55:05.219Z",
+   "to": "2026-10-24T21:55:05.219Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:55:05.941Z",
+   "to": "2026-10-24T21:55:05.941Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:55:05.941Z",
+   "to": "2026-10-24T21:55:05.941Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:55:05.941Z",
+   "to": "2026-10-24T21:55:05.941Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:55:05.941Z",
+   "to": "2026-10-24T21:55:05.941Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:55:05.941Z",
+   "to": "2026-10-24T21:55:05.941Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:55:05.941Z",
+   "to": "2026-10-24T21:55:05.941Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:55:13.887Z",
+   "to": "2026-10-24T21:55:13.887Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:55:13.887Z",
+   "to": "2026-10-24T21:55:13.887Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:55:13.887Z",
+   "to": "2026-10-24T21:55:13.887Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:55:13.887Z",
+   "to": "2026-10-24T21:55:13.887Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:55:13.887Z",
+   "to": "2026-10-24T21:55:13.887Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:55:13.887Z",
+   "to": "2026-10-24T21:55:13.887Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:55:14.259Z",
+   "to": "2026-10-24T21:55:14.259Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:55:14.259Z",
+   "to": "2026-10-24T21:55:14.259Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:55:14.259Z",
+   "to": "2026-10-24T21:55:14.259Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:55:14.259Z",
+   "to": "2026-10-24T21:55:14.259Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:55:14.259Z",
+   "to": "2026-10-24T21:55:14.259Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:55:14.259Z",
+   "to": "2026-10-24T21:55:14.259Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:55:34.021Z",
+   "to": "2026-10-24T21:55:34.021Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:55:34.021Z",
+   "to": "2026-10-24T21:55:34.021Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:55:34.021Z",
+   "to": "2026-10-24T21:55:34.021Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:55:34.021Z",
+   "to": "2026-10-24T21:55:34.021Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:55:34.021Z",
+   "to": "2026-10-24T21:55:34.021Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:55:34.021Z",
+   "to": "2026-10-24T21:55:34.021Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:55:38.001Z",
+   "to": "2026-10-24T21:55:38.001Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:55:38.001Z",
+   "to": "2026-10-24T21:55:38.001Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:55:38.001Z",
+   "to": "2026-10-24T21:55:38.001Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:55:38.001Z",
+   "to": "2026-10-24T21:55:38.001Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:55:38.001Z",
+   "to": "2026-10-24T21:55:38.001Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:55:38.001Z",
+   "to": "2026-10-24T21:55:38.001Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:55:40.697Z",
+   "to": "2026-10-24T21:55:40.697Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T21:55:40.697Z",
+   "to": "2026-10-24T21:55:40.697Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:55:40.697Z",
+   "to": "2026-10-24T21:55:40.697Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T21:55:40.697Z",
+   "to": "2026-10-24T21:55:40.697Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:55:40.697Z",
+   "to": "2026-10-24T21:55:40.697Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T21:55:40.697Z",
+   "to": "2026-10-24T21:55:40.697Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T22:00:08.379Z",
+   "to": "2026-10-24T22:00:08.379Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Wembley Park and Aldgate, and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T22:00:08.379Z",
+   "to": "2026-10-24T22:00:08.379Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Wembley Park and Aldgate, and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T22:00:08.379Z",
+   "to": "2026-10-24T22:00:08.379Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T22:00:08.379Z",
+   "to": "2026-10-24T22:00:08.379Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T22:00:08.379Z",
+   "to": "2026-10-24T22:00:08.379Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T22:00:08.379Z",
+   "to": "2026-10-24T22:00:08.379Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
