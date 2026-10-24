@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-24T18:20:29.824Z",
- "sinceISO": "2026-08-25T18:20:23.891Z",
+ "generatedAt": "2026-10-24T18:25:11.673Z",
+ "sinceISO": "2026-08-25T18:25:05.637Z",
  "coverage": [
   {
-   "from": "2026-08-25T18:25:02.324Z",
+   "from": "2026-08-25T18:30:05.098Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14518
+   "polls": 14517
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,29 +14,11 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-24T18:20:23.625Z",
-   "polls": 34334
+   "to": "2026-10-24T18:25:05.346Z",
+   "polls": 34338
   }
  ],
  "spans": [
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-25T18:25:02.324Z",
-   "to": "2026-08-25T18:25:02.324Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays due to train cancellations. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-25T18:25:02.324Z",
-   "to": "2026-08-25T20:00:11.017Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
-  },
   {
    "line": "central",
    "lineName": "Central",
@@ -54,6 +36,15 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Mildmay Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-08-25T18:30:05.098Z",
+   "to": "2026-08-25T20:00:11.017Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
   },
   {
    "line": "windrush",
@@ -489569,7 +489560,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-24T03:35:00.346Z",
-   "to": "2026-10-24T18:20:23.625Z",
+   "to": "2026-10-24T18:25:05.346Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
@@ -489578,7 +489569,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-24T03:35:00.346Z",
-   "to": "2026-10-24T18:20:23.625Z",
+   "to": "2026-10-24T18:25:05.346Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
@@ -517334,7 +517325,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-24T12:40:00.338Z",
-   "to": "2026-10-24T18:20:23.625Z",
+   "to": "2026-10-24T18:25:05.346Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth line, Chiltern Railways, Greater Anglia and Great Western Railway.  "
@@ -531599,7 +531590,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-24T17:15:46.606Z",
-   "to": "2026-10-24T18:20:23.625Z",
+   "to": "2026-10-24T18:20:45.558Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -531716,7 +531707,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-10-24T17:20:08.836Z",
-   "to": "2026-10-24T18:20:23.625Z",
+   "to": "2026-10-24T18:25:05.346Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to an earlier faulty train at Finchley Road. "
@@ -531725,7 +531716,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-10-24T17:20:08.836Z",
-   "to": "2026-10-24T18:20:23.625Z",
+   "to": "2026-10-24T18:25:05.346Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Mildmay Line: No service while we remove an obstruction from the overhead power lines at West Hampstead. Tickets are being accepted on London Underground. "
@@ -534894,6 +534885,177 @@
    "lineName": "Waterloo & City",
    "from": "2026-10-24T18:20:23.625Z",
    "to": "2026-10-24T18:20:23.625Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T18:20:36.711Z",
+   "to": "2026-10-24T18:20:36.711Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T18:20:36.711Z",
+   "to": "2026-10-24T18:20:36.711Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T18:20:36.711Z",
+   "to": "2026-10-24T18:20:36.711Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T18:20:36.711Z",
+   "to": "2026-10-24T18:20:36.711Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T18:20:45.167Z",
+   "to": "2026-10-24T18:20:45.167Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T18:20:45.167Z",
+   "to": "2026-10-24T18:20:45.167Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T18:20:45.167Z",
+   "to": "2026-10-24T18:20:45.167Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T18:20:45.167Z",
+   "to": "2026-10-24T18:20:45.167Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T18:20:45.558Z",
+   "to": "2026-10-24T18:20:45.558Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T18:20:45.558Z",
+   "to": "2026-10-24T18:20:45.558Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T18:20:45.558Z",
+   "to": "2026-10-24T18:20:45.558Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T18:20:45.558Z",
+   "to": "2026-10-24T18:20:45.558Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T18:25:05.346Z",
+   "to": "2026-10-24T18:25:05.346Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham / Watford, and MINOR DELAYS between Chalfont & Latimer and Chesham, and between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T18:25:05.346Z",
+   "to": "2026-10-24T18:25:05.346Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham / Watford, and MINOR DELAYS between Chalfont & Latimer and Chesham, and between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-24T18:25:05.346Z",
+   "to": "2026-10-24T18:25:05.346Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham / Watford, and MINOR DELAYS between Chalfont & Latimer and Chesham, and between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T18:25:05.346Z",
+   "to": "2026-10-24T18:25:05.346Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T18:25:05.346Z",
+   "to": "2026-10-24T18:25:05.346Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T18:25:05.346Z",
+   "to": "2026-10-24T18:25:05.346Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-24T18:25:05.346Z",
+   "to": "2026-10-24T18:25:05.346Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
