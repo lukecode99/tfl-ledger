@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-25T03:32:11.748Z",
- "sinceISO": "2026-08-26T03:32:05.016Z",
+ "generatedAt": "2026-10-25T04:15:10.696Z",
+ "sinceISO": "2026-08-26T04:15:04.982Z",
  "coverage": [
   {
-   "from": "2026-08-26T03:35:01.915Z",
+   "from": "2026-08-26T04:20:04.553Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14408
+   "polls": 14399
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,33 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-25T03:32:04.592Z",
-   "polls": 35104
+   "to": "2026-10-25T04:15:04.700Z",
+   "polls": 35164
   }
  ],
  "spans": [
   {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-26T03:35:01.915Z",
-   "to": "2026-08-27T00:25:01.892Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-26T03:35:01.915Z",
-   "to": "2026-08-26T04:55:01.831Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
-  },
-  {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-26T03:40:05.163Z",
+   "from": "2026-08-26T04:20:04.553Z",
    "to": "2026-08-26T05:10:10.270Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -49,20 +31,38 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-26T04:15:02.054Z",
+   "from": "2026-08-26T04:20:04.553Z",
    "to": "2026-08-26T04:40:04.338Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Lioness Line: No service on the entire line due to a late finish of engineering work. London Underground are accepting tickets via any reasonable route. "
   },
   {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-08-26T04:20:04.553Z",
+   "to": "2026-08-27T00:25:01.892Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
+  },
+  {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-26T04:15:02.054Z",
+   "from": "2026-08-26T04:20:04.553Z",
    "to": "2026-08-26T04:55:01.831Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays between Walthamstow Central and Seven Sister due to train cancellations. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-08-26T04:20:04.553Z",
+   "to": "2026-08-26T04:55:01.831Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   },
   {
    "line": "mildmay",
@@ -563576,7 +563576,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-10-25T01:15:04.513Z",
-   "to": "2026-10-25T03:32:04.592Z",
+   "to": "2026-10-25T04:10:57.680Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Bakerloo Line: Service will resume later this morning.\r\n "
@@ -563846,7 +563846,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-10-25T01:20:08.148Z",
-   "to": "2026-10-25T03:32:04.592Z",
+   "to": "2026-10-25T04:15:04.700Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Tower Gateway and Shadwell due to planned engineering work. "
@@ -563855,7 +563855,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-10-25T01:20:08.148Z",
-   "to": "2026-10-25T03:32:04.592Z",
+   "to": "2026-10-25T04:15:04.700Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Hammersmith and City Line: Service will resume later this morning. "
@@ -563864,7 +563864,7 @@
    "line": "liberty",
    "lineName": "Liberty",
    "from": "2026-10-25T01:20:08.148Z",
-   "to": "2026-10-25T03:32:04.592Z",
+   "to": "2026-10-25T04:15:04.700Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Liberty Line: Service will resume later this morning.\r\n "
@@ -563873,7 +563873,7 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-10-25T01:20:08.148Z",
-   "to": "2026-10-25T03:32:04.592Z",
+   "to": "2026-10-25T04:15:04.700Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Lioness Line: Service will resume later this morning.\r\n "
@@ -563882,7 +563882,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-25T01:20:08.148Z",
-   "to": "2026-10-25T03:32:04.592Z",
+   "to": "2026-10-25T04:15:04.700Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Metropolitan Line: Service will resume later this morning.\r\n "
@@ -563909,7 +563909,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-25T01:20:08.148Z",
-   "to": "2026-10-25T03:32:04.592Z",
+   "to": "2026-10-25T04:15:04.700Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
@@ -563918,7 +563918,7 @@
    "line": "weaver",
    "lineName": "Weaver",
    "from": "2026-10-25T01:20:08.148Z",
-   "to": "2026-10-25T03:32:04.592Z",
+   "to": "2026-10-25T04:15:04.700Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Weaver Line: Service will resume later this morning.\r\n "
@@ -564206,7 +564206,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-25T01:25:04.450Z",
-   "to": "2026-10-25T03:32:04.592Z",
+   "to": "2026-10-25T04:15:04.700Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Service will resume later this morning. "
@@ -564242,7 +564242,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-10-25T01:25:04.450Z",
-   "to": "2026-10-25T03:32:04.592Z",
+   "to": "2026-10-25T04:15:04.700Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Suffragette Line: Service will resume later this morning. There will be no service between Barking Riverside and Barking due to an operational incident. "
@@ -575367,6 +575367,3777 @@
    "lineName": "Mildmay",
    "from": "2026-10-25T03:32:04.592Z",
    "to": "2026-10-25T03:32:04.592Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:32:18.552Z",
+   "to": "2026-10-25T03:32:18.552Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:32:18.552Z",
+   "to": "2026-10-25T03:32:18.552Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:32:18.552Z",
+   "to": "2026-10-25T03:32:18.552Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:32:18.552Z",
+   "to": "2026-10-25T03:32:18.552Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:32:18.552Z",
+   "to": "2026-10-25T03:32:18.552Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:32:18.552Z",
+   "to": "2026-10-25T03:32:18.552Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:32:18.552Z",
+   "to": "2026-10-25T03:32:18.552Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:32:27.746Z",
+   "to": "2026-10-25T03:32:27.746Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:32:27.746Z",
+   "to": "2026-10-25T03:32:27.746Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:32:27.746Z",
+   "to": "2026-10-25T03:32:27.746Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:32:27.746Z",
+   "to": "2026-10-25T03:32:27.746Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:32:27.746Z",
+   "to": "2026-10-25T03:32:27.746Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:32:27.746Z",
+   "to": "2026-10-25T03:32:27.746Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:32:27.746Z",
+   "to": "2026-10-25T03:32:27.746Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:32:28.176Z",
+   "to": "2026-10-25T03:32:28.176Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:32:28.176Z",
+   "to": "2026-10-25T03:32:28.176Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:32:28.176Z",
+   "to": "2026-10-25T03:32:28.176Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:32:28.176Z",
+   "to": "2026-10-25T03:32:28.176Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:32:28.176Z",
+   "to": "2026-10-25T03:32:28.176Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:32:28.176Z",
+   "to": "2026-10-25T03:32:28.176Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:32:28.176Z",
+   "to": "2026-10-25T03:32:28.176Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:35:04.541Z",
+   "to": "2026-10-25T03:35:04.541Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:35:04.541Z",
+   "to": "2026-10-25T03:35:04.541Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:35:04.541Z",
+   "to": "2026-10-25T03:35:04.541Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:35:04.541Z",
+   "to": "2026-10-25T03:35:04.541Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:35:04.541Z",
+   "to": "2026-10-25T03:35:04.541Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:35:04.541Z",
+   "to": "2026-10-25T03:35:04.541Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:35:04.541Z",
+   "to": "2026-10-25T03:35:04.541Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:35:05.282Z",
+   "to": "2026-10-25T03:35:05.282Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:35:05.282Z",
+   "to": "2026-10-25T03:35:05.282Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:35:05.282Z",
+   "to": "2026-10-25T03:35:05.282Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:35:05.282Z",
+   "to": "2026-10-25T03:35:05.282Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:35:05.282Z",
+   "to": "2026-10-25T03:35:05.282Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:35:05.282Z",
+   "to": "2026-10-25T03:35:05.282Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:35:05.282Z",
+   "to": "2026-10-25T03:35:05.282Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:35:13.423Z",
+   "to": "2026-10-25T03:35:13.423Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:35:13.423Z",
+   "to": "2026-10-25T03:35:13.423Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:35:13.423Z",
+   "to": "2026-10-25T03:35:13.423Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:35:13.423Z",
+   "to": "2026-10-25T03:35:13.423Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:35:13.423Z",
+   "to": "2026-10-25T03:35:13.423Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:35:13.423Z",
+   "to": "2026-10-25T03:35:13.423Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:35:13.423Z",
+   "to": "2026-10-25T03:35:13.423Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:35:13.820Z",
+   "to": "2026-10-25T03:35:13.820Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:35:13.820Z",
+   "to": "2026-10-25T03:35:13.820Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:35:13.820Z",
+   "to": "2026-10-25T03:35:13.820Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:35:13.820Z",
+   "to": "2026-10-25T03:35:13.820Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:35:13.820Z",
+   "to": "2026-10-25T03:35:13.820Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:35:13.820Z",
+   "to": "2026-10-25T03:35:13.820Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:35:13.820Z",
+   "to": "2026-10-25T03:35:13.820Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:36:22.608Z",
+   "to": "2026-10-25T03:36:22.608Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:36:22.608Z",
+   "to": "2026-10-25T03:36:22.608Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:36:22.608Z",
+   "to": "2026-10-25T03:36:22.608Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:36:22.608Z",
+   "to": "2026-10-25T03:36:22.608Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:36:22.608Z",
+   "to": "2026-10-25T03:36:22.608Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:36:22.608Z",
+   "to": "2026-10-25T03:36:22.608Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:36:22.608Z",
+   "to": "2026-10-25T03:36:22.608Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:36:27.983Z",
+   "to": "2026-10-25T03:36:27.983Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:36:27.983Z",
+   "to": "2026-10-25T03:36:27.983Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:36:27.983Z",
+   "to": "2026-10-25T03:36:27.983Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:36:27.983Z",
+   "to": "2026-10-25T03:36:27.983Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:36:27.983Z",
+   "to": "2026-10-25T03:36:27.983Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:36:27.983Z",
+   "to": "2026-10-25T03:36:27.983Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:36:27.983Z",
+   "to": "2026-10-25T03:36:27.983Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:36:30.407Z",
+   "to": "2026-10-25T03:36:30.407Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:36:30.407Z",
+   "to": "2026-10-25T03:36:30.407Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:36:30.407Z",
+   "to": "2026-10-25T03:36:30.407Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:36:30.407Z",
+   "to": "2026-10-25T03:36:30.407Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:36:30.407Z",
+   "to": "2026-10-25T03:36:30.407Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:36:30.407Z",
+   "to": "2026-10-25T03:36:30.407Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:36:30.407Z",
+   "to": "2026-10-25T03:36:30.407Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:40:08.001Z",
+   "to": "2026-10-25T03:40:08.001Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:40:08.001Z",
+   "to": "2026-10-25T03:40:08.001Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:40:08.001Z",
+   "to": "2026-10-25T03:40:08.001Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:40:08.001Z",
+   "to": "2026-10-25T03:40:08.001Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:08.001Z",
+   "to": "2026-10-25T03:40:08.001Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:08.001Z",
+   "to": "2026-10-25T03:40:08.001Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:08.001Z",
+   "to": "2026-10-25T03:40:08.001Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:40:12.018Z",
+   "to": "2026-10-25T03:40:12.018Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:40:12.018Z",
+   "to": "2026-10-25T03:40:12.018Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:40:12.018Z",
+   "to": "2026-10-25T03:40:12.018Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:40:12.018Z",
+   "to": "2026-10-25T03:40:12.018Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:12.018Z",
+   "to": "2026-10-25T03:40:12.018Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:12.018Z",
+   "to": "2026-10-25T03:40:12.018Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:12.018Z",
+   "to": "2026-10-25T03:40:12.018Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:40:14.204Z",
+   "to": "2026-10-25T03:40:14.204Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:40:14.204Z",
+   "to": "2026-10-25T03:40:14.204Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:40:14.204Z",
+   "to": "2026-10-25T03:40:14.204Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:40:14.204Z",
+   "to": "2026-10-25T03:40:14.204Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:14.204Z",
+   "to": "2026-10-25T03:40:14.204Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:14.204Z",
+   "to": "2026-10-25T03:40:14.204Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:14.204Z",
+   "to": "2026-10-25T03:40:14.204Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:40:29.677Z",
+   "to": "2026-10-25T03:40:29.677Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:40:29.677Z",
+   "to": "2026-10-25T03:40:29.677Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:40:29.677Z",
+   "to": "2026-10-25T03:40:29.677Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:40:29.677Z",
+   "to": "2026-10-25T03:40:29.677Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:29.677Z",
+   "to": "2026-10-25T03:40:29.677Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:29.677Z",
+   "to": "2026-10-25T03:40:29.677Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:29.677Z",
+   "to": "2026-10-25T03:40:29.677Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:40:30.033Z",
+   "to": "2026-10-25T03:40:30.033Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:40:30.033Z",
+   "to": "2026-10-25T03:40:30.033Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:40:30.033Z",
+   "to": "2026-10-25T03:40:30.033Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:40:30.033Z",
+   "to": "2026-10-25T03:40:30.033Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:30.033Z",
+   "to": "2026-10-25T03:40:30.033Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:30.033Z",
+   "to": "2026-10-25T03:40:30.033Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:30.033Z",
+   "to": "2026-10-25T03:40:30.033Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:40:38.392Z",
+   "to": "2026-10-25T03:40:38.392Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:40:38.392Z",
+   "to": "2026-10-25T03:40:38.392Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:40:38.392Z",
+   "to": "2026-10-25T03:40:38.392Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:40:38.392Z",
+   "to": "2026-10-25T03:40:38.392Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:38.392Z",
+   "to": "2026-10-25T03:40:38.392Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:38.392Z",
+   "to": "2026-10-25T03:40:38.392Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:38.392Z",
+   "to": "2026-10-25T03:40:38.392Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:40:38.787Z",
+   "to": "2026-10-25T03:40:38.787Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:40:38.787Z",
+   "to": "2026-10-25T03:40:38.787Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:40:38.787Z",
+   "to": "2026-10-25T03:40:38.787Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:40:38.787Z",
+   "to": "2026-10-25T03:40:38.787Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:38.787Z",
+   "to": "2026-10-25T03:40:38.787Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:38.787Z",
+   "to": "2026-10-25T03:40:38.787Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:40:38.787Z",
+   "to": "2026-10-25T03:40:38.787Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:45:04.521Z",
+   "to": "2026-10-25T03:45:04.521Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:45:04.521Z",
+   "to": "2026-10-25T03:45:04.521Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:45:04.521Z",
+   "to": "2026-10-25T03:45:04.521Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:45:04.521Z",
+   "to": "2026-10-25T03:45:04.521Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:04.521Z",
+   "to": "2026-10-25T03:45:04.521Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:04.521Z",
+   "to": "2026-10-25T03:45:04.521Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:04.521Z",
+   "to": "2026-10-25T03:45:04.521Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:45:06.021Z",
+   "to": "2026-10-25T03:45:06.021Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:45:06.021Z",
+   "to": "2026-10-25T03:45:06.021Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:45:06.021Z",
+   "to": "2026-10-25T03:45:06.021Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:45:06.021Z",
+   "to": "2026-10-25T03:45:06.021Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:06.021Z",
+   "to": "2026-10-25T03:45:06.021Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:06.021Z",
+   "to": "2026-10-25T03:45:06.021Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:06.021Z",
+   "to": "2026-10-25T03:45:06.021Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:45:14.232Z",
+   "to": "2026-10-25T03:45:14.232Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:45:14.232Z",
+   "to": "2026-10-25T03:45:14.232Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:45:14.232Z",
+   "to": "2026-10-25T03:45:14.232Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:45:14.232Z",
+   "to": "2026-10-25T03:45:14.232Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:14.232Z",
+   "to": "2026-10-25T03:45:14.232Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:14.232Z",
+   "to": "2026-10-25T03:45:14.232Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:14.232Z",
+   "to": "2026-10-25T03:45:14.232Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:45:14.627Z",
+   "to": "2026-10-25T03:45:14.627Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:45:14.627Z",
+   "to": "2026-10-25T03:45:14.627Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:45:14.627Z",
+   "to": "2026-10-25T03:45:14.627Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:45:14.627Z",
+   "to": "2026-10-25T03:45:14.627Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:14.627Z",
+   "to": "2026-10-25T03:45:14.627Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:14.627Z",
+   "to": "2026-10-25T03:45:14.627Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:14.627Z",
+   "to": "2026-10-25T03:45:14.627Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:45:46.955Z",
+   "to": "2026-10-25T03:45:46.955Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:45:46.955Z",
+   "to": "2026-10-25T03:45:46.955Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:45:46.955Z",
+   "to": "2026-10-25T03:45:46.955Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:45:46.955Z",
+   "to": "2026-10-25T03:45:46.955Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:46.955Z",
+   "to": "2026-10-25T03:45:46.955Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:46.955Z",
+   "to": "2026-10-25T03:45:46.955Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:46.955Z",
+   "to": "2026-10-25T03:45:46.955Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:45:51.536Z",
+   "to": "2026-10-25T03:45:51.536Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:45:51.536Z",
+   "to": "2026-10-25T03:45:51.536Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:45:51.536Z",
+   "to": "2026-10-25T03:45:51.536Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:45:51.536Z",
+   "to": "2026-10-25T03:45:51.536Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:51.536Z",
+   "to": "2026-10-25T03:45:51.536Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:51.536Z",
+   "to": "2026-10-25T03:45:51.536Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:51.536Z",
+   "to": "2026-10-25T03:45:51.536Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:45:54.301Z",
+   "to": "2026-10-25T03:45:54.301Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:45:54.301Z",
+   "to": "2026-10-25T03:45:54.301Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:45:54.301Z",
+   "to": "2026-10-25T03:45:54.301Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:45:54.301Z",
+   "to": "2026-10-25T03:45:54.301Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:54.301Z",
+   "to": "2026-10-25T03:45:54.301Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:54.301Z",
+   "to": "2026-10-25T03:45:54.301Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:45:54.301Z",
+   "to": "2026-10-25T03:45:54.301Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:50:08.602Z",
+   "to": "2026-10-25T03:50:08.602Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:50:08.602Z",
+   "to": "2026-10-25T03:50:08.602Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:50:08.602Z",
+   "to": "2026-10-25T03:50:08.602Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:50:08.602Z",
+   "to": "2026-10-25T03:50:08.602Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:08.602Z",
+   "to": "2026-10-25T03:50:08.602Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:08.602Z",
+   "to": "2026-10-25T03:50:08.602Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:08.602Z",
+   "to": "2026-10-25T03:50:08.602Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:50:13.189Z",
+   "to": "2026-10-25T03:50:13.189Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:50:13.189Z",
+   "to": "2026-10-25T03:50:13.189Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:50:13.189Z",
+   "to": "2026-10-25T03:50:13.189Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:50:13.189Z",
+   "to": "2026-10-25T03:50:13.189Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:13.189Z",
+   "to": "2026-10-25T03:50:13.189Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:13.189Z",
+   "to": "2026-10-25T03:50:13.189Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:13.189Z",
+   "to": "2026-10-25T03:50:13.189Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:50:15.413Z",
+   "to": "2026-10-25T03:50:15.413Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:50:15.413Z",
+   "to": "2026-10-25T03:50:15.413Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:50:15.413Z",
+   "to": "2026-10-25T03:50:15.413Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:50:15.413Z",
+   "to": "2026-10-25T03:50:15.413Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:15.413Z",
+   "to": "2026-10-25T03:50:15.413Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:15.413Z",
+   "to": "2026-10-25T03:50:15.413Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:15.413Z",
+   "to": "2026-10-25T03:50:15.413Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:50:57.837Z",
+   "to": "2026-10-25T03:50:57.837Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:50:57.837Z",
+   "to": "2026-10-25T03:50:57.837Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:50:57.837Z",
+   "to": "2026-10-25T03:50:57.837Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:50:57.837Z",
+   "to": "2026-10-25T03:50:57.837Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:57.837Z",
+   "to": "2026-10-25T03:50:57.837Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:57.837Z",
+   "to": "2026-10-25T03:50:57.837Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:57.837Z",
+   "to": "2026-10-25T03:50:57.837Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:50:58.195Z",
+   "to": "2026-10-25T03:50:58.195Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:50:58.195Z",
+   "to": "2026-10-25T03:50:58.195Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:50:58.195Z",
+   "to": "2026-10-25T03:50:58.195Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:50:58.195Z",
+   "to": "2026-10-25T03:50:58.195Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:58.195Z",
+   "to": "2026-10-25T03:50:58.195Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:58.195Z",
+   "to": "2026-10-25T03:50:58.195Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:50:58.195Z",
+   "to": "2026-10-25T03:50:58.195Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:51:06.409Z",
+   "to": "2026-10-25T03:51:06.409Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:51:06.409Z",
+   "to": "2026-10-25T03:51:06.409Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:51:06.409Z",
+   "to": "2026-10-25T03:51:06.409Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:51:06.409Z",
+   "to": "2026-10-25T03:51:06.409Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:51:06.409Z",
+   "to": "2026-10-25T03:51:06.409Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:51:06.409Z",
+   "to": "2026-10-25T03:51:06.409Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:51:06.409Z",
+   "to": "2026-10-25T03:51:06.409Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:51:07.346Z",
+   "to": "2026-10-25T03:51:07.346Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:51:07.346Z",
+   "to": "2026-10-25T03:51:07.346Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:51:07.346Z",
+   "to": "2026-10-25T03:51:07.346Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:51:07.346Z",
+   "to": "2026-10-25T03:51:07.346Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:51:07.346Z",
+   "to": "2026-10-25T03:51:07.346Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:51:07.346Z",
+   "to": "2026-10-25T03:51:07.346Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:51:07.346Z",
+   "to": "2026-10-25T03:51:07.346Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:55:04.407Z",
+   "to": "2026-10-25T03:55:04.407Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:55:04.407Z",
+   "to": "2026-10-25T03:55:04.407Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:55:04.407Z",
+   "to": "2026-10-25T03:55:04.407Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:55:04.407Z",
+   "to": "2026-10-25T03:55:04.407Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:55:04.407Z",
+   "to": "2026-10-25T03:55:04.407Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:55:04.407Z",
+   "to": "2026-10-25T03:55:04.407Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:55:04.407Z",
+   "to": "2026-10-25T03:55:04.407Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:55:04.848Z",
+   "to": "2026-10-25T03:55:04.848Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:55:04.848Z",
+   "to": "2026-10-25T03:55:04.848Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:55:04.848Z",
+   "to": "2026-10-25T03:55:04.848Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:55:04.848Z",
+   "to": "2026-10-25T03:55:04.848Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:55:04.848Z",
+   "to": "2026-10-25T03:55:04.848Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:55:04.848Z",
+   "to": "2026-10-25T03:55:04.848Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:55:04.848Z",
+   "to": "2026-10-25T03:55:04.848Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:55:12.874Z",
+   "to": "2026-10-25T03:55:12.874Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:55:12.874Z",
+   "to": "2026-10-25T03:55:12.874Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:55:12.874Z",
+   "to": "2026-10-25T03:55:12.874Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:55:12.874Z",
+   "to": "2026-10-25T03:55:12.874Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:55:12.874Z",
+   "to": "2026-10-25T03:55:12.874Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:55:12.874Z",
+   "to": "2026-10-25T03:55:12.874Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:55:12.874Z",
+   "to": "2026-10-25T03:55:12.874Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:55:13.214Z",
+   "to": "2026-10-25T03:55:13.214Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:55:13.214Z",
+   "to": "2026-10-25T03:55:13.214Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:55:13.214Z",
+   "to": "2026-10-25T03:55:13.214Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:55:13.214Z",
+   "to": "2026-10-25T03:55:13.214Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:55:13.214Z",
+   "to": "2026-10-25T03:55:13.214Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:55:13.214Z",
+   "to": "2026-10-25T03:55:13.214Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:55:13.214Z",
+   "to": "2026-10-25T03:55:13.214Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:56:14.749Z",
+   "to": "2026-10-25T03:56:14.749Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:56:14.749Z",
+   "to": "2026-10-25T03:56:14.749Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:56:14.749Z",
+   "to": "2026-10-25T03:56:14.749Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:56:14.749Z",
+   "to": "2026-10-25T03:56:14.749Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:56:14.749Z",
+   "to": "2026-10-25T03:56:14.749Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:56:14.749Z",
+   "to": "2026-10-25T03:56:14.749Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:56:14.749Z",
+   "to": "2026-10-25T03:56:14.749Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:56:19.674Z",
+   "to": "2026-10-25T03:56:19.674Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:56:19.674Z",
+   "to": "2026-10-25T03:56:19.674Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:56:19.674Z",
+   "to": "2026-10-25T03:56:19.674Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:56:19.674Z",
+   "to": "2026-10-25T03:56:19.674Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:56:19.674Z",
+   "to": "2026-10-25T03:56:19.674Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:56:19.674Z",
+   "to": "2026-10-25T03:56:19.674Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:56:19.674Z",
+   "to": "2026-10-25T03:56:19.674Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:56:21.925Z",
+   "to": "2026-10-25T03:56:21.925Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T03:56:21.925Z",
+   "to": "2026-10-25T03:56:21.925Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:56:21.925Z",
+   "to": "2026-10-25T03:56:21.925Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T03:56:21.925Z",
+   "to": "2026-10-25T03:56:21.925Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:56:21.925Z",
+   "to": "2026-10-25T03:56:21.925Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:56:21.925Z",
+   "to": "2026-10-25T03:56:21.925Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T03:56:21.925Z",
+   "to": "2026-10-25T03:56:21.925Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:00:08.380Z",
+   "to": "2026-10-25T04:00:08.380Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:00:08.380Z",
+   "to": "2026-10-25T04:00:08.380Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:00:08.380Z",
+   "to": "2026-10-25T04:00:08.380Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:00:08.380Z",
+   "to": "2026-10-25T04:00:08.380Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:08.380Z",
+   "to": "2026-10-25T04:00:08.380Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:08.380Z",
+   "to": "2026-10-25T04:00:08.380Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:08.380Z",
+   "to": "2026-10-25T04:00:08.380Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:00:12.404Z",
+   "to": "2026-10-25T04:00:12.404Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:00:12.404Z",
+   "to": "2026-10-25T04:00:12.404Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:00:12.404Z",
+   "to": "2026-10-25T04:00:12.404Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:00:12.404Z",
+   "to": "2026-10-25T04:00:12.404Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:12.404Z",
+   "to": "2026-10-25T04:00:12.404Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:12.404Z",
+   "to": "2026-10-25T04:00:12.404Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:12.404Z",
+   "to": "2026-10-25T04:00:12.404Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:00:15.615Z",
+   "to": "2026-10-25T04:00:15.615Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:00:15.615Z",
+   "to": "2026-10-25T04:00:15.615Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:00:15.615Z",
+   "to": "2026-10-25T04:00:15.615Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:00:15.615Z",
+   "to": "2026-10-25T04:00:15.615Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:15.615Z",
+   "to": "2026-10-25T04:00:15.615Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:15.615Z",
+   "to": "2026-10-25T04:00:15.615Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:15.615Z",
+   "to": "2026-10-25T04:00:15.615Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:00:21.795Z",
+   "to": "2026-10-25T04:00:21.795Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:00:21.795Z",
+   "to": "2026-10-25T04:00:21.795Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:00:21.795Z",
+   "to": "2026-10-25T04:00:21.795Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:00:21.795Z",
+   "to": "2026-10-25T04:00:21.795Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:21.795Z",
+   "to": "2026-10-25T04:00:21.795Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:21.795Z",
+   "to": "2026-10-25T04:00:21.795Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:21.795Z",
+   "to": "2026-10-25T04:00:21.795Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:00:22.132Z",
+   "to": "2026-10-25T04:00:22.132Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:00:22.132Z",
+   "to": "2026-10-25T04:00:22.132Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:00:22.132Z",
+   "to": "2026-10-25T04:00:22.132Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:00:22.132Z",
+   "to": "2026-10-25T04:00:22.132Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:22.132Z",
+   "to": "2026-10-25T04:00:22.132Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:22.132Z",
+   "to": "2026-10-25T04:00:22.132Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:22.132Z",
+   "to": "2026-10-25T04:00:22.132Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:00:30.283Z",
+   "to": "2026-10-25T04:00:30.283Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:00:30.283Z",
+   "to": "2026-10-25T04:00:30.283Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:00:30.283Z",
+   "to": "2026-10-25T04:00:30.283Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:00:30.283Z",
+   "to": "2026-10-25T04:00:30.283Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:30.283Z",
+   "to": "2026-10-25T04:00:30.283Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:30.283Z",
+   "to": "2026-10-25T04:00:30.283Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:30.283Z",
+   "to": "2026-10-25T04:00:30.283Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:00:30.647Z",
+   "to": "2026-10-25T04:00:30.647Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:00:30.647Z",
+   "to": "2026-10-25T04:00:30.647Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:00:30.647Z",
+   "to": "2026-10-25T04:00:30.647Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:00:30.647Z",
+   "to": "2026-10-25T04:00:30.647Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:30.647Z",
+   "to": "2026-10-25T04:00:30.647Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:30.647Z",
+   "to": "2026-10-25T04:00:30.647Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:00:30.647Z",
+   "to": "2026-10-25T04:00:30.647Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:05:04.468Z",
+   "to": "2026-10-25T04:05:04.468Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:05:04.468Z",
+   "to": "2026-10-25T04:05:04.468Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:05:04.468Z",
+   "to": "2026-10-25T04:05:04.468Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:05:04.468Z",
+   "to": "2026-10-25T04:05:04.468Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:04.468Z",
+   "to": "2026-10-25T04:05:04.468Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:04.468Z",
+   "to": "2026-10-25T04:05:04.468Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:04.468Z",
+   "to": "2026-10-25T04:05:04.468Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:05:05.392Z",
+   "to": "2026-10-25T04:05:05.392Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:05:05.392Z",
+   "to": "2026-10-25T04:05:05.392Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:05:05.392Z",
+   "to": "2026-10-25T04:05:05.392Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:05:05.392Z",
+   "to": "2026-10-25T04:05:05.392Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:05.392Z",
+   "to": "2026-10-25T04:05:05.392Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:05.392Z",
+   "to": "2026-10-25T04:05:05.392Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:05.392Z",
+   "to": "2026-10-25T04:05:05.392Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:05:14.018Z",
+   "to": "2026-10-25T04:05:14.018Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:05:14.018Z",
+   "to": "2026-10-25T04:05:14.018Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:05:14.018Z",
+   "to": "2026-10-25T04:05:14.018Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:05:14.018Z",
+   "to": "2026-10-25T04:05:14.018Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:14.018Z",
+   "to": "2026-10-25T04:05:14.018Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:14.018Z",
+   "to": "2026-10-25T04:05:14.018Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:14.018Z",
+   "to": "2026-10-25T04:05:14.018Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:05:14.790Z",
+   "to": "2026-10-25T04:05:14.790Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:05:14.790Z",
+   "to": "2026-10-25T04:05:14.790Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:05:14.790Z",
+   "to": "2026-10-25T04:05:14.790Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:05:14.790Z",
+   "to": "2026-10-25T04:05:14.790Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:14.790Z",
+   "to": "2026-10-25T04:05:14.790Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:14.790Z",
+   "to": "2026-10-25T04:05:14.790Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:14.790Z",
+   "to": "2026-10-25T04:05:14.790Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:05:38.832Z",
+   "to": "2026-10-25T04:05:38.832Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:05:38.832Z",
+   "to": "2026-10-25T04:05:38.832Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:05:38.832Z",
+   "to": "2026-10-25T04:05:38.832Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:05:38.832Z",
+   "to": "2026-10-25T04:05:38.832Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:38.832Z",
+   "to": "2026-10-25T04:05:38.832Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:38.832Z",
+   "to": "2026-10-25T04:05:38.832Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:38.832Z",
+   "to": "2026-10-25T04:05:38.832Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:05:42.795Z",
+   "to": "2026-10-25T04:05:42.795Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:05:42.795Z",
+   "to": "2026-10-25T04:05:42.795Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:05:42.795Z",
+   "to": "2026-10-25T04:05:42.795Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:05:42.795Z",
+   "to": "2026-10-25T04:05:42.795Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:42.795Z",
+   "to": "2026-10-25T04:05:42.795Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:42.795Z",
+   "to": "2026-10-25T04:05:42.795Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:42.795Z",
+   "to": "2026-10-25T04:05:42.795Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:05:45.167Z",
+   "to": "2026-10-25T04:05:45.167Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:05:45.167Z",
+   "to": "2026-10-25T04:05:45.167Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:05:45.167Z",
+   "to": "2026-10-25T04:05:45.167Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:05:45.167Z",
+   "to": "2026-10-25T04:05:45.167Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:45.167Z",
+   "to": "2026-10-25T04:05:45.167Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:45.167Z",
+   "to": "2026-10-25T04:05:45.167Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:05:45.167Z",
+   "to": "2026-10-25T04:05:45.167Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:10:08.275Z",
+   "to": "2026-10-25T04:10:08.275Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:10:08.275Z",
+   "to": "2026-10-25T04:10:08.275Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:10:08.275Z",
+   "to": "2026-10-25T04:10:08.275Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:10:08.275Z",
+   "to": "2026-10-25T04:10:08.275Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:08.275Z",
+   "to": "2026-10-25T04:10:08.275Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:08.275Z",
+   "to": "2026-10-25T04:10:08.275Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:08.275Z",
+   "to": "2026-10-25T04:10:08.275Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:10:12.439Z",
+   "to": "2026-10-25T04:10:12.439Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:10:12.439Z",
+   "to": "2026-10-25T04:10:12.439Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:10:12.439Z",
+   "to": "2026-10-25T04:10:12.439Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:10:12.439Z",
+   "to": "2026-10-25T04:10:12.439Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:12.439Z",
+   "to": "2026-10-25T04:10:12.439Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:12.439Z",
+   "to": "2026-10-25T04:10:12.439Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:12.439Z",
+   "to": "2026-10-25T04:10:12.439Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:10:14.600Z",
+   "to": "2026-10-25T04:10:14.600Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:10:14.600Z",
+   "to": "2026-10-25T04:10:14.600Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:10:14.600Z",
+   "to": "2026-10-25T04:10:14.600Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:10:14.600Z",
+   "to": "2026-10-25T04:10:14.600Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:14.600Z",
+   "to": "2026-10-25T04:10:14.600Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:14.600Z",
+   "to": "2026-10-25T04:10:14.600Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:14.600Z",
+   "to": "2026-10-25T04:10:14.600Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:10:48.165Z",
+   "to": "2026-10-25T04:10:48.165Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:10:48.165Z",
+   "to": "2026-10-25T04:10:48.165Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:10:48.165Z",
+   "to": "2026-10-25T04:10:48.165Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:10:48.165Z",
+   "to": "2026-10-25T04:10:48.165Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:48.165Z",
+   "to": "2026-10-25T04:10:48.165Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:48.165Z",
+   "to": "2026-10-25T04:10:48.165Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:48.165Z",
+   "to": "2026-10-25T04:10:48.165Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:10:48.537Z",
+   "to": "2026-10-25T04:10:48.537Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:10:48.537Z",
+   "to": "2026-10-25T04:10:48.537Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:10:48.537Z",
+   "to": "2026-10-25T04:10:48.537Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:10:48.537Z",
+   "to": "2026-10-25T04:10:48.537Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:48.537Z",
+   "to": "2026-10-25T04:10:48.537Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:48.537Z",
+   "to": "2026-10-25T04:10:48.537Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:48.537Z",
+   "to": "2026-10-25T04:10:48.537Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:10:57.336Z",
+   "to": "2026-10-25T04:10:57.336Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:10:57.336Z",
+   "to": "2026-10-25T04:10:57.336Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:10:57.336Z",
+   "to": "2026-10-25T04:10:57.336Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:10:57.336Z",
+   "to": "2026-10-25T04:10:57.336Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:57.336Z",
+   "to": "2026-10-25T04:10:57.336Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:57.336Z",
+   "to": "2026-10-25T04:10:57.336Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:57.336Z",
+   "to": "2026-10-25T04:10:57.336Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:10:57.680Z",
+   "to": "2026-10-25T04:10:57.680Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:10:57.680Z",
+   "to": "2026-10-25T04:10:57.680Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:10:57.680Z",
+   "to": "2026-10-25T04:10:57.680Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:10:57.680Z",
+   "to": "2026-10-25T04:10:57.680Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:57.680Z",
+   "to": "2026-10-25T04:10:57.680Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:57.680Z",
+   "to": "2026-10-25T04:10:57.680Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:10:57.680Z",
+   "to": "2026-10-25T04:10:57.680Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-25T04:15:04.700Z",
+   "to": "2026-10-25T04:15:04.700Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:15:04.700Z",
+   "to": "2026-10-25T04:15:04.700Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:15:04.700Z",
+   "to": "2026-10-25T04:15:04.700Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:15:04.700Z",
+   "to": "2026-10-25T04:15:04.700Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:15:04.700Z",
+   "to": "2026-10-25T04:15:04.700Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:15:04.700Z",
+   "to": "2026-10-25T04:15:04.700Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
