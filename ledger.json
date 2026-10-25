@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-24T23:25:08.891Z",
- "sinceISO": "2026-08-25T23:25:04.631Z",
+ "generatedAt": "2026-10-25T00:05:10.026Z",
+ "sinceISO": "2026-08-26T00:05:04.476Z",
  "coverage": [
   {
-   "from": "2026-08-25T23:30:05.907Z",
+   "from": "2026-08-26T00:10:04.653Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14457
+   "polls": 14449
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,65 +14,11 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-24T23:25:04.393Z",
-   "polls": 34758
+   "to": "2026-10-25T00:05:04.256Z",
+   "polls": 34814
   }
  ],
  "spans": [
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-25T23:30:05.907Z",
-   "to": "2026-08-26T00:05:01.629Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays due to train cancellations, an earlier track fault at Epping and an earlier signal failure at Notting Hill Gate. London Buses, Elizabeth line, Chiltern Railway, Great Western Railway and Greater Anglia are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-25T23:30:05.907Z",
-   "to": "2026-08-26T00:15:02.160Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: Severe delays due to train cancellations. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-25T23:30:05.907Z",
-   "to": "2026-08-26T00:10:04.653Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Mildmay Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-25T23:30:05.907Z",
-   "to": "2026-08-26T00:15:02.160Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-08-25T23:30:05.907Z",
-   "to": "2026-08-26T00:10:04.653Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Suffragette Line: Severe delays due to an earlier points failure at Gospel Oak. London Underground is accepting tickets via reasonable routes. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-25T23:45:02.009Z",
-   "to": "2026-08-26T04:55:01.831Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
-  },
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
@@ -90,6 +36,15 @@
    "severity": 20,
    "description": "Service Closed",
    "reason": "Central Line: Service will resume later this morning. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-08-26T00:10:04.653Z",
+   "to": "2026-08-26T00:15:02.160Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: Severe delays due to train cancellations. "
   },
   {
    "line": "district",
@@ -126,6 +81,42 @@
    "severity": 20,
    "description": "Service Closed",
    "reason": "Jubilee Line: Service will resume later this morning. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-08-26T00:10:04.653Z",
+   "to": "2026-08-26T00:10:04.653Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Mildmay Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-08-26T00:10:04.653Z",
+   "to": "2026-08-26T00:15:02.160Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-08-26T00:10:04.653Z",
+   "to": "2026-08-26T00:10:04.653Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Suffragette Line: Severe delays due to an earlier points failure at Gospel Oak. London Underground is accepting tickets via reasonable routes. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-08-26T00:10:04.653Z",
+   "to": "2026-08-26T04:55:01.831Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   },
   {
    "line": "elizabeth",
@@ -489209,7 +489200,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-24T03:35:00.346Z",
-   "to": "2026-10-24T23:25:04.393Z",
+   "to": "2026-10-25T00:05:04.256Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
@@ -489218,7 +489209,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-24T03:35:00.346Z",
-   "to": "2026-10-24T23:25:04.393Z",
+   "to": "2026-10-25T00:05:04.256Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
@@ -539375,7 +539366,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-24T19:06:21.129Z",
-   "to": "2026-10-24T23:25:04.393Z",
+   "to": "2026-10-25T00:05:04.256Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -547700,7 +547691,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-10-24T20:25:04.367Z",
-   "to": "2026-10-24T23:25:04.393Z",
+   "to": "2026-10-25T00:05:04.256Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to an earlier faulty train at Westminster and Finchley Road. "
@@ -556853,7 +556844,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-24T22:35:04.481Z",
-   "to": "2026-10-24T23:25:04.393Z",
+   "to": "2026-10-25T00:05:04.256Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Metropolitan Line: Severe delays due to an earlier tree on the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
@@ -560120,7 +560111,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-24T23:25:04.393Z",
-   "to": "2026-10-24T23:25:04.393Z",
+   "to": "2026-10-25T00:01:09.389Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals due to an earlier tree on the track at Hounslow West. London Buses are accepting valid tickets. GOOD SERVICE on the rest of the line. "
@@ -560139,6 +560130,2022 @@
    "lineName": "Suffragette",
    "from": "2026-10-24T23:25:04.393Z",
    "to": "2026-10-24T23:25:04.393Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:25:15.499Z",
+   "to": "2026-10-24T23:25:15.499Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:25:15.499Z",
+   "to": "2026-10-24T23:25:15.499Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:25:15.499Z",
+   "to": "2026-10-24T23:25:15.499Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:25:15.499Z",
+   "to": "2026-10-24T23:25:15.499Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:25:23.864Z",
+   "to": "2026-10-24T23:25:23.864Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:25:23.864Z",
+   "to": "2026-10-24T23:25:23.864Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:25:23.864Z",
+   "to": "2026-10-24T23:25:23.864Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:25:23.864Z",
+   "to": "2026-10-24T23:25:23.864Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:25:24.239Z",
+   "to": "2026-10-24T23:25:24.239Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:25:24.239Z",
+   "to": "2026-10-24T23:25:24.239Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:25:24.239Z",
+   "to": "2026-10-24T23:25:24.239Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:25:24.239Z",
+   "to": "2026-10-24T23:25:24.239Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:26:36.625Z",
+   "to": "2026-10-24T23:26:36.625Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:26:36.625Z",
+   "to": "2026-10-24T23:26:36.625Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:26:36.625Z",
+   "to": "2026-10-24T23:26:36.625Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:26:36.625Z",
+   "to": "2026-10-24T23:26:36.625Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:26:41.149Z",
+   "to": "2026-10-24T23:26:41.149Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:26:41.149Z",
+   "to": "2026-10-24T23:26:41.149Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:26:41.149Z",
+   "to": "2026-10-24T23:26:41.149Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:26:41.149Z",
+   "to": "2026-10-24T23:26:41.149Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:26:44.361Z",
+   "to": "2026-10-24T23:26:44.361Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:26:44.361Z",
+   "to": "2026-10-24T23:26:44.361Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:26:44.361Z",
+   "to": "2026-10-24T23:26:44.361Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:26:44.361Z",
+   "to": "2026-10-24T23:26:44.361Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:30:08.329Z",
+   "to": "2026-10-24T23:30:08.329Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:30:08.329Z",
+   "to": "2026-10-24T23:30:08.329Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:30:08.329Z",
+   "to": "2026-10-24T23:30:08.329Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:30:08.329Z",
+   "to": "2026-10-24T23:30:08.329Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:30:12.468Z",
+   "to": "2026-10-24T23:30:12.468Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:30:12.468Z",
+   "to": "2026-10-24T23:30:12.468Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:30:12.468Z",
+   "to": "2026-10-24T23:30:12.468Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:30:12.468Z",
+   "to": "2026-10-24T23:30:12.468Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:30:14.690Z",
+   "to": "2026-10-24T23:30:14.690Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:30:14.690Z",
+   "to": "2026-10-24T23:30:14.690Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:30:14.690Z",
+   "to": "2026-10-24T23:30:14.690Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:30:14.690Z",
+   "to": "2026-10-24T23:30:14.690Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:30:43.137Z",
+   "to": "2026-10-24T23:30:43.137Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:30:43.137Z",
+   "to": "2026-10-24T23:30:43.137Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:30:43.137Z",
+   "to": "2026-10-24T23:30:43.137Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:30:43.137Z",
+   "to": "2026-10-24T23:30:43.137Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:30:43.980Z",
+   "to": "2026-10-24T23:30:43.980Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:30:43.980Z",
+   "to": "2026-10-24T23:30:43.980Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:30:43.980Z",
+   "to": "2026-10-24T23:30:43.980Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:30:43.980Z",
+   "to": "2026-10-24T23:30:43.980Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:30:52.446Z",
+   "to": "2026-10-24T23:30:52.446Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:30:52.446Z",
+   "to": "2026-10-24T23:30:52.446Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:30:52.446Z",
+   "to": "2026-10-24T23:30:52.446Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:30:52.446Z",
+   "to": "2026-10-24T23:30:52.446Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:30:52.861Z",
+   "to": "2026-10-24T23:30:52.861Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:30:52.861Z",
+   "to": "2026-10-24T23:30:52.861Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:30:52.861Z",
+   "to": "2026-10-24T23:30:52.861Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:30:52.861Z",
+   "to": "2026-10-24T23:30:52.861Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:35:04.294Z",
+   "to": "2026-10-24T23:35:04.294Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:35:04.294Z",
+   "to": "2026-10-24T23:35:04.294Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:35:04.294Z",
+   "to": "2026-10-24T23:35:04.294Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:35:04.294Z",
+   "to": "2026-10-24T23:35:04.294Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:35:04.637Z",
+   "to": "2026-10-24T23:35:04.637Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:35:04.637Z",
+   "to": "2026-10-24T23:35:04.637Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:35:04.637Z",
+   "to": "2026-10-24T23:35:04.637Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:35:04.637Z",
+   "to": "2026-10-24T23:35:04.637Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:35:15.689Z",
+   "to": "2026-10-24T23:35:15.689Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:35:15.689Z",
+   "to": "2026-10-24T23:35:15.689Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:35:15.689Z",
+   "to": "2026-10-24T23:35:15.689Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:35:15.689Z",
+   "to": "2026-10-24T23:35:15.689Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:35:16.024Z",
+   "to": "2026-10-24T23:35:16.024Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:35:16.024Z",
+   "to": "2026-10-24T23:35:16.024Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:35:16.024Z",
+   "to": "2026-10-24T23:35:16.024Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:35:16.024Z",
+   "to": "2026-10-24T23:35:16.024Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:36:02.109Z",
+   "to": "2026-10-24T23:36:02.109Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:36:02.109Z",
+   "to": "2026-10-24T23:36:02.109Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:36:02.109Z",
+   "to": "2026-10-24T23:36:02.109Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:36:02.109Z",
+   "to": "2026-10-24T23:36:02.109Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:36:06.354Z",
+   "to": "2026-10-24T23:36:06.354Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:36:06.354Z",
+   "to": "2026-10-24T23:36:06.354Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:36:06.354Z",
+   "to": "2026-10-24T23:36:06.354Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:36:06.354Z",
+   "to": "2026-10-24T23:36:06.354Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:36:08.519Z",
+   "to": "2026-10-24T23:36:08.519Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:36:08.519Z",
+   "to": "2026-10-24T23:36:08.519Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:36:08.519Z",
+   "to": "2026-10-24T23:36:08.519Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:36:08.519Z",
+   "to": "2026-10-24T23:36:08.519Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:40:08.146Z",
+   "to": "2026-10-24T23:40:08.146Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:40:08.146Z",
+   "to": "2026-10-24T23:40:08.146Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:40:08.146Z",
+   "to": "2026-10-24T23:40:08.146Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:40:08.146Z",
+   "to": "2026-10-24T23:40:08.146Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:40:12.058Z",
+   "to": "2026-10-24T23:40:12.058Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:40:12.058Z",
+   "to": "2026-10-24T23:40:12.058Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:40:12.058Z",
+   "to": "2026-10-24T23:40:12.058Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:40:12.058Z",
+   "to": "2026-10-24T23:40:12.058Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:40:14.242Z",
+   "to": "2026-10-24T23:40:14.242Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:40:14.242Z",
+   "to": "2026-10-24T23:40:14.242Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:40:14.242Z",
+   "to": "2026-10-24T23:40:14.242Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:40:14.242Z",
+   "to": "2026-10-24T23:40:14.242Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:41:11.144Z",
+   "to": "2026-10-24T23:41:11.144Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:41:11.144Z",
+   "to": "2026-10-24T23:41:11.144Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:41:11.144Z",
+   "to": "2026-10-24T23:41:11.144Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:41:11.144Z",
+   "to": "2026-10-24T23:41:11.144Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:41:11.916Z",
+   "to": "2026-10-24T23:41:11.916Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:41:11.916Z",
+   "to": "2026-10-24T23:41:11.916Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:41:11.916Z",
+   "to": "2026-10-24T23:41:11.916Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:41:11.916Z",
+   "to": "2026-10-24T23:41:11.916Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:41:19.711Z",
+   "to": "2026-10-24T23:41:19.711Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:41:19.711Z",
+   "to": "2026-10-24T23:41:19.711Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:41:19.711Z",
+   "to": "2026-10-24T23:41:19.711Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:41:19.711Z",
+   "to": "2026-10-24T23:41:19.711Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:41:20.116Z",
+   "to": "2026-10-24T23:41:20.116Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:41:20.116Z",
+   "to": "2026-10-24T23:41:20.116Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:41:20.116Z",
+   "to": "2026-10-24T23:41:20.116Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:41:20.116Z",
+   "to": "2026-10-24T23:41:20.116Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:45:04.357Z",
+   "to": "2026-10-24T23:45:04.357Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:45:04.357Z",
+   "to": "2026-10-24T23:45:04.357Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:45:04.357Z",
+   "to": "2026-10-24T23:45:04.357Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:45:04.357Z",
+   "to": "2026-10-24T23:45:04.357Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:45:04.696Z",
+   "to": "2026-10-24T23:45:04.696Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:45:04.696Z",
+   "to": "2026-10-24T23:45:04.696Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:45:04.696Z",
+   "to": "2026-10-24T23:45:04.696Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:45:04.696Z",
+   "to": "2026-10-24T23:45:04.696Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:45:13.484Z",
+   "to": "2026-10-24T23:45:13.484Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:45:13.484Z",
+   "to": "2026-10-24T23:45:13.484Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:45:13.484Z",
+   "to": "2026-10-24T23:45:13.484Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:45:13.484Z",
+   "to": "2026-10-24T23:45:13.484Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:45:13.802Z",
+   "to": "2026-10-24T23:45:13.802Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:45:13.802Z",
+   "to": "2026-10-24T23:45:13.802Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:45:13.802Z",
+   "to": "2026-10-24T23:45:13.802Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:45:13.802Z",
+   "to": "2026-10-24T23:45:13.802Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:45:27.258Z",
+   "to": "2026-10-24T23:45:27.258Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:45:27.258Z",
+   "to": "2026-10-24T23:45:27.258Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:45:27.258Z",
+   "to": "2026-10-24T23:45:27.258Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:45:27.258Z",
+   "to": "2026-10-24T23:45:27.258Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:45:31.438Z",
+   "to": "2026-10-24T23:45:31.438Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:45:31.438Z",
+   "to": "2026-10-24T23:45:31.438Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:45:31.438Z",
+   "to": "2026-10-24T23:45:31.438Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:45:31.438Z",
+   "to": "2026-10-24T23:45:31.438Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:45:33.644Z",
+   "to": "2026-10-24T23:45:33.644Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:45:33.644Z",
+   "to": "2026-10-24T23:45:33.644Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:45:33.644Z",
+   "to": "2026-10-24T23:45:33.644Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:45:33.644Z",
+   "to": "2026-10-24T23:45:33.644Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:50:08.728Z",
+   "to": "2026-10-24T23:50:08.728Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:50:08.728Z",
+   "to": "2026-10-24T23:50:08.728Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:50:08.728Z",
+   "to": "2026-10-24T23:50:08.728Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:50:08.728Z",
+   "to": "2026-10-24T23:50:08.728Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:50:13.189Z",
+   "to": "2026-10-24T23:50:13.189Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:50:13.189Z",
+   "to": "2026-10-24T23:50:13.189Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:50:13.189Z",
+   "to": "2026-10-24T23:50:13.189Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:50:13.189Z",
+   "to": "2026-10-24T23:50:13.189Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:50:15.412Z",
+   "to": "2026-10-24T23:50:15.412Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:50:15.412Z",
+   "to": "2026-10-24T23:50:15.412Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:50:15.412Z",
+   "to": "2026-10-24T23:50:15.412Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:50:15.412Z",
+   "to": "2026-10-24T23:50:15.412Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:50:34.810Z",
+   "to": "2026-10-24T23:50:34.810Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:50:34.810Z",
+   "to": "2026-10-24T23:50:34.810Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:50:34.810Z",
+   "to": "2026-10-24T23:50:34.810Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:50:34.810Z",
+   "to": "2026-10-24T23:50:34.810Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:50:35.134Z",
+   "to": "2026-10-24T23:50:35.134Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:50:35.134Z",
+   "to": "2026-10-24T23:50:35.134Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:50:35.134Z",
+   "to": "2026-10-24T23:50:35.134Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:50:35.134Z",
+   "to": "2026-10-24T23:50:35.134Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:50:42.823Z",
+   "to": "2026-10-24T23:50:42.823Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:50:42.823Z",
+   "to": "2026-10-24T23:50:42.823Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:50:42.823Z",
+   "to": "2026-10-24T23:50:42.823Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:50:42.823Z",
+   "to": "2026-10-24T23:50:42.823Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:50:43.163Z",
+   "to": "2026-10-24T23:50:43.163Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:50:43.163Z",
+   "to": "2026-10-24T23:50:43.163Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:50:43.163Z",
+   "to": "2026-10-24T23:50:43.163Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:50:43.163Z",
+   "to": "2026-10-24T23:50:43.163Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:55:04.647Z",
+   "to": "2026-10-24T23:55:04.647Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:55:04.647Z",
+   "to": "2026-10-24T23:55:04.647Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:55:04.647Z",
+   "to": "2026-10-24T23:55:04.647Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:55:04.647Z",
+   "to": "2026-10-24T23:55:04.647Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:55:04.970Z",
+   "to": "2026-10-24T23:55:04.970Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:55:04.970Z",
+   "to": "2026-10-24T23:55:04.970Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:55:04.970Z",
+   "to": "2026-10-24T23:55:04.970Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:55:04.970Z",
+   "to": "2026-10-24T23:55:04.970Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:55:12.737Z",
+   "to": "2026-10-24T23:55:12.737Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:55:12.737Z",
+   "to": "2026-10-24T23:55:12.737Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:55:12.737Z",
+   "to": "2026-10-24T23:55:12.737Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:55:12.737Z",
+   "to": "2026-10-24T23:55:12.737Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:55:13.108Z",
+   "to": "2026-10-24T23:55:13.108Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:55:13.108Z",
+   "to": "2026-10-24T23:55:13.108Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:55:13.108Z",
+   "to": "2026-10-24T23:55:13.108Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:55:13.108Z",
+   "to": "2026-10-24T23:55:13.108Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:55:50.931Z",
+   "to": "2026-10-24T23:55:50.931Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:55:50.931Z",
+   "to": "2026-10-24T23:55:50.931Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:55:50.931Z",
+   "to": "2026-10-24T23:55:50.931Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:55:50.931Z",
+   "to": "2026-10-24T23:55:50.931Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:55:56.552Z",
+   "to": "2026-10-24T23:55:56.552Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:55:56.552Z",
+   "to": "2026-10-24T23:55:56.552Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:55:56.552Z",
+   "to": "2026-10-24T23:55:56.552Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:55:56.552Z",
+   "to": "2026-10-24T23:55:56.552Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:55:58.822Z",
+   "to": "2026-10-24T23:55:58.822Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-24T23:55:58.822Z",
+   "to": "2026-10-24T23:55:58.822Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:55:58.822Z",
+   "to": "2026-10-24T23:55:58.822Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-24T23:55:58.822Z",
+   "to": "2026-10-24T23:55:58.822Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:00:08.525Z",
+   "to": "2026-10-25T00:00:08.525Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:00:08.525Z",
+   "to": "2026-10-25T00:00:08.525Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:00:08.525Z",
+   "to": "2026-10-25T00:00:08.525Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:00:08.525Z",
+   "to": "2026-10-25T00:00:08.525Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:00:13.081Z",
+   "to": "2026-10-25T00:00:13.081Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:00:13.081Z",
+   "to": "2026-10-25T00:00:13.081Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:00:13.081Z",
+   "to": "2026-10-25T00:00:13.081Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:00:13.081Z",
+   "to": "2026-10-25T00:00:13.081Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:00:15.251Z",
+   "to": "2026-10-25T00:00:15.251Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:00:15.251Z",
+   "to": "2026-10-25T00:00:15.251Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:00:15.251Z",
+   "to": "2026-10-25T00:00:15.251Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:00:15.251Z",
+   "to": "2026-10-25T00:00:15.251Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:01:00.136Z",
+   "to": "2026-10-25T00:01:00.136Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:01:00.136Z",
+   "to": "2026-10-25T00:01:00.136Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:01:00.136Z",
+   "to": "2026-10-25T00:01:00.136Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:01:00.136Z",
+   "to": "2026-10-25T00:01:00.136Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:01:00.545Z",
+   "to": "2026-10-25T00:01:00.545Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:01:00.545Z",
+   "to": "2026-10-25T00:01:00.545Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:01:00.545Z",
+   "to": "2026-10-25T00:01:00.545Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:01:00.545Z",
+   "to": "2026-10-25T00:01:00.545Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:01:09.003Z",
+   "to": "2026-10-25T00:01:09.003Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:01:09.003Z",
+   "to": "2026-10-25T00:01:09.003Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:01:09.003Z",
+   "to": "2026-10-25T00:01:09.003Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:01:09.003Z",
+   "to": "2026-10-25T00:01:09.003Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:01:09.389Z",
+   "to": "2026-10-25T00:01:09.389Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:01:09.389Z",
+   "to": "2026-10-25T00:01:09.389Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:01:09.389Z",
+   "to": "2026-10-25T00:01:09.389Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:01:09.389Z",
+   "to": "2026-10-25T00:01:09.389Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:05:04.256Z",
+   "to": "2026-10-25T00:05:04.256Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T00:05:04.256Z",
+   "to": "2026-10-25T00:05:04.256Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:05:04.256Z",
+   "to": "2026-10-25T00:05:04.256Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T00:05:04.256Z",
+   "to": "2026-10-25T00:05:04.256Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
