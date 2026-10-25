@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-25T12:55:08.705Z",
- "sinceISO": "2026-08-26T12:55:02.815Z",
+ "generatedAt": "2026-10-25T13:25:09.596Z",
+ "sinceISO": "2026-08-26T13:25:03.443Z",
  "coverage": [
   {
-   "from": "2026-08-26T13:00:12.201Z",
+   "from": "2026-08-26T13:30:04.782Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14295
+   "polls": 14289
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,24 +14,24 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-25T12:55:02.568Z",
-   "polls": 35890
+   "to": "2026-10-25T13:25:02.692Z",
+   "polls": 35933
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-26T13:00:12.201Z",
-   "to": "2026-08-26T13:00:12.201Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Bakerloo Line: Severe delays due to an earlier faulty train at Queen's Park. Tickets will be accepted on London Buses and Lioness line services. "
+   "from": "2026-08-26T13:30:04.782Z",
+   "to": "2026-08-26T13:40:04.112Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Minor delays due to an earlier faulty train at Queen's Park. "
   },
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-26T13:00:12.201Z",
+   "from": "2026-08-26T13:30:04.782Z",
    "to": "2026-08-26T13:35:02.222Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,20 +40,11 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-26T13:00:12.201Z",
+   "from": "2026-08-26T13:30:04.782Z",
    "to": "2026-08-27T00:25:01.892Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-26T13:05:01.813Z",
-   "to": "2026-08-26T13:40:04.112Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: Minor delays due to an earlier faulty train at Queen's Park. "
   },
   {
    "line": "central",
@@ -579128,7 +579119,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-25T04:20:08.175Z",
-   "to": "2026-10-25T12:55:02.568Z",
+   "to": "2026-10-25T13:25:02.692Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
@@ -579416,7 +579407,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-25T04:25:04.631Z",
-   "to": "2026-10-25T12:55:02.568Z",
+   "to": "2026-10-25T13:25:02.692Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -579542,7 +579533,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-25T04:30:08.330Z",
-   "to": "2026-10-25T12:55:02.568Z",
+   "to": "2026-10-25T13:25:02.692Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "ELIZABETH LINE: Sunday 25 October, a reduced service operates between Hayes & Harlington and Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. From 1100 until 1900, westbound trains will not call at Burnham or Taplow, and after 1900, no trains call at Burnham or Taplow. Replacement bus service W3 operates between Slough and Maidenhead via Burnham and Taplow. At Maidenhead, from 1100, westbound trains to Twyford and Reading use Platform 1. For step-free interchange from platform 3 to platform 1, please use the lift to the main entrance, and then continue at street level under the railway bridge and up Shoppenhangers Road to the car park. Please ask staff to open the gate to platform 1, and allow extra time for your journey"
@@ -579569,7 +579560,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-25T04:30:08.330Z",
-   "to": "2026-10-25T12:55:02.568Z",
+   "to": "2026-10-25T13:25:02.692Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Sunday 25 October, no service between Sydenham and Crystal Palace. Please use local London Buses connections between Anerley and Crystal Palace."
@@ -594491,7 +594482,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-25T09:05:03.537Z",
-   "to": "2026-10-25T12:55:02.568Z",
+   "to": "2026-10-25T13:25:02.692Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
@@ -597524,7 +597515,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-10-25T09:45:02.697Z",
-   "to": "2026-10-25T12:55:02.568Z",
+   "to": "2026-10-25T13:25:02.692Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 25 October, no service between Shadwell and Tower Gateway."
@@ -598307,7 +598298,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-25T10:00:04.484Z",
-   "to": "2026-10-25T12:55:02.568Z",
+   "to": "2026-10-25T13:25:02.692Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line.  "
@@ -605975,7 +605966,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-25T12:05:52.970Z",
-   "to": "2026-10-25T12:55:02.568Z",
+   "to": "2026-10-25T13:25:02.692Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip, and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -608396,7 +608387,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-10-25T12:55:02.568Z",
-   "to": "2026-10-25T12:55:02.568Z",
+   "to": "2026-10-25T13:25:02.692Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Mildmay Line: Severe delays between Gunnersbury and Richmond due to an earlier obstruction on track at Kew Gardens. \r\nNO SERVICE between Willesden Junction and Shepherd's Bush due to planned engineering work. GOOD SERVICE on the rest of the line. "
@@ -608423,10 +608414,775 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-25T12:55:02.568Z",
-   "to": "2026-10-25T12:55:02.568Z",
+   "to": "2026-10-25T13:25:02.692Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T12:55:16.417Z",
+   "to": "2026-10-25T12:55:16.417Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T12:55:16.417Z",
+   "to": "2026-10-25T12:55:16.417Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T12:55:25.009Z",
+   "to": "2026-10-25T12:55:25.009Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T12:55:25.009Z",
+   "to": "2026-10-25T12:55:25.009Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T12:55:25.423Z",
+   "to": "2026-10-25T12:55:25.423Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T12:55:25.423Z",
+   "to": "2026-10-25T12:55:25.423Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T12:56:04.019Z",
+   "to": "2026-10-25T12:56:04.019Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T12:56:04.019Z",
+   "to": "2026-10-25T12:56:04.019Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T12:56:08.623Z",
+   "to": "2026-10-25T12:56:08.623Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T12:56:08.623Z",
+   "to": "2026-10-25T12:56:08.623Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T12:56:11.094Z",
+   "to": "2026-10-25T12:56:11.094Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T12:56:11.094Z",
+   "to": "2026-10-25T12:56:11.094Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:00:05.236Z",
+   "to": "2026-10-25T13:00:05.236Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:00:05.236Z",
+   "to": "2026-10-25T13:00:05.236Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:00:10.040Z",
+   "to": "2026-10-25T13:00:10.040Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:00:10.040Z",
+   "to": "2026-10-25T13:00:10.040Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:00:14.741Z",
+   "to": "2026-10-25T13:00:14.741Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:00:14.741Z",
+   "to": "2026-10-25T13:00:14.741Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:01:19.985Z",
+   "to": "2026-10-25T13:01:19.985Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:01:19.985Z",
+   "to": "2026-10-25T13:01:19.985Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:01:21.366Z",
+   "to": "2026-10-25T13:01:21.366Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:01:21.366Z",
+   "to": "2026-10-25T13:01:21.366Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:01:30.045Z",
+   "to": "2026-10-25T13:01:30.045Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:01:30.045Z",
+   "to": "2026-10-25T13:01:30.045Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:01:30.413Z",
+   "to": "2026-10-25T13:01:30.413Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:01:30.413Z",
+   "to": "2026-10-25T13:01:30.413Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:05:02.381Z",
+   "to": "2026-10-25T13:05:02.381Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:05:02.381Z",
+   "to": "2026-10-25T13:05:02.381Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:05:03.200Z",
+   "to": "2026-10-25T13:05:03.200Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:05:03.200Z",
+   "to": "2026-10-25T13:05:03.200Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:05:11.075Z",
+   "to": "2026-10-25T13:05:11.075Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:05:11.075Z",
+   "to": "2026-10-25T13:05:11.075Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:05:11.425Z",
+   "to": "2026-10-25T13:05:11.425Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:05:11.425Z",
+   "to": "2026-10-25T13:05:11.425Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:05:33.367Z",
+   "to": "2026-10-25T13:05:33.367Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:05:33.367Z",
+   "to": "2026-10-25T13:05:33.367Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:05:37.598Z",
+   "to": "2026-10-25T13:05:37.598Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:05:37.598Z",
+   "to": "2026-10-25T13:05:37.598Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:05:40.196Z",
+   "to": "2026-10-25T13:05:40.196Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:05:40.196Z",
+   "to": "2026-10-25T13:05:40.196Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:10:04.588Z",
+   "to": "2026-10-25T13:10:04.588Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:10:04.588Z",
+   "to": "2026-10-25T13:10:04.588Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:10:08.720Z",
+   "to": "2026-10-25T13:10:08.720Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:10:08.720Z",
+   "to": "2026-10-25T13:10:08.720Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:10:11.865Z",
+   "to": "2026-10-25T13:10:11.865Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:10:11.865Z",
+   "to": "2026-10-25T13:10:11.865Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:10:46.369Z",
+   "to": "2026-10-25T13:10:46.369Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:10:46.369Z",
+   "to": "2026-10-25T13:10:46.369Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:10:46.747Z",
+   "to": "2026-10-25T13:10:46.747Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:10:46.747Z",
+   "to": "2026-10-25T13:10:46.747Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:10:55.226Z",
+   "to": "2026-10-25T13:10:55.226Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:10:55.226Z",
+   "to": "2026-10-25T13:10:55.226Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:10:55.601Z",
+   "to": "2026-10-25T13:10:55.601Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:10:55.601Z",
+   "to": "2026-10-25T13:10:55.601Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:15:04.275Z",
+   "to": "2026-10-25T13:15:04.275Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:15:04.275Z",
+   "to": "2026-10-25T13:15:04.275Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:15:04.669Z",
+   "to": "2026-10-25T13:15:04.669Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:15:04.669Z",
+   "to": "2026-10-25T13:15:04.669Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:15:12.559Z",
+   "to": "2026-10-25T13:15:12.559Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:15:12.559Z",
+   "to": "2026-10-25T13:15:12.559Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:15:12.962Z",
+   "to": "2026-10-25T13:15:12.962Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:15:12.962Z",
+   "to": "2026-10-25T13:15:12.962Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:16:02.958Z",
+   "to": "2026-10-25T13:16:02.958Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:16:02.958Z",
+   "to": "2026-10-25T13:16:02.958Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:16:07.144Z",
+   "to": "2026-10-25T13:16:07.144Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:16:07.144Z",
+   "to": "2026-10-25T13:16:07.144Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:16:09.344Z",
+   "to": "2026-10-25T13:16:09.344Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:16:09.344Z",
+   "to": "2026-10-25T13:16:09.344Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:20:04.922Z",
+   "to": "2026-10-25T13:20:04.922Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:20:04.922Z",
+   "to": "2026-10-25T13:20:04.922Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:20:09.447Z",
+   "to": "2026-10-25T13:20:09.447Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:20:09.447Z",
+   "to": "2026-10-25T13:20:09.447Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:20:13.869Z",
+   "to": "2026-10-25T13:20:13.869Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:20:13.869Z",
+   "to": "2026-10-25T13:20:13.869Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:21:14.124Z",
+   "to": "2026-10-25T13:21:14.124Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:21:14.124Z",
+   "to": "2026-10-25T13:21:14.124Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:21:36.559Z",
+   "to": "2026-10-25T13:21:36.559Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:21:36.559Z",
+   "to": "2026-10-25T13:21:36.559Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:21:44.946Z",
+   "to": "2026-10-25T13:21:44.946Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:21:44.946Z",
+   "to": "2026-10-25T13:21:44.946Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:21:45.346Z",
+   "to": "2026-10-25T13:21:45.346Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:21:45.346Z",
+   "to": "2026-10-25T13:21:45.346Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:25:02.303Z",
+   "to": "2026-10-25T13:25:02.303Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:25:02.303Z",
+   "to": "2026-10-25T13:25:02.303Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T13:25:02.692Z",
+   "to": "2026-10-25T13:25:02.692Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
   }
  ]
 }
