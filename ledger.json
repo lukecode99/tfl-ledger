@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-25T04:30:12.888Z",
- "sinceISO": "2026-08-26T04:30:08.614Z",
+ "generatedAt": "2026-10-25T05:10:15.062Z",
+ "sinceISO": "2026-08-26T05:10:08.841Z",
  "coverage": [
   {
-   "from": "2026-08-26T04:35:02.317Z",
+   "from": "2026-08-26T05:10:10.270Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14396
+   "polls": 14389
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-25T04:30:08.330Z",
-   "polls": 35185
+   "to": "2026-10-25T05:10:08.567Z",
+   "polls": 35241
   }
  ],
  "spans": [
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-26T04:35:02.317Z",
+   "from": "2026-08-26T05:10:10.270Z",
    "to": "2026-08-26T05:10:10.270Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,25 +31,25 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-26T04:35:02.317Z",
-   "to": "2026-08-26T04:40:04.338Z",
-   "severity": 2,
-   "description": "Suspended",
-   "reason": "Lioness Line: No service on the entire line due to a late finish of engineering work. London Underground are accepting tickets via any reasonable route. "
+   "from": "2026-08-26T05:10:10.270Z",
+   "to": "2026-08-26T05:45:02.359Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: Severe delays following a late finish of engineering work at Stonebridge Park. London Underground are accepting tickets via any reasonable route. "
   },
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-26T04:35:02.317Z",
-   "to": "2026-08-26T05:00:11.986Z",
+   "from": "2026-08-26T05:10:10.270Z",
+   "to": "2026-08-26T05:45:02.359Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Mildmay Line: Minor delays due to a late finish of engineering work "
+   "reason": "Mildmay Line: Minor delays following a late finish of engineering work at Stonebridge Park. "
   },
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-26T04:35:02.317Z",
+   "from": "2026-08-26T05:10:10.270Z",
    "to": "2026-08-27T00:25:01.892Z",
    "severity": 5,
    "description": "Part Closure",
@@ -58,74 +58,11 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-26T04:35:02.317Z",
-   "to": "2026-08-26T04:55:01.831Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: Severe delays between Walthamstow Central and Seven Sister due to train cancellations. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-26T04:35:02.317Z",
-   "to": "2026-08-26T04:55:01.831Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-26T04:40:04.338Z",
-   "to": "2026-08-26T04:40:04.338Z",
-   "severity": 2,
-   "description": "Suspended",
-   "reason": "Bakerloo Line: No service on the entire line due to late finish of engineering work at Stonebridge Park and Embankment. London buses, Northwestern Railway and Thameslink are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-26T04:45:01.940Z",
-   "to": "2026-08-26T04:50:05.015Z",
-   "severity": 2,
-   "description": "Suspended",
-   "reason": "Bakerloo Line: No service on the entire line due to a late finish of engineering work at Stonebridge Park and Embankment. London Buses, Northwestern Railway and Thameslink are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-26T04:45:01.940Z",
-   "to": "2026-08-26T04:45:01.940Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Lioness Line: Severe delays due to a late finish of engineering work. London Underground are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-26T04:50:05.015Z",
-   "to": "2026-08-26T05:45:02.359Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Lioness Line: Severe delays following a late finish of engineering work at Stonebridge Park. London Underground are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-08-26T05:00:11.986Z",
+   "from": "2026-08-26T05:10:10.270Z",
    "to": "2026-08-26T05:45:02.359Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-26T05:05:01.858Z",
-   "to": "2026-08-26T05:45:02.359Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Mildmay Line: Minor delays following a late finish of engineering work at Stonebridge Park. "
   },
   {
    "line": "circle",
@@ -579092,7 +579029,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-25T04:15:04.700Z",
-   "to": "2026-10-25T04:30:08.330Z",
+   "to": "2026-10-25T05:10:08.567Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
@@ -579434,7 +579371,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-25T04:20:08.175Z",
-   "to": "2026-10-25T04:30:08.330Z",
+   "to": "2026-10-25T05:10:08.567Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
@@ -579461,7 +579398,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-10-25T04:20:08.175Z",
-   "to": "2026-10-25T04:30:08.330Z",
+   "to": "2026-10-25T05:06:18.439Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. GOOD SERVICE on the rest of the line. "
@@ -579722,7 +579659,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-25T04:25:04.631Z",
-   "to": "2026-10-25T04:30:08.330Z",
+   "to": "2026-10-25T05:10:08.567Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -579839,7 +579776,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-10-25T04:30:08.330Z",
-   "to": "2026-10-25T04:30:08.330Z",
+   "to": "2026-10-25T05:10:08.567Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 25 October, no service between Shadwell and Tower Gateway."
@@ -579848,7 +579785,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-25T04:30:08.330Z",
-   "to": "2026-10-25T04:30:08.330Z",
+   "to": "2026-10-25T05:10:08.567Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "ELIZABETH LINE: Sunday 25 October, a reduced service operates between Hayes & Harlington and Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. From 1100 until 1900, westbound trains will not call at Burnham or Taplow, and after 1900, no trains call at Burnham or Taplow. Replacement bus service W3 operates between Slough and Maidenhead via Burnham and Taplow. At Maidenhead, from 1100, westbound trains to Twyford and Reading use Platform 1. For step-free interchange from platform 3 to platform 1, please use the lift to the main entrance, and then continue at street level under the railway bridge and up Shoppenhangers Road to the car park. Please ask staff to open the gate to platform 1, and allow extra time for your journey"
@@ -579875,10 +579812,1036 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-25T04:30:08.330Z",
-   "to": "2026-10-25T04:30:08.330Z",
+   "to": "2026-10-25T05:10:08.567Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Sunday 25 October, no service between Sydenham and Crystal Palace. Please use local London Buses connections between Anerley and Crystal Palace."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:30:24.136Z",
+   "to": "2026-10-25T04:30:24.136Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:30:24.136Z",
+   "to": "2026-10-25T04:30:24.136Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:30:26.908Z",
+   "to": "2026-10-25T04:30:26.908Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:30:26.908Z",
+   "to": "2026-10-25T04:30:26.908Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:30:37.312Z",
+   "to": "2026-10-25T04:30:37.312Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:30:37.312Z",
+   "to": "2026-10-25T04:30:37.312Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:30:37.646Z",
+   "to": "2026-10-25T04:30:37.646Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:30:37.646Z",
+   "to": "2026-10-25T04:30:37.646Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:30:45.258Z",
+   "to": "2026-10-25T04:30:45.258Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:30:45.258Z",
+   "to": "2026-10-25T04:30:45.258Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:30:45.845Z",
+   "to": "2026-10-25T04:30:45.845Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:30:45.845Z",
+   "to": "2026-10-25T04:30:45.845Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:35:04.499Z",
+   "to": "2026-10-25T04:35:04.499Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:35:04.499Z",
+   "to": "2026-10-25T04:35:04.499Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:35:05.075Z",
+   "to": "2026-10-25T04:35:05.075Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:35:05.075Z",
+   "to": "2026-10-25T04:35:05.075Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:35:12.938Z",
+   "to": "2026-10-25T04:35:12.938Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:35:12.938Z",
+   "to": "2026-10-25T04:35:12.938Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:35:13.300Z",
+   "to": "2026-10-25T04:35:13.300Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:35:13.300Z",
+   "to": "2026-10-25T04:35:13.300Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:35:55.620Z",
+   "to": "2026-10-25T04:35:55.620Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:35:55.620Z",
+   "to": "2026-10-25T04:35:55.620Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:35:59.459Z",
+   "to": "2026-10-25T04:35:59.459Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:35:59.459Z",
+   "to": "2026-10-25T04:35:59.459Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:36:01.980Z",
+   "to": "2026-10-25T04:36:01.980Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:36:01.980Z",
+   "to": "2026-10-25T04:36:01.980Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:40:08.281Z",
+   "to": "2026-10-25T04:40:08.281Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:40:08.281Z",
+   "to": "2026-10-25T04:40:08.281Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:40:12.600Z",
+   "to": "2026-10-25T04:40:12.600Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:40:12.600Z",
+   "to": "2026-10-25T04:40:12.600Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:40:15.373Z",
+   "to": "2026-10-25T04:40:15.373Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:40:15.373Z",
+   "to": "2026-10-25T04:40:15.373Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:41:04.591Z",
+   "to": "2026-10-25T04:41:04.591Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:41:04.591Z",
+   "to": "2026-10-25T04:41:04.591Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:41:04.985Z",
+   "to": "2026-10-25T04:41:04.985Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:41:04.985Z",
+   "to": "2026-10-25T04:41:04.985Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:41:13.338Z",
+   "to": "2026-10-25T04:41:13.338Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:41:13.338Z",
+   "to": "2026-10-25T04:41:13.338Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:41:13.756Z",
+   "to": "2026-10-25T04:41:13.756Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:41:13.756Z",
+   "to": "2026-10-25T04:41:13.756Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:45:04.652Z",
+   "to": "2026-10-25T04:45:04.652Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:45:04.652Z",
+   "to": "2026-10-25T04:45:04.652Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:45:05.217Z",
+   "to": "2026-10-25T04:45:05.217Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:45:05.217Z",
+   "to": "2026-10-25T04:45:05.217Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:45:13.614Z",
+   "to": "2026-10-25T04:45:13.614Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:45:13.614Z",
+   "to": "2026-10-25T04:45:13.614Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:45:13.941Z",
+   "to": "2026-10-25T04:45:13.941Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:45:13.941Z",
+   "to": "2026-10-25T04:45:13.941Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:46:21.667Z",
+   "to": "2026-10-25T04:46:21.667Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:46:21.667Z",
+   "to": "2026-10-25T04:46:21.667Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:46:26.039Z",
+   "to": "2026-10-25T04:46:26.039Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:46:26.039Z",
+   "to": "2026-10-25T04:46:26.039Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:46:28.772Z",
+   "to": "2026-10-25T04:46:28.772Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:46:28.772Z",
+   "to": "2026-10-25T04:46:28.772Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:50:08.833Z",
+   "to": "2026-10-25T04:50:08.833Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:50:08.833Z",
+   "to": "2026-10-25T04:50:08.833Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:50:13.492Z",
+   "to": "2026-10-25T04:50:13.492Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:50:13.492Z",
+   "to": "2026-10-25T04:50:13.492Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:50:15.820Z",
+   "to": "2026-10-25T04:50:15.820Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:50:15.820Z",
+   "to": "2026-10-25T04:50:15.820Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:50:28.473Z",
+   "to": "2026-10-25T04:50:28.473Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:50:28.473Z",
+   "to": "2026-10-25T04:50:28.473Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:50:28.821Z",
+   "to": "2026-10-25T04:50:28.821Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:50:28.821Z",
+   "to": "2026-10-25T04:50:28.821Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:50:36.465Z",
+   "to": "2026-10-25T04:50:36.465Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:50:36.465Z",
+   "to": "2026-10-25T04:50:36.465Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:50:37.169Z",
+   "to": "2026-10-25T04:50:37.169Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:50:37.169Z",
+   "to": "2026-10-25T04:50:37.169Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:55:05.110Z",
+   "to": "2026-10-25T04:55:05.110Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:55:05.110Z",
+   "to": "2026-10-25T04:55:05.110Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:55:05.474Z",
+   "to": "2026-10-25T04:55:05.474Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:55:05.474Z",
+   "to": "2026-10-25T04:55:05.474Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:55:17.916Z",
+   "to": "2026-10-25T04:55:17.916Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:55:17.916Z",
+   "to": "2026-10-25T04:55:17.916Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:55:45.495Z",
+   "to": "2026-10-25T04:55:45.495Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:55:45.495Z",
+   "to": "2026-10-25T04:55:45.495Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:56:46.999Z",
+   "to": "2026-10-25T04:56:46.999Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:56:46.999Z",
+   "to": "2026-10-25T04:56:46.999Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:56:51.032Z",
+   "to": "2026-10-25T04:56:51.032Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:56:51.032Z",
+   "to": "2026-10-25T04:56:51.032Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:56:53.212Z",
+   "to": "2026-10-25T04:56:53.212Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:56:53.212Z",
+   "to": "2026-10-25T04:56:53.212Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:00:09.344Z",
+   "to": "2026-10-25T05:00:09.344Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:00:09.344Z",
+   "to": "2026-10-25T05:00:09.344Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:00:13.592Z",
+   "to": "2026-10-25T05:00:13.592Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:00:13.592Z",
+   "to": "2026-10-25T05:00:13.592Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:00:15.888Z",
+   "to": "2026-10-25T05:00:15.888Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:00:15.888Z",
+   "to": "2026-10-25T05:00:15.888Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:00:54.874Z",
+   "to": "2026-10-25T05:00:54.874Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:00:54.874Z",
+   "to": "2026-10-25T05:00:54.874Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:00:55.513Z",
+   "to": "2026-10-25T05:00:55.513Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:00:55.513Z",
+   "to": "2026-10-25T05:00:55.513Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:01:03.773Z",
+   "to": "2026-10-25T05:01:03.773Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:01:03.773Z",
+   "to": "2026-10-25T05:01:03.773Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:01:04.128Z",
+   "to": "2026-10-25T05:01:04.128Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:01:04.128Z",
+   "to": "2026-10-25T05:01:04.128Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:05:04.892Z",
+   "to": "2026-10-25T05:05:04.892Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:05:04.892Z",
+   "to": "2026-10-25T05:05:04.892Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:05:05.331Z",
+   "to": "2026-10-25T05:05:05.331Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:05:05.331Z",
+   "to": "2026-10-25T05:05:05.331Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:05:13.240Z",
+   "to": "2026-10-25T05:05:13.240Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:05:13.240Z",
+   "to": "2026-10-25T05:05:13.240Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:05:13.631Z",
+   "to": "2026-10-25T05:05:13.631Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:05:13.631Z",
+   "to": "2026-10-25T05:05:13.631Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:06:11.607Z",
+   "to": "2026-10-25T05:06:11.607Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:06:11.607Z",
+   "to": "2026-10-25T05:06:11.607Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:06:16.234Z",
+   "to": "2026-10-25T05:06:16.234Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:06:16.234Z",
+   "to": "2026-10-25T05:06:16.234Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:06:18.439Z",
+   "to": "2026-10-25T05:06:18.439Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:06:18.439Z",
+   "to": "2026-10-25T05:06:18.439Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:10:08.567Z",
+   "to": "2026-10-25T05:10:08.567Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T05:10:08.567Z",
+   "to": "2026-10-25T05:10:08.567Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T05:10:08.567Z",
+   "to": "2026-10-25T05:10:08.567Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T05:10:08.567Z",
+   "to": "2026-10-25T05:10:08.567Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
   }
  ]
 }
