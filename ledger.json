@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-25T04:16:27.788Z",
- "sinceISO": "2026-08-26T04:16:23.010Z",
+ "generatedAt": "2026-10-25T04:20:13.330Z",
+ "sinceISO": "2026-08-26T04:20:08.492Z",
  "coverage": [
   {
-   "from": "2026-08-26T04:20:04.553Z",
+   "from": "2026-08-26T04:25:02.202Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14399
+   "polls": 14398
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-25T04:16:22.757Z",
-   "polls": 35170
+   "to": "2026-10-25T04:20:08.175Z",
+   "polls": 35171
   }
  ],
  "spans": [
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-26T04:20:04.553Z",
+   "from": "2026-08-26T04:25:02.202Z",
    "to": "2026-08-26T05:10:10.270Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-26T04:20:04.553Z",
+   "from": "2026-08-26T04:25:02.202Z",
    "to": "2026-08-26T04:40:04.338Z",
    "severity": 2,
    "description": "Suspended",
@@ -40,7 +40,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-26T04:20:04.553Z",
+   "from": "2026-08-26T04:25:02.202Z",
    "to": "2026-08-27T00:25:01.892Z",
    "severity": 5,
    "description": "Part Closure",
@@ -49,7 +49,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-26T04:20:04.553Z",
+   "from": "2026-08-26T04:25:02.202Z",
    "to": "2026-08-26T04:55:01.831Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -58,7 +58,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-26T04:20:04.553Z",
+   "from": "2026-08-26T04:25:02.202Z",
    "to": "2026-08-26T04:55:01.831Z",
    "severity": 20,
    "description": "Service Closed",
@@ -564206,7 +564206,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-25T01:25:04.450Z",
-   "to": "2026-10-25T04:16:22.757Z",
+   "to": "2026-10-25T04:20:08.175Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Service will resume later this morning. "
@@ -579092,7 +579092,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-25T04:15:04.700Z",
-   "to": "2026-10-25T04:16:22.757Z",
+   "to": "2026-10-25T04:20:08.175Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
@@ -579429,6 +579429,60 @@
    "severity": 20,
    "description": "Service Closed",
    "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush due to planned engineering work. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-25T04:20:08.175Z",
+   "to": "2026-10-25T04:20:08.175Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:20:08.175Z",
+   "to": "2026-10-25T04:20:08.175Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-25T04:20:08.175Z",
+   "to": "2026-10-25T04:20:08.175Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T04:20:08.175Z",
+   "to": "2026-10-25T04:20:08.175Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-25T04:20:08.175Z",
+   "to": "2026-10-25T04:20:08.175Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-25T04:20:08.175Z",
+   "to": "2026-10-25T04:20:08.175Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
   }
  ]
 }
