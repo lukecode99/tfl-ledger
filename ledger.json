@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-25T15:40:11.433Z",
- "sinceISO": "2026-08-26T15:40:05.061Z",
+ "generatedAt": "2026-10-25T15:50:12.027Z",
+ "sinceISO": "2026-08-26T15:50:05.522Z",
  "coverage": [
   {
-   "from": "2026-08-26T15:45:01.928Z",
+   "from": "2026-08-26T15:55:01.863Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14262
+   "polls": 14260
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,24 +14,33 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-25T15:40:04.747Z",
-   "polls": 36121
+   "to": "2026-10-25T15:50:04.663Z",
+   "polls": 36135
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-26T15:45:01.928Z",
-   "to": "2026-08-26T15:45:01.928Z",
+   "from": "2026-08-26T15:55:01.863Z",
+   "to": "2026-08-26T15:55:01.863Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Stonebridge Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line due to an earlier faulty train at Lambeth North. Tickets are being accepted on London Buses and Lioness Line.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-08-26T15:55:01.863Z",
+   "to": "2026-08-26T15:55:01.863Z",
    "severity": 6,
    "description": "Severe Delays",
-   "reason": "Bakerloo Line: Severe delays due to an earlier faulty train Lambeth North. Tickets are being accepted on London Buses, Lioness line and Thameslink services. "
+   "reason": "Bakerloo Line: Severe delays between Stonebridge Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line due to an earlier faulty train at Lambeth North. Tickets are being accepted on London Buses and Lioness Line.  "
   },
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-26T15:45:01.928Z",
+   "from": "2026-08-26T15:55:01.863Z",
    "to": "2026-08-26T20:45:02.002Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,29 +49,11 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-26T15:45:01.928Z",
+   "from": "2026-08-26T15:55:01.863Z",
    "to": "2026-08-27T00:25:01.892Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-26T15:55:01.863Z",
-   "to": "2026-08-26T15:55:01.863Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: Severe delays between Stonebridge Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line due to an earlier faulty train at Lambeth North. Tickets are being accepted on London Buses and Lioness Line.  "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-26T15:55:01.863Z",
-   "to": "2026-08-26T15:55:01.863Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Bakerloo Line: Severe delays between Stonebridge Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line due to an earlier faulty train at Lambeth North. Tickets are being accepted on London Buses and Lioness Line.  "
   },
   {
    "line": "bakerloo",
@@ -579047,7 +579038,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-25T04:20:08.175Z",
-   "to": "2026-10-25T15:40:04.747Z",
+   "to": "2026-10-25T15:50:04.663Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
@@ -579335,7 +579326,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-25T04:25:04.631Z",
-   "to": "2026-10-25T15:40:04.747Z",
+   "to": "2026-10-25T15:50:04.663Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -579461,7 +579452,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-25T04:30:08.330Z",
-   "to": "2026-10-25T15:40:04.747Z",
+   "to": "2026-10-25T15:50:04.663Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "ELIZABETH LINE: Sunday 25 October, a reduced service operates between Hayes & Harlington and Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. From 1100 until 1900, westbound trains will not call at Burnham or Taplow, and after 1900, no trains call at Burnham or Taplow. Replacement bus service W3 operates between Slough and Maidenhead via Burnham and Taplow. At Maidenhead, from 1100, westbound trains to Twyford and Reading use Platform 1. For step-free interchange from platform 3 to platform 1, please use the lift to the main entrance, and then continue at street level under the railway bridge and up Shoppenhangers Road to the car park. Please ask staff to open the gate to platform 1, and allow extra time for your journey"
@@ -579488,7 +579479,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-25T04:30:08.330Z",
-   "to": "2026-10-25T15:40:04.747Z",
+   "to": "2026-10-25T15:50:04.663Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Sunday 25 October, no service between Sydenham and Crystal Palace. Please use local London Buses connections between Anerley and Crystal Palace."
@@ -594410,7 +594401,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-10-25T09:05:03.537Z",
-   "to": "2026-10-25T15:40:04.747Z",
+   "to": "2026-10-25T15:50:04.663Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
@@ -597443,7 +597434,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-10-25T09:45:02.697Z",
-   "to": "2026-10-25T15:40:04.747Z",
+   "to": "2026-10-25T15:50:04.663Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 25 October, no service between Shadwell and Tower Gateway."
@@ -608342,7 +608333,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-25T12:55:02.568Z",
-   "to": "2026-10-25T15:40:04.747Z",
+   "to": "2026-10-25T15:50:04.663Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations  "
@@ -614741,7 +614732,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-25T15:40:04.747Z",
-   "to": "2026-10-25T15:40:04.747Z",
+   "to": "2026-10-25T15:50:04.663Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -614760,6 +614751,519 @@
    "lineName": "Suffragette",
    "from": "2026-10-25T15:40:04.747Z",
    "to": "2026-10-25T15:40:04.747Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:40:24.075Z",
+   "to": "2026-10-25T15:40:24.075Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:40:24.075Z",
+   "to": "2026-10-25T15:40:24.075Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:40:24.075Z",
+   "to": "2026-10-25T15:40:24.075Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:40:24.075Z",
+   "to": "2026-10-25T15:40:24.075Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:40:26.502Z",
+   "to": "2026-10-25T15:40:26.502Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:40:26.502Z",
+   "to": "2026-10-25T15:40:26.502Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:40:26.502Z",
+   "to": "2026-10-25T15:40:26.502Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:40:26.502Z",
+   "to": "2026-10-25T15:40:26.502Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:41:20.177Z",
+   "to": "2026-10-25T15:41:20.177Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:41:20.177Z",
+   "to": "2026-10-25T15:41:20.177Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:41:20.177Z",
+   "to": "2026-10-25T15:41:20.177Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:41:20.177Z",
+   "to": "2026-10-25T15:41:20.177Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:41:20.813Z",
+   "to": "2026-10-25T15:41:20.813Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:41:20.813Z",
+   "to": "2026-10-25T15:41:20.813Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:41:20.813Z",
+   "to": "2026-10-25T15:41:20.813Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:41:20.813Z",
+   "to": "2026-10-25T15:41:20.813Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:41:28.880Z",
+   "to": "2026-10-25T15:41:28.880Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:41:28.880Z",
+   "to": "2026-10-25T15:41:28.880Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:41:28.880Z",
+   "to": "2026-10-25T15:41:28.880Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:41:28.880Z",
+   "to": "2026-10-25T15:41:28.880Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:41:29.754Z",
+   "to": "2026-10-25T15:41:29.754Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:41:29.754Z",
+   "to": "2026-10-25T15:41:29.754Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:41:29.754Z",
+   "to": "2026-10-25T15:41:29.754Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:41:29.754Z",
+   "to": "2026-10-25T15:41:29.754Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:45:02.972Z",
+   "to": "2026-10-25T15:45:02.972Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:45:02.972Z",
+   "to": "2026-10-25T15:45:02.972Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:45:02.972Z",
+   "to": "2026-10-25T15:45:02.972Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:45:02.972Z",
+   "to": "2026-10-25T15:45:02.972Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:45:03.645Z",
+   "to": "2026-10-25T15:45:03.645Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:45:03.645Z",
+   "to": "2026-10-25T15:45:03.645Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:45:03.645Z",
+   "to": "2026-10-25T15:45:03.645Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:45:03.645Z",
+   "to": "2026-10-25T15:45:03.645Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:45:12.137Z",
+   "to": "2026-10-25T15:45:12.137Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:45:12.137Z",
+   "to": "2026-10-25T15:45:12.137Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:45:12.137Z",
+   "to": "2026-10-25T15:45:12.137Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:45:12.137Z",
+   "to": "2026-10-25T15:45:12.137Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:45:12.547Z",
+   "to": "2026-10-25T15:45:12.547Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:45:12.547Z",
+   "to": "2026-10-25T15:45:12.547Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:45:12.547Z",
+   "to": "2026-10-25T15:45:12.547Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:45:12.547Z",
+   "to": "2026-10-25T15:45:12.547Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:45:33.162Z",
+   "to": "2026-10-25T15:45:33.162Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:45:33.162Z",
+   "to": "2026-10-25T15:45:33.162Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:45:33.162Z",
+   "to": "2026-10-25T15:45:33.162Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:45:33.162Z",
+   "to": "2026-10-25T15:45:33.162Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:45:37.338Z",
+   "to": "2026-10-25T15:45:37.338Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:45:37.338Z",
+   "to": "2026-10-25T15:45:37.338Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:45:37.338Z",
+   "to": "2026-10-25T15:45:37.338Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:45:37.338Z",
+   "to": "2026-10-25T15:45:37.338Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:45:40.240Z",
+   "to": "2026-10-25T15:45:40.240Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:45:40.240Z",
+   "to": "2026-10-25T15:45:40.240Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:45:40.240Z",
+   "to": "2026-10-25T15:45:40.240Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:45:40.240Z",
+   "to": "2026-10-25T15:45:40.240Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-25T15:50:04.663Z",
+   "to": "2026-10-25T15:50:04.663Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Minor delays between Queen's Park and Stonebridge Park while we fix a signal failure at Kensal Green. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:50:04.663Z",
+   "to": "2026-10-25T15:50:04.663Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-25T15:50:04.663Z",
+   "to": "2026-10-25T15:50:04.663Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:50:04.663Z",
+   "to": "2026-10-25T15:50:04.663Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-25T15:50:04.663Z",
+   "to": "2026-10-25T15:50:04.663Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
