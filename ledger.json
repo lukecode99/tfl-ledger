@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-26T18:30:10.173Z",
- "sinceISO": "2026-08-27T18:30:03.893Z",
+ "generatedAt": "2026-10-26T18:40:28.138Z",
+ "sinceISO": "2026-08-27T18:40:23.242Z",
  "coverage": [
   {
-   "from": "2026-08-27T18:30:04.806Z",
+   "from": "2026-08-27T18:45:01.848Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 13941
+   "polls": 13938
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,24 +14,33 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-26T18:30:03.315Z",
-   "polls": 38345
+   "to": "2026-10-26T18:40:22.966Z",
+   "polls": 38360
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-27T18:30:04.806Z",
+   "from": "2026-08-27T18:45:01.848Z",
    "to": "2026-08-27T20:00:10.731Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays while we fix equipment damaged by vandalism and due to train cancellations. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). "
   },
   {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-08-27T18:45:01.848Z",
+   "to": "2026-08-27T20:20:03.968Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Minor delays between Earl's Court and Whitechapel while we deal with a trespasser on the track at Embankment. GOOD SERVICE on the rest of the line.  "
+  },
+  {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-27T18:30:04.806Z",
+   "from": "2026-08-27T18:45:01.848Z",
    "to": "2026-08-28T00:15:01.514Z",
    "severity": 5,
    "description": "Part Closure",
@@ -40,7 +49,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-27T18:30:04.806Z",
+   "from": "2026-08-27T18:45:01.848Z",
    "to": "2026-08-27T20:40:04.308Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -49,20 +58,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-27T18:30:04.806Z",
+   "from": "2026-08-27T18:45:01.848Z",
    "to": "2026-08-27T19:00:11.006Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Windrush Line: Severe delays between Sydenham and West Croydon due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-08-27T18:40:04.144Z",
-   "to": "2026-08-27T20:20:03.968Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: Minor delays between Earl's Court and Whitechapel while we deal with a trespasser on the track at Embankment. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "elizabeth",
@@ -662459,7 +662459,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-26T17:05:04.322Z",
-   "to": "2026-10-26T18:30:03.315Z",
+   "to": "2026-10-26T18:40:22.966Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations.  "
@@ -665006,7 +665006,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-10-26T18:25:04.536Z",
-   "to": "2026-10-26T18:30:03.315Z",
+   "to": "2026-10-26T18:40:22.966Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to earlier faulty platform edge doors at Canary Wharf.  "
@@ -665249,7 +665249,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-26T18:30:03.315Z",
-   "to": "2026-10-26T18:30:03.315Z",
+   "to": "2026-10-26T18:30:18.020Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
@@ -665259,6 +665259,555 @@
    "lineName": "Suffragette",
    "from": "2026-10-26T18:30:03.315Z",
    "to": "2026-10-26T18:30:03.315Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:30:18.020Z",
+   "to": "2026-10-26T18:30:18.020Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:30:18.020Z",
+   "to": "2026-10-26T18:30:26.778Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:30:18.020Z",
+   "to": "2026-10-26T18:30:18.020Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:30:18.020Z",
+   "to": "2026-10-26T18:30:18.020Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:30:26.778Z",
+   "to": "2026-10-26T18:30:26.778Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:30:26.778Z",
+   "to": "2026-10-26T18:30:27.316Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:30:26.778Z",
+   "to": "2026-10-26T18:30:26.778Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:30:26.778Z",
+   "to": "2026-10-26T18:30:26.778Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:30:27.316Z",
+   "to": "2026-10-26T18:30:27.316Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:30:27.316Z",
+   "to": "2026-10-26T18:30:41.526Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:30:27.316Z",
+   "to": "2026-10-26T18:30:27.316Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:30:27.316Z",
+   "to": "2026-10-26T18:30:27.316Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:30:41.526Z",
+   "to": "2026-10-26T18:30:41.526Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:30:41.526Z",
+   "to": "2026-10-26T18:30:45.914Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:30:41.526Z",
+   "to": "2026-10-26T18:30:41.526Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:30:41.526Z",
+   "to": "2026-10-26T18:30:41.526Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:30:45.914Z",
+   "to": "2026-10-26T18:30:45.914Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:30:45.914Z",
+   "to": "2026-10-26T18:30:48.368Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:30:45.914Z",
+   "to": "2026-10-26T18:30:45.914Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:30:45.914Z",
+   "to": "2026-10-26T18:30:45.914Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:30:48.368Z",
+   "to": "2026-10-26T18:30:48.368Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:30:48.368Z",
+   "to": "2026-10-26T18:35:05.023Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:30:48.368Z",
+   "to": "2026-10-26T18:30:48.368Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:30:48.368Z",
+   "to": "2026-10-26T18:30:48.368Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:35:05.023Z",
+   "to": "2026-10-26T18:35:05.023Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:35:05.023Z",
+   "to": "2026-10-26T18:35:09.200Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:35:05.023Z",
+   "to": "2026-10-26T18:35:05.023Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:35:05.023Z",
+   "to": "2026-10-26T18:35:05.023Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:35:09.200Z",
+   "to": "2026-10-26T18:35:09.200Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:35:09.200Z",
+   "to": "2026-10-26T18:35:11.706Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:35:09.200Z",
+   "to": "2026-10-26T18:35:09.200Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:35:09.200Z",
+   "to": "2026-10-26T18:35:09.200Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:35:11.706Z",
+   "to": "2026-10-26T18:35:11.706Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:35:11.706Z",
+   "to": "2026-10-26T18:35:57.230Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:35:11.706Z",
+   "to": "2026-10-26T18:35:11.706Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:35:11.706Z",
+   "to": "2026-10-26T18:35:11.706Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:35:57.230Z",
+   "to": "2026-10-26T18:35:57.230Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:35:57.230Z",
+   "to": "2026-10-26T18:35:58.072Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:35:57.230Z",
+   "to": "2026-10-26T18:35:57.230Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:35:57.230Z",
+   "to": "2026-10-26T18:35:57.230Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:35:58.072Z",
+   "to": "2026-10-26T18:35:58.072Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:35:58.072Z",
+   "to": "2026-10-26T18:36:06.626Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:35:58.072Z",
+   "to": "2026-10-26T18:35:58.072Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:35:58.072Z",
+   "to": "2026-10-26T18:35:58.072Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:36:06.626Z",
+   "to": "2026-10-26T18:36:06.626Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:36:06.626Z",
+   "to": "2026-10-26T18:36:07.029Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:36:06.626Z",
+   "to": "2026-10-26T18:36:06.626Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:36:06.626Z",
+   "to": "2026-10-26T18:36:06.626Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:36:07.029Z",
+   "to": "2026-10-26T18:36:07.029Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:36:07.029Z",
+   "to": "2026-10-26T18:40:02.935Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:36:07.029Z",
+   "to": "2026-10-26T18:36:07.029Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:36:07.029Z",
+   "to": "2026-10-26T18:36:07.029Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:40:02.935Z",
+   "to": "2026-10-26T18:40:02.935Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:40:02.935Z",
+   "to": "2026-10-26T18:40:22.966Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-26T18:40:02.935Z",
+   "to": "2026-10-26T18:40:22.966Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Amersham/Chesham and Watford due to a tree on the track affecting Chiltern services. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:40:02.935Z",
+   "to": "2026-10-26T18:40:02.935Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:40:02.935Z",
+   "to": "2026-10-26T18:40:02.935Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:40:22.966Z",
+   "to": "2026-10-26T18:40:22.966Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-26T18:40:22.966Z",
+   "to": "2026-10-26T18:40:22.966Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:40:22.966Z",
+   "to": "2026-10-26T18:40:22.966Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T18:40:22.966Z",
+   "to": "2026-10-26T18:40:22.966Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
