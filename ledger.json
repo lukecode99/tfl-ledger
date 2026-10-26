@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-26T13:05:11.082Z",
- "sinceISO": "2026-08-27T13:05:05.001Z",
+ "generatedAt": "2026-10-26T13:35:10.016Z",
+ "sinceISO": "2026-08-27T13:35:04.889Z",
  "coverage": [
   {
-   "from": "2026-08-27T13:10:04.506Z",
+   "from": "2026-08-27T13:40:04.402Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14005
+   "polls": 13999
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,16 +14,16 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-26T13:05:04.669Z",
-   "polls": 37891
+   "to": "2026-10-26T13:35:04.597Z",
+   "polls": 37933
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-27T13:10:04.506Z",
-   "to": "2026-08-27T13:10:04.506Z",
+   "from": "2026-08-27T13:40:04.402Z",
+   "to": "2026-08-27T13:40:04.402Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
@@ -31,8 +31,8 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-27T13:10:04.506Z",
-   "to": "2026-08-27T13:10:04.506Z",
+   "from": "2026-08-27T13:40:04.402Z",
+   "to": "2026-08-27T13:40:04.402Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
@@ -40,7 +40,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-27T13:10:04.506Z",
+   "from": "2026-08-27T13:40:04.402Z",
    "to": "2026-08-27T13:50:04.473Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -49,34 +49,25 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-27T13:10:04.506Z",
-   "to": "2026-08-27T13:10:04.506Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a signal failure at Chesham, and between Moor Park and Watford while we fix a signal failure at Watford. MINOR DELAYS between Harrow-on-the-Hill and Aldgate / Uxbridge due to an earlier fire alert at Willesden Green. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-27T13:10:04.506Z",
-   "to": "2026-08-27T13:10:04.506Z",
+   "from": "2026-08-27T13:40:04.402Z",
+   "to": "2026-08-27T14:45:02.170Z",
    "severity": 3,
    "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a signal failure at Chesham, and between Moor Park and Watford while we fix a signal failure at Watford. MINOR DELAYS between Harrow-on-the-Hill and Aldgate / Uxbridge due to an earlier fire alert at Willesden Green. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+   "reason": "Metropolitan Line: No service between Watford and Moor Park while we fix a signal failure at Watford. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
   },
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-27T13:10:04.506Z",
-   "to": "2026-08-27T13:15:01.947Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: Severe delays due to train cancellations. "
+   "from": "2026-08-27T13:40:04.402Z",
+   "to": "2026-08-27T13:50:04.473Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Mildmay Line: Minor delays due to train cancellations. "
   },
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-08-27T13:10:04.506Z",
+   "from": "2026-08-27T13:40:04.402Z",
    "to": "2026-08-27T14:55:02.007Z",
    "severity": 5,
    "description": "Part Closure",
@@ -85,200 +76,11 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-08-27T13:10:04.506Z",
+   "from": "2026-08-27T13:40:04.402Z",
    "to": "2026-08-27T14:30:04.605Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Suffragette Line: Minor delays due to an earlier fault with the overhead power lines at Harringay Green Lanes. London Underground are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-27T13:10:04.506Z",
-   "to": "2026-08-27T13:10:04.506Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between Surrey Quays and New Cross due to train cancellations. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-27T13:15:01.947Z",
-   "to": "2026-08-27T13:15:01.947Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-27T13:15:01.947Z",
-   "to": "2026-08-27T13:15:01.947Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-27T13:15:01.947Z",
-   "to": "2026-08-27T13:15:01.947Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a signal failure at Chesham, and between Moor Park and Watford while we fix a signal failure at Watford. MINOR DELAYS between Harrow-on-the-Hill and Aldgate / Uxbridge due to an earlier fire alert at Willesden Green. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-27T13:15:01.947Z",
-   "to": "2026-08-27T13:15:01.947Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a signal failure at Chesham, and between Moor Park and Watford while we fix a signal failure at Watford. MINOR DELAYS between Harrow-on-the-Hill and Aldgate / Uxbridge due to an earlier fire alert at Willesden Green. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-27T13:20:04.506Z",
-   "to": "2026-08-27T13:20:04.506Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-27T13:20:04.506Z",
-   "to": "2026-08-27T13:20:04.506Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-27T13:20:04.506Z",
-   "to": "2026-08-27T13:20:04.506Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a signal failure at Chesham, and between Moor Park and Watford while we fix a signal failure at Watford. MINOR DELAYS between Harrow-on-the-Hill and Aldgate / Uxbridge due to an earlier fire alert at Willesden Green. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-27T13:20:04.506Z",
-   "to": "2026-08-27T13:20:04.506Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a signal failure at Chesham, and between Moor Park and Watford while we fix a signal failure at Watford. MINOR DELAYS between Harrow-on-the-Hill and Aldgate / Uxbridge due to an earlier fire alert at Willesden Green. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-27T13:20:04.506Z",
-   "to": "2026-08-27T13:50:04.473Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Mildmay Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-27T13:25:02.021Z",
-   "to": "2026-08-27T13:25:02.021Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-27T13:25:02.021Z",
-   "to": "2026-08-27T13:25:02.021Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-27T13:25:02.021Z",
-   "to": "2026-08-27T13:25:02.021Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a signal failure at Chesham, and between Moor Park and Watford while we fix a signal failure at Watford. MINOR DELAYS between Harrow-on-the-Hill and Aldgate / Uxbridge due to an earlier fire alert at Willesden Green. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-27T13:25:02.021Z",
-   "to": "2026-08-27T13:25:02.021Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a signal failure at Chesham, and between Moor Park and Watford while we fix a signal failure at Watford. MINOR DELAYS between Harrow-on-the-Hill and Aldgate / Uxbridge due to an earlier fire alert at Willesden Green. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-27T13:30:04.734Z",
-   "to": "2026-08-27T13:30:04.734Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-27T13:30:04.734Z",
-   "to": "2026-08-27T13:30:04.734Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-27T13:30:04.734Z",
-   "to": "2026-08-27T14:45:02.170Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Watford and Moor Park while we fix a signal failure at Watford. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-27T13:35:01.858Z",
-   "to": "2026-08-27T13:35:01.858Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-27T13:35:01.858Z",
-   "to": "2026-08-27T13:35:01.858Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-27T13:40:04.402Z",
-   "to": "2026-08-27T13:40:04.402Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-27T13:40:04.402Z",
-   "to": "2026-08-27T13:40:04.402Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
   },
   {
    "line": "central",
@@ -646871,7 +646673,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-26T07:40:50.022Z",
-   "to": "2026-10-26T13:05:04.669Z",
+   "to": "2026-10-26T13:35:04.597Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
@@ -654620,10 +654422,784 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-26T13:05:04.669Z",
-   "to": "2026-10-26T13:05:04.669Z",
+   "to": "2026-10-26T13:31:06.264Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays due to an earlier signal failure at Honor Oak Park.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:05:27.949Z",
+   "to": "2026-10-26T13:05:27.949Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:05:27.949Z",
+   "to": "2026-10-26T13:05:27.949Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:05:30.625Z",
+   "to": "2026-10-26T13:05:30.625Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:05:30.625Z",
+   "to": "2026-10-26T13:05:30.625Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:05:51.543Z",
+   "to": "2026-10-26T13:05:51.543Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:05:51.543Z",
+   "to": "2026-10-26T13:05:51.543Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:05:51.875Z",
+   "to": "2026-10-26T13:05:51.875Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:05:51.875Z",
+   "to": "2026-10-26T13:05:51.875Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:05:59.906Z",
+   "to": "2026-10-26T13:05:59.906Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:05:59.906Z",
+   "to": "2026-10-26T13:05:59.906Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:06:00.250Z",
+   "to": "2026-10-26T13:06:00.250Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:06:00.250Z",
+   "to": "2026-10-26T13:06:00.250Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:10:03.114Z",
+   "to": "2026-10-26T13:10:03.114Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:10:03.114Z",
+   "to": "2026-10-26T13:10:03.114Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:10:03.494Z",
+   "to": "2026-10-26T13:10:03.494Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:10:03.494Z",
+   "to": "2026-10-26T13:10:03.494Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:10:12.282Z",
+   "to": "2026-10-26T13:10:12.282Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:10:12.282Z",
+   "to": "2026-10-26T13:10:12.282Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:10:14.856Z",
+   "to": "2026-10-26T13:10:14.856Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:10:14.856Z",
+   "to": "2026-10-26T13:10:14.856Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:11:08.685Z",
+   "to": "2026-10-26T13:11:08.685Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:11:08.685Z",
+   "to": "2026-10-26T13:11:08.685Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:11:13.427Z",
+   "to": "2026-10-26T13:11:13.427Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:11:13.427Z",
+   "to": "2026-10-26T13:11:13.427Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:11:15.677Z",
+   "to": "2026-10-26T13:11:15.677Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:11:15.677Z",
+   "to": "2026-10-26T13:11:15.677Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:15:04.537Z",
+   "to": "2026-10-26T13:15:04.537Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:15:04.537Z",
+   "to": "2026-10-26T13:15:04.537Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:15:09.179Z",
+   "to": "2026-10-26T13:15:09.179Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:15:09.179Z",
+   "to": "2026-10-26T13:15:09.179Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:15:11.603Z",
+   "to": "2026-10-26T13:15:11.603Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:15:11.603Z",
+   "to": "2026-10-26T13:15:11.603Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:16:20.768Z",
+   "to": "2026-10-26T13:16:20.768Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:16:20.768Z",
+   "to": "2026-10-26T13:16:20.768Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:16:21.586Z",
+   "to": "2026-10-26T13:16:21.586Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:16:21.586Z",
+   "to": "2026-10-26T13:16:21.586Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:16:31.244Z",
+   "to": "2026-10-26T13:16:31.244Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:16:31.244Z",
+   "to": "2026-10-26T13:16:31.244Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:16:31.958Z",
+   "to": "2026-10-26T13:16:31.958Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:16:31.958Z",
+   "to": "2026-10-26T13:16:31.958Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:20:03.333Z",
+   "to": "2026-10-26T13:20:03.333Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:20:03.333Z",
+   "to": "2026-10-26T13:20:03.333Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:20:03.724Z",
+   "to": "2026-10-26T13:20:03.724Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:20:03.724Z",
+   "to": "2026-10-26T13:20:03.724Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:20:12.155Z",
+   "to": "2026-10-26T13:20:12.155Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:20:12.155Z",
+   "to": "2026-10-26T13:20:12.155Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:20:12.586Z",
+   "to": "2026-10-26T13:20:12.586Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:20:12.586Z",
+   "to": "2026-10-26T13:20:12.586Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:20:32.514Z",
+   "to": "2026-10-26T13:20:32.514Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:20:32.514Z",
+   "to": "2026-10-26T13:20:32.514Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:20:36.653Z",
+   "to": "2026-10-26T13:20:36.653Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:20:36.653Z",
+   "to": "2026-10-26T13:20:36.653Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:20:38.824Z",
+   "to": "2026-10-26T13:20:38.824Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:20:38.824Z",
+   "to": "2026-10-26T13:20:38.824Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:25:04.678Z",
+   "to": "2026-10-26T13:25:04.678Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:25:04.678Z",
+   "to": "2026-10-26T13:25:04.678Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:25:08.791Z",
+   "to": "2026-10-26T13:25:08.791Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:25:08.791Z",
+   "to": "2026-10-26T13:25:08.791Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:25:10.991Z",
+   "to": "2026-10-26T13:25:10.991Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:25:10.991Z",
+   "to": "2026-10-26T13:25:10.991Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:25:44.590Z",
+   "to": "2026-10-26T13:25:44.590Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:25:44.590Z",
+   "to": "2026-10-26T13:25:44.590Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:25:44.903Z",
+   "to": "2026-10-26T13:25:44.903Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:25:44.903Z",
+   "to": "2026-10-26T13:25:44.903Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:25:53.024Z",
+   "to": "2026-10-26T13:25:53.024Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:25:53.024Z",
+   "to": "2026-10-26T13:25:53.024Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:25:53.369Z",
+   "to": "2026-10-26T13:25:53.369Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:25:53.369Z",
+   "to": "2026-10-26T13:25:53.369Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:30:02.681Z",
+   "to": "2026-10-26T13:30:02.681Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:30:02.681Z",
+   "to": "2026-10-26T13:30:02.681Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:30:04.348Z",
+   "to": "2026-10-26T13:30:04.348Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:30:04.348Z",
+   "to": "2026-10-26T13:30:04.348Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:30:12.672Z",
+   "to": "2026-10-26T13:30:12.672Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:30:12.672Z",
+   "to": "2026-10-26T13:30:12.672Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:30:13.060Z",
+   "to": "2026-10-26T13:30:13.060Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:30:13.060Z",
+   "to": "2026-10-26T13:30:13.060Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:30:59.611Z",
+   "to": "2026-10-26T13:30:59.611Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:30:59.611Z",
+   "to": "2026-10-26T13:30:59.611Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:31:03.961Z",
+   "to": "2026-10-26T13:31:03.961Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:31:03.961Z",
+   "to": "2026-10-26T13:31:03.961Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:31:06.264Z",
+   "to": "2026-10-26T13:31:06.264Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:31:06.264Z",
+   "to": "2026-10-26T13:31:06.264Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:35:04.597Z",
+   "to": "2026-10-26T13:35:04.597Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T13:35:04.597Z",
+   "to": "2026-10-26T13:35:04.597Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-10-26T13:35:04.597Z",
+   "to": "2026-10-26T13:35:04.597Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Windrush Line: No service between New Cross Gate and West Croydon / Crystal Palace while we fix a signal failure at Honor Oak Park. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-10-26T13:35:04.597Z",
+   "to": "2026-10-26T13:35:04.597Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Windrush Line: No service between New Cross Gate and West Croydon / Crystal Palace while we fix a signal failure at Honor Oak Park. MINOR DELAYS on the rest of the line. "
   }
  ]
 }
