@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-26T05:05:13.426Z",
- "sinceISO": "2026-08-27T05:05:03.554Z",
+ "generatedAt": "2026-10-26T05:45:10.236Z",
+ "sinceISO": "2026-08-27T05:45:03.381Z",
  "coverage": [
   {
-   "from": "2026-08-27T05:10:05.247Z",
+   "from": "2026-08-27T05:50:05.218Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 14101
+   "polls": 14093
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,159 +14,60 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-26T05:05:03.004Z",
-   "polls": 37247
+   "to": "2026-10-26T05:45:03.110Z",
+   "polls": 37303
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-27T05:10:05.247Z",
-   "to": "2026-08-27T05:15:01.860Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we respond to a fire alert at Harlesden. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-08-27T05:10:05.247Z",
-   "to": "2026-08-27T05:50:05.218Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-27T05:10:05.247Z",
-   "to": "2026-08-27T05:10:05.247Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Lioness Line: No service between Watford Junction and Euston southbound only  while we respond to a fire alert at Harlesden. Tickets are being accepted on London Buses.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-08-27T05:10:05.247Z",
-   "to": "2026-08-27T07:45:02.206Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-27T05:10:05.247Z",
-   "to": "2026-08-27T08:15:02.094Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-08-27T05:10:05.247Z",
-   "to": "2026-08-27T09:40:12.682Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Victoria Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-08-27T05:15:01.860Z",
-   "to": "2026-08-27T05:35:01.787Z",
-   "severity": 2,
-   "description": "Suspended",
-   "reason": "Lioness Line: No service on the entire line while we respond to a fire alert at Harlesden. Tickets are being accepted on London Buses.  "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-27T05:20:05.596Z",
-   "to": "2026-08-27T05:20:05.596Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we respond to a fire alert at Harlesden. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-27T05:20:05.596Z",
-   "to": "2026-08-27T05:20:05.596Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we respond to a fire alert at Harlesden. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-08-27T05:20:05.596Z",
-   "to": "2026-08-27T05:20:05.596Z",
-   "severity": 2,
-   "description": "Suspended",
-   "reason": "Suffragette Line: No service on the entire line while we fix a fault with the overhead power lines. London Underground are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-27T05:25:01.988Z",
-   "to": "2026-08-27T05:25:01.988Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we respond to a fire alert at Harlesden. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-27T05:25:01.988Z",
-   "to": "2026-08-27T05:25:01.988Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we respond to a fire alert at Harlesden. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-08-27T05:25:01.988Z",
-   "to": "2026-08-27T09:15:02.050Z",
-   "severity": 2,
-   "description": "Suspended",
-   "reason": "Suffragette Line: No service on the entire line while we fix a fault with the overhead power lines at Harringay Green Lanes. London Underground are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-27T05:30:07.869Z",
-   "to": "2026-08-27T05:30:07.869Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we respond to a fire alert at Harlesden. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-27T05:30:07.869Z",
-   "to": "2026-08-27T05:30:07.869Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we respond to a fire alert at Harlesden. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-08-27T05:35:01.787Z",
+   "from": "2026-08-27T05:50:05.218Z",
    "to": "2026-08-27T06:15:02.674Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays due to an earlier fire alert at Harlesden. "
   },
   {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-08-27T05:50:05.218Z",
+   "to": "2026-08-27T05:50:05.218Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-08-27T05:50:05.218Z",
+   "to": "2026-08-27T05:50:05.218Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service anti-clockwise while we respond to a fire alert at South Kensington. SEVERE DELAYS clockwise.  "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-08-27T05:50:05.218Z",
+   "to": "2026-08-27T05:50:05.218Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service anti-clockwise while we respond to a fire alert at South Kensington. SEVERE DELAYS clockwise.  "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-08-27T05:50:05.218Z",
+   "to": "2026-08-27T05:50:05.218Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service anti-clockwise while we respond to a fire alert at South Kensington. SEVERE DELAYS clockwise.  "
+  },
+  {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-27T05:35:01.787Z",
+   "from": "2026-08-27T05:50:05.218Z",
    "to": "2026-08-27T06:20:06.020Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -175,38 +76,47 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-27T05:40:04.272Z",
+   "from": "2026-08-27T05:50:05.218Z",
    "to": "2026-08-27T07:10:03.848Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Lioness Line: Severe delays due to an earlier fire alert at Harlesden. Tickets are being accepted on London Buses.  "
   },
   {
-   "line": "circle",
-   "lineName": "Circle",
+   "line": "mildmay",
+   "lineName": "Mildmay",
    "from": "2026-08-27T05:50:05.218Z",
-   "to": "2026-08-27T05:50:05.218Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service anti-clockwise while we respond to a fire alert at South Kensington. SEVERE DELAYS clockwise.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-08-27T05:50:05.218Z",
-   "to": "2026-08-27T05:50:05.218Z",
+   "to": "2026-08-27T07:45:02.206Z",
    "severity": 6,
    "description": "Severe Delays",
-   "reason": "Circle Line: No service anti-clockwise while we respond to a fire alert at South Kensington. SEVERE DELAYS clockwise.  "
+   "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. "
   },
   {
-   "line": "circle",
-   "lineName": "Circle",
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
    "from": "2026-08-27T05:50:05.218Z",
-   "to": "2026-08-27T05:50:05.218Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service anti-clockwise while we respond to a fire alert at South Kensington. SEVERE DELAYS clockwise.  "
+   "to": "2026-08-27T08:15:02.094Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-08-27T05:50:05.218Z",
+   "to": "2026-08-27T09:15:02.050Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Suffragette Line: No service on the entire line while we fix a fault with the overhead power lines at Harringay Green Lanes. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-08-27T05:50:05.218Z",
+   "to": "2026-08-27T09:40:12.682Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
   },
   {
    "line": "central",
@@ -634181,7 +634091,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-26T01:10:04.279Z",
-   "to": "2026-10-26T05:05:03.004Z",
+   "to": "2026-10-26T05:45:03.110Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
@@ -639347,7 +639257,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-26T05:05:03.004Z",
-   "to": "2026-10-26T05:05:03.004Z",
+   "to": "2026-10-26T05:05:20.705Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
@@ -639366,6 +639276,3039 @@
    "lineName": "Suffragette",
    "from": "2026-10-26T05:05:03.004Z",
    "to": "2026-10-26T05:05:03.004Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:05:20.705Z",
+   "to": "2026-10-26T05:05:20.705Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:05:20.705Z",
+   "to": "2026-10-26T05:05:20.705Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:05:20.705Z",
+   "to": "2026-10-26T05:05:20.705Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:05:20.705Z",
+   "to": "2026-10-26T05:05:29.017Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:05:20.705Z",
+   "to": "2026-10-26T05:05:20.705Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:05:20.705Z",
+   "to": "2026-10-26T05:05:20.705Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:05:29.017Z",
+   "to": "2026-10-26T05:05:29.017Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:05:29.017Z",
+   "to": "2026-10-26T05:05:29.017Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:05:29.017Z",
+   "to": "2026-10-26T05:05:29.017Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:05:29.017Z",
+   "to": "2026-10-26T05:05:29.394Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:05:29.017Z",
+   "to": "2026-10-26T05:05:29.017Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:05:29.017Z",
+   "to": "2026-10-26T05:05:29.017Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:05:29.394Z",
+   "to": "2026-10-26T05:05:29.394Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:05:29.394Z",
+   "to": "2026-10-26T05:05:29.394Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:05:29.394Z",
+   "to": "2026-10-26T05:05:29.394Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:05:29.394Z",
+   "to": "2026-10-26T05:05:29.394Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:05:29.394Z",
+   "to": "2026-10-26T05:05:29.394Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:05:29.394Z",
+   "to": "2026-10-26T05:05:29.394Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:06:20.503Z",
+   "to": "2026-10-26T05:06:20.503Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:06:20.503Z",
+   "to": "2026-10-26T05:06:20.503Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:06:20.503Z",
+   "to": "2026-10-26T05:06:20.503Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:06:20.503Z",
+   "to": "2026-10-26T05:06:20.503Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:06:20.503Z",
+   "to": "2026-10-26T05:06:20.503Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:06:20.503Z",
+   "to": "2026-10-26T05:06:20.503Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:06:25.552Z",
+   "to": "2026-10-26T05:06:25.552Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:06:25.552Z",
+   "to": "2026-10-26T05:06:25.552Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:06:25.552Z",
+   "to": "2026-10-26T05:06:25.552Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:06:25.552Z",
+   "to": "2026-10-26T05:06:25.552Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:06:25.552Z",
+   "to": "2026-10-26T05:06:25.552Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:06:25.552Z",
+   "to": "2026-10-26T05:06:25.552Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:06:30.922Z",
+   "to": "2026-10-26T05:06:30.922Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:06:30.922Z",
+   "to": "2026-10-26T05:06:30.922Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:06:30.922Z",
+   "to": "2026-10-26T05:06:30.922Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:06:30.922Z",
+   "to": "2026-10-26T05:06:30.922Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:06:30.922Z",
+   "to": "2026-10-26T05:06:30.922Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:06:30.922Z",
+   "to": "2026-10-26T05:06:30.922Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:10:04.418Z",
+   "to": "2026-10-26T05:10:04.418Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:10:04.418Z",
+   "to": "2026-10-26T05:10:04.418Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:10:04.418Z",
+   "to": "2026-10-26T05:10:04.418Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:10:04.418Z",
+   "to": "2026-10-26T05:10:04.418Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:10:04.418Z",
+   "to": "2026-10-26T05:10:04.418Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:10:04.418Z",
+   "to": "2026-10-26T05:10:04.418Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:10:08.602Z",
+   "to": "2026-10-26T05:10:08.602Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:10:08.602Z",
+   "to": "2026-10-26T05:10:08.602Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:10:08.602Z",
+   "to": "2026-10-26T05:10:08.602Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:10:08.602Z",
+   "to": "2026-10-26T05:10:08.602Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:10:08.602Z",
+   "to": "2026-10-26T05:10:08.602Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:10:08.602Z",
+   "to": "2026-10-26T05:10:08.602Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:10:10.915Z",
+   "to": "2026-10-26T05:10:10.915Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:10:10.915Z",
+   "to": "2026-10-26T05:10:10.915Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:10:10.915Z",
+   "to": "2026-10-26T05:10:10.915Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:10:10.915Z",
+   "to": "2026-10-26T05:10:10.915Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:10:10.915Z",
+   "to": "2026-10-26T05:10:10.915Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:10:10.915Z",
+   "to": "2026-10-26T05:10:10.915Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:10:28.973Z",
+   "to": "2026-10-26T05:10:28.973Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:10:28.973Z",
+   "to": "2026-10-26T05:10:28.973Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:10:28.973Z",
+   "to": "2026-10-26T05:10:28.973Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:10:28.973Z",
+   "to": "2026-10-26T05:10:28.973Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:10:28.973Z",
+   "to": "2026-10-26T05:10:28.973Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:10:28.973Z",
+   "to": "2026-10-26T05:10:28.973Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:10:29.556Z",
+   "to": "2026-10-26T05:10:29.556Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:10:29.556Z",
+   "to": "2026-10-26T05:10:29.556Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:10:29.556Z",
+   "to": "2026-10-26T05:10:29.556Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:10:29.556Z",
+   "to": "2026-10-26T05:10:29.556Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:10:29.556Z",
+   "to": "2026-10-26T05:10:29.556Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:10:29.556Z",
+   "to": "2026-10-26T05:10:29.556Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:10:37.844Z",
+   "to": "2026-10-26T05:10:37.844Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:10:37.844Z",
+   "to": "2026-10-26T05:10:37.844Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:10:37.844Z",
+   "to": "2026-10-26T05:10:37.844Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:10:37.844Z",
+   "to": "2026-10-26T05:10:37.844Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:10:37.844Z",
+   "to": "2026-10-26T05:10:37.844Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:10:37.844Z",
+   "to": "2026-10-26T05:10:37.844Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:10:38.426Z",
+   "to": "2026-10-26T05:10:38.426Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:10:38.426Z",
+   "to": "2026-10-26T05:10:38.426Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:10:38.426Z",
+   "to": "2026-10-26T05:10:38.426Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:10:38.426Z",
+   "to": "2026-10-26T05:10:38.426Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:10:38.426Z",
+   "to": "2026-10-26T05:10:38.426Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:10:38.426Z",
+   "to": "2026-10-26T05:10:38.426Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:15:02.276Z",
+   "to": "2026-10-26T05:15:02.276Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:15:02.276Z",
+   "to": "2026-10-26T05:15:02.276Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:15:02.276Z",
+   "to": "2026-10-26T05:15:02.276Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:15:02.276Z",
+   "to": "2026-10-26T05:15:02.276Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:15:02.276Z",
+   "to": "2026-10-26T05:15:02.276Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:15:02.276Z",
+   "to": "2026-10-26T05:15:02.276Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:15:02.711Z",
+   "to": "2026-10-26T05:15:02.711Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:15:02.711Z",
+   "to": "2026-10-26T05:15:02.711Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:15:02.711Z",
+   "to": "2026-10-26T05:15:02.711Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:15:02.711Z",
+   "to": "2026-10-26T05:15:02.711Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:15:02.711Z",
+   "to": "2026-10-26T05:15:02.711Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:15:02.711Z",
+   "to": "2026-10-26T05:15:02.711Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:15:11.017Z",
+   "to": "2026-10-26T05:15:11.017Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:15:11.017Z",
+   "to": "2026-10-26T05:15:11.017Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:15:11.017Z",
+   "to": "2026-10-26T05:15:11.017Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:15:11.017Z",
+   "to": "2026-10-26T05:15:11.017Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:15:11.017Z",
+   "to": "2026-10-26T05:15:11.017Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:15:11.017Z",
+   "to": "2026-10-26T05:15:11.017Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:15:11.622Z",
+   "to": "2026-10-26T05:15:11.622Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:15:11.622Z",
+   "to": "2026-10-26T05:15:11.622Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:15:11.622Z",
+   "to": "2026-10-26T05:15:11.622Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:15:11.622Z",
+   "to": "2026-10-26T05:15:11.622Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:15:11.622Z",
+   "to": "2026-10-26T05:15:11.622Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:15:11.622Z",
+   "to": "2026-10-26T05:15:11.622Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:15:44.601Z",
+   "to": "2026-10-26T05:15:44.601Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:15:44.601Z",
+   "to": "2026-10-26T05:15:44.601Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:15:44.601Z",
+   "to": "2026-10-26T05:15:44.601Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:15:44.601Z",
+   "to": "2026-10-26T05:15:44.601Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:15:44.601Z",
+   "to": "2026-10-26T05:15:44.601Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:15:44.601Z",
+   "to": "2026-10-26T05:15:44.601Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:15:49.134Z",
+   "to": "2026-10-26T05:15:49.134Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:15:49.134Z",
+   "to": "2026-10-26T05:15:49.134Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:15:49.134Z",
+   "to": "2026-10-26T05:15:49.134Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:15:49.134Z",
+   "to": "2026-10-26T05:15:49.134Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:15:49.134Z",
+   "to": "2026-10-26T05:15:49.134Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:15:49.134Z",
+   "to": "2026-10-26T05:15:49.134Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:15:51.492Z",
+   "to": "2026-10-26T05:15:51.492Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:15:51.492Z",
+   "to": "2026-10-26T05:15:51.492Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:15:51.492Z",
+   "to": "2026-10-26T05:15:51.492Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:15:51.492Z",
+   "to": "2026-10-26T05:15:51.492Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:15:51.492Z",
+   "to": "2026-10-26T05:15:51.492Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:15:51.492Z",
+   "to": "2026-10-26T05:15:51.492Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:20:04.246Z",
+   "to": "2026-10-26T05:20:04.246Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:20:04.246Z",
+   "to": "2026-10-26T05:20:04.246Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:20:04.246Z",
+   "to": "2026-10-26T05:20:04.246Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:20:04.246Z",
+   "to": "2026-10-26T05:20:04.246Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:20:04.246Z",
+   "to": "2026-10-26T05:20:04.246Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:20:04.246Z",
+   "to": "2026-10-26T05:20:04.246Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:20:09.073Z",
+   "to": "2026-10-26T05:20:09.073Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:20:09.073Z",
+   "to": "2026-10-26T05:20:09.073Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:20:09.073Z",
+   "to": "2026-10-26T05:20:09.073Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:20:09.073Z",
+   "to": "2026-10-26T05:20:09.073Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:20:09.073Z",
+   "to": "2026-10-26T05:20:09.073Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:20:09.073Z",
+   "to": "2026-10-26T05:20:09.073Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:20:11.247Z",
+   "to": "2026-10-26T05:20:11.247Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:20:11.247Z",
+   "to": "2026-10-26T05:20:11.247Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:20:11.247Z",
+   "to": "2026-10-26T05:20:11.247Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:20:11.247Z",
+   "to": "2026-10-26T05:20:11.247Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:20:11.247Z",
+   "to": "2026-10-26T05:20:11.247Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:20:11.247Z",
+   "to": "2026-10-26T05:20:11.247Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:20:57.034Z",
+   "to": "2026-10-26T05:20:57.034Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:20:57.034Z",
+   "to": "2026-10-26T05:20:57.034Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:20:57.034Z",
+   "to": "2026-10-26T05:20:57.034Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:20:57.034Z",
+   "to": "2026-10-26T05:20:57.034Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:20:57.034Z",
+   "to": "2026-10-26T05:20:57.034Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:20:57.034Z",
+   "to": "2026-10-26T05:20:57.034Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:20:57.792Z",
+   "to": "2026-10-26T05:20:57.792Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:20:57.792Z",
+   "to": "2026-10-26T05:20:57.792Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:20:57.792Z",
+   "to": "2026-10-26T05:20:57.792Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:20:57.792Z",
+   "to": "2026-10-26T05:20:57.792Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:20:57.792Z",
+   "to": "2026-10-26T05:20:57.792Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:20:57.792Z",
+   "to": "2026-10-26T05:20:57.792Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:21:06.062Z",
+   "to": "2026-10-26T05:21:06.062Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:21:06.062Z",
+   "to": "2026-10-26T05:21:06.062Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:21:06.062Z",
+   "to": "2026-10-26T05:21:06.062Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:21:06.062Z",
+   "to": "2026-10-26T05:21:06.062Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:21:06.062Z",
+   "to": "2026-10-26T05:21:06.062Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:21:06.062Z",
+   "to": "2026-10-26T05:21:06.062Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:21:06.598Z",
+   "to": "2026-10-26T05:21:06.598Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:21:06.598Z",
+   "to": "2026-10-26T05:21:06.598Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:21:06.598Z",
+   "to": "2026-10-26T05:21:06.598Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:21:06.598Z",
+   "to": "2026-10-26T05:21:06.598Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:21:06.598Z",
+   "to": "2026-10-26T05:21:06.598Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:21:06.598Z",
+   "to": "2026-10-26T05:21:06.598Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:25:02.226Z",
+   "to": "2026-10-26T05:25:02.226Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:25:02.226Z",
+   "to": "2026-10-26T05:25:02.226Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:25:02.226Z",
+   "to": "2026-10-26T05:25:02.226Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:25:02.226Z",
+   "to": "2026-10-26T05:25:02.226Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:25:02.226Z",
+   "to": "2026-10-26T05:25:02.226Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:25:02.226Z",
+   "to": "2026-10-26T05:25:02.226Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:25:03.165Z",
+   "to": "2026-10-26T05:25:03.165Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:25:03.165Z",
+   "to": "2026-10-26T05:25:03.165Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:25:03.165Z",
+   "to": "2026-10-26T05:25:03.165Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:25:03.165Z",
+   "to": "2026-10-26T05:25:03.165Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:25:03.165Z",
+   "to": "2026-10-26T05:25:03.165Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:25:03.165Z",
+   "to": "2026-10-26T05:25:03.165Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:25:11.672Z",
+   "to": "2026-10-26T05:25:11.672Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:25:11.672Z",
+   "to": "2026-10-26T05:25:11.672Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:25:11.672Z",
+   "to": "2026-10-26T05:25:11.672Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:25:11.672Z",
+   "to": "2026-10-26T05:25:11.672Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:25:11.672Z",
+   "to": "2026-10-26T05:25:11.672Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:25:11.672Z",
+   "to": "2026-10-26T05:25:11.672Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:25:12.031Z",
+   "to": "2026-10-26T05:25:12.031Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:25:12.031Z",
+   "to": "2026-10-26T05:25:12.031Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:25:12.031Z",
+   "to": "2026-10-26T05:25:12.031Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:25:12.031Z",
+   "to": "2026-10-26T05:25:12.031Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:25:12.031Z",
+   "to": "2026-10-26T05:25:12.031Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:25:12.031Z",
+   "to": "2026-10-26T05:25:12.031Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:26:12.439Z",
+   "to": "2026-10-26T05:26:12.439Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:26:12.439Z",
+   "to": "2026-10-26T05:26:12.439Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:26:12.439Z",
+   "to": "2026-10-26T05:26:12.439Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:26:12.439Z",
+   "to": "2026-10-26T05:26:12.439Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:26:12.439Z",
+   "to": "2026-10-26T05:26:12.439Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:26:12.439Z",
+   "to": "2026-10-26T05:26:12.439Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:26:16.836Z",
+   "to": "2026-10-26T05:26:16.836Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:26:16.836Z",
+   "to": "2026-10-26T05:26:16.836Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:26:16.836Z",
+   "to": "2026-10-26T05:26:16.836Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:26:16.836Z",
+   "to": "2026-10-26T05:26:16.836Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:26:16.836Z",
+   "to": "2026-10-26T05:26:16.836Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:26:16.836Z",
+   "to": "2026-10-26T05:26:16.836Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:26:19.636Z",
+   "to": "2026-10-26T05:26:19.636Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:26:19.636Z",
+   "to": "2026-10-26T05:26:19.636Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:26:19.636Z",
+   "to": "2026-10-26T05:26:19.636Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:26:19.636Z",
+   "to": "2026-10-26T05:26:19.636Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:26:19.636Z",
+   "to": "2026-10-26T05:26:19.636Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:26:19.636Z",
+   "to": "2026-10-26T05:26:19.636Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:30:04.802Z",
+   "to": "2026-10-26T05:30:04.802Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:30:04.802Z",
+   "to": "2026-10-26T05:30:04.802Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:30:04.802Z",
+   "to": "2026-10-26T05:30:04.802Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:30:04.802Z",
+   "to": "2026-10-26T05:30:04.802Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:30:04.802Z",
+   "to": "2026-10-26T05:30:04.802Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:30:04.802Z",
+   "to": "2026-10-26T05:30:04.802Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:30:08.869Z",
+   "to": "2026-10-26T05:30:08.869Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:30:08.869Z",
+   "to": "2026-10-26T05:30:08.869Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:30:08.869Z",
+   "to": "2026-10-26T05:30:08.869Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:30:08.869Z",
+   "to": "2026-10-26T05:30:08.869Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:30:08.869Z",
+   "to": "2026-10-26T05:30:08.869Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:30:08.869Z",
+   "to": "2026-10-26T05:30:08.869Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:30:11.103Z",
+   "to": "2026-10-26T05:30:11.103Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:30:11.103Z",
+   "to": "2026-10-26T05:30:11.103Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:30:11.103Z",
+   "to": "2026-10-26T05:30:11.103Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:30:11.103Z",
+   "to": "2026-10-26T05:30:11.103Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:30:11.103Z",
+   "to": "2026-10-26T05:30:11.103Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:30:11.103Z",
+   "to": "2026-10-26T05:30:11.103Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:30:20.879Z",
+   "to": "2026-10-26T05:30:20.879Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:30:20.879Z",
+   "to": "2026-10-26T05:30:20.879Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:30:20.879Z",
+   "to": "2026-10-26T05:30:20.879Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:30:20.879Z",
+   "to": "2026-10-26T05:30:20.879Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:30:20.879Z",
+   "to": "2026-10-26T05:30:20.879Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:30:20.879Z",
+   "to": "2026-10-26T05:30:20.879Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:30:21.255Z",
+   "to": "2026-10-26T05:30:21.255Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:30:21.255Z",
+   "to": "2026-10-26T05:30:21.255Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:30:21.255Z",
+   "to": "2026-10-26T05:30:21.255Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:30:21.255Z",
+   "to": "2026-10-26T05:30:21.255Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:30:21.255Z",
+   "to": "2026-10-26T05:30:21.255Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:30:21.255Z",
+   "to": "2026-10-26T05:30:21.255Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:30:30.214Z",
+   "to": "2026-10-26T05:30:30.214Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:30:30.214Z",
+   "to": "2026-10-26T05:30:30.214Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:30:30.214Z",
+   "to": "2026-10-26T05:30:30.214Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:30:30.214Z",
+   "to": "2026-10-26T05:30:30.214Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:30:30.214Z",
+   "to": "2026-10-26T05:30:30.214Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:30:30.214Z",
+   "to": "2026-10-26T05:30:30.214Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:30:30.583Z",
+   "to": "2026-10-26T05:30:30.583Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:30:30.583Z",
+   "to": "2026-10-26T05:30:30.583Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:30:30.583Z",
+   "to": "2026-10-26T05:30:30.583Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:30:30.583Z",
+   "to": "2026-10-26T05:30:30.583Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:30:30.583Z",
+   "to": "2026-10-26T05:30:30.583Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:30:30.583Z",
+   "to": "2026-10-26T05:30:30.583Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:35:02.976Z",
+   "to": "2026-10-26T05:35:02.976Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:35:02.976Z",
+   "to": "2026-10-26T05:35:02.976Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:35:02.976Z",
+   "to": "2026-10-26T05:35:02.976Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:35:02.976Z",
+   "to": "2026-10-26T05:35:02.976Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:35:02.976Z",
+   "to": "2026-10-26T05:35:02.976Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:35:02.976Z",
+   "to": "2026-10-26T05:35:02.976Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:35:03.383Z",
+   "to": "2026-10-26T05:35:03.383Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:35:03.383Z",
+   "to": "2026-10-26T05:35:03.383Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:35:03.383Z",
+   "to": "2026-10-26T05:35:03.383Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:35:03.383Z",
+   "to": "2026-10-26T05:35:03.383Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:35:03.383Z",
+   "to": "2026-10-26T05:35:03.383Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:35:03.383Z",
+   "to": "2026-10-26T05:35:03.383Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:35:12.749Z",
+   "to": "2026-10-26T05:35:12.749Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:35:12.749Z",
+   "to": "2026-10-26T05:35:12.749Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:35:12.749Z",
+   "to": "2026-10-26T05:35:12.749Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:35:12.749Z",
+   "to": "2026-10-26T05:35:12.749Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:35:12.749Z",
+   "to": "2026-10-26T05:35:12.749Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:35:12.749Z",
+   "to": "2026-10-26T05:35:12.749Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:35:13.308Z",
+   "to": "2026-10-26T05:35:13.308Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:35:13.308Z",
+   "to": "2026-10-26T05:35:13.308Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:35:13.308Z",
+   "to": "2026-10-26T05:35:13.308Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:35:13.308Z",
+   "to": "2026-10-26T05:35:13.308Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:35:13.308Z",
+   "to": "2026-10-26T05:35:13.308Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:35:13.308Z",
+   "to": "2026-10-26T05:35:13.308Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:35:37.659Z",
+   "to": "2026-10-26T05:35:37.659Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:35:37.659Z",
+   "to": "2026-10-26T05:35:37.659Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:35:37.659Z",
+   "to": "2026-10-26T05:35:37.659Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:35:37.659Z",
+   "to": "2026-10-26T05:35:37.659Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:35:37.659Z",
+   "to": "2026-10-26T05:35:37.659Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:35:37.659Z",
+   "to": "2026-10-26T05:35:37.659Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:35:41.811Z",
+   "to": "2026-10-26T05:35:41.811Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:35:41.811Z",
+   "to": "2026-10-26T05:35:41.811Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:35:41.811Z",
+   "to": "2026-10-26T05:35:41.811Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:35:41.811Z",
+   "to": "2026-10-26T05:35:41.811Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:35:41.811Z",
+   "to": "2026-10-26T05:35:41.811Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:35:41.811Z",
+   "to": "2026-10-26T05:35:41.811Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:35:44.009Z",
+   "to": "2026-10-26T05:35:44.009Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:35:44.009Z",
+   "to": "2026-10-26T05:35:44.009Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:35:44.009Z",
+   "to": "2026-10-26T05:35:44.009Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:35:44.009Z",
+   "to": "2026-10-26T05:35:44.009Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:35:44.009Z",
+   "to": "2026-10-26T05:35:44.009Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:35:44.009Z",
+   "to": "2026-10-26T05:35:44.009Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:40:04.792Z",
+   "to": "2026-10-26T05:40:04.792Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:40:04.792Z",
+   "to": "2026-10-26T05:40:04.792Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:40:04.792Z",
+   "to": "2026-10-26T05:40:04.792Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:40:04.792Z",
+   "to": "2026-10-26T05:40:04.792Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:40:04.792Z",
+   "to": "2026-10-26T05:40:04.792Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:40:04.792Z",
+   "to": "2026-10-26T05:40:04.792Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:40:08.912Z",
+   "to": "2026-10-26T05:40:08.912Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:40:08.912Z",
+   "to": "2026-10-26T05:40:08.912Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:40:08.912Z",
+   "to": "2026-10-26T05:40:08.912Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:40:08.912Z",
+   "to": "2026-10-26T05:40:08.912Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:40:08.912Z",
+   "to": "2026-10-26T05:40:08.912Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:40:08.912Z",
+   "to": "2026-10-26T05:40:08.912Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:40:11.163Z",
+   "to": "2026-10-26T05:40:11.163Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:40:11.163Z",
+   "to": "2026-10-26T05:40:11.163Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:40:11.163Z",
+   "to": "2026-10-26T05:40:11.163Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:40:11.163Z",
+   "to": "2026-10-26T05:40:11.163Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:40:11.163Z",
+   "to": "2026-10-26T05:40:11.163Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:40:11.163Z",
+   "to": "2026-10-26T05:40:11.163Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:40:51.435Z",
+   "to": "2026-10-26T05:40:51.435Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:40:51.435Z",
+   "to": "2026-10-26T05:40:51.435Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:40:51.435Z",
+   "to": "2026-10-26T05:40:51.435Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:40:51.435Z",
+   "to": "2026-10-26T05:40:51.435Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:40:51.435Z",
+   "to": "2026-10-26T05:40:51.435Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:40:51.435Z",
+   "to": "2026-10-26T05:40:51.435Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:40:51.835Z",
+   "to": "2026-10-26T05:40:51.835Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:40:51.835Z",
+   "to": "2026-10-26T05:40:51.835Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:40:51.835Z",
+   "to": "2026-10-26T05:40:51.835Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:40:51.835Z",
+   "to": "2026-10-26T05:40:51.835Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:40:51.835Z",
+   "to": "2026-10-26T05:40:51.835Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:40:51.835Z",
+   "to": "2026-10-26T05:40:51.835Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:41:00.047Z",
+   "to": "2026-10-26T05:41:00.047Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:41:00.047Z",
+   "to": "2026-10-26T05:41:00.047Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:41:00.047Z",
+   "to": "2026-10-26T05:41:00.047Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:41:00.047Z",
+   "to": "2026-10-26T05:41:00.047Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:41:00.047Z",
+   "to": "2026-10-26T05:41:00.047Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:41:00.047Z",
+   "to": "2026-10-26T05:41:00.047Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:41:00.660Z",
+   "to": "2026-10-26T05:41:00.660Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:41:00.660Z",
+   "to": "2026-10-26T05:41:00.660Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:41:00.660Z",
+   "to": "2026-10-26T05:41:00.660Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:41:00.660Z",
+   "to": "2026-10-26T05:41:00.660Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:41:00.660Z",
+   "to": "2026-10-26T05:41:00.660Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:41:00.660Z",
+   "to": "2026-10-26T05:41:00.660Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:45:03.110Z",
+   "to": "2026-10-26T05:45:03.110Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-26T05:45:03.110Z",
+   "to": "2026-10-26T05:45:03.110Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:45:03.110Z",
+   "to": "2026-10-26T05:45:03.110Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-26T05:45:03.110Z",
+   "to": "2026-10-26T05:45:03.110Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-26T05:45:03.110Z",
+   "to": "2026-10-26T05:45:03.110Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Battersea Power Station and Kennington northbound only following a late finish of engineering work. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:45:03.110Z",
+   "to": "2026-10-26T05:45:03.110Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-26T05:45:03.110Z",
+   "to": "2026-10-26T05:45:03.110Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
