@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-27T08:05:10.874Z",
- "sinceISO": "2026-08-28T08:05:03.645Z",
+ "generatedAt": "2026-10-27T08:20:11.808Z",
+ "sinceISO": "2026-08-28T08:20:01.570Z",
  "coverage": [
   {
-   "from": "2026-08-28T08:10:04.588Z",
+   "from": "2026-08-28T08:20:04.467Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 13777
+   "polls": 13775
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-27T08:05:03.265Z",
-   "polls": 39485
+   "to": "2026-10-27T08:20:00.675Z",
+   "polls": 39506
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-28T08:10:04.588Z",
+   "from": "2026-08-28T08:20:04.467Z",
    "to": "2026-08-28T16:00:11.688Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-28T08:10:04.588Z",
+   "from": "2026-08-28T08:20:04.467Z",
    "to": "2026-08-28T13:00:12.109Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -691268,7 +691268,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-10-27T06:56:09.606Z",
-   "to": "2026-10-27T08:05:03.265Z",
+   "to": "2026-10-27T08:20:00.675Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays due to train cancellations. "
@@ -692888,7 +692888,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-27T07:16:08.064Z",
-   "to": "2026-10-27T08:05:03.265Z",
+   "to": "2026-10-27T08:20:00.675Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays due to train cancellations. "
@@ -694985,7 +694985,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-27T07:45:03.705Z",
-   "to": "2026-10-27T08:05:03.265Z",
+   "to": "2026-10-27T08:20:00.675Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line:  Minor delays due to train cancellations. "
@@ -696497,7 +696497,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-27T08:05:03.265Z",
-   "to": "2026-10-27T08:05:03.265Z",
+   "to": "2026-10-27T08:20:00.675Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays due to an earlier signal failure at Balham. \r\nTickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway Services. "
@@ -696516,6 +696516,753 @@
    "lineName": "Suffragette",
    "from": "2026-10-27T08:05:03.265Z",
    "to": "2026-10-27T08:05:03.265Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:05:20.994Z",
+   "to": "2026-10-27T08:05:20.994Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:05:20.994Z",
+   "to": "2026-10-27T08:05:20.994Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:05:20.994Z",
+   "to": "2026-10-27T08:05:20.994Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:05:20.994Z",
+   "to": "2026-10-27T08:05:20.994Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:05:32.549Z",
+   "to": "2026-10-27T08:05:32.549Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:05:32.549Z",
+   "to": "2026-10-27T08:05:32.549Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:05:32.549Z",
+   "to": "2026-10-27T08:05:32.549Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:05:32.549Z",
+   "to": "2026-10-27T08:05:32.549Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:05:32.928Z",
+   "to": "2026-10-27T08:05:32.928Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:05:32.928Z",
+   "to": "2026-10-27T08:05:32.928Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:05:32.928Z",
+   "to": "2026-10-27T08:05:32.928Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:05:32.928Z",
+   "to": "2026-10-27T08:05:32.928Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:05:44.946Z",
+   "to": "2026-10-27T08:05:44.946Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:05:44.946Z",
+   "to": "2026-10-27T08:05:44.946Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:05:44.946Z",
+   "to": "2026-10-27T08:05:44.946Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:05:44.946Z",
+   "to": "2026-10-27T08:05:44.946Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:05:53.976Z",
+   "to": "2026-10-27T08:05:53.976Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:05:53.976Z",
+   "to": "2026-10-27T08:05:53.976Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:05:53.976Z",
+   "to": "2026-10-27T08:05:53.976Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:05:53.976Z",
+   "to": "2026-10-27T08:05:53.976Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:05:54.405Z",
+   "to": "2026-10-27T08:05:54.405Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:05:54.405Z",
+   "to": "2026-10-27T08:05:54.405Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:05:54.405Z",
+   "to": "2026-10-27T08:05:54.405Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:05:54.405Z",
+   "to": "2026-10-27T08:05:54.405Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:10:00.836Z",
+   "to": "2026-10-27T08:10:00.836Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:10:00.836Z",
+   "to": "2026-10-27T08:10:00.836Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:10:00.836Z",
+   "to": "2026-10-27T08:10:00.836Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:10:00.836Z",
+   "to": "2026-10-27T08:10:00.836Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:10:10.427Z",
+   "to": "2026-10-27T08:10:10.427Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:10:10.427Z",
+   "to": "2026-10-27T08:10:10.427Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:10:10.427Z",
+   "to": "2026-10-27T08:10:10.427Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:10:10.427Z",
+   "to": "2026-10-27T08:10:10.427Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:10:11.273Z",
+   "to": "2026-10-27T08:10:11.273Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:10:11.273Z",
+   "to": "2026-10-27T08:10:11.273Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:10:11.273Z",
+   "to": "2026-10-27T08:10:11.273Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:10:11.273Z",
+   "to": "2026-10-27T08:10:11.273Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:11:03.784Z",
+   "to": "2026-10-27T08:11:03.784Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:11:03.784Z",
+   "to": "2026-10-27T08:11:03.784Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:11:03.784Z",
+   "to": "2026-10-27T08:11:03.784Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:11:03.784Z",
+   "to": "2026-10-27T08:11:03.784Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:11:10.278Z",
+   "to": "2026-10-27T08:11:10.278Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:11:10.278Z",
+   "to": "2026-10-27T08:11:10.278Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:11:10.278Z",
+   "to": "2026-10-27T08:11:10.278Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:11:10.278Z",
+   "to": "2026-10-27T08:11:10.278Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:11:18.945Z",
+   "to": "2026-10-27T08:11:18.945Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:11:18.945Z",
+   "to": "2026-10-27T08:11:18.945Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:11:18.945Z",
+   "to": "2026-10-27T08:11:18.945Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:11:18.945Z",
+   "to": "2026-10-27T08:11:18.945Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:11:25.354Z",
+   "to": "2026-10-27T08:11:25.354Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:11:25.354Z",
+   "to": "2026-10-27T08:11:25.354Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:11:25.354Z",
+   "to": "2026-10-27T08:11:25.354Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:11:25.354Z",
+   "to": "2026-10-27T08:11:25.354Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:15:03.240Z",
+   "to": "2026-10-27T08:15:03.240Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:15:03.240Z",
+   "to": "2026-10-27T08:15:03.240Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:15:03.240Z",
+   "to": "2026-10-27T08:15:03.240Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:15:03.240Z",
+   "to": "2026-10-27T08:15:03.240Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:15:05.796Z",
+   "to": "2026-10-27T08:15:05.796Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:15:05.796Z",
+   "to": "2026-10-27T08:15:05.796Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:15:05.796Z",
+   "to": "2026-10-27T08:15:05.796Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:15:05.796Z",
+   "to": "2026-10-27T08:15:05.796Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:15:14.814Z",
+   "to": "2026-10-27T08:15:14.814Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:15:14.814Z",
+   "to": "2026-10-27T08:15:14.814Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:15:14.814Z",
+   "to": "2026-10-27T08:15:14.814Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:15:14.814Z",
+   "to": "2026-10-27T08:15:14.814Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:15:15.229Z",
+   "to": "2026-10-27T08:15:15.229Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:15:15.229Z",
+   "to": "2026-10-27T08:15:15.229Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:15:15.229Z",
+   "to": "2026-10-27T08:15:15.229Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:15:15.229Z",
+   "to": "2026-10-27T08:15:15.229Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:16:20.231Z",
+   "to": "2026-10-27T08:16:20.231Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:16:20.231Z",
+   "to": "2026-10-27T08:16:20.231Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:16:20.231Z",
+   "to": "2026-10-27T08:16:20.231Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:16:20.231Z",
+   "to": "2026-10-27T08:16:20.231Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:16:28.680Z",
+   "to": "2026-10-27T08:16:28.680Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:16:28.680Z",
+   "to": "2026-10-27T08:16:28.680Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:16:28.680Z",
+   "to": "2026-10-27T08:16:28.680Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:16:28.680Z",
+   "to": "2026-10-27T08:16:28.680Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:16:30.469Z",
+   "to": "2026-10-27T08:16:30.469Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:16:30.469Z",
+   "to": "2026-10-27T08:16:30.469Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:16:30.469Z",
+   "to": "2026-10-27T08:16:30.469Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:16:30.469Z",
+   "to": "2026-10-27T08:16:30.469Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:20:00.675Z",
+   "to": "2026-10-27T08:20:00.675Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Abbey Wood and Heathrow Terminals / Reading while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways, Great Western Railway and Chiltern Railway services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:20:00.675Z",
+   "to": "2026-10-27T08:20:00.675Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:20:00.675Z",
+   "to": "2026-10-27T08:20:00.675Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
