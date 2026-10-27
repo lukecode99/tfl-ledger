@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-27T07:50:10.275Z",
- "sinceISO": "2026-08-28T07:50:03.678Z",
+ "generatedAt": "2026-10-27T08:00:09.985Z",
+ "sinceISO": "2026-08-28T08:00:02.191Z",
  "coverage": [
   {
-   "from": "2026-08-28T07:50:05.951Z",
+   "from": "2026-08-28T08:00:11.784Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 13781
+   "polls": 13779
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,28 +14,19 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-27T07:50:00.540Z",
-   "polls": 39464
+   "to": "2026-10-27T08:00:00.757Z",
+   "polls": 39478
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-28T07:50:05.951Z",
+   "from": "2026-08-28T08:00:11.784Z",
    "to": "2026-08-28T16:00:11.688Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-08-28T07:50:05.951Z",
-   "to": "2026-08-28T07:55:01.796Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
   },
   {
    "line": "circle",
@@ -691277,7 +691268,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-10-27T06:56:09.606Z",
-   "to": "2026-10-27T07:50:00.540Z",
+   "to": "2026-10-27T08:00:00.757Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays due to train cancellations. "
@@ -692294,7 +692285,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-10-27T07:10:00.458Z",
-   "to": "2026-10-27T07:50:00.540Z",
+   "to": "2026-10-27T07:56:13.784Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Docklands Light Railway: Minor delays between Beckton and Tower Gateway while we fix a faulty train at Royal Albert. GOOD SERVICE on the rest of the line. "
@@ -692897,7 +692888,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-10-27T07:16:08.064Z",
-   "to": "2026-10-27T07:50:00.540Z",
+   "to": "2026-10-27T08:00:00.757Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays due to train cancellations. "
@@ -694994,7 +694985,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-27T07:45:03.705Z",
-   "to": "2026-10-27T07:50:00.540Z",
+   "to": "2026-10-27T08:00:00.757Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line:  Minor delays due to train cancellations. "
@@ -695337,6 +695328,771 @@
    "lineName": "Suffragette",
    "from": "2026-10-27T07:50:00.540Z",
    "to": "2026-10-27T07:50:00.540Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:50:26.996Z",
+   "to": "2026-10-27T07:50:26.996Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:50:26.996Z",
+   "to": "2026-10-27T07:50:26.996Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:50:26.996Z",
+   "to": "2026-10-27T07:50:26.996Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:50:26.996Z",
+   "to": "2026-10-27T07:50:26.996Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:50:26.996Z",
+   "to": "2026-10-27T07:50:26.996Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:50:26.996Z",
+   "to": "2026-10-27T07:50:26.996Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:50:27.400Z",
+   "to": "2026-10-27T07:50:27.400Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:50:27.400Z",
+   "to": "2026-10-27T07:50:27.400Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:50:27.400Z",
+   "to": "2026-10-27T07:50:27.400Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:50:27.400Z",
+   "to": "2026-10-27T07:50:27.400Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:50:27.400Z",
+   "to": "2026-10-27T07:50:27.400Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:50:27.400Z",
+   "to": "2026-10-27T07:50:27.400Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:50:52.234Z",
+   "to": "2026-10-27T07:50:52.234Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:50:52.234Z",
+   "to": "2026-10-27T07:50:52.234Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:50:52.234Z",
+   "to": "2026-10-27T07:50:52.234Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:50:52.234Z",
+   "to": "2026-10-27T07:50:52.234Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:50:52.234Z",
+   "to": "2026-10-27T07:50:52.234Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:50:52.234Z",
+   "to": "2026-10-27T07:50:52.234Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:50:54.516Z",
+   "to": "2026-10-27T07:50:54.516Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:50:54.516Z",
+   "to": "2026-10-27T07:50:54.516Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:50:54.516Z",
+   "to": "2026-10-27T07:50:54.516Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:50:54.516Z",
+   "to": "2026-10-27T07:50:54.516Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:50:54.516Z",
+   "to": "2026-10-27T07:50:54.516Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:50:54.516Z",
+   "to": "2026-10-27T07:50:54.516Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:51:03.343Z",
+   "to": "2026-10-27T07:51:03.343Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:51:03.343Z",
+   "to": "2026-10-27T07:51:03.343Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:51:03.343Z",
+   "to": "2026-10-27T07:51:03.343Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:51:03.343Z",
+   "to": "2026-10-27T07:51:03.343Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:51:03.343Z",
+   "to": "2026-10-27T07:51:03.343Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:51:03.343Z",
+   "to": "2026-10-27T07:51:03.343Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:51:04.102Z",
+   "to": "2026-10-27T07:51:04.102Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:51:04.102Z",
+   "to": "2026-10-27T07:51:04.102Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:51:04.102Z",
+   "to": "2026-10-27T07:51:04.102Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:51:04.102Z",
+   "to": "2026-10-27T07:51:04.102Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:51:04.102Z",
+   "to": "2026-10-27T07:51:04.102Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:51:04.102Z",
+   "to": "2026-10-27T07:51:04.102Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:55:02.878Z",
+   "to": "2026-10-27T07:55:02.878Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:55:02.878Z",
+   "to": "2026-10-27T07:55:02.878Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:55:02.878Z",
+   "to": "2026-10-27T07:55:02.878Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:55:02.878Z",
+   "to": "2026-10-27T07:55:02.878Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:55:02.878Z",
+   "to": "2026-10-27T07:55:02.878Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:55:02.878Z",
+   "to": "2026-10-27T07:55:02.878Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:55:05.324Z",
+   "to": "2026-10-27T07:55:05.324Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:55:05.324Z",
+   "to": "2026-10-27T07:55:05.324Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:55:05.324Z",
+   "to": "2026-10-27T07:55:05.324Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:55:05.324Z",
+   "to": "2026-10-27T07:55:05.324Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:55:05.324Z",
+   "to": "2026-10-27T07:55:05.324Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:55:05.324Z",
+   "to": "2026-10-27T07:55:05.324Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:55:13.735Z",
+   "to": "2026-10-27T07:55:13.735Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:55:13.735Z",
+   "to": "2026-10-27T07:55:13.735Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:55:13.735Z",
+   "to": "2026-10-27T07:55:13.735Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:55:13.735Z",
+   "to": "2026-10-27T07:55:13.735Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:55:13.735Z",
+   "to": "2026-10-27T07:55:13.735Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:55:13.735Z",
+   "to": "2026-10-27T07:55:13.735Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:55:14.112Z",
+   "to": "2026-10-27T07:55:14.112Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:55:14.112Z",
+   "to": "2026-10-27T07:55:14.112Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:55:14.112Z",
+   "to": "2026-10-27T07:55:14.112Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:55:14.112Z",
+   "to": "2026-10-27T07:55:14.112Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:55:14.112Z",
+   "to": "2026-10-27T07:55:14.112Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:55:14.112Z",
+   "to": "2026-10-27T07:55:14.112Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:56:04.593Z",
+   "to": "2026-10-27T07:56:04.593Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:56:04.593Z",
+   "to": "2026-10-27T07:56:04.593Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:56:04.593Z",
+   "to": "2026-10-27T07:56:04.593Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:56:04.593Z",
+   "to": "2026-10-27T07:56:04.593Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:56:04.593Z",
+   "to": "2026-10-27T07:56:04.593Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:56:04.593Z",
+   "to": "2026-10-27T07:56:04.593Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:56:13.426Z",
+   "to": "2026-10-27T07:56:13.426Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:56:13.426Z",
+   "to": "2026-10-27T07:56:13.426Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:56:13.426Z",
+   "to": "2026-10-27T07:56:13.426Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:56:13.426Z",
+   "to": "2026-10-27T07:56:13.426Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:56:13.426Z",
+   "to": "2026-10-27T07:56:13.426Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:56:13.426Z",
+   "to": "2026-10-27T07:56:13.426Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:56:13.784Z",
+   "to": "2026-10-27T07:56:13.784Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T07:56:13.784Z",
+   "to": "2026-10-27T07:56:13.784Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:56:13.784Z",
+   "to": "2026-10-27T07:56:13.784Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T07:56:13.784Z",
+   "to": "2026-10-27T07:56:13.784Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays between Kennington and Morden due to an earlier signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams,, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:56:13.784Z",
+   "to": "2026-10-27T07:56:13.784Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T07:56:13.784Z",
+   "to": "2026-10-27T07:56:13.784Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:00:00.757Z",
+   "to": "2026-10-27T08:00:00.757Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-27T08:00:00.757Z",
+   "to": "2026-10-27T08:00:00.757Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T08:00:00.757Z",
+   "to": "2026-10-27T08:00:00.757Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: No service between Morden and Stockwell northbound only and Severe delays between Kennington and Morden while we fix a signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T08:00:00.757Z",
+   "to": "2026-10-27T08:00:00.757Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: No service between Morden and Stockwell northbound only and Severe delays between Kennington and Morden while we fix a signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T08:00:00.757Z",
+   "to": "2026-10-27T08:00:00.757Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Morden and Stockwell northbound only and Severe delays between Kennington and Morden while we fix a signal failure at Balham. MINOR DELAYS on the rest of the line.\r\nTickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway Services. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:00:00.757Z",
+   "to": "2026-10-27T08:00:00.757Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T08:00:00.757Z",
+   "to": "2026-10-27T08:00:00.757Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
