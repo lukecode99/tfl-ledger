@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-27T00:05:10.772Z",
- "sinceISO": "2026-08-28T00:05:05.066Z",
+ "generatedAt": "2026-10-27T00:30:11.226Z",
+ "sinceISO": "2026-08-28T00:30:03.081Z",
  "coverage": [
   {
-   "from": "2026-08-28T00:10:05.490Z",
+   "from": "2026-08-28T00:30:04.296Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 13873
+   "polls": 13869
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-27T00:05:04.745Z",
-   "polls": 38813
+   "to": "2026-10-27T00:30:02.712Z",
+   "polls": 38848
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-08-28T00:10:05.490Z",
+   "from": "2026-08-28T00:30:04.296Z",
    "to": "2026-08-28T03:10:10.551Z",
    "severity": 20,
    "description": "Service Closed",
@@ -31,7 +31,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-08-28T00:10:05.490Z",
+   "from": "2026-08-28T00:30:04.296Z",
    "to": "2026-08-28T03:10:10.551Z",
    "severity": 20,
    "description": "Service Closed",
@@ -40,7 +40,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-28T00:10:05.490Z",
+   "from": "2026-08-28T00:30:04.296Z",
    "to": "2026-08-28T03:10:10.551Z",
    "severity": 20,
    "description": "Service Closed",
@@ -49,52 +49,16 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-28T00:10:05.490Z",
+   "from": "2026-08-28T00:30:04.296Z",
    "to": "2026-08-28T03:15:01.848Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "District Line: Service will resume later this morning. "
   },
   {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-08-28T00:10:05.490Z",
-   "to": "2026-08-28T00:10:05.490Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "No service between Paddington and Reading while emergency services deal with a casualty on the track. London Underground is accepting tickets via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-08-28T00:10:05.490Z",
-   "to": "2026-08-28T02:55:01.842Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays due to train cancellations. London Buses, London Overground, DLR, Elizabeth line, C2C, and South Western railway are accepting tickets via any reasonable route.\r\n "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-28T00:10:05.490Z",
-   "to": "2026-08-28T00:15:01.514Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-08-28T00:10:05.490Z",
-   "to": "2026-08-28T05:00:12.016Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
-  },
-  {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-08-28T00:15:01.514Z",
+   "from": "2026-08-28T00:30:04.296Z",
    "to": "2026-08-28T03:15:01.848Z",
    "severity": 20,
    "description": "Service Closed",
@@ -103,16 +67,25 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-08-28T00:15:01.514Z",
+   "from": "2026-08-28T00:30:04.296Z",
    "to": "2026-08-28T03:15:01.848Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Service will resume later this morning. "
   },
   {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-08-28T00:30:04.296Z",
+   "to": "2026-08-28T02:55:01.842Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Hammersmith and City Line: Severe delays due to train cancellations. London Buses, London Overground, DLR, Elizabeth line, C2C, and South Western railway are accepting tickets via any reasonable route.\r\n "
+  },
+  {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-28T00:15:01.514Z",
+   "from": "2026-08-28T00:30:04.296Z",
    "to": "2026-08-28T03:15:01.848Z",
    "severity": 20,
    "description": "Service Closed",
@@ -121,7 +94,7 @@
   {
    "line": "liberty",
    "lineName": "Liberty",
-   "from": "2026-08-28T00:15:01.514Z",
+   "from": "2026-08-28T00:30:04.296Z",
    "to": "2026-08-28T03:15:01.848Z",
    "severity": 20,
    "description": "Service Closed",
@@ -130,7 +103,7 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-08-28T00:15:01.514Z",
+   "from": "2026-08-28T00:30:04.296Z",
    "to": "2026-08-28T03:15:01.848Z",
    "severity": 20,
    "description": "Service Closed",
@@ -139,7 +112,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-28T00:15:01.514Z",
+   "from": "2026-08-28T00:30:04.296Z",
    "to": "2026-08-28T03:15:01.848Z",
    "severity": 20,
    "description": "Service Closed",
@@ -148,7 +121,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-08-28T00:15:01.514Z",
+   "from": "2026-08-28T00:30:04.296Z",
    "to": "2026-08-28T03:15:01.848Z",
    "severity": 20,
    "description": "Service Closed",
@@ -157,92 +130,11 @@
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-08-28T00:15:01.514Z",
+   "from": "2026-08-28T00:30:04.296Z",
    "to": "2026-08-28T03:15:01.848Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Northern Line: Service will resume later this morning. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-28T00:15:01.514Z",
-   "to": "2026-08-28T00:15:01.514Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-08-28T00:15:01.514Z",
-   "to": "2026-08-28T03:15:01.848Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-08-28T00:15:01.514Z",
-   "to": "2026-08-28T03:15:01.848Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Victoria Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-08-28T00:15:01.514Z",
-   "to": "2026-08-28T03:15:01.848Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-08-28T00:15:01.514Z",
-   "to": "2026-08-28T03:15:01.848Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Windrush Line: Service will resume later this morning. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-28T00:20:03.901Z",
-   "to": "2026-08-28T00:20:03.901Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-28T00:20:03.901Z",
-   "to": "2026-08-28T00:20:03.901Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-28T00:25:01.413Z",
-   "to": "2026-08-28T00:25:01.413Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-08-28T00:25:01.413Z",
-   "to": "2026-08-28T00:25:01.413Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. "
   },
   {
    "line": "piccadilly",
@@ -261,6 +153,51 @@
    "severity": 20,
    "description": "Service Closed",
    "reason": "Piccadilly Line: Service will resume later this morning. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-08-28T00:30:04.296Z",
+   "to": "2026-08-28T03:15:01.848Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Suffragette Line: Service will resume later this morning. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-08-28T00:30:04.296Z",
+   "to": "2026-08-28T03:15:01.848Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Victoria Line: Service will resume later this morning. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-08-28T00:30:04.296Z",
+   "to": "2026-08-28T05:00:12.016Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-08-28T00:30:04.296Z",
+   "to": "2026-08-28T03:15:01.848Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Weaver Line: Service will resume later this morning. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-08-28T00:30:04.296Z",
+   "to": "2026-08-28T03:15:01.848Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Windrush Line: Service will resume later this morning. "
   },
   {
    "line": "hammersmith-city",
@@ -673142,7 +673079,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-26T20:56:16.087Z",
-   "to": "2026-10-27T00:05:04.745Z",
+   "to": "2026-10-27T00:30:02.712Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -682763,7 +682700,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-26T23:31:25.520Z",
-   "to": "2026-10-27T00:05:04.745Z",
+   "to": "2026-10-27T00:30:02.712Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Monday 26, Tuesday 27, Wednesday 28 and Thursday 29 October, after 2330 each evening, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Crystal Palace, Gipsy Hill, West Norwood, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Norwood Junction and East Croydon (Arr 01:27). One return bus from Crystal Palace departs at 2359, calling at all stations to London Bridge via New Cross Gate. Alternatively, use local buses or trams via any reasonable route. \r\nThe 2232 and 2247 trains from Highbury & Islington to West Croydon will both divert to Crystal Palace. The 2338 train from Dalston Junction to New Cross Gate will not run"
@@ -683096,7 +683033,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-26T23:40:02.882Z",
-   "to": "2026-10-27T00:05:04.745Z",
+   "to": "2026-10-27T00:25:56.881Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Ruislip. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
@@ -683411,7 +683348,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-10-26T23:46:05.151Z",
-   "to": "2026-10-27T00:05:04.745Z",
+   "to": "2026-10-27T00:30:02.712Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "MILDMAY LINE: Monday 26, Tuesday 27, Wednesday 28 and Thursday 29 October, from 2345 each evening, no westbound service from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
@@ -684212,7 +684149,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-10-27T00:05:04.745Z",
-   "to": "2026-10-27T00:05:04.745Z",
+   "to": "2026-10-27T00:30:02.712Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Minor delays between Hayes & Harlington and Maidenhead while we fix a signalling system fault in the Paddington area. GOOD SERVICE on the rest of the line.  "
@@ -684251,6 +684188,1248 @@
    "to": "2026-10-27T00:05:04.745Z",
    "severity": 3,
    "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:05:22.470Z",
+   "to": "2026-10-27T00:05:22.470Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:05:22.470Z",
+   "to": "2026-10-27T00:05:22.470Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:05:22.470Z",
+   "to": "2026-10-27T00:05:22.470Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:05:22.470Z",
+   "to": "2026-10-27T00:05:22.470Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:05:24.706Z",
+   "to": "2026-10-27T00:05:24.706Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:05:24.706Z",
+   "to": "2026-10-27T00:05:24.706Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:05:24.706Z",
+   "to": "2026-10-27T00:05:24.706Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:05:24.706Z",
+   "to": "2026-10-27T00:05:24.706Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:05:49.464Z",
+   "to": "2026-10-27T00:05:49.464Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:05:49.464Z",
+   "to": "2026-10-27T00:05:49.464Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:05:49.464Z",
+   "to": "2026-10-27T00:05:49.464Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:05:49.464Z",
+   "to": "2026-10-27T00:05:49.464Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:05:49.807Z",
+   "to": "2026-10-27T00:05:49.807Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:05:49.807Z",
+   "to": "2026-10-27T00:05:49.807Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:05:49.807Z",
+   "to": "2026-10-27T00:05:49.807Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:05:49.807Z",
+   "to": "2026-10-27T00:05:49.807Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:05:57.602Z",
+   "to": "2026-10-27T00:05:57.602Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:05:57.602Z",
+   "to": "2026-10-27T00:05:57.602Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:05:57.602Z",
+   "to": "2026-10-27T00:05:57.602Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:05:57.602Z",
+   "to": "2026-10-27T00:05:57.602Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:05:57.959Z",
+   "to": "2026-10-27T00:05:57.959Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:05:57.959Z",
+   "to": "2026-10-27T00:05:57.959Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:05:57.959Z",
+   "to": "2026-10-27T00:05:57.959Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:05:57.959Z",
+   "to": "2026-10-27T00:05:57.959Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:10:03.234Z",
+   "to": "2026-10-27T00:10:03.234Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:10:03.234Z",
+   "to": "2026-10-27T00:10:03.234Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:10:03.234Z",
+   "to": "2026-10-27T00:10:03.234Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:10:03.234Z",
+   "to": "2026-10-27T00:10:03.234Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:10:03.606Z",
+   "to": "2026-10-27T00:10:03.606Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:10:03.606Z",
+   "to": "2026-10-27T00:10:03.606Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:10:03.606Z",
+   "to": "2026-10-27T00:10:03.606Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:10:03.606Z",
+   "to": "2026-10-27T00:10:03.606Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:10:11.692Z",
+   "to": "2026-10-27T00:10:11.692Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:10:11.692Z",
+   "to": "2026-10-27T00:10:11.692Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:10:11.692Z",
+   "to": "2026-10-27T00:10:11.692Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:10:11.692Z",
+   "to": "2026-10-27T00:10:11.692Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:10:12.052Z",
+   "to": "2026-10-27T00:10:12.052Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:10:12.052Z",
+   "to": "2026-10-27T00:10:12.052Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:10:12.052Z",
+   "to": "2026-10-27T00:10:12.052Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:10:12.052Z",
+   "to": "2026-10-27T00:10:12.052Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:11:06.053Z",
+   "to": "2026-10-27T00:11:06.053Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:11:06.053Z",
+   "to": "2026-10-27T00:11:06.053Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:11:06.053Z",
+   "to": "2026-10-27T00:11:06.053Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:11:06.053Z",
+   "to": "2026-10-27T00:11:06.053Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:11:11.629Z",
+   "to": "2026-10-27T00:11:11.629Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:11:11.629Z",
+   "to": "2026-10-27T00:11:11.629Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:11:11.629Z",
+   "to": "2026-10-27T00:11:11.629Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:11:11.629Z",
+   "to": "2026-10-27T00:11:11.629Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:11:15.392Z",
+   "to": "2026-10-27T00:11:15.392Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:11:15.392Z",
+   "to": "2026-10-27T00:11:15.392Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:11:15.392Z",
+   "to": "2026-10-27T00:11:15.392Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:11:15.392Z",
+   "to": "2026-10-27T00:11:15.392Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:15:04.854Z",
+   "to": "2026-10-27T00:15:04.854Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:15:04.854Z",
+   "to": "2026-10-27T00:15:04.854Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:15:04.854Z",
+   "to": "2026-10-27T00:15:04.854Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:15:04.854Z",
+   "to": "2026-10-27T00:15:04.854Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:15:09.356Z",
+   "to": "2026-10-27T00:15:09.356Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:15:09.356Z",
+   "to": "2026-10-27T00:15:09.356Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:15:09.356Z",
+   "to": "2026-10-27T00:15:09.356Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:15:09.356Z",
+   "to": "2026-10-27T00:15:09.356Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:15:11.685Z",
+   "to": "2026-10-27T00:15:11.685Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:15:11.685Z",
+   "to": "2026-10-27T00:15:11.685Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:15:11.685Z",
+   "to": "2026-10-27T00:15:11.685Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:15:11.685Z",
+   "to": "2026-10-27T00:15:11.685Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:16:17.880Z",
+   "to": "2026-10-27T00:16:17.880Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:16:17.880Z",
+   "to": "2026-10-27T00:16:17.880Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:16:17.880Z",
+   "to": "2026-10-27T00:16:17.880Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:16:17.880Z",
+   "to": "2026-10-27T00:16:17.880Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:16:18.740Z",
+   "to": "2026-10-27T00:16:18.740Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:16:18.740Z",
+   "to": "2026-10-27T00:16:18.740Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:16:18.740Z",
+   "to": "2026-10-27T00:16:18.740Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:16:18.740Z",
+   "to": "2026-10-27T00:16:18.740Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:16:30.516Z",
+   "to": "2026-10-27T00:16:30.516Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:16:30.516Z",
+   "to": "2026-10-27T00:16:30.516Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:16:30.516Z",
+   "to": "2026-10-27T00:16:30.516Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:16:30.516Z",
+   "to": "2026-10-27T00:16:30.516Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:16:30.867Z",
+   "to": "2026-10-27T00:16:30.867Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:16:30.867Z",
+   "to": "2026-10-27T00:16:30.867Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:16:30.867Z",
+   "to": "2026-10-27T00:16:30.867Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:16:30.867Z",
+   "to": "2026-10-27T00:16:30.867Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:20:03.179Z",
+   "to": "2026-10-27T00:20:03.179Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:20:03.179Z",
+   "to": "2026-10-27T00:20:03.179Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:20:03.179Z",
+   "to": "2026-10-27T00:20:03.179Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:20:03.179Z",
+   "to": "2026-10-27T00:20:03.179Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:20:07.326Z",
+   "to": "2026-10-27T00:20:07.326Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:20:07.326Z",
+   "to": "2026-10-27T00:20:07.326Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:20:07.326Z",
+   "to": "2026-10-27T00:20:07.326Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:20:07.326Z",
+   "to": "2026-10-27T00:20:07.326Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:20:16.232Z",
+   "to": "2026-10-27T00:20:16.232Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:20:16.232Z",
+   "to": "2026-10-27T00:20:16.232Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:20:16.232Z",
+   "to": "2026-10-27T00:20:16.232Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:20:16.232Z",
+   "to": "2026-10-27T00:20:16.232Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:20:16.620Z",
+   "to": "2026-10-27T00:20:16.620Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:20:16.620Z",
+   "to": "2026-10-27T00:20:16.620Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:20:16.620Z",
+   "to": "2026-10-27T00:20:16.620Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:20:16.620Z",
+   "to": "2026-10-27T00:20:16.620Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:20:31.489Z",
+   "to": "2026-10-27T00:20:31.489Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:20:31.489Z",
+   "to": "2026-10-27T00:20:31.489Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:20:31.489Z",
+   "to": "2026-10-27T00:20:31.489Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:20:31.489Z",
+   "to": "2026-10-27T00:20:31.489Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:20:36.286Z",
+   "to": "2026-10-27T00:20:36.286Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:20:36.286Z",
+   "to": "2026-10-27T00:20:36.286Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:20:36.286Z",
+   "to": "2026-10-27T00:20:36.286Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:20:36.286Z",
+   "to": "2026-10-27T00:20:36.286Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:20:38.510Z",
+   "to": "2026-10-27T00:20:38.510Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:20:38.510Z",
+   "to": "2026-10-27T00:20:38.510Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:20:38.510Z",
+   "to": "2026-10-27T00:20:38.510Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:20:38.510Z",
+   "to": "2026-10-27T00:20:38.510Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:25:04.823Z",
+   "to": "2026-10-27T00:25:04.823Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:25:04.823Z",
+   "to": "2026-10-27T00:25:04.823Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:25:04.823Z",
+   "to": "2026-10-27T00:25:04.823Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:25:04.823Z",
+   "to": "2026-10-27T00:25:04.823Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:25:08.974Z",
+   "to": "2026-10-27T00:25:08.974Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:25:08.974Z",
+   "to": "2026-10-27T00:25:08.974Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:25:08.974Z",
+   "to": "2026-10-27T00:25:08.974Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:25:08.974Z",
+   "to": "2026-10-27T00:25:08.974Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:25:11.850Z",
+   "to": "2026-10-27T00:25:11.850Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:25:11.850Z",
+   "to": "2026-10-27T00:25:11.850Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:25:11.850Z",
+   "to": "2026-10-27T00:25:11.850Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:25:11.850Z",
+   "to": "2026-10-27T00:25:11.850Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:25:47.474Z",
+   "to": "2026-10-27T00:25:47.474Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:25:47.474Z",
+   "to": "2026-10-27T00:25:47.474Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:25:47.474Z",
+   "to": "2026-10-27T00:25:47.474Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:25:47.474Z",
+   "to": "2026-10-27T00:25:47.474Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:25:47.828Z",
+   "to": "2026-10-27T00:25:47.828Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:25:47.828Z",
+   "to": "2026-10-27T00:25:47.828Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:25:47.828Z",
+   "to": "2026-10-27T00:25:47.828Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:25:47.828Z",
+   "to": "2026-10-27T00:25:47.828Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:25:56.453Z",
+   "to": "2026-10-27T00:25:56.453Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:25:56.453Z",
+   "to": "2026-10-27T00:25:56.453Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:25:56.453Z",
+   "to": "2026-10-27T00:25:56.453Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:25:56.453Z",
+   "to": "2026-10-27T00:25:56.453Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:25:56.881Z",
+   "to": "2026-10-27T00:25:56.881Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:25:56.881Z",
+   "to": "2026-10-27T00:25:56.881Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:25:56.881Z",
+   "to": "2026-10-27T00:25:56.881Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:25:56.881Z",
+   "to": "2026-10-27T00:25:56.881Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-27T00:30:02.712Z",
+   "to": "2026-10-27T00:30:02.712Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-27T00:30:02.712Z",
+   "to": "2026-10-27T00:30:02.712Z",
+   "severity": 9,
+   "description": "Minor Delays",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
   }
  ]
