@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-28T13:11:45.923Z",
- "sinceISO": "2026-08-29T13:11:40.874Z",
+ "generatedAt": "2026-10-28T13:30:14.433Z",
+ "sinceISO": "2026-08-29T13:30:07.540Z",
  "coverage": [
   {
-   "from": "2026-08-29T13:15:01.920Z",
+   "from": "2026-08-29T13:35:02.129Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 13429
+   "polls": 13425
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-28T13:11:40.590Z",
-   "polls": 41932
+   "to": "2026-10-28T13:30:06.560Z",
+   "polls": 41955
   }
  ],
  "spans": [
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-08-29T13:15:01.920Z",
+   "from": "2026-08-29T13:35:02.129Z",
    "to": "2026-08-29T14:50:05.179Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-08-29T13:15:01.920Z",
+   "from": "2026-08-29T13:35:02.129Z",
    "to": "2026-08-30T00:15:01.769Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,8 +40,17 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-29T13:15:01.920Z",
-   "to": "2026-08-29T13:15:01.920Z",
+   "from": "2026-08-29T13:35:02.129Z",
+   "to": "2026-08-29T13:35:02.129Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-08-29T13:35:02.129Z",
+   "to": "2026-08-29T13:35:02.129Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "The emergency services are responding to a large fire near the railway at Neasden. Until it is made safe, Jubilee and Metropolitan line services are unable to run through the area. Services will be curtailed as follows until early afternoon on Saturday 29 August 2026. Please check before you travel.\r\n\r\nJUBILEE LINE: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line.\r\n\r\nMETROPOLITAN LINE: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line."
@@ -49,17 +58,8 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-08-29T13:15:01.920Z",
-   "to": "2026-08-29T13:15:01.920Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-29T13:15:01.920Z",
-   "to": "2026-08-29T13:15:01.920Z",
+   "from": "2026-08-29T13:35:02.129Z",
+   "to": "2026-08-29T13:35:02.129Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Jubilee Line: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
@@ -67,8 +67,17 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-29T13:15:01.920Z",
-   "to": "2026-08-29T13:15:01.920Z",
+   "from": "2026-08-29T13:35:02.129Z",
+   "to": "2026-08-29T13:35:02.129Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-08-29T13:35:02.129Z",
+   "to": "2026-08-29T13:35:02.129Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "The emergency services are responding to a large fire near the railway at Neasden. Until it is made safe, Jubilee and Metropolitan line services are unable to run through the area. Service is not expected to resume fully until 18:00 today at the earliest. Please check before you travel. Please check before you travel.\r\n\r\nMETROPOLITAN LINE: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line.\r\n\r\nJUBILEE LINE: No service between Wembley Park and Willesden Green and severe delays on the rest of the line."
@@ -76,17 +85,8 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-08-29T13:15:01.920Z",
-   "to": "2026-08-29T13:15:01.920Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-29T13:15:01.920Z",
-   "to": "2026-08-29T13:15:01.920Z",
+   "from": "2026-08-29T13:35:02.129Z",
+   "to": "2026-08-29T13:35:02.129Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
@@ -94,7 +94,7 @@
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-08-29T13:15:01.920Z",
+   "from": "2026-08-29T13:35:02.129Z",
    "to": "2026-08-29T15:20:04.748Z",
    "severity": 5,
    "description": "Part Closure",
@@ -103,7 +103,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-08-29T13:15:01.920Z",
+   "from": "2026-08-29T13:35:02.129Z",
    "to": "2026-08-29T22:00:11.084Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -112,7 +112,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-29T13:15:01.920Z",
+   "from": "2026-08-29T13:35:02.129Z",
    "to": "2026-08-30T00:15:01.769Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -121,227 +121,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-29T13:15:01.920Z",
+   "from": "2026-08-29T13:35:02.129Z",
    "to": "2026-08-31T00:00:12.478Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Saturday 29, Sunday 30 and Monday 31 August, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays, Queens Road Peckham, Peckham Rye, Denmark Hill, Clapham High Street and Wandsworth Road. There will also be no SOUTHERN services at Queens Road Peckham and Peckham Rye, with an additional replacement bus service between London Bridge and Tulse Hill. SOUTHEASTERN and THAMESLINK trains continue to serve Peckham Rye and Denmark Hill."
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-29T13:20:04.660Z",
-   "to": "2026-08-29T13:20:04.660Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "The emergency services are responding to a large fire near the railway at Neasden. Until it is made safe, Jubilee and Metropolitan line services are unable to run through the area. Services will be curtailed as follows until early afternoon on Saturday 29 August 2026. Please check before you travel.\r\n\r\nJUBILEE LINE: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line.\r\n\r\nMETROPOLITAN LINE: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line."
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-29T13:20:04.660Z",
-   "to": "2026-08-29T13:20:04.660Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-29T13:20:04.660Z",
-   "to": "2026-08-29T13:20:04.660Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-29T13:20:04.660Z",
-   "to": "2026-08-29T13:20:04.660Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "The emergency services are responding to a large fire near the railway at Neasden. Until it is made safe, Jubilee and Metropolitan line services are unable to run through the area. Service is not expected to resume fully until 18:00 today at the earliest. Please check before you travel. Please check before you travel.\r\n\r\nMETROPOLITAN LINE: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line.\r\n\r\nJUBILEE LINE: No service between Wembley Park and Willesden Green and severe delays on the rest of the line."
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-29T13:20:04.660Z",
-   "to": "2026-08-29T13:20:04.660Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-29T13:20:04.660Z",
-   "to": "2026-08-29T13:20:04.660Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-29T13:25:01.699Z",
-   "to": "2026-08-29T13:25:01.699Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "The emergency services are responding to a large fire near the railway at Neasden. Until it is made safe, Jubilee and Metropolitan line services are unable to run through the area. Services will be curtailed as follows until early afternoon on Saturday 29 August 2026. Please check before you travel.\r\n\r\nJUBILEE LINE: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line.\r\n\r\nMETROPOLITAN LINE: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line."
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-29T13:25:01.699Z",
-   "to": "2026-08-29T13:25:01.699Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-29T13:25:01.699Z",
-   "to": "2026-08-29T13:25:01.699Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-29T13:25:01.699Z",
-   "to": "2026-08-29T13:25:01.699Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "The emergency services are responding to a large fire near the railway at Neasden. Until it is made safe, Jubilee and Metropolitan line services are unable to run through the area. Service is not expected to resume fully until 18:00 today at the earliest. Please check before you travel. Please check before you travel.\r\n\r\nMETROPOLITAN LINE: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line.\r\n\r\nJUBILEE LINE: No service between Wembley Park and Willesden Green and severe delays on the rest of the line."
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-29T13:25:01.699Z",
-   "to": "2026-08-29T13:25:01.699Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-29T13:25:01.699Z",
-   "to": "2026-08-29T13:25:01.699Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-29T13:30:04.668Z",
-   "to": "2026-08-29T13:30:04.668Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "The emergency services are responding to a large fire near the railway at Neasden. Until it is made safe, Jubilee and Metropolitan line services are unable to run through the area. Services will be curtailed as follows until early afternoon on Saturday 29 August 2026. Please check before you travel.\r\n\r\nJUBILEE LINE: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line.\r\n\r\nMETROPOLITAN LINE: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line."
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-29T13:30:04.668Z",
-   "to": "2026-08-29T13:30:04.668Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-29T13:30:04.668Z",
-   "to": "2026-08-29T13:30:04.668Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-29T13:30:04.668Z",
-   "to": "2026-08-29T13:30:04.668Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "The emergency services are responding to a large fire near the railway at Neasden. Until it is made safe, Jubilee and Metropolitan line services are unable to run through the area. Service is not expected to resume fully until 18:00 today at the earliest. Please check before you travel. Please check before you travel.\r\n\r\nMETROPOLITAN LINE: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line.\r\n\r\nJUBILEE LINE: No service between Wembley Park and Willesden Green and severe delays on the rest of the line."
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-29T13:30:04.668Z",
-   "to": "2026-08-29T13:30:04.668Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-29T13:30:04.668Z",
-   "to": "2026-08-29T13:30:04.668Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-29T13:35:02.129Z",
-   "to": "2026-08-29T13:35:02.129Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-29T13:35:02.129Z",
-   "to": "2026-08-29T13:35:02.129Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "The emergency services are responding to a large fire near the railway at Neasden. Until it is made safe, Jubilee and Metropolitan line services are unable to run through the area. Services will be curtailed as follows until early afternoon on Saturday 29 August 2026. Please check before you travel.\r\n\r\nJUBILEE LINE: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line.\r\n\r\nMETROPOLITAN LINE: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line."
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-08-29T13:35:02.129Z",
-   "to": "2026-08-29T13:35:02.129Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-29T13:35:02.129Z",
-   "to": "2026-08-29T13:35:02.129Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-29T13:35:02.129Z",
-   "to": "2026-08-29T13:35:02.129Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "The emergency services are responding to a large fire near the railway at Neasden. Until it is made safe, Jubilee and Metropolitan line services are unable to run through the area. Service is not expected to resume fully until 18:00 today at the earliest. Please check before you travel. Please check before you travel.\r\n\r\nMETROPOLITAN LINE: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line.\r\n\r\nJUBILEE LINE: No service between Wembley Park and Willesden Green and severe delays on the rest of the line."
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-08-29T13:35:02.129Z",
-   "to": "2026-08-29T13:35:02.129Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
   },
   {
    "line": "jubilee",
@@ -727070,7 +726854,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-28T04:30:57.560Z",
-   "to": "2026-10-28T13:11:40.590Z",
+   "to": "2026-10-28T13:30:06.560Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
@@ -731327,7 +731111,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-10-28T07:20:07.133Z",
-   "to": "2026-10-28T13:11:40.590Z",
+   "to": "2026-10-28T13:30:06.560Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -745845,6 +745629,834 @@
    "lineName": "Suffragette",
    "from": "2026-10-28T13:11:40.590Z",
    "to": "2026-10-28T13:11:40.590Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:11:56.396Z",
+   "to": "2026-10-28T13:11:56.396Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:11:56.396Z",
+   "to": "2026-10-28T13:11:56.396Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:11:56.396Z",
+   "to": "2026-10-28T13:11:56.396Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:11:56.396Z",
+   "to": "2026-10-28T13:11:56.396Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:15:09.257Z",
+   "to": "2026-10-28T13:15:09.257Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:15:09.257Z",
+   "to": "2026-10-28T13:15:09.257Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:15:09.257Z",
+   "to": "2026-10-28T13:15:09.257Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:15:09.257Z",
+   "to": "2026-10-28T13:15:09.257Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:15:09.656Z",
+   "to": "2026-10-28T13:15:09.656Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:15:09.656Z",
+   "to": "2026-10-28T13:15:09.656Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:15:09.656Z",
+   "to": "2026-10-28T13:15:09.656Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:15:09.656Z",
+   "to": "2026-10-28T13:15:09.656Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:15:10.029Z",
+   "to": "2026-10-28T13:15:10.029Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:15:10.029Z",
+   "to": "2026-10-28T13:15:10.029Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:15:10.029Z",
+   "to": "2026-10-28T13:15:10.029Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:15:10.029Z",
+   "to": "2026-10-28T13:15:10.029Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:15:32.203Z",
+   "to": "2026-10-28T13:15:32.203Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:15:32.203Z",
+   "to": "2026-10-28T13:15:32.203Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:15:32.203Z",
+   "to": "2026-10-28T13:15:32.203Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:15:32.203Z",
+   "to": "2026-10-28T13:15:32.203Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:15:32.824Z",
+   "to": "2026-10-28T13:15:32.824Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:15:32.824Z",
+   "to": "2026-10-28T13:15:32.824Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:15:32.824Z",
+   "to": "2026-10-28T13:15:32.824Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:15:32.824Z",
+   "to": "2026-10-28T13:15:32.824Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:15:38.997Z",
+   "to": "2026-10-28T13:15:38.997Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:15:38.997Z",
+   "to": "2026-10-28T13:15:38.997Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:15:38.997Z",
+   "to": "2026-10-28T13:15:38.997Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:15:38.997Z",
+   "to": "2026-10-28T13:15:38.997Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:15:39.391Z",
+   "to": "2026-10-28T13:15:39.391Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:15:39.391Z",
+   "to": "2026-10-28T13:15:39.391Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:15:39.391Z",
+   "to": "2026-10-28T13:15:39.391Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:15:39.391Z",
+   "to": "2026-10-28T13:15:39.391Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:20:06.810Z",
+   "to": "2026-10-28T13:20:06.810Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:20:06.810Z",
+   "to": "2026-10-28T13:20:06.810Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:20:06.810Z",
+   "to": "2026-10-28T13:20:06.810Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:20:06.810Z",
+   "to": "2026-10-28T13:20:06.810Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:20:07.235Z",
+   "to": "2026-10-28T13:20:07.235Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:20:07.235Z",
+   "to": "2026-10-28T13:20:07.235Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:20:07.235Z",
+   "to": "2026-10-28T13:20:07.235Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:20:07.235Z",
+   "to": "2026-10-28T13:20:07.235Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:20:14.312Z",
+   "to": "2026-10-28T13:20:14.312Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:20:14.312Z",
+   "to": "2026-10-28T13:20:14.312Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:20:14.312Z",
+   "to": "2026-10-28T13:20:14.312Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:20:14.312Z",
+   "to": "2026-10-28T13:20:14.312Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:20:14.723Z",
+   "to": "2026-10-28T13:20:14.723Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:20:14.723Z",
+   "to": "2026-10-28T13:20:14.723Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:20:14.723Z",
+   "to": "2026-10-28T13:20:14.723Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:20:14.723Z",
+   "to": "2026-10-28T13:20:14.723Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:20:48.468Z",
+   "to": "2026-10-28T13:20:48.468Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:20:48.468Z",
+   "to": "2026-10-28T13:20:48.468Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:20:48.468Z",
+   "to": "2026-10-28T13:20:48.468Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:20:48.468Z",
+   "to": "2026-10-28T13:20:48.468Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:20:48.818Z",
+   "to": "2026-10-28T13:20:48.818Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:20:48.818Z",
+   "to": "2026-10-28T13:20:48.818Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:20:48.818Z",
+   "to": "2026-10-28T13:20:48.818Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:20:48.818Z",
+   "to": "2026-10-28T13:20:48.818Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:20:49.166Z",
+   "to": "2026-10-28T13:20:49.166Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:20:49.166Z",
+   "to": "2026-10-28T13:20:49.166Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:20:49.166Z",
+   "to": "2026-10-28T13:20:49.166Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:20:49.166Z",
+   "to": "2026-10-28T13:20:49.166Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:25:08.720Z",
+   "to": "2026-10-28T13:25:08.720Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:25:08.720Z",
+   "to": "2026-10-28T13:25:08.720Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:25:08.720Z",
+   "to": "2026-10-28T13:25:08.720Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:25:08.720Z",
+   "to": "2026-10-28T13:25:08.720Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:25:09.658Z",
+   "to": "2026-10-28T13:25:09.658Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:25:09.658Z",
+   "to": "2026-10-28T13:25:09.658Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:25:09.658Z",
+   "to": "2026-10-28T13:25:09.658Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:25:09.658Z",
+   "to": "2026-10-28T13:25:09.658Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:25:10.101Z",
+   "to": "2026-10-28T13:25:10.101Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:25:10.101Z",
+   "to": "2026-10-28T13:25:10.101Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:25:10.101Z",
+   "to": "2026-10-28T13:25:10.101Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:25:10.101Z",
+   "to": "2026-10-28T13:25:10.101Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:26:00.713Z",
+   "to": "2026-10-28T13:26:00.713Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:26:00.713Z",
+   "to": "2026-10-28T13:26:00.713Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:26:00.713Z",
+   "to": "2026-10-28T13:26:00.713Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:26:00.713Z",
+   "to": "2026-10-28T13:26:00.713Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:26:01.112Z",
+   "to": "2026-10-28T13:26:01.112Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:26:01.112Z",
+   "to": "2026-10-28T13:26:01.112Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:26:01.112Z",
+   "to": "2026-10-28T13:26:01.112Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:26:01.112Z",
+   "to": "2026-10-28T13:26:01.112Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:26:07.378Z",
+   "to": "2026-10-28T13:26:07.378Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:26:07.378Z",
+   "to": "2026-10-28T13:26:07.378Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:26:07.378Z",
+   "to": "2026-10-28T13:26:07.378Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:26:07.378Z",
+   "to": "2026-10-28T13:26:07.378Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:26:07.722Z",
+   "to": "2026-10-28T13:26:07.722Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:26:07.722Z",
+   "to": "2026-10-28T13:26:07.722Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:26:07.722Z",
+   "to": "2026-10-28T13:26:07.722Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:26:07.722Z",
+   "to": "2026-10-28T13:26:07.722Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:30:06.560Z",
+   "to": "2026-10-28T13:30:06.560Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Willesden Junction and Richmond due to an earlier faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-28T13:30:06.560Z",
+   "to": "2026-10-28T13:30:06.560Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Willesden Junction and Richmond due to an earlier faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:30:06.560Z",
+   "to": "2026-10-28T13:30:06.560Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-28T13:30:06.560Z",
+   "to": "2026-10-28T13:30:06.560Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
