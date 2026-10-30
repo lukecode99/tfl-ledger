@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-30T07:10:10.425Z",
- "sinceISO": "2026-08-31T07:10:05.115Z",
+ "generatedAt": "2026-10-30T07:15:16.073Z",
+ "sinceISO": "2026-08-31T07:15:10.607Z",
  "coverage": [
   {
-   "from": "2026-08-31T07:15:01.837Z",
+   "from": "2026-08-31T07:20:04.466Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 12925
+   "polls": 12924
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-30T07:10:04.840Z",
-   "polls": 45454
+   "to": "2026-10-30T07:15:10.329Z",
+   "polls": 45461
   }
  ],
  "spans": [
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-08-31T07:15:01.837Z",
+   "from": "2026-08-31T07:20:04.466Z",
    "to": "2026-09-01T00:25:01.796Z",
    "severity": 5,
    "description": "Part Closure",
@@ -31,7 +31,7 @@
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-08-31T07:15:01.837Z",
+   "from": "2026-08-31T07:20:04.466Z",
    "to": "2026-09-01T00:25:01.796Z",
    "severity": 5,
    "description": "Part Closure",
@@ -40,7 +40,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-08-31T07:15:01.837Z",
+   "from": "2026-08-31T07:20:04.466Z",
    "to": "2026-08-31T22:55:02.102Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -49,7 +49,7 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-08-31T07:15:01.837Z",
+   "from": "2026-08-31T07:20:04.466Z",
    "to": "2026-09-01T00:25:01.796Z",
    "severity": 5,
    "description": "Part Closure",
@@ -795281,7 +795281,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-30T04:15:10.607Z",
-   "to": "2026-10-30T07:10:04.840Z",
+   "to": "2026-10-30T07:15:10.329Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
@@ -795290,7 +795290,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-10-30T04:15:10.607Z",
-   "to": "2026-10-30T07:10:04.840Z",
+   "to": "2026-10-30T07:15:10.329Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until early next week."
@@ -797823,6 +797823,384 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-30T07:10:21.254Z",
+   "to": "2026-10-30T07:10:21.254Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to a person ill on a train earlier at Queen's Park. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line, Thameslink and London Northwestern. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-30T07:10:21.254Z",
+   "to": "2026-10-30T07:10:21.254Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to a person ill on a train earlier at Queen's Park. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line, Thameslink and London Northwestern. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:10:21.254Z",
+   "to": "2026-10-30T07:10:21.254Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:10:21.254Z",
+   "to": "2026-10-30T07:10:21.254Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:10:21.254Z",
+   "to": "2026-10-30T07:10:21.254Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:10:21.254Z",
+   "to": "2026-10-30T07:10:21.254Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-30T07:10:25.965Z",
+   "to": "2026-10-30T07:10:25.965Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to a person ill on a train earlier at Queen's Park. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line, Thameslink and London Northwestern. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-30T07:10:25.965Z",
+   "to": "2026-10-30T07:10:25.965Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to a person ill on a train earlier at Queen's Park. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line, Thameslink and London Northwestern. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:10:25.965Z",
+   "to": "2026-10-30T07:10:25.965Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:10:25.965Z",
+   "to": "2026-10-30T07:10:25.965Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:10:25.965Z",
+   "to": "2026-10-30T07:10:25.965Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:10:25.965Z",
+   "to": "2026-10-30T07:10:25.965Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-30T07:11:23.348Z",
+   "to": "2026-10-30T07:11:23.348Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to a person ill on a train earlier at Queen's Park. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line, Thameslink and London Northwestern. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-30T07:11:23.348Z",
+   "to": "2026-10-30T07:11:23.348Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to a person ill on a train earlier at Queen's Park. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line, Thameslink and London Northwestern. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:23.348Z",
+   "to": "2026-10-30T07:11:23.348Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:23.348Z",
+   "to": "2026-10-30T07:11:23.348Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:23.348Z",
+   "to": "2026-10-30T07:11:23.348Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:23.348Z",
+   "to": "2026-10-30T07:11:23.348Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-30T07:11:23.722Z",
+   "to": "2026-10-30T07:11:23.722Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to a person ill on a train earlier at Queen's Park. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line, Thameslink and London Northwestern. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-30T07:11:23.722Z",
+   "to": "2026-10-30T07:11:23.722Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to a person ill on a train earlier at Queen's Park. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line, Thameslink and London Northwestern. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:23.722Z",
+   "to": "2026-10-30T07:11:23.722Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:23.722Z",
+   "to": "2026-10-30T07:11:23.722Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:23.722Z",
+   "to": "2026-10-30T07:11:23.722Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:23.722Z",
+   "to": "2026-10-30T07:11:23.722Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-30T07:11:24.218Z",
+   "to": "2026-10-30T07:11:24.218Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to a person ill on a train earlier at Queen's Park. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line, Thameslink and London Northwestern. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-30T07:11:24.218Z",
+   "to": "2026-10-30T07:11:24.218Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to a person ill on a train earlier at Queen's Park. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line, Thameslink and London Northwestern. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:24.218Z",
+   "to": "2026-10-30T07:11:24.218Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:24.218Z",
+   "to": "2026-10-30T07:11:24.218Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:24.218Z",
+   "to": "2026-10-30T07:11:24.218Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:24.218Z",
+   "to": "2026-10-30T07:11:24.218Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-30T07:11:24.592Z",
+   "to": "2026-10-30T07:11:24.592Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to a person ill on a train earlier at Queen's Park. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line, Thameslink and London Northwestern. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-30T07:11:24.592Z",
+   "to": "2026-10-30T07:11:24.592Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to a person ill on a train earlier at Queen's Park. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line, Thameslink and London Northwestern. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:24.592Z",
+   "to": "2026-10-30T07:11:24.592Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:24.592Z",
+   "to": "2026-10-30T07:11:24.592Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:24.592Z",
+   "to": "2026-10-30T07:11:24.592Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:11:24.592Z",
+   "to": "2026-10-30T07:11:24.592Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Canary Wharf, SEVERE DELAYS between Canary Wharf and Reading/Heathrow Terminals. MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-30T07:15:10.329Z",
+   "to": "2026-10-30T07:15:10.329Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to a person ill on a train earlier at Queen's Park. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line, Thameslink and London Northwestern. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-30T07:15:10.329Z",
+   "to": "2026-10-30T07:15:10.329Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to a person ill on a train earlier at Queen's Park. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line, Thameslink and London Northwestern. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:15:10.329Z",
+   "to": "2026-10-30T07:15:10.329Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Abbey Wood and Heathrow Airport / Reading and MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground is accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:15:10.329Z",
+   "to": "2026-10-30T07:15:10.329Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Abbey Wood and Heathrow Airport / Reading and MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground is accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:15:10.329Z",
+   "to": "2026-10-30T07:15:10.329Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Abbey Wood and Heathrow Airport / Reading and MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground is accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-30T07:15:10.329Z",
+   "to": "2026-10-30T07:15:10.329Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Abbey Wood and Heathrow Airport / Reading and MINOR DELAYS on the rest of the line due to an earlier power supply failure. London Underground is accepting tickets via any reasonable route. "
   }
  ]
 }
