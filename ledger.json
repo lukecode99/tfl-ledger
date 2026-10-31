@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-31T13:20:09.709Z",
- "sinceISO": "2026-09-01T13:20:01.815Z",
+ "generatedAt": "2026-10-31T14:20:56.550Z",
+ "sinceISO": "2026-09-01T14:20:48.956Z",
  "coverage": [
   {
-   "from": "2026-09-01T13:20:04.193Z",
+   "from": "2026-09-01T14:25:02.022Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 12564
+   "polls": 12551
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,24 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-31T13:20:00.948Z",
-   "polls": 47988
+   "to": "2026-10-31T14:20:48.690Z",
+   "polls": 48075
   }
  ],
  "spans": [
   {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-09-01T14:25:02.022Z",
+   "to": "2026-09-02T00:20:05.438Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations. "
+  },
+  {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-09-01T13:20:04.193Z",
+   "from": "2026-09-01T14:25:02.022Z",
    "to": "2026-09-01T16:55:01.806Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,56 +40,38 @@
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-09-01T13:20:04.193Z",
-   "to": "2026-09-01T13:50:04.607Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays due to an earlier signal failure at Royal Oak. London Buses are accepting tickets via any reasonable route. London Buses, DLR, Elizabeth line and c2c services are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-09-01T13:20:04.193Z",
-   "to": "2026-09-01T17:05:01.945Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Windrush Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-09-01T13:40:04.507Z",
-   "to": "2026-09-01T15:10:04.599Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford while we fix a signal failure at North Harrow. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-09-01T13:55:02.178Z",
+   "from": "2026-09-01T14:25:02.022Z",
    "to": "2026-09-01T16:55:01.806Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to an earlier signal failure at Royal Oak.  "
   },
   {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-09-01T14:25:02.022Z",
+   "to": "2026-09-01T15:10:04.599Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford while we fix a signal failure at North Harrow. GOOD SERVICE on the rest of the line.  "
+  },
+  {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-09-01T13:55:02.178Z",
+   "from": "2026-09-01T14:25:02.022Z",
    "to": "2026-09-01T18:05:02.030Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations.  "
   },
   {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-09-01T14:00:11.412Z",
-   "to": "2026-09-02T00:20:05.438Z",
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-09-01T14:25:02.022Z",
+   "to": "2026-09-01T17:05:01.945Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Central Line: Minor delays due to train cancellations. "
+   "reason": "Windrush Line: Minor delays due to train cancellations. "
   },
   {
    "line": "metropolitan",
@@ -804875,7 +804866,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-31T01:31:31.201Z",
-   "to": "2026-10-31T13:20:00.948Z",
+   "to": "2026-10-31T14:20:48.690Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "PICCADILLY LINE: Saturday 31 October, from 0100, and all day Sunday 1 November, including Friday and Saturday Night Tube, no service on the entire line. Use ELIZABETH LINE services between Central London and Heathrow, and METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement bus services operate."
@@ -809240,7 +809231,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-10-31T04:20:00.691Z",
-   "to": "2026-10-31T13:20:00.948Z",
+   "to": "2026-10-31T14:20:48.690Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -809573,7 +809564,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-31T04:31:06.899Z",
-   "to": "2026-10-31T13:20:00.948Z",
+   "to": "2026-10-31T14:20:48.690Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Saturday 31 October and Sunday 1 November, no service between New Cross Gate and West Croydon / Crystal Palace. In addition, no SOUTHERN service between London Bridge and Crystal Palace / East Croydon via Forest Hill, and THAMESLINK services via East Croydon do not call at London Bridge or Norwood Junction.  Rail replacement buses will run as follows: New Cross Gate - Brockley - Honor Oak Park - Forest Hill - Sydenham - Crystal Palace."
@@ -826556,7 +826547,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-31T12:35:10.450Z",
-   "to": "2026-10-31T13:20:00.948Z",
+   "to": "2026-10-31T14:20:48.690Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays due to train cancellations. "
@@ -828843,6 +828834,3138 @@
    "lineName": "Waterloo & City",
    "from": "2026-10-31T13:20:00.948Z",
    "to": "2026-10-31T13:20:00.948Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:20:18.532Z",
+   "to": "2026-10-31T13:20:18.532Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:20:18.532Z",
+   "to": "2026-10-31T13:20:18.532Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:20:18.532Z",
+   "to": "2026-10-31T13:20:18.532Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:20:18.532Z",
+   "to": "2026-10-31T13:20:18.532Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:20:23.727Z",
+   "to": "2026-10-31T13:20:23.727Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:20:23.727Z",
+   "to": "2026-10-31T13:20:23.727Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:20:23.727Z",
+   "to": "2026-10-31T13:20:23.727Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:20:23.727Z",
+   "to": "2026-10-31T13:20:23.727Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:20:53.799Z",
+   "to": "2026-10-31T13:20:53.799Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:20:53.799Z",
+   "to": "2026-10-31T13:20:53.799Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:20:53.799Z",
+   "to": "2026-10-31T13:20:53.799Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:20:53.799Z",
+   "to": "2026-10-31T13:20:53.799Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:20:54.195Z",
+   "to": "2026-10-31T13:20:54.195Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:20:54.195Z",
+   "to": "2026-10-31T13:20:54.195Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:20:54.195Z",
+   "to": "2026-10-31T13:20:54.195Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:20:54.195Z",
+   "to": "2026-10-31T13:20:54.195Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:20:54.913Z",
+   "to": "2026-10-31T13:20:54.913Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:20:54.913Z",
+   "to": "2026-10-31T13:20:54.913Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:20:54.913Z",
+   "to": "2026-10-31T13:20:54.913Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:20:54.913Z",
+   "to": "2026-10-31T13:20:54.913Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:20:55.289Z",
+   "to": "2026-10-31T13:20:55.289Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:20:55.289Z",
+   "to": "2026-10-31T13:20:55.289Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:20:55.289Z",
+   "to": "2026-10-31T13:20:55.289Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:20:55.289Z",
+   "to": "2026-10-31T13:20:55.289Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:25:11.025Z",
+   "to": "2026-10-31T13:25:11.025Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:25:11.025Z",
+   "to": "2026-10-31T13:25:11.025Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:25:11.025Z",
+   "to": "2026-10-31T13:25:11.025Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:25:11.025Z",
+   "to": "2026-10-31T13:25:11.025Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:25:11.449Z",
+   "to": "2026-10-31T13:25:11.449Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:25:11.449Z",
+   "to": "2026-10-31T13:25:11.449Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:25:11.449Z",
+   "to": "2026-10-31T13:25:11.449Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:25:11.449Z",
+   "to": "2026-10-31T13:25:11.449Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:25:11.849Z",
+   "to": "2026-10-31T13:25:11.849Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:25:11.849Z",
+   "to": "2026-10-31T13:25:11.849Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:25:11.849Z",
+   "to": "2026-10-31T13:25:11.849Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:25:11.849Z",
+   "to": "2026-10-31T13:25:11.849Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:25:12.212Z",
+   "to": "2026-10-31T13:25:12.212Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:25:12.212Z",
+   "to": "2026-10-31T13:25:12.212Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:25:12.212Z",
+   "to": "2026-10-31T13:25:12.212Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:25:12.212Z",
+   "to": "2026-10-31T13:25:12.212Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:25:58.657Z",
+   "to": "2026-10-31T13:25:58.657Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:25:58.657Z",
+   "to": "2026-10-31T13:25:58.657Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:25:58.657Z",
+   "to": "2026-10-31T13:25:58.657Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:25:58.657Z",
+   "to": "2026-10-31T13:25:58.657Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:25:59.052Z",
+   "to": "2026-10-31T13:25:59.052Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:25:59.052Z",
+   "to": "2026-10-31T13:25:59.052Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:25:59.052Z",
+   "to": "2026-10-31T13:25:59.052Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:25:59.052Z",
+   "to": "2026-10-31T13:25:59.052Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:26:04.097Z",
+   "to": "2026-10-31T13:26:04.097Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:26:04.097Z",
+   "to": "2026-10-31T13:26:04.097Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:26:04.097Z",
+   "to": "2026-10-31T13:26:04.097Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:26:04.097Z",
+   "to": "2026-10-31T13:26:04.097Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:30:00.654Z",
+   "to": "2026-10-31T13:30:00.654Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:30:00.654Z",
+   "to": "2026-10-31T13:30:00.654Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:30:00.654Z",
+   "to": "2026-10-31T13:30:00.654Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:30:00.654Z",
+   "to": "2026-10-31T13:30:00.654Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:30:01.100Z",
+   "to": "2026-10-31T13:30:01.100Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:30:01.100Z",
+   "to": "2026-10-31T13:30:01.100Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:30:01.100Z",
+   "to": "2026-10-31T13:30:01.100Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:30:01.100Z",
+   "to": "2026-10-31T13:30:01.100Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:30:05.633Z",
+   "to": "2026-10-31T13:30:05.633Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:30:05.633Z",
+   "to": "2026-10-31T13:30:05.633Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:30:05.633Z",
+   "to": "2026-10-31T13:30:05.633Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:30:05.633Z",
+   "to": "2026-10-31T13:30:05.633Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:31:24.045Z",
+   "to": "2026-10-31T13:31:24.045Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:31:24.045Z",
+   "to": "2026-10-31T13:31:24.045Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:31:24.045Z",
+   "to": "2026-10-31T13:31:24.045Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:31:24.045Z",
+   "to": "2026-10-31T13:31:24.045Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:31:28.740Z",
+   "to": "2026-10-31T13:31:28.740Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:31:28.740Z",
+   "to": "2026-10-31T13:31:28.740Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:31:28.740Z",
+   "to": "2026-10-31T13:31:28.740Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:31:28.740Z",
+   "to": "2026-10-31T13:31:28.740Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:31:29.099Z",
+   "to": "2026-10-31T13:31:29.099Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:31:29.099Z",
+   "to": "2026-10-31T13:31:29.099Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:31:29.099Z",
+   "to": "2026-10-31T13:31:29.099Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:31:29.099Z",
+   "to": "2026-10-31T13:31:29.099Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:31:31.081Z",
+   "to": "2026-10-31T13:31:31.081Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:31:31.081Z",
+   "to": "2026-10-31T13:31:31.081Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:31:31.081Z",
+   "to": "2026-10-31T13:31:31.081Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:31:31.081Z",
+   "to": "2026-10-31T13:31:31.081Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:35:11.443Z",
+   "to": "2026-10-31T13:35:11.443Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:35:11.443Z",
+   "to": "2026-10-31T13:35:11.443Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:35:11.443Z",
+   "to": "2026-10-31T13:35:11.443Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:35:11.443Z",
+   "to": "2026-10-31T13:35:11.443Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:35:11.894Z",
+   "to": "2026-10-31T13:35:11.894Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:35:11.894Z",
+   "to": "2026-10-31T13:35:11.894Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:35:11.894Z",
+   "to": "2026-10-31T13:35:11.894Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:35:11.894Z",
+   "to": "2026-10-31T13:35:11.894Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:35:12.291Z",
+   "to": "2026-10-31T13:35:12.291Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:35:12.291Z",
+   "to": "2026-10-31T13:35:12.291Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:35:12.291Z",
+   "to": "2026-10-31T13:35:12.291Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:35:12.291Z",
+   "to": "2026-10-31T13:35:12.291Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:35:12.712Z",
+   "to": "2026-10-31T13:35:12.712Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:35:12.712Z",
+   "to": "2026-10-31T13:35:12.712Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:35:12.712Z",
+   "to": "2026-10-31T13:35:12.712Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:35:12.712Z",
+   "to": "2026-10-31T13:35:12.712Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:35:26.704Z",
+   "to": "2026-10-31T13:35:26.704Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:35:26.704Z",
+   "to": "2026-10-31T13:35:26.704Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:35:26.704Z",
+   "to": "2026-10-31T13:35:26.704Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:35:26.704Z",
+   "to": "2026-10-31T13:35:26.704Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:35:27.084Z",
+   "to": "2026-10-31T13:35:27.084Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:35:27.084Z",
+   "to": "2026-10-31T13:35:27.084Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:35:27.084Z",
+   "to": "2026-10-31T13:35:27.084Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:35:27.084Z",
+   "to": "2026-10-31T13:35:27.084Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:35:31.928Z",
+   "to": "2026-10-31T13:35:31.928Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:35:31.928Z",
+   "to": "2026-10-31T13:35:31.928Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:35:31.928Z",
+   "to": "2026-10-31T13:35:31.928Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:35:31.928Z",
+   "to": "2026-10-31T13:35:31.928Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:40:00.749Z",
+   "to": "2026-10-31T13:40:00.749Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:40:00.749Z",
+   "to": "2026-10-31T13:40:00.749Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:40:00.749Z",
+   "to": "2026-10-31T13:40:00.749Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:40:00.749Z",
+   "to": "2026-10-31T13:40:00.749Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:40:01.452Z",
+   "to": "2026-10-31T13:40:01.452Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:40:01.452Z",
+   "to": "2026-10-31T13:40:01.452Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:40:01.452Z",
+   "to": "2026-10-31T13:40:01.452Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:40:01.452Z",
+   "to": "2026-10-31T13:40:01.452Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:40:07.122Z",
+   "to": "2026-10-31T13:40:07.122Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:40:07.122Z",
+   "to": "2026-10-31T13:40:07.122Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:40:07.122Z",
+   "to": "2026-10-31T13:40:07.122Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:40:07.122Z",
+   "to": "2026-10-31T13:40:07.122Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:40:53.150Z",
+   "to": "2026-10-31T13:40:53.150Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:40:53.150Z",
+   "to": "2026-10-31T13:40:53.150Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:40:53.150Z",
+   "to": "2026-10-31T13:40:53.150Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:40:53.150Z",
+   "to": "2026-10-31T13:40:53.150Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:40:53.507Z",
+   "to": "2026-10-31T13:40:53.507Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:40:53.507Z",
+   "to": "2026-10-31T13:40:53.507Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:40:53.507Z",
+   "to": "2026-10-31T13:40:53.507Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:40:53.507Z",
+   "to": "2026-10-31T13:40:53.507Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:40:53.876Z",
+   "to": "2026-10-31T13:40:53.876Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:40:53.876Z",
+   "to": "2026-10-31T13:40:53.876Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:40:53.876Z",
+   "to": "2026-10-31T13:40:53.876Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:40:53.876Z",
+   "to": "2026-10-31T13:40:53.876Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:40:54.247Z",
+   "to": "2026-10-31T13:40:54.247Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:40:54.247Z",
+   "to": "2026-10-31T13:40:54.247Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:40:54.247Z",
+   "to": "2026-10-31T13:40:54.247Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:40:54.247Z",
+   "to": "2026-10-31T13:40:54.247Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:45:10.538Z",
+   "to": "2026-10-31T13:45:10.538Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:45:10.538Z",
+   "to": "2026-10-31T13:45:10.538Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:45:10.538Z",
+   "to": "2026-10-31T13:45:10.538Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:45:10.538Z",
+   "to": "2026-10-31T13:45:10.538Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:45:11.228Z",
+   "to": "2026-10-31T13:45:11.228Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:45:11.228Z",
+   "to": "2026-10-31T13:45:11.228Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:45:11.228Z",
+   "to": "2026-10-31T13:45:11.228Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:45:11.228Z",
+   "to": "2026-10-31T13:45:11.228Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:45:11.597Z",
+   "to": "2026-10-31T13:45:11.597Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:45:11.597Z",
+   "to": "2026-10-31T13:45:11.597Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:45:11.597Z",
+   "to": "2026-10-31T13:45:11.597Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:45:11.597Z",
+   "to": "2026-10-31T13:45:11.597Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:45:11.971Z",
+   "to": "2026-10-31T13:45:11.971Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:45:11.971Z",
+   "to": "2026-10-31T13:45:11.971Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:45:11.971Z",
+   "to": "2026-10-31T13:45:11.971Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:45:11.971Z",
+   "to": "2026-10-31T13:45:11.971Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:45:57.545Z",
+   "to": "2026-10-31T13:45:57.545Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:45:57.545Z",
+   "to": "2026-10-31T13:45:57.545Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:45:57.545Z",
+   "to": "2026-10-31T13:45:57.545Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:45:57.545Z",
+   "to": "2026-10-31T13:45:57.545Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:45:57.932Z",
+   "to": "2026-10-31T13:45:57.932Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:45:57.932Z",
+   "to": "2026-10-31T13:45:57.932Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:45:57.932Z",
+   "to": "2026-10-31T13:45:57.932Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:45:57.932Z",
+   "to": "2026-10-31T13:45:57.932Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:46:02.872Z",
+   "to": "2026-10-31T13:46:02.872Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:46:02.872Z",
+   "to": "2026-10-31T13:46:02.872Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:46:02.872Z",
+   "to": "2026-10-31T13:46:02.872Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:46:02.872Z",
+   "to": "2026-10-31T13:46:02.872Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:50:00.637Z",
+   "to": "2026-10-31T13:50:00.637Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:50:00.637Z",
+   "to": "2026-10-31T13:50:00.637Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:50:00.637Z",
+   "to": "2026-10-31T13:50:00.637Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:50:00.637Z",
+   "to": "2026-10-31T13:50:00.637Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:50:01.004Z",
+   "to": "2026-10-31T13:50:01.004Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:50:01.004Z",
+   "to": "2026-10-31T13:50:01.004Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:50:01.004Z",
+   "to": "2026-10-31T13:50:01.004Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:50:01.004Z",
+   "to": "2026-10-31T13:50:01.004Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:50:05.618Z",
+   "to": "2026-10-31T13:50:05.618Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:50:05.618Z",
+   "to": "2026-10-31T13:50:05.618Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:50:05.618Z",
+   "to": "2026-10-31T13:50:05.618Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:50:05.618Z",
+   "to": "2026-10-31T13:50:05.618Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:51:22.797Z",
+   "to": "2026-10-31T13:51:22.797Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:51:22.797Z",
+   "to": "2026-10-31T13:51:22.797Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:51:22.797Z",
+   "to": "2026-10-31T13:51:22.797Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:51:22.797Z",
+   "to": "2026-10-31T13:51:22.797Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:51:23.183Z",
+   "to": "2026-10-31T13:51:23.183Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:51:23.183Z",
+   "to": "2026-10-31T13:51:23.183Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:51:23.183Z",
+   "to": "2026-10-31T13:51:23.183Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:51:23.183Z",
+   "to": "2026-10-31T13:51:23.183Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:51:23.968Z",
+   "to": "2026-10-31T13:51:23.968Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:51:23.968Z",
+   "to": "2026-10-31T13:51:23.968Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:51:23.968Z",
+   "to": "2026-10-31T13:51:23.968Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:51:23.968Z",
+   "to": "2026-10-31T13:51:23.968Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:51:24.701Z",
+   "to": "2026-10-31T13:51:24.701Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:51:24.701Z",
+   "to": "2026-10-31T13:51:24.701Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:51:24.701Z",
+   "to": "2026-10-31T13:51:24.701Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:51:24.701Z",
+   "to": "2026-10-31T13:51:24.701Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:55:10.191Z",
+   "to": "2026-10-31T13:55:10.191Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:55:10.191Z",
+   "to": "2026-10-31T13:55:10.191Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:55:10.191Z",
+   "to": "2026-10-31T13:55:10.191Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:55:10.191Z",
+   "to": "2026-10-31T13:55:10.191Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:55:10.553Z",
+   "to": "2026-10-31T13:55:10.553Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:55:10.553Z",
+   "to": "2026-10-31T13:55:10.553Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:55:10.553Z",
+   "to": "2026-10-31T13:55:10.553Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:55:10.553Z",
+   "to": "2026-10-31T13:55:10.553Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:55:10.927Z",
+   "to": "2026-10-31T13:55:10.927Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:55:10.927Z",
+   "to": "2026-10-31T13:55:10.927Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:55:10.927Z",
+   "to": "2026-10-31T13:55:10.927Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:55:10.927Z",
+   "to": "2026-10-31T13:55:10.927Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:55:11.605Z",
+   "to": "2026-10-31T13:55:11.605Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:55:11.605Z",
+   "to": "2026-10-31T13:55:11.605Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:55:11.605Z",
+   "to": "2026-10-31T13:55:11.605Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:55:11.605Z",
+   "to": "2026-10-31T13:55:11.605Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:55:24.827Z",
+   "to": "2026-10-31T13:55:24.827Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:55:24.827Z",
+   "to": "2026-10-31T13:55:24.827Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:55:24.827Z",
+   "to": "2026-10-31T13:55:24.827Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:55:24.827Z",
+   "to": "2026-10-31T13:55:24.827Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:55:25.257Z",
+   "to": "2026-10-31T13:55:25.257Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:55:25.257Z",
+   "to": "2026-10-31T13:55:25.257Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:55:25.257Z",
+   "to": "2026-10-31T13:55:25.257Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:55:25.257Z",
+   "to": "2026-10-31T13:55:25.257Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:55:29.557Z",
+   "to": "2026-10-31T13:55:29.557Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T13:55:29.557Z",
+   "to": "2026-10-31T13:55:29.557Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:55:29.557Z",
+   "to": "2026-10-31T13:55:29.557Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T13:55:29.557Z",
+   "to": "2026-10-31T13:55:29.557Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:00:00.778Z",
+   "to": "2026-10-31T14:00:00.778Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:00:00.778Z",
+   "to": "2026-10-31T14:00:00.778Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:00:00.778Z",
+   "to": "2026-10-31T14:00:00.778Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:00:00.778Z",
+   "to": "2026-10-31T14:00:00.778Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:00:01.397Z",
+   "to": "2026-10-31T14:00:01.397Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:00:01.397Z",
+   "to": "2026-10-31T14:00:01.397Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:00:01.397Z",
+   "to": "2026-10-31T14:00:01.397Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:00:01.397Z",
+   "to": "2026-10-31T14:00:01.397Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:00:05.690Z",
+   "to": "2026-10-31T14:00:05.690Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:00:05.690Z",
+   "to": "2026-10-31T14:00:05.690Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:00:05.690Z",
+   "to": "2026-10-31T14:00:05.690Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:00:05.690Z",
+   "to": "2026-10-31T14:00:05.690Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:00:52.470Z",
+   "to": "2026-10-31T14:00:52.470Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:00:52.470Z",
+   "to": "2026-10-31T14:00:52.470Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:00:52.470Z",
+   "to": "2026-10-31T14:00:52.470Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:00:52.470Z",
+   "to": "2026-10-31T14:00:52.470Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:00:52.828Z",
+   "to": "2026-10-31T14:00:52.828Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:00:52.828Z",
+   "to": "2026-10-31T14:00:52.828Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:00:52.828Z",
+   "to": "2026-10-31T14:00:52.828Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:00:52.828Z",
+   "to": "2026-10-31T14:00:52.828Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:00:53.205Z",
+   "to": "2026-10-31T14:00:53.205Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:00:53.205Z",
+   "to": "2026-10-31T14:00:53.205Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:00:53.205Z",
+   "to": "2026-10-31T14:00:53.205Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:00:53.205Z",
+   "to": "2026-10-31T14:00:53.205Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:00:53.586Z",
+   "to": "2026-10-31T14:00:53.586Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:00:53.586Z",
+   "to": "2026-10-31T14:00:53.586Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:00:53.586Z",
+   "to": "2026-10-31T14:00:53.586Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:00:53.586Z",
+   "to": "2026-10-31T14:00:53.586Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:05:11.325Z",
+   "to": "2026-10-31T14:05:11.325Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:05:11.325Z",
+   "to": "2026-10-31T14:05:11.325Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:05:11.325Z",
+   "to": "2026-10-31T14:05:11.325Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:05:11.325Z",
+   "to": "2026-10-31T14:05:11.325Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:05:12.207Z",
+   "to": "2026-10-31T14:05:12.207Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:05:12.207Z",
+   "to": "2026-10-31T14:05:12.207Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:05:12.207Z",
+   "to": "2026-10-31T14:05:12.207Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:05:12.207Z",
+   "to": "2026-10-31T14:05:12.207Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:05:12.564Z",
+   "to": "2026-10-31T14:05:12.564Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:05:12.564Z",
+   "to": "2026-10-31T14:05:12.564Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:05:12.564Z",
+   "to": "2026-10-31T14:05:12.564Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:05:12.564Z",
+   "to": "2026-10-31T14:05:12.564Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:05:12.913Z",
+   "to": "2026-10-31T14:05:12.913Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:05:12.913Z",
+   "to": "2026-10-31T14:05:12.913Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:05:12.913Z",
+   "to": "2026-10-31T14:05:12.913Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:05:12.913Z",
+   "to": "2026-10-31T14:05:12.913Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:05:56.672Z",
+   "to": "2026-10-31T14:05:56.672Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:05:56.672Z",
+   "to": "2026-10-31T14:05:56.672Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:05:56.672Z",
+   "to": "2026-10-31T14:05:56.672Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:05:56.672Z",
+   "to": "2026-10-31T14:05:56.672Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:05:57.625Z",
+   "to": "2026-10-31T14:05:57.625Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:05:57.625Z",
+   "to": "2026-10-31T14:05:57.625Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:05:57.625Z",
+   "to": "2026-10-31T14:05:57.625Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:05:57.625Z",
+   "to": "2026-10-31T14:05:57.625Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:06:02.613Z",
+   "to": "2026-10-31T14:06:02.613Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:06:02.613Z",
+   "to": "2026-10-31T14:06:02.613Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:06:02.613Z",
+   "to": "2026-10-31T14:06:02.613Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:06:02.613Z",
+   "to": "2026-10-31T14:06:02.613Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:10:00.470Z",
+   "to": "2026-10-31T14:10:00.470Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:10:00.470Z",
+   "to": "2026-10-31T14:10:00.470Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:10:00.470Z",
+   "to": "2026-10-31T14:10:00.470Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:10:00.470Z",
+   "to": "2026-10-31T14:10:00.470Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:10:00.827Z",
+   "to": "2026-10-31T14:10:00.827Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:10:00.827Z",
+   "to": "2026-10-31T14:10:00.827Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:10:00.827Z",
+   "to": "2026-10-31T14:10:00.827Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:10:00.827Z",
+   "to": "2026-10-31T14:10:00.827Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:10:05.135Z",
+   "to": "2026-10-31T14:10:05.135Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:10:05.135Z",
+   "to": "2026-10-31T14:10:05.135Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:10:05.135Z",
+   "to": "2026-10-31T14:10:05.135Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:10:05.135Z",
+   "to": "2026-10-31T14:10:05.135Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:11:22.112Z",
+   "to": "2026-10-31T14:11:22.112Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:11:22.112Z",
+   "to": "2026-10-31T14:11:22.112Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:11:22.112Z",
+   "to": "2026-10-31T14:11:22.112Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:11:22.112Z",
+   "to": "2026-10-31T14:11:22.112Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:11:23.098Z",
+   "to": "2026-10-31T14:11:23.098Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:11:23.098Z",
+   "to": "2026-10-31T14:11:23.098Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:11:23.098Z",
+   "to": "2026-10-31T14:11:23.098Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:11:23.098Z",
+   "to": "2026-10-31T14:11:23.098Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:11:23.510Z",
+   "to": "2026-10-31T14:11:23.510Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:11:23.510Z",
+   "to": "2026-10-31T14:11:23.510Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:11:23.510Z",
+   "to": "2026-10-31T14:11:23.510Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:11:23.510Z",
+   "to": "2026-10-31T14:11:23.510Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:11:23.930Z",
+   "to": "2026-10-31T14:11:23.930Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:11:23.930Z",
+   "to": "2026-10-31T14:11:23.930Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:11:23.930Z",
+   "to": "2026-10-31T14:11:23.930Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:11:23.930Z",
+   "to": "2026-10-31T14:11:23.930Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:15:10.791Z",
+   "to": "2026-10-31T14:15:10.791Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:15:10.791Z",
+   "to": "2026-10-31T14:15:10.791Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:15:10.791Z",
+   "to": "2026-10-31T14:15:10.791Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:15:10.791Z",
+   "to": "2026-10-31T14:15:10.791Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:15:11.539Z",
+   "to": "2026-10-31T14:15:11.539Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:15:11.539Z",
+   "to": "2026-10-31T14:15:11.539Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:15:11.539Z",
+   "to": "2026-10-31T14:15:11.539Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:15:11.539Z",
+   "to": "2026-10-31T14:15:11.539Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:15:11.901Z",
+   "to": "2026-10-31T14:15:11.901Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:15:11.901Z",
+   "to": "2026-10-31T14:15:11.901Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:15:11.901Z",
+   "to": "2026-10-31T14:15:11.901Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:15:11.901Z",
+   "to": "2026-10-31T14:15:11.901Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:15:12.245Z",
+   "to": "2026-10-31T14:15:12.245Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:15:12.245Z",
+   "to": "2026-10-31T14:15:12.245Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:15:12.245Z",
+   "to": "2026-10-31T14:15:12.245Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:15:12.245Z",
+   "to": "2026-10-31T14:15:12.245Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:15:23.919Z",
+   "to": "2026-10-31T14:15:23.919Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:15:23.919Z",
+   "to": "2026-10-31T14:15:23.919Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:15:23.919Z",
+   "to": "2026-10-31T14:15:23.919Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:15:23.919Z",
+   "to": "2026-10-31T14:15:23.919Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:15:24.315Z",
+   "to": "2026-10-31T14:15:24.315Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:15:24.315Z",
+   "to": "2026-10-31T14:15:24.315Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:15:24.315Z",
+   "to": "2026-10-31T14:15:24.315Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:15:24.315Z",
+   "to": "2026-10-31T14:15:24.315Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:15:29.217Z",
+   "to": "2026-10-31T14:15:29.217Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:15:29.217Z",
+   "to": "2026-10-31T14:15:29.217Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:15:29.217Z",
+   "to": "2026-10-31T14:15:29.217Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:15:29.217Z",
+   "to": "2026-10-31T14:15:29.217Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:20:00.842Z",
+   "to": "2026-10-31T14:20:00.842Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:20:00.842Z",
+   "to": "2026-10-31T14:20:00.842Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:20:00.842Z",
+   "to": "2026-10-31T14:20:00.842Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:20:00.842Z",
+   "to": "2026-10-31T14:20:00.842Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:20:01.230Z",
+   "to": "2026-10-31T14:20:01.230Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:20:01.230Z",
+   "to": "2026-10-31T14:20:01.230Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:20:01.230Z",
+   "to": "2026-10-31T14:20:01.230Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:20:01.230Z",
+   "to": "2026-10-31T14:20:01.230Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:20:07.233Z",
+   "to": "2026-10-31T14:20:07.233Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:20:07.233Z",
+   "to": "2026-10-31T14:20:07.233Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:20:07.233Z",
+   "to": "2026-10-31T14:20:07.233Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:20:07.233Z",
+   "to": "2026-10-31T14:20:07.233Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:20:48.690Z",
+   "to": "2026-10-31T14:20:48.690Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:20:48.690Z",
+   "to": "2026-10-31T14:20:48.690Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia and MINOR DEAYS between Earls Court and Ealing Broadway / Richmond and between Edgware Road and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:20:48.690Z",
+   "to": "2026-10-31T14:20:48.690Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:20:48.690Z",
+   "to": "2026-10-31T14:20:48.690Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
