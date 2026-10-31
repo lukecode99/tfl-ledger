@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-31T14:45:18.386Z",
- "sinceISO": "2026-09-01T14:45:10.898Z",
+ "generatedAt": "2026-10-31T15:20:08.514Z",
+ "sinceISO": "2026-09-01T15:20:01.285Z",
  "coverage": [
   {
-   "from": "2026-09-01T14:50:05.092Z",
+   "from": "2026-09-01T15:20:06.076Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 12546
+   "polls": 12540
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-10-31T14:45:10.649Z",
-   "polls": 48107
+   "to": "2026-10-31T15:20:00.883Z",
+   "polls": 48157
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-09-01T14:50:05.092Z",
+   "from": "2026-09-01T15:20:06.076Z",
    "to": "2026-09-02T00:20:05.438Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-09-01T14:50:05.092Z",
+   "from": "2026-09-01T15:20:06.076Z",
    "to": "2026-09-01T16:55:01.806Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,7 +40,7 @@
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-09-01T14:50:05.092Z",
+   "from": "2026-09-01T15:20:06.076Z",
    "to": "2026-09-01T16:55:01.806Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -49,16 +49,25 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-09-01T14:50:05.092Z",
-   "to": "2026-09-01T15:10:04.599Z",
+   "from": "2026-09-01T15:20:06.076Z",
+   "to": "2026-09-01T15:20:06.076Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the Hill and Watford while we fix a signal failure at North Harrow. Tickets being accepted on London Buses. MINOR DELAYS between Aldgate and Amersham/Chesham. GOOD SERVICE on the rest of the line.   "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-09-01T15:20:06.076Z",
+   "to": "2026-09-01T15:20:06.076Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford while we fix a signal failure at North Harrow. GOOD SERVICE on the rest of the line.  "
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the Hill and Watford while we fix a signal failure at North Harrow. Tickets being accepted on London Buses. MINOR DELAYS between Aldgate and Amersham/Chesham. GOOD SERVICE on the rest of the line.   "
   },
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-09-01T14:50:05.092Z",
+   "from": "2026-09-01T15:20:06.076Z",
    "to": "2026-09-01T18:05:02.030Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -67,47 +76,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-09-01T14:50:05.092Z",
+   "from": "2026-09-01T15:20:06.076Z",
    "to": "2026-09-01T17:05:01.945Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-09-01T15:15:01.713Z",
-   "to": "2026-09-01T15:15:01.713Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the Hill and Watford while we fix a signal failure at North Harrow. Tickets being accepted on London Buses. MINOR DELAYS between Aldgate and Amersham/Chesham. GOOD SERVICE on the rest of the line.   "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-09-01T15:15:01.713Z",
-   "to": "2026-09-01T15:15:01.713Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the Hill and Watford while we fix a signal failure at North Harrow. Tickets being accepted on London Buses. MINOR DELAYS between Aldgate and Amersham/Chesham. GOOD SERVICE on the rest of the line.   "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-09-01T15:20:06.076Z",
-   "to": "2026-09-01T15:20:06.076Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the Hill and Watford while we fix a signal failure at North Harrow. Tickets being accepted on London Buses. MINOR DELAYS between Aldgate and Amersham/Chesham. GOOD SERVICE on the rest of the line.   "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-09-01T15:20:06.076Z",
-   "to": "2026-09-01T15:20:06.076Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the Hill and Watford while we fix a signal failure at North Harrow. Tickets being accepted on London Buses. MINOR DELAYS between Aldgate and Amersham/Chesham. GOOD SERVICE on the rest of the line.   "
   },
   {
    "line": "metropolitan",
@@ -804866,7 +804839,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-31T01:31:31.201Z",
-   "to": "2026-10-31T14:45:10.649Z",
+   "to": "2026-10-31T15:20:00.883Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "PICCADILLY LINE: Saturday 31 October, from 0100, and all day Sunday 1 November, including Friday and Saturday Night Tube, no service on the entire line. Use ELIZABETH LINE services between Central London and Heathrow, and METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement bus services operate."
@@ -809231,7 +809204,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-10-31T04:20:00.691Z",
-   "to": "2026-10-31T14:45:10.649Z",
+   "to": "2026-10-31T15:20:00.883Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -809564,7 +809537,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-10-31T04:31:06.899Z",
-   "to": "2026-10-31T14:45:10.649Z",
+   "to": "2026-10-31T15:20:00.883Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Saturday 31 October and Sunday 1 November, no service between New Cross Gate and West Croydon / Crystal Palace. In addition, no SOUTHERN service between London Bridge and Crystal Palace / East Croydon via Forest Hill, and THAMESLINK services via East Croydon do not call at London Bridge or Norwood Junction.  Rail replacement buses will run as follows: New Cross Gate - Brockley - Honor Oak Park - Forest Hill - Sydenham - Crystal Palace."
@@ -826547,7 +826520,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-31T12:35:10.450Z",
-   "to": "2026-10-31T14:45:10.649Z",
+   "to": "2026-10-31T15:20:00.883Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays due to train cancellations. "
@@ -832604,7 +832577,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-31T14:35:10.611Z",
-   "to": "2026-10-31T14:45:10.649Z",
+   "to": "2026-10-31T15:20:00.475Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Moor Park and Chesham due to train cancellations. After the 13:53 departure from Chesham, the next southbound train will be at 14:26. GOOD SERVICE on the rest of the line. "
@@ -833117,7 +833090,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-10-31T14:45:10.649Z",
-   "to": "2026-10-31T14:45:10.649Z",
+   "to": "2026-10-31T15:20:00.883Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
@@ -833136,6 +833109,1806 @@
    "lineName": "Waterloo & City",
    "from": "2026-10-31T14:45:10.649Z",
    "to": "2026-10-31T14:45:10.649Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:45:27.736Z",
+   "to": "2026-10-31T14:45:27.736Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:45:27.736Z",
+   "to": "2026-10-31T14:45:27.736Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:45:27.736Z",
+   "to": "2026-10-31T14:45:27.736Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:45:27.736Z",
+   "to": "2026-10-31T14:45:27.736Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:45:28.092Z",
+   "to": "2026-10-31T14:45:28.092Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:45:28.092Z",
+   "to": "2026-10-31T14:45:28.092Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:45:28.092Z",
+   "to": "2026-10-31T14:45:28.092Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:45:28.092Z",
+   "to": "2026-10-31T14:45:28.092Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:45:28.463Z",
+   "to": "2026-10-31T14:45:28.463Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:45:28.463Z",
+   "to": "2026-10-31T14:45:28.463Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:45:28.463Z",
+   "to": "2026-10-31T14:45:28.463Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:45:28.463Z",
+   "to": "2026-10-31T14:45:28.463Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:45:54.191Z",
+   "to": "2026-10-31T14:45:54.191Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:45:54.191Z",
+   "to": "2026-10-31T14:45:54.191Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:45:54.191Z",
+   "to": "2026-10-31T14:45:54.191Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:45:54.191Z",
+   "to": "2026-10-31T14:45:54.191Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:45:54.577Z",
+   "to": "2026-10-31T14:45:54.577Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:45:54.577Z",
+   "to": "2026-10-31T14:45:54.577Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:45:54.577Z",
+   "to": "2026-10-31T14:45:54.577Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:45:54.577Z",
+   "to": "2026-10-31T14:45:54.577Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:45:59.154Z",
+   "to": "2026-10-31T14:45:59.154Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:45:59.154Z",
+   "to": "2026-10-31T14:45:59.154Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:45:59.154Z",
+   "to": "2026-10-31T14:45:59.154Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:45:59.154Z",
+   "to": "2026-10-31T14:45:59.154Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:50:00.441Z",
+   "to": "2026-10-31T14:50:00.441Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:50:00.441Z",
+   "to": "2026-10-31T14:50:00.441Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:50:00.441Z",
+   "to": "2026-10-31T14:50:00.441Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:50:00.441Z",
+   "to": "2026-10-31T14:50:00.441Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:50:00.886Z",
+   "to": "2026-10-31T14:50:00.886Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:50:00.886Z",
+   "to": "2026-10-31T14:50:00.886Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:50:00.886Z",
+   "to": "2026-10-31T14:50:00.886Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:50:00.886Z",
+   "to": "2026-10-31T14:50:00.886Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:50:05.651Z",
+   "to": "2026-10-31T14:50:05.651Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:50:05.651Z",
+   "to": "2026-10-31T14:50:05.651Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:50:05.651Z",
+   "to": "2026-10-31T14:50:05.651Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:50:05.651Z",
+   "to": "2026-10-31T14:50:05.651Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:51:19.770Z",
+   "to": "2026-10-31T14:51:19.770Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:51:19.770Z",
+   "to": "2026-10-31T14:51:19.770Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:51:19.770Z",
+   "to": "2026-10-31T14:51:19.770Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:51:19.770Z",
+   "to": "2026-10-31T14:51:19.770Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:51:20.138Z",
+   "to": "2026-10-31T14:51:20.138Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:51:20.138Z",
+   "to": "2026-10-31T14:51:20.138Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:51:20.138Z",
+   "to": "2026-10-31T14:51:20.138Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:51:20.138Z",
+   "to": "2026-10-31T14:51:20.138Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:51:20.594Z",
+   "to": "2026-10-31T14:51:20.594Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:51:20.594Z",
+   "to": "2026-10-31T14:51:20.594Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:51:20.594Z",
+   "to": "2026-10-31T14:51:20.594Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:51:20.594Z",
+   "to": "2026-10-31T14:51:20.594Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:51:20.960Z",
+   "to": "2026-10-31T14:51:20.960Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:51:20.960Z",
+   "to": "2026-10-31T14:51:20.960Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:51:20.960Z",
+   "to": "2026-10-31T14:51:20.960Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:51:20.960Z",
+   "to": "2026-10-31T14:51:20.960Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:55:10.418Z",
+   "to": "2026-10-31T14:55:10.418Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:55:10.418Z",
+   "to": "2026-10-31T14:55:10.418Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:55:10.418Z",
+   "to": "2026-10-31T14:55:10.418Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:55:10.418Z",
+   "to": "2026-10-31T14:55:10.418Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:55:10.790Z",
+   "to": "2026-10-31T14:55:10.790Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:55:10.790Z",
+   "to": "2026-10-31T14:55:10.790Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:55:10.790Z",
+   "to": "2026-10-31T14:55:10.790Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:55:10.790Z",
+   "to": "2026-10-31T14:55:10.790Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:55:11.467Z",
+   "to": "2026-10-31T14:55:11.467Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:55:11.467Z",
+   "to": "2026-10-31T14:55:11.467Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:55:11.467Z",
+   "to": "2026-10-31T14:55:11.467Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:55:11.467Z",
+   "to": "2026-10-31T14:55:11.467Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:55:11.891Z",
+   "to": "2026-10-31T14:55:11.891Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:55:11.891Z",
+   "to": "2026-10-31T14:55:11.891Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:55:11.891Z",
+   "to": "2026-10-31T14:55:11.891Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:55:11.891Z",
+   "to": "2026-10-31T14:55:11.891Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:55:22.089Z",
+   "to": "2026-10-31T14:55:22.089Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:55:22.089Z",
+   "to": "2026-10-31T14:55:22.089Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:55:22.089Z",
+   "to": "2026-10-31T14:55:22.089Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:55:22.089Z",
+   "to": "2026-10-31T14:55:22.089Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:55:22.515Z",
+   "to": "2026-10-31T14:55:22.515Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:55:22.515Z",
+   "to": "2026-10-31T14:55:22.515Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:55:22.515Z",
+   "to": "2026-10-31T14:55:22.515Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:55:22.515Z",
+   "to": "2026-10-31T14:55:22.515Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:55:27.057Z",
+   "to": "2026-10-31T14:55:27.057Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T14:55:27.057Z",
+   "to": "2026-10-31T14:55:27.057Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:55:27.057Z",
+   "to": "2026-10-31T14:55:27.057Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T14:55:27.057Z",
+   "to": "2026-10-31T14:55:27.057Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:00:00.738Z",
+   "to": "2026-10-31T15:00:00.738Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:00:00.738Z",
+   "to": "2026-10-31T15:00:00.738Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:00:00.738Z",
+   "to": "2026-10-31T15:00:00.738Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:00:00.738Z",
+   "to": "2026-10-31T15:00:00.738Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:00:02.225Z",
+   "to": "2026-10-31T15:00:02.225Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:00:02.225Z",
+   "to": "2026-10-31T15:00:02.225Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:00:02.225Z",
+   "to": "2026-10-31T15:00:02.225Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:00:02.225Z",
+   "to": "2026-10-31T15:00:02.225Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:00:07.376Z",
+   "to": "2026-10-31T15:00:07.376Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:00:07.376Z",
+   "to": "2026-10-31T15:00:07.376Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:00:07.376Z",
+   "to": "2026-10-31T15:00:07.376Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:00:07.376Z",
+   "to": "2026-10-31T15:00:07.376Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:00:49.235Z",
+   "to": "2026-10-31T15:00:49.235Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:00:49.235Z",
+   "to": "2026-10-31T15:00:49.235Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:00:49.235Z",
+   "to": "2026-10-31T15:00:49.235Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:00:49.235Z",
+   "to": "2026-10-31T15:00:49.235Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:00:49.598Z",
+   "to": "2026-10-31T15:00:49.598Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:00:49.598Z",
+   "to": "2026-10-31T15:00:49.598Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:00:49.598Z",
+   "to": "2026-10-31T15:00:49.598Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:00:49.598Z",
+   "to": "2026-10-31T15:00:49.598Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:00:50.035Z",
+   "to": "2026-10-31T15:00:50.035Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:00:50.035Z",
+   "to": "2026-10-31T15:00:50.035Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:00:50.035Z",
+   "to": "2026-10-31T15:00:50.035Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:00:50.035Z",
+   "to": "2026-10-31T15:00:50.035Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:00:50.394Z",
+   "to": "2026-10-31T15:00:50.394Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:00:50.394Z",
+   "to": "2026-10-31T15:00:50.394Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:00:50.394Z",
+   "to": "2026-10-31T15:00:50.394Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:00:50.394Z",
+   "to": "2026-10-31T15:00:50.394Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:05:10.808Z",
+   "to": "2026-10-31T15:05:10.808Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:05:10.808Z",
+   "to": "2026-10-31T15:05:10.808Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:05:10.808Z",
+   "to": "2026-10-31T15:05:10.808Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:05:10.808Z",
+   "to": "2026-10-31T15:05:10.808Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:05:11.188Z",
+   "to": "2026-10-31T15:05:11.188Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:05:11.188Z",
+   "to": "2026-10-31T15:05:11.188Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:05:11.188Z",
+   "to": "2026-10-31T15:05:11.188Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:05:11.188Z",
+   "to": "2026-10-31T15:05:11.188Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:05:11.570Z",
+   "to": "2026-10-31T15:05:11.570Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:05:11.570Z",
+   "to": "2026-10-31T15:05:11.570Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:05:11.570Z",
+   "to": "2026-10-31T15:05:11.570Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:05:11.570Z",
+   "to": "2026-10-31T15:05:11.570Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:05:11.978Z",
+   "to": "2026-10-31T15:05:11.978Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:05:11.978Z",
+   "to": "2026-10-31T15:05:11.978Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:05:11.978Z",
+   "to": "2026-10-31T15:05:11.978Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:05:11.978Z",
+   "to": "2026-10-31T15:05:11.978Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:05:54.196Z",
+   "to": "2026-10-31T15:05:54.196Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:05:54.196Z",
+   "to": "2026-10-31T15:05:54.196Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:05:54.196Z",
+   "to": "2026-10-31T15:05:54.196Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:05:54.196Z",
+   "to": "2026-10-31T15:05:54.196Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:05:54.915Z",
+   "to": "2026-10-31T15:05:54.915Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:05:54.915Z",
+   "to": "2026-10-31T15:05:54.915Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:05:54.915Z",
+   "to": "2026-10-31T15:05:54.915Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:05:54.915Z",
+   "to": "2026-10-31T15:05:54.915Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:05:59.363Z",
+   "to": "2026-10-31T15:05:59.363Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:05:59.363Z",
+   "to": "2026-10-31T15:05:59.363Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:05:59.363Z",
+   "to": "2026-10-31T15:05:59.363Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:05:59.363Z",
+   "to": "2026-10-31T15:05:59.363Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:10:00.663Z",
+   "to": "2026-10-31T15:10:00.663Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:10:00.663Z",
+   "to": "2026-10-31T15:10:00.663Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:10:00.663Z",
+   "to": "2026-10-31T15:10:00.663Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:10:00.663Z",
+   "to": "2026-10-31T15:10:00.663Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:10:01.049Z",
+   "to": "2026-10-31T15:10:01.049Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:10:01.049Z",
+   "to": "2026-10-31T15:10:01.049Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:10:01.049Z",
+   "to": "2026-10-31T15:10:01.049Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:10:01.049Z",
+   "to": "2026-10-31T15:10:01.049Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:10:05.414Z",
+   "to": "2026-10-31T15:10:05.414Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:10:05.414Z",
+   "to": "2026-10-31T15:10:05.414Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:10:05.414Z",
+   "to": "2026-10-31T15:10:05.414Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:10:05.414Z",
+   "to": "2026-10-31T15:10:05.414Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:11:20.554Z",
+   "to": "2026-10-31T15:11:20.554Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:11:20.554Z",
+   "to": "2026-10-31T15:11:20.554Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:11:20.554Z",
+   "to": "2026-10-31T15:11:20.554Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:11:20.554Z",
+   "to": "2026-10-31T15:11:20.554Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:11:21.875Z",
+   "to": "2026-10-31T15:11:21.875Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:11:21.875Z",
+   "to": "2026-10-31T15:11:21.875Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:11:21.875Z",
+   "to": "2026-10-31T15:11:21.875Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:11:21.875Z",
+   "to": "2026-10-31T15:11:21.875Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:11:22.635Z",
+   "to": "2026-10-31T15:11:22.635Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:11:22.635Z",
+   "to": "2026-10-31T15:11:22.635Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:11:22.635Z",
+   "to": "2026-10-31T15:11:22.635Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:11:22.635Z",
+   "to": "2026-10-31T15:11:22.635Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:11:22.996Z",
+   "to": "2026-10-31T15:11:22.996Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:11:22.996Z",
+   "to": "2026-10-31T15:11:22.996Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:11:22.996Z",
+   "to": "2026-10-31T15:11:22.996Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:11:22.996Z",
+   "to": "2026-10-31T15:11:22.996Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:15:10.878Z",
+   "to": "2026-10-31T15:15:10.878Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:15:10.878Z",
+   "to": "2026-10-31T15:15:10.878Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:15:10.878Z",
+   "to": "2026-10-31T15:15:10.878Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:15:10.878Z",
+   "to": "2026-10-31T15:15:10.878Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:15:11.609Z",
+   "to": "2026-10-31T15:15:11.609Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:15:11.609Z",
+   "to": "2026-10-31T15:15:11.609Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:15:11.609Z",
+   "to": "2026-10-31T15:15:11.609Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:15:11.609Z",
+   "to": "2026-10-31T15:15:11.609Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:15:11.983Z",
+   "to": "2026-10-31T15:15:11.983Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:15:11.983Z",
+   "to": "2026-10-31T15:15:11.983Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:15:11.983Z",
+   "to": "2026-10-31T15:15:11.983Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:15:11.983Z",
+   "to": "2026-10-31T15:15:11.983Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:15:12.386Z",
+   "to": "2026-10-31T15:15:12.386Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:15:12.386Z",
+   "to": "2026-10-31T15:15:12.386Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:15:12.386Z",
+   "to": "2026-10-31T15:15:12.386Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:15:12.386Z",
+   "to": "2026-10-31T15:15:12.386Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:15:23.004Z",
+   "to": "2026-10-31T15:15:23.004Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:15:23.004Z",
+   "to": "2026-10-31T15:15:23.004Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:15:23.004Z",
+   "to": "2026-10-31T15:15:23.004Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:15:23.004Z",
+   "to": "2026-10-31T15:15:23.004Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:15:23.408Z",
+   "to": "2026-10-31T15:15:23.408Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:15:23.408Z",
+   "to": "2026-10-31T15:15:23.408Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:15:23.408Z",
+   "to": "2026-10-31T15:15:23.408Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:15:23.408Z",
+   "to": "2026-10-31T15:15:23.408Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:15:28.263Z",
+   "to": "2026-10-31T15:15:28.263Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:15:28.263Z",
+   "to": "2026-10-31T15:15:28.263Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:15:28.263Z",
+   "to": "2026-10-31T15:15:28.263Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:15:28.263Z",
+   "to": "2026-10-31T15:15:28.263Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:20:00.475Z",
+   "to": "2026-10-31T15:20:00.475Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:20:00.475Z",
+   "to": "2026-10-31T15:20:00.475Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:20:00.475Z",
+   "to": "2026-10-31T15:20:00.475Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:20:00.475Z",
+   "to": "2026-10-31T15:20:00.475Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:20:00.883Z",
+   "to": "2026-10-31T15:20:00.883Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-31T15:20:00.883Z",
+   "to": "2026-10-31T15:20:00.883Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:20:00.883Z",
+   "to": "2026-10-31T15:20:00.883Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-31T15:20:00.883Z",
+   "to": "2026-10-31T15:20:00.883Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
