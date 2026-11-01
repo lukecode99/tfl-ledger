@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-01T05:35:18.914Z",
- "sinceISO": "2026-10-02T05:35:11.310Z",
+ "generatedAt": "2026-11-01T06:35:20.478Z",
+ "sinceISO": "2026-10-02T06:35:09.871Z",
  "coverage": [
   {
-   "from": "2026-10-02T05:40:08.439Z",
+   "from": "2026-10-02T06:40:08.651Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 3731
+   "polls": 3719
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,96 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-11-01T05:35:11.037Z",
-   "polls": 49352
+   "to": "2026-11-01T06:35:09.229Z",
+   "polls": 49435
   }
  ],
  "spans": [
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-10-02T05:40:08.439Z",
-   "to": "2026-10-02T05:40:08.439Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: No service clockwise while we fix a signal failure at Gloucester Road. SEVERE DELAYS anti-clockwise due to a customer incident at Paddington. Tickets will be accepted on London Buses.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-02T05:40:08.439Z",
-   "to": "2026-10-02T05:40:08.439Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service clockwise while we fix a signal failure at Gloucester Road. SEVERE DELAYS anti-clockwise due to a customer incident at Paddington. Tickets will be accepted on London Buses.  "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-02T05:40:08.439Z",
-   "to": "2026-10-02T05:40:08.439Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "District Line: No service between High Street Kensington and Edgware Road while we deal with a customer incident at Paddington. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-02T05:40:08.439Z",
-   "to": "2026-10-02T06:05:01.736Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Victoria Line: Minor delays due to a track fault at Brixton.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-02T05:45:02.352Z",
-   "to": "2026-10-02T06:20:07.837Z",
-   "severity": 2,
-   "description": "Suspended",
-   "reason": "Circle Line: No service while we fix a points failure at Gloucester Road. Tickets will be accepted on London Buses.  "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-02T05:45:02.352Z",
-   "to": "2026-10-02T06:20:07.837Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: Severe delays while we fix a signal failure at Gloucester Road. Tickets will be accepted on London Buses.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-02T05:45:02.352Z",
-   "to": "2026-10-02T06:55:02.289Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Weaver Line: Minor delays while we fix a signal failure at Clapton. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-02T06:10:04.105Z",
-   "to": "2026-10-03T00:45:02.194Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: Severe delays due to a track fault at Brixton. London Buses, Weaver line, Suffragette line, Great Northern, Thameslink and Greater Anglia, South Western Railway and Southeastern are accepting valid tickets via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-02T06:15:03.100Z",
-   "to": "2026-10-02T09:00:11.113Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-02T06:25:02.270Z",
+   "from": "2026-10-02T06:40:08.651Z",
    "to": "2026-10-02T06:55:02.289Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -112,11 +31,38 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-02T06:25:02.270Z",
+   "from": "2026-10-02T06:40:08.651Z",
    "to": "2026-10-02T06:55:02.289Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays due to an earlier points failure at Gloucester Road. Tickets will be accepted on London Buses.  "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-02T06:40:08.651Z",
+   "to": "2026-10-02T09:00:11.113Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-02T06:40:08.651Z",
+   "to": "2026-10-03T00:45:02.194Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Victoria Line: Severe delays due to a track fault at Brixton. London Buses, Weaver line, Suffragette line, Great Northern, Thameslink and Greater Anglia, South Western Railway and Southeastern are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-02T06:40:08.651Z",
+   "to": "2026-10-02T06:55:02.289Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Weaver Line: Minor delays while we fix a signal failure at Clapton. "
   },
   {
    "line": "central",
@@ -676004,7 +675950,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-31T01:31:31.201Z",
-   "to": "2026-11-01T05:35:11.037Z",
+   "to": "2026-11-01T06:35:09.229Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "PICCADILLY LINE: Saturday 31 October, from 0100, and all day Sunday 1 November, including Friday and Saturday Night Tube, no service on the entire line. Use ELIZABETH LINE services between Central London and Heathrow, and METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement bus services operate."
@@ -746879,7 +746825,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-01T03:05:11.011Z",
-   "to": "2026-11-01T05:35:11.037Z",
+   "to": "2026-11-01T06:31:08.975Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays between High Barnet/ Edgware and Camden Town due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -750398,7 +750344,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-01T04:15:10.700Z",
-   "to": "2026-11-01T05:35:11.037Z",
+   "to": "2026-11-01T06:35:09.229Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -750776,7 +750722,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-11-01T04:25:10.793Z",
-   "to": "2026-11-01T05:35:11.037Z",
+   "to": "2026-11-01T06:35:09.229Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Saturday 31 October and Sunday 1 November, no service between New Cross Gate and West Croydon / Crystal Palace. In addition, no SOUTHERN service between London Bridge and Crystal Palace / East Croydon via Forest Hill, and THAMESLINK services via East Croydon do not call at London Bridge or Norwood Junction.  Rail replacement buses will run as follows: New Cross Gate - Brockley - Honor Oak Park - Forest Hill - Sydenham - Crystal Palace."
@@ -750785,7 +750731,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-11-01T04:31:33.332Z",
-   "to": "2026-11-01T05:35:11.037Z",
+   "to": "2026-11-01T06:35:09.229Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 1 November, no service between Shadwell and Tower Gateway."
@@ -750794,7 +750740,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-11-01T04:31:33.332Z",
-   "to": "2026-11-01T05:35:11.037Z",
+   "to": "2026-11-01T06:35:09.229Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "ELIZABETH LINE: Sunday 1 November, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
@@ -750803,7 +750749,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-11-01T04:31:33.332Z",
-   "to": "2026-11-01T05:35:11.037Z",
+   "to": "2026-11-01T06:35:09.229Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "MILDMAY LINE: Sunday 1 November, no service between Camden Road and Richmond / Clapham Junction. A special service operates between Willesden Junction (Low Level) and Stratford, calling at Kensal Green, Queen's Park, Kilburn High Road, South Hampstead, Camden Road and all stations to Stratford. No trains will run between Richmond / Willesden Junction and Camden Road via Gospel Oak; Customers should use District line trains between Richmond and Gunnersbury, and local buses between Willesden Junction and Clapham Junction as SOUTHERN services will not operate between Watford Junction and Clapham Junction. Rail replacement buses will run as follows: Service R: Camden Town (for Northern line) - Camden Road - Kentish Town West - Gospel Oak (bus stops in Agincourt Road / Southampton Road) - Hampstead Heath - Finchley Road (walk to/from Finchley Road & Frognal) - West Hampstead - Brondesbury (bus stops in Kilburn High Road) - Queen's Park (use local buses to/from Brondesbury Park) - Kensal Rise - Willesden Junction - Acton Central, Eastbound The Vale / Westbound Acton High Street - South Acton, Acton Lane -  Gunnersbury."
@@ -752406,6 +752352,1500 @@
    "lineName": "Suffragette",
    "from": "2026-11-01T05:35:11.037Z",
    "to": "2026-11-01T05:35:11.037Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:35:26.666Z",
+   "to": "2026-11-01T05:35:26.666Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:35:26.666Z",
+   "to": "2026-11-01T05:35:26.666Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:35:27.034Z",
+   "to": "2026-11-01T05:35:27.034Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:35:27.034Z",
+   "to": "2026-11-01T05:35:27.034Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:35:27.415Z",
+   "to": "2026-11-01T05:35:27.415Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:35:27.415Z",
+   "to": "2026-11-01T05:35:27.415Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:35:45.437Z",
+   "to": "2026-11-01T05:35:45.437Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:35:45.437Z",
+   "to": "2026-11-01T05:35:45.437Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:35:48.106Z",
+   "to": "2026-11-01T05:35:48.106Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:35:48.106Z",
+   "to": "2026-11-01T05:35:48.106Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:35:52.599Z",
+   "to": "2026-11-01T05:35:52.599Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:35:52.599Z",
+   "to": "2026-11-01T05:35:52.599Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:40:00.909Z",
+   "to": "2026-11-01T05:40:00.909Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:40:00.909Z",
+   "to": "2026-11-01T05:40:00.909Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:40:03.666Z",
+   "to": "2026-11-01T05:40:03.666Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:40:03.666Z",
+   "to": "2026-11-01T05:40:03.666Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:40:09.123Z",
+   "to": "2026-11-01T05:40:09.123Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:40:09.123Z",
+   "to": "2026-11-01T05:40:09.123Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:41:14.250Z",
+   "to": "2026-11-01T05:41:14.250Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:41:14.250Z",
+   "to": "2026-11-01T05:41:14.250Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:41:15.009Z",
+   "to": "2026-11-01T05:41:15.009Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:41:15.009Z",
+   "to": "2026-11-01T05:41:15.009Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:41:15.377Z",
+   "to": "2026-11-01T05:41:15.377Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:41:15.377Z",
+   "to": "2026-11-01T05:41:15.377Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:41:15.744Z",
+   "to": "2026-11-01T05:41:15.744Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:41:15.744Z",
+   "to": "2026-11-01T05:41:15.744Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:45:10.615Z",
+   "to": "2026-11-01T05:45:10.615Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:45:10.615Z",
+   "to": "2026-11-01T05:45:10.615Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:45:11.072Z",
+   "to": "2026-11-01T05:45:11.072Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:45:11.072Z",
+   "to": "2026-11-01T05:45:11.072Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:45:11.532Z",
+   "to": "2026-11-01T05:45:11.532Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:45:11.532Z",
+   "to": "2026-11-01T05:45:11.532Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:45:11.937Z",
+   "to": "2026-11-01T05:45:11.937Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:45:11.937Z",
+   "to": "2026-11-01T05:45:11.937Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:46:19.484Z",
+   "to": "2026-11-01T05:46:19.484Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:46:19.484Z",
+   "to": "2026-11-01T05:46:19.484Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:46:22.473Z",
+   "to": "2026-11-01T05:46:22.473Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:46:22.473Z",
+   "to": "2026-11-01T05:46:22.473Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:46:26.759Z",
+   "to": "2026-11-01T05:46:26.759Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:46:26.759Z",
+   "to": "2026-11-01T05:46:26.759Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:50:00.829Z",
+   "to": "2026-11-01T05:50:00.829Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:50:00.829Z",
+   "to": "2026-11-01T05:50:00.829Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:50:03.560Z",
+   "to": "2026-11-01T05:50:03.560Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:50:03.560Z",
+   "to": "2026-11-01T05:50:03.560Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:50:09.270Z",
+   "to": "2026-11-01T05:50:09.270Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:50:09.270Z",
+   "to": "2026-11-01T05:50:09.270Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:50:42.326Z",
+   "to": "2026-11-01T05:50:42.326Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:50:42.326Z",
+   "to": "2026-11-01T05:50:42.326Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:50:42.717Z",
+   "to": "2026-11-01T05:50:42.717Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:50:42.717Z",
+   "to": "2026-11-01T05:50:42.717Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:50:43.102Z",
+   "to": "2026-11-01T05:50:43.102Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:50:43.102Z",
+   "to": "2026-11-01T05:50:43.102Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:50:43.489Z",
+   "to": "2026-11-01T05:50:43.489Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:50:43.489Z",
+   "to": "2026-11-01T05:50:43.489Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:55:10.726Z",
+   "to": "2026-11-01T05:55:10.726Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:55:10.726Z",
+   "to": "2026-11-01T05:55:10.726Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:55:11.412Z",
+   "to": "2026-11-01T05:55:11.412Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:55:11.412Z",
+   "to": "2026-11-01T05:55:11.412Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:55:11.788Z",
+   "to": "2026-11-01T05:55:11.788Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:55:11.788Z",
+   "to": "2026-11-01T05:55:11.788Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:55:13.184Z",
+   "to": "2026-11-01T05:55:13.184Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:55:13.184Z",
+   "to": "2026-11-01T05:55:13.184Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:55:47.527Z",
+   "to": "2026-11-01T05:55:47.527Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:55:47.527Z",
+   "to": "2026-11-01T05:55:47.527Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:55:54.416Z",
+   "to": "2026-11-01T05:55:54.416Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T05:55:54.416Z",
+   "to": "2026-11-01T05:55:54.416Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:00:00.852Z",
+   "to": "2026-11-01T06:00:00.852Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:00:00.852Z",
+   "to": "2026-11-01T06:00:00.852Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:00:04.737Z",
+   "to": "2026-11-01T06:00:04.737Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:00:04.737Z",
+   "to": "2026-11-01T06:00:04.737Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:00:09.310Z",
+   "to": "2026-11-01T06:00:09.310Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:00:09.310Z",
+   "to": "2026-11-01T06:00:09.310Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:01:22.170Z",
+   "to": "2026-11-01T06:01:22.170Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:01:22.170Z",
+   "to": "2026-11-01T06:01:22.170Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:01:23.373Z",
+   "to": "2026-11-01T06:01:23.373Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:01:23.373Z",
+   "to": "2026-11-01T06:01:23.373Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:01:24.100Z",
+   "to": "2026-11-01T06:01:24.100Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:01:24.100Z",
+   "to": "2026-11-01T06:01:24.100Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:01:24.811Z",
+   "to": "2026-11-01T06:01:24.811Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:01:24.811Z",
+   "to": "2026-11-01T06:01:24.811Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:05:08.708Z",
+   "to": "2026-11-01T06:05:08.708Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:05:08.708Z",
+   "to": "2026-11-01T06:05:08.708Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:05:09.210Z",
+   "to": "2026-11-01T06:05:09.210Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:05:09.210Z",
+   "to": "2026-11-01T06:05:09.210Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:05:09.573Z",
+   "to": "2026-11-01T06:05:09.573Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:05:09.573Z",
+   "to": "2026-11-01T06:05:09.573Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:05:09.936Z",
+   "to": "2026-11-01T06:05:09.936Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:05:09.936Z",
+   "to": "2026-11-01T06:05:09.936Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:05:43.490Z",
+   "to": "2026-11-01T06:05:43.490Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:05:43.490Z",
+   "to": "2026-11-01T06:05:43.490Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:05:49.567Z",
+   "to": "2026-11-01T06:05:49.567Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:05:49.567Z",
+   "to": "2026-11-01T06:05:49.567Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:06:47.434Z",
+   "to": "2026-11-01T06:06:47.434Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:06:47.434Z",
+   "to": "2026-11-01T06:06:47.434Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:10:00.554Z",
+   "to": "2026-11-01T06:10:00.554Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:10:00.554Z",
+   "to": "2026-11-01T06:10:00.554Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:10:05.760Z",
+   "to": "2026-11-01T06:10:05.760Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:10:05.760Z",
+   "to": "2026-11-01T06:10:05.760Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:10:20.297Z",
+   "to": "2026-11-01T06:10:20.297Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:10:20.297Z",
+   "to": "2026-11-01T06:10:20.297Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:11:19.665Z",
+   "to": "2026-11-01T06:11:19.665Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:11:19.665Z",
+   "to": "2026-11-01T06:11:19.665Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:11:23.470Z",
+   "to": "2026-11-01T06:11:23.470Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:11:23.470Z",
+   "to": "2026-11-01T06:11:23.470Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:11:23.846Z",
+   "to": "2026-11-01T06:11:23.846Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:11:23.846Z",
+   "to": "2026-11-01T06:11:23.846Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:11:24.421Z",
+   "to": "2026-11-01T06:11:24.421Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:11:24.421Z",
+   "to": "2026-11-01T06:11:24.421Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:15:09.103Z",
+   "to": "2026-11-01T06:15:09.103Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:15:09.103Z",
+   "to": "2026-11-01T06:15:09.103Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:15:09.649Z",
+   "to": "2026-11-01T06:15:09.649Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:15:09.649Z",
+   "to": "2026-11-01T06:15:09.649Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:15:10.460Z",
+   "to": "2026-11-01T06:15:10.460Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:15:10.460Z",
+   "to": "2026-11-01T06:15:10.460Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:15:10.854Z",
+   "to": "2026-11-01T06:15:10.854Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:15:10.854Z",
+   "to": "2026-11-01T06:15:10.854Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:15:34.242Z",
+   "to": "2026-11-01T06:15:34.242Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:15:34.242Z",
+   "to": "2026-11-01T06:15:34.242Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:15:38.689Z",
+   "to": "2026-11-01T06:15:38.689Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:15:38.689Z",
+   "to": "2026-11-01T06:15:38.689Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:15:48.663Z",
+   "to": "2026-11-01T06:15:48.663Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:15:48.663Z",
+   "to": "2026-11-01T06:15:48.663Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:20:00.666Z",
+   "to": "2026-11-01T06:20:00.666Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:20:00.666Z",
+   "to": "2026-11-01T06:20:00.666Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:20:05.957Z",
+   "to": "2026-11-01T06:20:05.957Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:20:05.957Z",
+   "to": "2026-11-01T06:20:05.957Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:20:17.031Z",
+   "to": "2026-11-01T06:20:17.031Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:20:17.031Z",
+   "to": "2026-11-01T06:20:17.031Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:21:14.629Z",
+   "to": "2026-11-01T06:21:14.629Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:21:14.629Z",
+   "to": "2026-11-01T06:21:14.629Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:21:15.439Z",
+   "to": "2026-11-01T06:21:15.439Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:21:15.439Z",
+   "to": "2026-11-01T06:21:15.439Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:21:15.848Z",
+   "to": "2026-11-01T06:21:15.848Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:21:15.848Z",
+   "to": "2026-11-01T06:21:15.848Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:21:17.056Z",
+   "to": "2026-11-01T06:21:17.056Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:21:17.056Z",
+   "to": "2026-11-01T06:21:17.056Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:25:09.412Z",
+   "to": "2026-11-01T06:25:09.412Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:25:09.412Z",
+   "to": "2026-11-01T06:25:09.412Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:25:10.425Z",
+   "to": "2026-11-01T06:25:10.425Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:25:10.425Z",
+   "to": "2026-11-01T06:25:10.425Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:25:10.775Z",
+   "to": "2026-11-01T06:25:10.775Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:25:10.775Z",
+   "to": "2026-11-01T06:25:10.775Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:25:11.229Z",
+   "to": "2026-11-01T06:25:11.229Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:25:11.229Z",
+   "to": "2026-11-01T06:25:11.229Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:25:27.681Z",
+   "to": "2026-11-01T06:25:27.681Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:25:27.681Z",
+   "to": "2026-11-01T06:25:27.681Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:25:32.295Z",
+   "to": "2026-11-01T06:25:32.295Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:25:32.295Z",
+   "to": "2026-11-01T06:25:32.295Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:25:42.412Z",
+   "to": "2026-11-01T06:25:42.412Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:25:42.412Z",
+   "to": "2026-11-01T06:25:42.412Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:30:00.743Z",
+   "to": "2026-11-01T06:30:00.743Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:30:00.743Z",
+   "to": "2026-11-01T06:30:00.743Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:30:06.069Z",
+   "to": "2026-11-01T06:30:06.069Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:30:06.069Z",
+   "to": "2026-11-01T06:30:06.069Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:30:16.716Z",
+   "to": "2026-11-01T06:30:16.716Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:30:16.716Z",
+   "to": "2026-11-01T06:30:16.716Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:31:07.624Z",
+   "to": "2026-11-01T06:31:07.624Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:31:07.624Z",
+   "to": "2026-11-01T06:31:07.624Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:31:08.224Z",
+   "to": "2026-11-01T06:31:08.224Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:31:08.224Z",
+   "to": "2026-11-01T06:31:08.224Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:31:08.608Z",
+   "to": "2026-11-01T06:31:08.608Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:31:08.608Z",
+   "to": "2026-11-01T06:31:08.608Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:31:08.975Z",
+   "to": "2026-11-01T06:31:08.975Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:31:08.975Z",
+   "to": "2026-11-01T06:31:08.975Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:35:09.229Z",
+   "to": "2026-11-01T06:35:09.229Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 1 November, until 0945, no service between Gospel Oak and Barking Riverside. The line then remains suspended between South Tottenham and Barking Riverside after 0945. Use local buses via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to South Tottenham 1022; South Tottenham to Gospel Oak 1043"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-01T06:35:09.229Z",
+   "to": "2026-11-01T06:35:09.229Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes."
