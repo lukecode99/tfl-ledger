@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-02T10:45:07.649Z",
- "sinceISO": "2026-10-03T10:45:00.757Z",
+ "generatedAt": "2026-11-02T10:45:27.624Z",
+ "sinceISO": "2026-10-03T10:45:20.436Z",
  "coverage": [
   {
-   "from": "2026-10-03T10:45:01.860Z",
+   "from": "2026-10-03T10:50:04.649Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 3382
+   "polls": 3381
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-11-02T10:45:00.477Z",
-   "polls": 51794
+   "to": "2026-11-02T10:45:19.843Z",
+   "polls": 51795
   }
  ],
  "spans": [
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-10-03T10:45:01.860Z",
+   "from": "2026-10-03T10:50:04.649Z",
    "to": "2026-10-04T00:25:01.990Z",
    "severity": 5,
    "description": "Part Closure",
@@ -31,7 +31,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-03T10:45:01.860Z",
+   "from": "2026-10-03T10:50:04.649Z",
    "to": "2026-10-03T11:35:02.284Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,7 +40,7 @@
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-10-03T10:45:01.860Z",
+   "from": "2026-10-03T10:50:04.649Z",
    "to": "2026-10-03T11:00:11.221Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -49,7 +49,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-10-03T10:45:01.860Z",
+   "from": "2026-10-03T10:50:04.649Z",
    "to": "2026-10-03T16:10:04.314Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -58,7 +58,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-10-03T10:45:01.860Z",
+   "from": "2026-10-03T10:50:04.649Z",
    "to": "2026-10-04T00:15:01.834Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -67,7 +67,7 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-10-03T10:45:01.860Z",
+   "from": "2026-10-03T10:50:04.649Z",
    "to": "2026-10-03T10:50:04.649Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -814883,7 +814883,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-02T04:15:00.582Z",
-   "to": "2026-11-02T10:45:00.477Z",
+   "to": "2026-11-02T10:45:19.843Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -815801,7 +815801,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-02T08:35:00.673Z",
-   "to": "2026-11-02T10:45:00.477Z",
+   "to": "2026-11-02T10:45:19.843Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -817097,7 +817097,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-02T10:35:03.154Z",
-   "to": "2026-11-02T10:45:00.477Z",
+   "to": "2026-11-02T10:45:19.843Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Richmond due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -817358,10 +817358,19 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-11-02T10:45:00.477Z",
-   "to": "2026-11-02T10:45:00.477Z",
+   "to": "2026-11-02T10:45:19.843Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays between Rayners Lane and Uxbridge due to an earlier trespasser on the track at Ruislip. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-02T10:45:19.843Z",
+   "to": "2026-11-02T10:45:19.843Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Aldgate and Uxbridge due to an earlier trespasser on the track at Ruislip.  "
   }
  ]
 }
