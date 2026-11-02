@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-02T00:10:10.391Z",
- "sinceISO": "2026-10-03T00:10:00.894Z",
+ "generatedAt": "2026-11-02T00:45:09.645Z",
+ "sinceISO": "2026-10-03T00:45:01.195Z",
  "coverage": [
   {
-   "from": "2026-10-03T00:10:04.517Z",
+   "from": "2026-10-03T00:45:02.194Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 3509
+   "polls": 3502
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,33 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-11-02T00:10:00.623Z",
-   "polls": 50912
+   "to": "2026-11-02T00:45:00.808Z",
+   "polls": 50961
   }
  ],
  "spans": [
   {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-03T00:10:04.517Z",
-   "to": "2026-10-03T00:45:02.194Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: Severe delays due to a track fault at Brixton. London Buses, Weaver line, Suffragette line, Great Northern, Thameslink and Greater Anglia, South Western Railway and Southeastern are accepting valid tickets via any reasonable route. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-03T00:10:04.517Z",
-   "to": "2026-10-03T03:10:05.777Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-03T00:20:04.532Z",
+   "from": "2026-10-03T00:45:02.194Z",
    "to": "2026-10-03T03:15:01.954Z",
    "severity": 20,
    "description": "Service Closed",
@@ -49,7 +31,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-10-03T00:20:04.532Z",
+   "from": "2026-10-03T00:45:02.194Z",
    "to": "2026-10-03T03:15:01.954Z",
    "severity": 20,
    "description": "Service Closed",
@@ -58,7 +40,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-03T00:20:04.532Z",
+   "from": "2026-10-03T00:45:02.194Z",
    "to": "2026-10-03T03:15:01.954Z",
    "severity": 20,
    "description": "Service Closed",
@@ -67,34 +49,43 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-03T00:20:04.532Z",
+   "from": "2026-10-03T00:45:02.194Z",
    "to": "2026-10-03T03:15:01.954Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Docklands Light Railway: Service will resume later this morning. "
   },
   {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-03T00:20:04.532Z",
-   "to": "2026-10-03T03:15:01.954Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Hammersmith and City Line: Service will resume later this morning. "
-  },
-  {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-03T00:25:02.174Z",
+   "from": "2026-10-03T00:45:02.194Z",
    "to": "2026-10-03T03:20:04.392Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Service will resume later this morning. "
   },
   {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-10-03T00:45:02.194Z",
+   "to": "2026-10-03T03:15:01.954Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Hammersmith and City Line: Service will resume later this morning. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-03T00:45:02.194Z",
+   "to": "2026-10-03T03:30:05.621Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "JUBILEE LINE: Saturday 3 October, between 0130 and 0430, no service between Finchley Road and Stratford. Replacement bus service JL3 operates between North Greenwich, Canning Town and Stratford."
+  },
+  {
    "line": "liberty",
    "lineName": "Liberty",
-   "from": "2026-10-03T00:25:02.174Z",
+   "from": "2026-10-03T00:45:02.194Z",
    "to": "2026-10-03T03:20:04.392Z",
    "severity": 20,
    "description": "Service Closed",
@@ -103,7 +94,7 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-10-03T00:25:02.174Z",
+   "from": "2026-10-03T00:45:02.194Z",
    "to": "2026-10-03T03:20:04.392Z",
    "severity": 20,
    "description": "Service Closed",
@@ -112,7 +103,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-03T00:25:02.174Z",
+   "from": "2026-10-03T00:45:02.194Z",
    "to": "2026-10-03T03:15:01.954Z",
    "severity": 20,
    "description": "Service Closed",
@@ -121,7 +112,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-10-03T00:25:02.174Z",
+   "from": "2026-10-03T00:45:02.194Z",
    "to": "2026-10-03T03:20:04.392Z",
    "severity": 20,
    "description": "Service Closed",
@@ -130,29 +121,38 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-10-03T00:25:02.174Z",
+   "from": "2026-10-03T00:45:02.194Z",
    "to": "2026-10-03T03:20:04.392Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Suffragette Line: Service will resume later this morning. "
   },
   {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-03T00:45:02.194Z",
+   "to": "2026-10-03T00:45:02.194Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Victoria Line: Severe delays due to a track fault at Brixton. London Buses, Weaver line, Suffragette line, Great Northern, Thameslink and Greater Anglia, South Western Railway and Southeastern are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-03T00:45:02.194Z",
+   "to": "2026-10-03T03:10:05.777Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-10-03T00:25:02.174Z",
+   "from": "2026-10-03T00:45:02.194Z",
    "to": "2026-10-03T03:20:04.392Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-03T00:30:04.480Z",
-   "to": "2026-10-03T03:30:05.621Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "JUBILEE LINE: Saturday 3 October, between 0130 and 0430, no service between Finchley Road and Stratford. Replacement bus service JL3 operates between North Greenwich, Canning Town and Stratford."
   },
   {
    "line": "victoria",
@@ -675437,7 +675437,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-10-31T01:31:31.201Z",
-   "to": "2026-11-02T00:10:00.623Z",
+   "to": "2026-11-02T00:45:00.808Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "PICCADILLY LINE: Saturday 31 October, from 0100, and all day Sunday 1 November, including Friday and Saturday Night Tube, no service on the entire line. Use ELIZABETH LINE services between Central London and Heathrow, and METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement bus services operate."
@@ -749831,7 +749831,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-01T04:15:10.700Z",
-   "to": "2026-11-02T00:10:00.623Z",
+   "to": "2026-11-02T00:45:00.808Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -750209,7 +750209,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-11-01T04:25:10.793Z",
-   "to": "2026-11-02T00:10:00.623Z",
+   "to": "2026-11-02T00:45:00.808Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Saturday 31 October and Sunday 1 November, no service between New Cross Gate and West Croydon / Crystal Palace. In addition, no SOUTHERN service between London Bridge and Crystal Palace / East Croydon via Forest Hill, and THAMESLINK services via East Croydon do not call at London Bridge or Norwood Junction.  Rail replacement buses will run as follows: New Cross Gate - Brockley - Honor Oak Park - Forest Hill - Sydenham - Crystal Palace."
@@ -762332,7 +762332,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-01T10:45:04.661Z",
-   "to": "2026-11-02T00:10:00.623Z",
+   "to": "2026-11-02T00:45:00.808Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -778055,7 +778055,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-11-01T14:25:04.496Z",
-   "to": "2026-11-02T00:10:00.623Z",
+   "to": "2026-11-02T00:45:00.808Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "MILDMAY LINE: Sunday 1 November, no service between Camden Road and Richmond / Clapham Junction. A special service operates between Willesden Junction (Low Level) and Stratford, calling at Kensal Green, Queen's Park, Kilburn High Road, South Hampstead, Camden Road and all stations to Stratford. No trains will run between Richmond / Willesden Junction and Camden Road via Gospel Oak; Customers should use District line trains between Richmond and Gunnersbury, and local buses between Willesden Junction and Clapham Junction as SOUTHERN services will not operate between Watford Junction and Clapham Junction. Rail replacement buses will run as follows: Service R: Camden Town (for Northern line) - Camden Road - Kentish Town West - Gospel Oak (bus stops in Agincourt Road / Southampton Road) - Hampstead Heath - Finchley Road (walk to/from Finchley Road & Frognal) - West Hampstead - Brondesbury (bus stops in Kilburn High Road) - Queen's Park (use local buses to/from Brondesbury Park) - Kensal Rise - Willesden Junction - Acton Central, Eastbound The Vale / Westbound Acton High Street - South Acton, Acton Lane -  Gunnersbury."
@@ -780305,7 +780305,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-01T15:10:02.547Z",
-   "to": "2026-11-02T00:10:00.623Z",
+   "to": "2026-11-02T00:41:21.119Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -782600,7 +782600,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-11-01T15:55:04.498Z",
-   "to": "2026-11-02T00:10:00.623Z",
+   "to": "2026-11-02T00:45:00.808Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 1 November, no service between Shadwell and Tower Gateway."
@@ -794255,7 +794255,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-11-01T20:55:04.707Z",
-   "to": "2026-11-02T00:10:00.623Z",
+   "to": "2026-11-02T00:45:00.808Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "ELIZABETH LINE: Sunday 1 November, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
@@ -801077,7 +801077,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-01T23:06:11.419Z",
-   "to": "2026-11-02T00:10:00.623Z",
+   "to": "2026-11-02T00:41:21.119Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. MINOR DELAYS between Amersham and Moor Park southbound only while we deal with a customer incident at Amersham. GOOD SERVICE on the rest of the line. "
@@ -804105,6 +804105,1797 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:10:32.261Z",
+   "to": "2026-11-02T00:10:32.261Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:10:32.261Z",
+   "to": "2026-11-02T00:10:32.261Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:10:32.261Z",
+   "to": "2026-11-02T00:10:32.261Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:10:32.261Z",
+   "to": "2026-11-02T00:10:32.261Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:11:34.089Z",
+   "to": "2026-11-02T00:11:34.089Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:11:34.089Z",
+   "to": "2026-11-02T00:11:34.089Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:11:34.089Z",
+   "to": "2026-11-02T00:11:34.089Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:11:34.089Z",
+   "to": "2026-11-02T00:11:34.089Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:11:34.488Z",
+   "to": "2026-11-02T00:11:34.488Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:11:34.488Z",
+   "to": "2026-11-02T00:11:34.488Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:11:34.488Z",
+   "to": "2026-11-02T00:11:34.488Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:11:34.488Z",
+   "to": "2026-11-02T00:11:34.488Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:11:34.900Z",
+   "to": "2026-11-02T00:11:34.900Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:11:34.900Z",
+   "to": "2026-11-02T00:11:34.900Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:11:34.900Z",
+   "to": "2026-11-02T00:11:34.900Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:11:34.900Z",
+   "to": "2026-11-02T00:11:34.900Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:11:36.180Z",
+   "to": "2026-11-02T00:11:36.180Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:11:36.180Z",
+   "to": "2026-11-02T00:11:36.180Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:11:36.180Z",
+   "to": "2026-11-02T00:11:36.180Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:11:36.180Z",
+   "to": "2026-11-02T00:11:36.180Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:11:40.456Z",
+   "to": "2026-11-02T00:11:40.456Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:11:40.456Z",
+   "to": "2026-11-02T00:11:40.456Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:11:40.456Z",
+   "to": "2026-11-02T00:11:40.456Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:11:40.456Z",
+   "to": "2026-11-02T00:11:40.456Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:15:00.616Z",
+   "to": "2026-11-02T00:15:00.616Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:15:00.616Z",
+   "to": "2026-11-02T00:15:00.616Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:15:00.616Z",
+   "to": "2026-11-02T00:15:00.616Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:15:00.616Z",
+   "to": "2026-11-02T00:15:00.616Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:15:01.247Z",
+   "to": "2026-11-02T00:15:01.247Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:15:01.247Z",
+   "to": "2026-11-02T00:15:01.247Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:15:01.247Z",
+   "to": "2026-11-02T00:15:01.247Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:15:01.247Z",
+   "to": "2026-11-02T00:15:01.247Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:15:01.614Z",
+   "to": "2026-11-02T00:15:01.614Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:15:01.614Z",
+   "to": "2026-11-02T00:15:01.614Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:15:01.614Z",
+   "to": "2026-11-02T00:15:01.614Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:15:01.614Z",
+   "to": "2026-11-02T00:15:01.614Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:15:02.025Z",
+   "to": "2026-11-02T00:15:02.025Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:15:02.025Z",
+   "to": "2026-11-02T00:15:02.025Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:15:02.025Z",
+   "to": "2026-11-02T00:15:02.025Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:15:02.025Z",
+   "to": "2026-11-02T00:15:02.025Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:15:07.304Z",
+   "to": "2026-11-02T00:15:07.304Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:15:07.304Z",
+   "to": "2026-11-02T00:15:07.304Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:15:07.304Z",
+   "to": "2026-11-02T00:15:07.304Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:15:07.304Z",
+   "to": "2026-11-02T00:15:07.304Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:15:48.665Z",
+   "to": "2026-11-02T00:15:48.665Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:15:48.665Z",
+   "to": "2026-11-02T00:15:48.665Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:15:48.665Z",
+   "to": "2026-11-02T00:15:48.665Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:15:48.665Z",
+   "to": "2026-11-02T00:15:48.665Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:15:59.862Z",
+   "to": "2026-11-02T00:15:59.862Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:15:59.862Z",
+   "to": "2026-11-02T00:15:59.862Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:15:59.862Z",
+   "to": "2026-11-02T00:15:59.862Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:15:59.862Z",
+   "to": "2026-11-02T00:15:59.862Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:20:00.688Z",
+   "to": "2026-11-02T00:20:00.688Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:20:00.688Z",
+   "to": "2026-11-02T00:20:00.688Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:20:00.688Z",
+   "to": "2026-11-02T00:20:00.688Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:20:00.688Z",
+   "to": "2026-11-02T00:20:00.688Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:20:11.467Z",
+   "to": "2026-11-02T00:20:11.467Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:20:11.467Z",
+   "to": "2026-11-02T00:20:11.467Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:20:11.467Z",
+   "to": "2026-11-02T00:20:11.467Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:20:11.467Z",
+   "to": "2026-11-02T00:20:11.467Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:21:05.755Z",
+   "to": "2026-11-02T00:21:05.755Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:21:05.755Z",
+   "to": "2026-11-02T00:21:05.755Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:21:05.755Z",
+   "to": "2026-11-02T00:21:05.755Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:21:05.755Z",
+   "to": "2026-11-02T00:21:05.755Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:21:06.350Z",
+   "to": "2026-11-02T00:21:06.350Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:21:06.350Z",
+   "to": "2026-11-02T00:21:06.350Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:21:06.350Z",
+   "to": "2026-11-02T00:21:06.350Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:21:06.350Z",
+   "to": "2026-11-02T00:21:06.350Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:21:08.637Z",
+   "to": "2026-11-02T00:21:08.637Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:21:08.637Z",
+   "to": "2026-11-02T00:21:08.637Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:21:08.637Z",
+   "to": "2026-11-02T00:21:08.637Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:21:08.637Z",
+   "to": "2026-11-02T00:21:08.637Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:21:09.107Z",
+   "to": "2026-11-02T00:21:09.107Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:21:09.107Z",
+   "to": "2026-11-02T00:21:09.107Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:21:09.107Z",
+   "to": "2026-11-02T00:21:09.107Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:21:09.107Z",
+   "to": "2026-11-02T00:21:09.107Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:21:13.389Z",
+   "to": "2026-11-02T00:21:13.389Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:21:13.389Z",
+   "to": "2026-11-02T00:21:13.389Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:21:13.389Z",
+   "to": "2026-11-02T00:21:13.389Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:21:13.389Z",
+   "to": "2026-11-02T00:21:13.389Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:25:00.565Z",
+   "to": "2026-11-02T00:25:00.565Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:25:00.565Z",
+   "to": "2026-11-02T00:25:00.565Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:25:00.565Z",
+   "to": "2026-11-02T00:25:00.565Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:25:00.565Z",
+   "to": "2026-11-02T00:25:00.565Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:25:01.583Z",
+   "to": "2026-11-02T00:25:01.583Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:25:01.583Z",
+   "to": "2026-11-02T00:25:01.583Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:25:01.583Z",
+   "to": "2026-11-02T00:25:01.583Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:25:01.583Z",
+   "to": "2026-11-02T00:25:01.583Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:25:01.974Z",
+   "to": "2026-11-02T00:25:01.974Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:25:01.974Z",
+   "to": "2026-11-02T00:25:01.974Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:25:01.974Z",
+   "to": "2026-11-02T00:25:01.974Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:25:01.974Z",
+   "to": "2026-11-02T00:25:01.974Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:25:02.362Z",
+   "to": "2026-11-02T00:25:02.362Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:25:02.362Z",
+   "to": "2026-11-02T00:25:02.362Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:25:02.362Z",
+   "to": "2026-11-02T00:25:02.362Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:25:02.362Z",
+   "to": "2026-11-02T00:25:02.362Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:25:06.732Z",
+   "to": "2026-11-02T00:25:06.732Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:25:06.732Z",
+   "to": "2026-11-02T00:25:06.732Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:25:06.732Z",
+   "to": "2026-11-02T00:25:06.732Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:25:06.732Z",
+   "to": "2026-11-02T00:25:06.732Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:25:23.883Z",
+   "to": "2026-11-02T00:25:23.883Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:25:23.883Z",
+   "to": "2026-11-02T00:25:23.883Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:25:23.883Z",
+   "to": "2026-11-02T00:25:23.883Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:25:23.883Z",
+   "to": "2026-11-02T00:25:23.883Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:25:34.813Z",
+   "to": "2026-11-02T00:25:34.813Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:25:34.813Z",
+   "to": "2026-11-02T00:25:34.813Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:25:34.813Z",
+   "to": "2026-11-02T00:25:34.813Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:25:34.813Z",
+   "to": "2026-11-02T00:25:34.813Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:30:00.677Z",
+   "to": "2026-11-02T00:30:00.677Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:30:00.677Z",
+   "to": "2026-11-02T00:30:00.677Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:30:00.677Z",
+   "to": "2026-11-02T00:30:00.677Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:30:00.677Z",
+   "to": "2026-11-02T00:30:00.677Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:30:11.110Z",
+   "to": "2026-11-02T00:30:11.110Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:30:11.110Z",
+   "to": "2026-11-02T00:30:11.110Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:30:11.110Z",
+   "to": "2026-11-02T00:30:11.110Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:30:11.110Z",
+   "to": "2026-11-02T00:30:11.110Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:30:40.633Z",
+   "to": "2026-11-02T00:30:40.633Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:30:40.633Z",
+   "to": "2026-11-02T00:30:40.633Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:30:40.633Z",
+   "to": "2026-11-02T00:30:40.633Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:30:40.633Z",
+   "to": "2026-11-02T00:30:40.633Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:30:41.153Z",
+   "to": "2026-11-02T00:30:41.153Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:30:41.153Z",
+   "to": "2026-11-02T00:30:41.153Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:30:41.153Z",
+   "to": "2026-11-02T00:30:41.153Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:30:41.153Z",
+   "to": "2026-11-02T00:30:41.153Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:30:41.605Z",
+   "to": "2026-11-02T00:30:41.605Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:30:41.605Z",
+   "to": "2026-11-02T00:30:41.605Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:30:41.605Z",
+   "to": "2026-11-02T00:30:41.605Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:30:41.605Z",
+   "to": "2026-11-02T00:30:41.605Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:30:42.065Z",
+   "to": "2026-11-02T00:30:42.065Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:30:42.065Z",
+   "to": "2026-11-02T00:30:42.065Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:30:42.065Z",
+   "to": "2026-11-02T00:30:42.065Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:30:42.065Z",
+   "to": "2026-11-02T00:30:42.065Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:30:46.336Z",
+   "to": "2026-11-02T00:30:46.336Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:30:46.336Z",
+   "to": "2026-11-02T00:30:46.336Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:30:46.336Z",
+   "to": "2026-11-02T00:30:46.336Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:30:46.336Z",
+   "to": "2026-11-02T00:30:46.336Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:35:00.923Z",
+   "to": "2026-11-02T00:35:00.923Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:35:00.923Z",
+   "to": "2026-11-02T00:35:00.923Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:35:00.923Z",
+   "to": "2026-11-02T00:35:00.923Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:35:00.923Z",
+   "to": "2026-11-02T00:35:00.923Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:35:01.293Z",
+   "to": "2026-11-02T00:35:01.293Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:35:01.293Z",
+   "to": "2026-11-02T00:35:01.293Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:35:01.293Z",
+   "to": "2026-11-02T00:35:01.293Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:35:01.293Z",
+   "to": "2026-11-02T00:35:01.293Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:35:01.645Z",
+   "to": "2026-11-02T00:35:01.645Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:35:01.645Z",
+   "to": "2026-11-02T00:35:01.645Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:35:01.645Z",
+   "to": "2026-11-02T00:35:01.645Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:35:01.645Z",
+   "to": "2026-11-02T00:35:01.645Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:35:02.053Z",
+   "to": "2026-11-02T00:35:02.053Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:35:02.053Z",
+   "to": "2026-11-02T00:35:02.053Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:35:02.053Z",
+   "to": "2026-11-02T00:35:02.053Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:35:02.053Z",
+   "to": "2026-11-02T00:35:02.053Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:35:06.624Z",
+   "to": "2026-11-02T00:35:06.624Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:35:06.624Z",
+   "to": "2026-11-02T00:35:06.624Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:35:06.624Z",
+   "to": "2026-11-02T00:35:06.624Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:35:06.624Z",
+   "to": "2026-11-02T00:35:06.624Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:35:58.366Z",
+   "to": "2026-11-02T00:35:58.366Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:35:58.366Z",
+   "to": "2026-11-02T00:35:58.366Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:35:58.366Z",
+   "to": "2026-11-02T00:35:58.366Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:35:58.366Z",
+   "to": "2026-11-02T00:35:58.366Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:36:09.173Z",
+   "to": "2026-11-02T00:36:09.173Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:36:09.173Z",
+   "to": "2026-11-02T00:36:09.173Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:36:09.173Z",
+   "to": "2026-11-02T00:36:09.173Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:36:09.173Z",
+   "to": "2026-11-02T00:36:09.173Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:40:00.880Z",
+   "to": "2026-11-02T00:40:00.880Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:40:00.880Z",
+   "to": "2026-11-02T00:40:00.880Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:40:00.880Z",
+   "to": "2026-11-02T00:40:00.880Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:40:00.880Z",
+   "to": "2026-11-02T00:40:00.880Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:40:12.377Z",
+   "to": "2026-11-02T00:40:12.377Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:40:12.377Z",
+   "to": "2026-11-02T00:40:12.377Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:40:12.377Z",
+   "to": "2026-11-02T00:40:12.377Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:40:12.377Z",
+   "to": "2026-11-02T00:40:12.377Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:41:14.955Z",
+   "to": "2026-11-02T00:41:14.955Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:41:14.955Z",
+   "to": "2026-11-02T00:41:14.955Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:41:14.955Z",
+   "to": "2026-11-02T00:41:14.955Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:41:14.955Z",
+   "to": "2026-11-02T00:41:14.955Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:41:15.770Z",
+   "to": "2026-11-02T00:41:15.770Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:41:15.770Z",
+   "to": "2026-11-02T00:41:15.770Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:41:15.770Z",
+   "to": "2026-11-02T00:41:15.770Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:41:15.770Z",
+   "to": "2026-11-02T00:41:15.770Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:41:16.373Z",
+   "to": "2026-11-02T00:41:16.373Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:41:16.373Z",
+   "to": "2026-11-02T00:41:16.373Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:41:16.373Z",
+   "to": "2026-11-02T00:41:16.373Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:41:16.373Z",
+   "to": "2026-11-02T00:41:16.373Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:41:16.797Z",
+   "to": "2026-11-02T00:41:16.797Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:41:16.797Z",
+   "to": "2026-11-02T00:41:16.797Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:41:16.797Z",
+   "to": "2026-11-02T00:41:16.797Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:41:16.797Z",
+   "to": "2026-11-02T00:41:16.797Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:41:21.119Z",
+   "to": "2026-11-02T00:41:21.119Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:41:21.119Z",
+   "to": "2026-11-02T00:41:21.119Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to a points failure at Elephant & Castle. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:41:21.119Z",
+   "to": "2026-11-02T00:41:21.119Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:41:21.119Z",
+   "to": "2026-11-02T00:41:21.119Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-02T00:45:00.808Z",
+   "to": "2026-11-02T00:45:00.808Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Bakerloo Line: Service will resume later this morning. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-02T00:45:00.808Z",
+   "to": "2026-11-02T00:45:00.808Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Central Line: Service will resume later this morning. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-02T00:45:00.808Z",
+   "to": "2026-11-02T00:45:00.808Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Circle Line: Service will resume later this morning. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-02T00:45:00.808Z",
+   "to": "2026-11-02T00:45:00.808Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-02T00:45:00.808Z",
+   "to": "2026-11-02T00:45:00.808Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Docklands Light Railway: Service will resume later this morning. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-11-02T00:45:00.808Z",
+   "to": "2026-11-02T00:45:00.808Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Hammersmith and City Line: Service will resume later this morning. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-11-02T00:45:00.808Z",
+   "to": "2026-11-02T00:45:00.808Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Jubilee Line: Service will resume later this morning. "
   }
  ]
 }
