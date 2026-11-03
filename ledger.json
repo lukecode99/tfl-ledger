@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-03T04:21:39.467Z",
- "sinceISO": "2026-10-04T04:21:33.869Z",
+ "generatedAt": "2026-11-03T04:30:06.614Z",
+ "sinceISO": "2026-10-04T04:30:01.222Z",
  "coverage": [
   {
-   "from": "2026-10-04T04:25:03.342Z",
+   "from": "2026-10-04T04:30:07.322Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 3171
+   "polls": 3170
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-11-03T04:21:33.470Z",
-   "polls": 53275
+   "to": "2026-11-03T04:30:00.776Z",
+   "polls": 53285
   }
  ],
  "spans": [
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-04T04:25:03.342Z",
+   "from": "2026-10-04T04:30:07.322Z",
    "to": "2026-10-04T23:55:02.045Z",
    "severity": 5,
    "description": "Part Closure",
@@ -31,56 +31,11 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-10-04T04:25:03.342Z",
+   "from": "2026-10-04T04:30:07.322Z",
    "to": "2026-10-04T04:30:07.322Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "JUBILEE LINE: Sunday 4 October, between 0130 and 0530, no service between Green Park and Stratford. Replacement bus service JL3 operates between North Greenwich, Canning Town and Stratford."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-04T04:25:03.342Z",
-   "to": "2026-10-04T07:45:03.247Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 4 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200 and after 2100."
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-04T04:25:03.342Z",
-   "to": "2026-10-04T05:35:03.445Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "VICTORIA LINE: From 1930 Saturday 3 until 1000 Sunday 4 October, no service between Victoria and Brixton. Please use London Buses services or National Rail services between Victoria and Brixton."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-04T04:25:03.342Z",
-   "to": "2026-10-04T04:25:03.342Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-04T04:25:03.342Z",
-   "to": "2026-10-04T04:25:03.342Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-04T04:25:03.342Z",
-   "to": "2026-10-04T12:35:03.470Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 4 October, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays, Queens Road Peckham, Peckham Rye, Denmark Hill, Clapham High Street and Wandsworth Road."
   },
   {
    "line": "jubilee",
@@ -92,6 +47,24 @@
    "reason": "JUBILEE LINE: From 0530 Sunday 4 October, no service between Green Park and Canary Wharf. If travelling between Central London and North Greenwich, please travel via Stratford."
   },
   {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-04T04:30:07.322Z",
+   "to": "2026-10-04T07:45:03.247Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 4 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200 and after 2100."
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-04T04:30:07.322Z",
+   "to": "2026-10-04T05:35:03.445Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "VICTORIA LINE: From 1930 Saturday 3 until 1000 Sunday 4 October, no service between Victoria and Brixton. Please use London Buses services or National Rail services between Victoria and Brixton."
+  },
+  {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-10-04T04:30:07.322Z",
@@ -108,6 +81,15 @@
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-10-04T04:30:07.322Z",
+   "to": "2026-10-04T12:35:03.470Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: Sunday 4 October, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays, Queens Road Peckham, Peckham Rye, Denmark Hill, Clapham High Street and Wandsworth Road."
   },
   {
    "line": "waterloo-city",
@@ -815468,7 +815450,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-03T00:35:00.665Z",
-   "to": "2026-11-03T04:21:33.470Z",
+   "to": "2026-11-03T04:30:00.776Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
@@ -815495,7 +815477,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-11-03T01:20:00.614Z",
-   "to": "2026-11-03T04:21:33.470Z",
+   "to": "2026-11-03T04:25:38.503Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Circle Line: Service will resume later this morning. "
@@ -820499,7 +820481,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-03T04:20:00.823Z",
-   "to": "2026-11-03T04:21:33.470Z",
+   "to": "2026-11-03T04:30:00.776Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -820508,7 +820490,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-03T04:21:33.470Z",
-   "to": "2026-11-03T04:21:33.470Z",
+   "to": "2026-11-03T04:30:00.776Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Wimbledon due to train cancellations. "
