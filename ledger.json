@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-03T19:50:09.039Z",
- "sinceISO": "2026-10-04T19:50:03.184Z",
+ "generatedAt": "2026-11-03T19:55:06.956Z",
+ "sinceISO": "2026-10-04T19:55:00.827Z",
  "coverage": [
   {
-   "from": "2026-10-04T19:50:07.670Z",
+   "from": "2026-10-04T19:55:03.611Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 2986
+   "polls": 2985
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-11-03T19:50:02.822Z",
-   "polls": 54573
+   "to": "2026-11-03T19:55:00.528Z",
+   "polls": 54580
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-04T19:50:07.670Z",
+   "from": "2026-10-04T19:55:03.611Z",
    "to": "2026-10-04T23:50:18.767Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,7 +31,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-04T19:50:07.670Z",
+   "from": "2026-10-04T19:55:03.611Z",
    "to": "2026-10-04T21:15:03.475Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -40,47 +40,11 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-04T19:50:07.670Z",
+   "from": "2026-10-04T19:55:03.611Z",
    "to": "2026-10-04T23:55:02.045Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 4 October, no service between Shadwell and Tower Gateway."
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-04T19:50:07.670Z",
-   "to": "2026-10-04T22:50:08.029Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "JUBILEE LINE: From 0530 Sunday 4 October, no service between Green Park and Canary Wharf. If travelling between Central London and North Greenwich, please travel via Stratford."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-04T19:50:07.670Z",
-   "to": "2026-10-05T00:05:09.817Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 4 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200 and after 2100."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-04T19:50:07.670Z",
-   "to": "2026-10-04T23:45:00.816Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-04T19:50:07.670Z",
-   "to": "2026-10-05T00:05:01.999Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 4 October, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays, Queens Road Peckham, Peckham Rye, Denmark Hill, Clapham High Street and Wandsworth Road."
   },
   {
    "line": "hammersmith-city",
@@ -92,6 +56,15 @@
    "reason": "Hammersmith and City Line: Minor delays eastbound only while we fix a faulty train at Moorgate. GOOD SERVICE on the rest of the line. "
   },
   {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-04T19:55:03.611Z",
+   "to": "2026-10-04T22:50:08.029Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "JUBILEE LINE: From 0530 Sunday 4 October, no service between Green Park and Canary Wharf. If travelling between Central London and North Greenwich, please travel via Stratford."
+  },
+  {
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-10-04T19:55:03.611Z",
@@ -99,6 +72,33 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Wembley Park and Aldgate southbound only while we fix a faulty train at Moorgate. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-04T19:55:03.611Z",
+   "to": "2026-10-05T00:05:09.817Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 4 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200 and after 2100."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-04T19:55:03.611Z",
+   "to": "2026-10-04T23:45:00.816Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-10-04T19:55:03.611Z",
+   "to": "2026-10-05T00:05:01.999Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: Sunday 4 October, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays, Queens Road Peckham, Peckham Rye, Denmark Hill, Clapham High Street and Wandsworth Road."
   },
   {
    "line": "circle",
@@ -818537,7 +818537,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-03T08:50:00.819Z",
-   "to": "2026-11-03T19:50:02.822Z",
+   "to": "2026-11-03T19:55:00.528Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -825233,7 +825233,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-11-03T16:30:22.514Z",
-   "to": "2026-11-03T19:50:02.822Z",
+   "to": "2026-11-03T19:55:00.528Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays between Paddington and Heathrow Terminal 4 / Reading while we fix a track fault at Hayes and Harlington. Tickets are being accepted by London Underground, London Buses, Great Western Railway and South Western Railway via any reasonable route. GOOD SERVICE on the rest of the line. "
@@ -827051,7 +827051,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-03T19:00:03.511Z",
-   "to": "2026-11-03T19:50:02.822Z",
+   "to": "2026-11-03T19:55:00.528Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to an earlier faulty train at Bond Street. "
@@ -827348,7 +827348,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-03T19:30:02.614Z",
-   "to": "2026-11-03T19:50:02.822Z",
+   "to": "2026-11-03T19:51:17.171Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Ealing Broadway / Richmond / Wimbledon due to an earlier faulty train at South Kensington. GOOD SERVICE on the rest line. "
@@ -827366,9 +827366,135 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-11-03T19:50:02.822Z",
-   "to": "2026-11-03T19:50:02.822Z",
+   "to": "2026-11-03T19:50:27.686Z",
    "severity": 6,
    "description": "Severe Delays",
+   "reason": "Victoria Line: No service between Brixton and Warren Street and SEVERE DELAYS on the rest of the line while we fix a faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway, "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-03T19:50:27.686Z",
+   "to": "2026-11-03T19:50:27.686Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Victoria Line: No service between Brixton and Warren Street and SEVERE DELAYS on the rest of the line while we fix a faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway, "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-03T19:50:53.199Z",
+   "to": "2026-11-03T19:50:53.199Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Victoria Line: No service between Brixton and Warren Street and SEVERE DELAYS on the rest of the line while we fix a faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway, "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-03T19:50:53.199Z",
+   "to": "2026-11-03T19:50:53.199Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Victoria Line: No service between Brixton and Warren Street and SEVERE DELAYS on the rest of the line while we fix a faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway, "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-03T19:50:53.614Z",
+   "to": "2026-11-03T19:50:53.614Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Victoria Line: No service between Brixton and Warren Street and SEVERE DELAYS on the rest of the line while we fix a faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway, "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-03T19:50:53.614Z",
+   "to": "2026-11-03T19:50:53.614Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Victoria Line: No service between Brixton and Warren Street and SEVERE DELAYS on the rest of the line while we fix a faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway, "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-03T19:51:09.852Z",
+   "to": "2026-11-03T19:51:09.852Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Victoria Line: No service between Brixton and Warren Street and SEVERE DELAYS on the rest of the line while we fix a faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway, "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-03T19:51:09.852Z",
+   "to": "2026-11-03T19:51:09.852Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Victoria Line: No service between Brixton and Warren Street and SEVERE DELAYS on the rest of the line while we fix a faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway, "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-03T19:51:16.413Z",
+   "to": "2026-11-03T19:51:16.413Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Victoria Line: No service between Brixton and Warren Street and SEVERE DELAYS on the rest of the line while we fix a faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway, "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-03T19:51:16.413Z",
+   "to": "2026-11-03T19:51:16.413Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Victoria Line: No service between Brixton and Warren Street and SEVERE DELAYS on the rest of the line while we fix a faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway, "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-03T19:51:17.171Z",
+   "to": "2026-11-03T19:51:17.171Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Victoria Line: No service between Brixton and Warren Street and SEVERE DELAYS on the rest of the line while we fix a faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway, "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-03T19:51:17.171Z",
+   "to": "2026-11-03T19:51:17.171Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Victoria Line: No service between Brixton and Warren Street and SEVERE DELAYS on the rest of the line while we fix a faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway, "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-03T19:55:00.528Z",
+   "to": "2026-11-03T19:55:00.528Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Minor delays between Turnham Green and Richmond due to an earlier faulty train at South Kensington. GOOD SERVICE on the rest line. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-03T19:55:00.528Z",
+   "to": "2026-11-03T19:55:00.528Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Victoria Line: No service between Brixton and Warren Street and SEVERE DELAYS on the rest of the line while we fix a faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway, "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-03T19:55:00.528Z",
+   "to": "2026-11-03T19:55:00.528Z",
+   "severity": 3,
+   "description": "Part Suspended",
    "reason": "Victoria Line: No service between Brixton and Warren Street and SEVERE DELAYS on the rest of the line while we fix a faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway, "
   }
  ]
