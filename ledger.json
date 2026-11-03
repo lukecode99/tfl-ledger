@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-03T18:45:07.303Z",
- "sinceISO": "2026-10-04T18:45:01.765Z",
+ "generatedAt": "2026-11-03T18:50:09.050Z",
+ "sinceISO": "2026-10-04T18:50:03.574Z",
  "coverage": [
   {
-   "from": "2026-10-04T18:45:03.287Z",
+   "from": "2026-10-04T18:50:06.691Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 2999
+   "polls": 2998
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,64 +14,19 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-11-03T18:45:00.903Z",
-   "polls": 54482
+   "to": "2026-11-03T18:50:03.064Z",
+   "polls": 54489
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-04T18:45:03.287Z",
+   "from": "2026-10-04T18:50:06.691Z",
    "to": "2026-10-04T23:50:18.767Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.\r\n  "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-10-04T18:45:03.287Z",
-   "to": "2026-10-04T23:55:02.045Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 4 October, no service between Shadwell and Tower Gateway."
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-04T18:45:03.287Z",
-   "to": "2026-10-04T22:50:08.029Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "JUBILEE LINE: From 0530 Sunday 4 October, no service between Green Park and Canary Wharf. If travelling between Central London and North Greenwich, please travel via Stratford."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-04T18:45:03.287Z",
-   "to": "2026-10-05T00:05:09.817Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 4 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200 and after 2100."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-04T18:45:03.287Z",
-   "to": "2026-10-04T23:45:00.816Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-04T18:45:03.287Z",
-   "to": "2026-10-05T00:05:01.999Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 4 October, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays, Queens Road Peckham, Peckham Rye, Denmark Hill, Clapham High Street and Wandsworth Road."
   },
   {
    "line": "district",
@@ -81,6 +36,51 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "District Line: No service between Turnham Green and Ealing Broadway while we deal with a signalling problem at Ealing Broadway. London Buses and Elizabeth Line are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-04T18:50:06.691Z",
+   "to": "2026-10-04T23:55:02.045Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 4 October, no service between Shadwell and Tower Gateway."
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-04T18:50:06.691Z",
+   "to": "2026-10-04T22:50:08.029Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "JUBILEE LINE: From 0530 Sunday 4 October, no service between Green Park and Canary Wharf. If travelling between Central London and North Greenwich, please travel via Stratford."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-04T18:50:06.691Z",
+   "to": "2026-10-05T00:05:09.817Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 4 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200 and after 2100."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-04T18:50:06.691Z",
+   "to": "2026-10-04T23:45:00.816Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-10-04T18:50:06.691Z",
+   "to": "2026-10-05T00:05:01.999Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: Sunday 4 October, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays, Queens Road Peckham, Peckham Rye, Denmark Hill, Clapham High Street and Wandsworth Road."
   },
   {
    "line": "hammersmith-city",
@@ -818537,7 +818537,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-03T08:50:00.819Z",
-   "to": "2026-11-03T18:45:00.903Z",
+   "to": "2026-11-03T18:50:03.064Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -825233,7 +825233,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-11-03T16:30:22.514Z",
-   "to": "2026-11-03T18:45:00.903Z",
+   "to": "2026-11-03T18:50:03.064Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays between Paddington and Heathrow Terminal 4 / Reading while we fix a track fault at Hayes and Harlington. Tickets are being accepted by London Underground, London Buses, Great Western Railway and South Western Railway via any reasonable route. GOOD SERVICE on the rest of the line. "
@@ -825953,7 +825953,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-03T17:55:00.541Z",
-   "to": "2026-11-03T18:45:00.903Z",
+   "to": "2026-11-03T18:50:03.064Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays due to an earlier faulty train at Bond Street. Tickets are being accepted on London Buses, Greater Anglia and the Elizabeth Line. "
@@ -826700,7 +826700,115 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-03T18:45:00.903Z",
-   "to": "2026-11-03T18:45:00.903Z",
+   "to": "2026-11-03T18:45:19.135Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Barking and Upminster, and between Earl's Court and Ealing Broadway. MINOR DELAYS between Turnham Green and Richmond due to earlier faulty trains. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-03T18:45:19.135Z",
+   "to": "2026-11-03T18:45:19.135Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Barking and Upminster, and between Earl's Court and Ealing Broadway. MINOR DELAYS between Turnham Green and Richmond due to earlier faulty trains. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-03T18:45:19.135Z",
+   "to": "2026-11-03T18:45:23.830Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Barking and Upminster, and between Earl's Court and Ealing Broadway. MINOR DELAYS between Turnham Green and Richmond due to earlier faulty trains. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-03T18:45:23.830Z",
+   "to": "2026-11-03T18:45:23.830Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Barking and Upminster, and between Earl's Court and Ealing Broadway. MINOR DELAYS between Turnham Green and Richmond due to earlier faulty trains. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-03T18:45:23.830Z",
+   "to": "2026-11-03T18:45:31.565Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Barking and Upminster, and between Earl's Court and Ealing Broadway. MINOR DELAYS between Turnham Green and Richmond due to earlier faulty trains. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-03T18:45:31.565Z",
+   "to": "2026-11-03T18:45:31.565Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Barking and Upminster, and between Earl's Court and Ealing Broadway. MINOR DELAYS between Turnham Green and Richmond due to earlier faulty trains. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-03T18:45:31.565Z",
+   "to": "2026-11-03T18:45:31.977Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Barking and Upminster, and between Earl's Court and Ealing Broadway. MINOR DELAYS between Turnham Green and Richmond due to earlier faulty trains. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-03T18:45:31.977Z",
+   "to": "2026-11-03T18:45:31.977Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Barking and Upminster, and between Earl's Court and Ealing Broadway. MINOR DELAYS between Turnham Green and Richmond due to earlier faulty trains. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-03T18:45:31.977Z",
+   "to": "2026-11-03T18:46:20.742Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Barking and Upminster, and between Earl's Court and Ealing Broadway. MINOR DELAYS between Turnham Green and Richmond due to earlier faulty trains. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-03T18:46:20.742Z",
+   "to": "2026-11-03T18:46:20.742Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Barking and Upminster, and between Earl's Court and Ealing Broadway. MINOR DELAYS between Turnham Green and Richmond due to earlier faulty trains. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-03T18:46:20.742Z",
+   "to": "2026-11-03T18:46:29.719Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Barking and Upminster, and between Earl's Court and Ealing Broadway. MINOR DELAYS between Turnham Green and Richmond due to earlier faulty trains. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-03T18:46:29.719Z",
+   "to": "2026-11-03T18:46:29.719Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Barking and Upminster, and between Earl's Court and Ealing Broadway. MINOR DELAYS between Turnham Green and Richmond due to earlier faulty trains. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-03T18:46:29.719Z",
+   "to": "2026-11-03T18:46:29.719Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays between Barking and Upminster, and between Earl's Court and Ealing Broadway. MINOR DELAYS between Turnham Green and Richmond due to earlier faulty trains. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
