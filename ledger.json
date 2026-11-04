@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-04T19:20:14.462Z",
- "sinceISO": "2026-10-05T19:20:08.767Z",
+ "generatedAt": "2026-11-04T19:26:12.911Z",
+ "sinceISO": "2026-10-05T19:26:06.969Z",
  "coverage": [
   {
-   "from": "2026-10-05T19:20:25.999Z",
+   "from": "2026-10-05T19:30:07.043Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 2002
+   "polls": 1994
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,55 +14,37 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-11-04T19:20:08.501Z",
-   "polls": 56546
+   "to": "2026-11-04T19:26:06.230Z",
+   "polls": 56558
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-05T19:20:25.999Z",
-   "to": "2026-10-05T19:25:06.042Z",
+   "from": "2026-10-05T19:30:07.043Z",
+   "to": "2026-10-05T19:30:07.043Z",
    "severity": 6,
    "description": "Severe Delays",
-   "reason": "Bakerloo Line: Severe delays due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. "
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-05T19:30:07.043Z",
+   "to": "2026-10-05T19:30:07.043Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
   },
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-05T19:20:25.999Z",
+   "from": "2026-10-05T19:30:07.043Z",
    "to": "2026-10-05T20:20:23.856Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip, and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-05T19:20:25.999Z",
-   "to": "2026-10-05T19:25:06.042Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Minor delays between Hayes & Harlington and Heathrow Terminals due to an earlier faulty train at Heathrow Terminals 2 & 3. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-10-05T19:30:07.043Z",
-   "to": "2026-10-05T19:30:07.043Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-10-05T19:30:07.043Z",
-   "to": "2026-10-05T19:30:07.043Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Charing Cross. Tickets will be accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line. "
   },
   {
    "line": "bakerloo",
@@ -828221,7 +828203,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-04T07:01:12.248Z",
-   "to": "2026-11-04T19:20:08.501Z",
+   "to": "2026-11-04T19:26:06.230Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -844070,7 +844052,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-04T18:36:16.835Z",
-   "to": "2026-11-04T19:20:08.501Z",
+   "to": "2026-11-04T19:26:06.230Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays due to train cancellations.  "
@@ -845744,7 +845726,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-11-04T19:11:55.928Z",
-   "to": "2026-11-04T19:20:08.501Z",
+   "to": "2026-11-04T19:26:06.230Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Mildmay Line: Severe delays due to a operational incident at Caledonian Road & Barnsbury.  "
@@ -845807,7 +845789,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-04T19:15:04.457Z",
-   "to": "2026-11-04T19:20:08.501Z",
+   "to": "2026-11-04T19:25:12.743Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Ruislip. MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound departure from Chesham will be at 19:25. GOOD SERVICE on the rest of the line.  "
@@ -845933,10 +845915,235 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-04T19:20:08.501Z",
-   "to": "2026-11-04T19:20:08.501Z",
+   "to": "2026-11-04T19:20:31.594Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:20:31.594Z",
+   "to": "2026-11-04T19:20:31.594Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:20:31.594Z",
+   "to": "2026-11-04T19:20:46.170Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:20:46.170Z",
+   "to": "2026-11-04T19:20:46.170Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:20:46.170Z",
+   "to": "2026-11-04T19:20:52.339Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:20:52.339Z",
+   "to": "2026-11-04T19:20:52.339Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:20:52.339Z",
+   "to": "2026-11-04T19:20:52.732Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:20:52.732Z",
+   "to": "2026-11-04T19:20:52.732Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:20:52.732Z",
+   "to": "2026-11-04T19:20:53.119Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:20:53.119Z",
+   "to": "2026-11-04T19:20:53.119Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:20:53.119Z",
+   "to": "2026-11-04T19:20:53.544Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:20:53.544Z",
+   "to": "2026-11-04T19:20:53.544Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:20:53.544Z",
+   "to": "2026-11-04T19:25:04.418Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:25:04.418Z",
+   "to": "2026-11-04T19:25:04.418Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:25:04.418Z",
+   "to": "2026-11-04T19:25:11.585Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:25:11.585Z",
+   "to": "2026-11-04T19:25:11.585Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:25:11.585Z",
+   "to": "2026-11-04T19:25:11.988Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:25:11.988Z",
+   "to": "2026-11-04T19:25:11.988Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:25:11.988Z",
+   "to": "2026-11-04T19:25:12.363Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:25:12.363Z",
+   "to": "2026-11-04T19:25:12.363Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:25:12.363Z",
+   "to": "2026-11-04T19:25:12.743Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:25:12.743Z",
+   "to": "2026-11-04T19:25:12.743Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:25:12.743Z",
+   "to": "2026-11-04T19:26:06.230Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:26:06.230Z",
+   "to": "2026-11-04T19:26:06.230Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-04T19:26:06.230Z",
+   "to": "2026-11-04T19:26:06.230Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-04T19:26:06.230Z",
+   "to": "2026-11-04T19:26:06.230Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Ruislip. MINOR DELAYS between Moor Park and Chesham due to train cancellations. GOOD SERVICE on the rest of the line.  "
   }
  ]
 }
