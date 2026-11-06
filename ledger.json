@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-06T12:35:16.070Z",
- "sinceISO": "2026-10-07T12:35:06.827Z",
+ "generatedAt": "2026-11-06T12:45:13.552Z",
+ "sinceISO": "2026-10-07T12:45:04.663Z",
  "coverage": [
   {
-   "from": "2026-10-07T12:35:17.600Z",
+   "from": "2026-10-07T12:45:07.878Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 36
+   "polls": 28
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-11-06T12:35:03.977Z",
-   "polls": 60000
+   "to": "2026-11-06T12:45:04.355Z",
+   "polls": 60014
   }
  ],
  "spans": [
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-07T12:35:17.600Z",
+   "from": "2026-10-07T12:45:07.878Z",
    "to": "2026-10-07T13:21:22.666Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -31,29 +31,20 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-10-07T12:35:17.600Z",
-   "to": "2026-10-07T12:35:21.480Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Piccadilly Line: No servicebetween Acton Town and Heathrow Terminals while we fix a signal failure at Boston Manor. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-07T12:35:17.600Z",
-   "to": "2026-10-07T13:21:22.666Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Victoria Line: Minor delays due to train cancellations.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-07T12:40:05.382Z",
+   "from": "2026-10-07T12:45:07.878Z",
    "to": "2026-10-07T13:00:20.248Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Piccadilly Line: No service between Acton Town and Heathrow Terminals while we fix a signal failure at Boston Manor. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, Elizabeth Line and South Western Railway. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-07T12:45:07.878Z",
+   "to": "2026-10-07T13:21:22.666Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations.  "
   },
   {
    "line": "piccadilly",
@@ -861773,7 +861764,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-06T07:00:29.561Z",
-   "to": "2026-11-06T12:35:03.977Z",
+   "to": "2026-11-06T12:45:04.355Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -864482,7 +864473,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-06T11:00:56.529Z",
-   "to": "2026-11-06T12:35:03.977Z",
+   "to": "2026-11-06T12:40:34.108Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to an earlier trespasser on the track at Leytonstone.  "
@@ -864545,7 +864536,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-06T11:05:04.093Z",
-   "to": "2026-11-06T12:35:03.977Z",
+   "to": "2026-11-06T12:45:04.355Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays due to an earlier track inspection at Kentish Town.  "
@@ -864581,7 +864572,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-11-06T12:15:04.374Z",
-   "to": "2026-11-06T12:35:03.977Z",
+   "to": "2026-11-06T12:40:34.108Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we respond to a gas leak at Uxbridge. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
@@ -864590,10 +864581,19 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-06T12:35:03.977Z",
-   "to": "2026-11-06T12:35:03.977Z",
+   "to": "2026-11-06T12:45:04.355Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Hillingdon and Uxbridge westbound only due to an earlier gas leak at Uxbridge. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-06T12:45:04.355Z",
+   "to": "2026-11-06T12:45:04.355Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: Minor delays between Rayners Lane and Uxbridge due to an earlier gas leak at Uxbridge. GOOD SERVICE on the rest of the line.  "
   }
  ]
 }
