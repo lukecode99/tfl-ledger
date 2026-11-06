@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-06T21:30:20.298Z",
- "sinceISO": "2026-10-07T21:30:11.789Z",
+ "generatedAt": "2026-11-06T21:31:03.893Z",
+ "sinceISO": "2026-10-07T21:30:57.584Z",
  "coverage": [
   {
-   "from": "2026-10-07T21:30:12.752Z",
-   "to": "2026-11-06T21:30:11.487Z",
-   "polls": 60337
+   "from": "2026-10-07T21:35:00.347Z",
+   "to": "2026-11-06T21:30:56.968Z",
+   "polls": 60334
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-07T21:30:12.752Z",
+   "from": "2026-10-07T21:35:00.347Z",
    "to": "2026-10-08T00:24:50.670Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -21,7 +21,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-07T21:30:12.752Z",
+   "from": "2026-10-07T21:35:00.347Z",
    "to": "2026-10-08T00:24:50.670Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -860854,7 +860854,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-06T07:00:29.561Z",
-   "to": "2026-11-06T21:30:11.487Z",
+   "to": "2026-11-06T21:30:56.968Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -863815,7 +863815,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-11-06T16:20:26.399Z",
-   "to": "2026-11-06T21:30:11.487Z",
+   "to": "2026-11-06T21:30:56.968Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
@@ -870106,7 +870106,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-06T20:31:33.242Z",
-   "to": "2026-11-06T21:30:11.487Z",
+   "to": "2026-11-06T21:30:56.968Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
@@ -872635,7 +872635,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-06T21:30:11.487Z",
-   "to": "2026-11-06T21:30:11.487Z",
+   "to": "2026-11-06T21:30:56.968Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden. Tickets will be accepted on London Buses, Lioness line and London Northwestern services. MINOR DELAYS on the rest of the line.  "
@@ -872644,9 +872644,27 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-11-06T21:30:11.487Z",
-   "to": "2026-11-06T21:30:11.487Z",
+   "to": "2026-11-06T21:30:56.968Z",
    "severity": 9,
    "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Harrow & Wealdstone and Willesden Junction  due to infrastructure damage at Harlesden MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-06T21:30:56.968Z",
+   "to": "2026-11-06T21:30:56.968Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden. Tickets will be accepted on London Buses, Lioness line and London Northwestern services. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-06T21:30:56.968Z",
+   "to": "2026-11-06T21:30:56.968Z",
+   "severity": 3,
+   "description": "Part Suspended",
    "reason": "Lioness Line: No service between Harrow & Wealdstone and Willesden Junction  due to infrastructure damage at Harlesden MINOR DELAYS on the rest of the line. "
   }
  ]
