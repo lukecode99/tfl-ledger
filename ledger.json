@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-06T04:16:23.248Z",
- "sinceISO": "2026-10-07T04:16:17.511Z",
+ "generatedAt": "2026-11-06T04:30:53.125Z",
+ "sinceISO": "2026-10-07T04:30:47.188Z",
  "coverage": [
   {
-   "from": "2026-10-07T04:20:07.496Z",
+   "from": "2026-10-07T04:35:02.191Z",
    "to": "2026-10-07T13:21:22.666Z",
-   "polls": 418
+   "polls": 406
   },
   {
    "from": "2026-10-07T13:40:26.215Z",
@@ -14,15 +14,15 @@
   },
   {
    "from": "2026-10-07T14:02:27.779Z",
-   "to": "2026-11-06T04:16:17.180Z",
-   "polls": 59305
+   "to": "2026-11-06T04:30:46.786Z",
+   "polls": 59327
   }
  ],
  "spans": [
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-07T04:20:07.496Z",
+   "from": "2026-10-07T04:35:02.191Z",
    "to": "2026-10-07T04:55:06.075Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -31,7 +31,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-10-07T04:20:07.496Z",
+   "from": "2026-10-07T04:35:02.191Z",
    "to": "2026-10-07T04:45:06.444Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -40,7 +40,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-10-07T04:20:07.496Z",
+   "from": "2026-10-07T04:35:02.191Z",
    "to": "2026-10-07T05:10:51.804Z",
    "severity": 20,
    "description": "Service Closed",
@@ -858866,7 +858866,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-06T00:30:02.019Z",
-   "to": "2026-11-06T04:16:17.180Z",
+   "to": "2026-11-06T04:30:46.786Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00. "
@@ -863591,10 +863591,19 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-06T04:15:03.962Z",
-   "to": "2026-11-06T04:16:17.180Z",
+   "to": "2026-11-06T04:30:46.786Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-06T04:30:46.786Z",
+   "to": "2026-11-06T04:30:46.786Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Tuesday 3, Wednesday 4, Thursday 5 and Friday 6 November, until 0615 each morning, no southbound service from Willesden Junction to Shepherds Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 train from Stratford to Willesden Junction will start at Shepherds Bush at 0701 and the 0651 from Stratford to Richmond will start from Acton Central at 0743."
   }
  ]
 }
