@@ -1,31 +1,22 @@
 {
- "generatedAt": "2026-11-07T04:15:12.528Z",
- "sinceISO": "2026-10-08T04:15:06.243Z",
+ "generatedAt": "2026-11-07T04:16:36.986Z",
+ "sinceISO": "2026-10-08T04:16:30.886Z",
  "coverage": [
   {
-   "from": "2026-10-08T04:15:09.587Z",
-   "to": "2026-11-07T04:15:05.539Z",
-   "polls": 60400
+   "from": "2026-10-08T04:20:22.184Z",
+   "to": "2026-11-07T04:16:30.528Z",
+   "polls": 60397
   }
  ],
  "spans": [
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-08T04:15:09.587Z",
+   "from": "2026-10-08T04:20:22.184Z",
    "to": "2026-10-08T05:36:12.406Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway / Richmond / Edgware Road / Wimbledon / Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-08T04:15:09.587Z",
-   "to": "2026-10-08T05:06:39.398Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   },
   {
    "line": "victoria",
@@ -35,6 +26,15 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor Delays due to Train cancellations  "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-08T04:20:22.184Z",
+   "to": "2026-10-08T05:06:39.398Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   },
   {
    "line": "elizabeth",
@@ -886973,6 +886973,33 @@
    "lineName": "Waterloo & City",
    "from": "2026-11-07T04:15:05.539Z",
    "to": "2026-11-07T04:15:05.539Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-07T04:16:30.528Z",
+   "to": "2026-11-07T04:16:30.528Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-07T04:16:30.528Z",
+   "to": "2026-11-07T04:16:30.528Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-07T04:16:30.528Z",
+   "to": "2026-11-07T04:16:30.528Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
