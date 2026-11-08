@@ -1,810 +1,36 @@
 {
- "generatedAt": "2026-11-08T12:06:06.427Z",
- "sinceISO": "2026-10-09T12:05:59.526Z",
+ "generatedAt": "2026-11-08T13:01:15.198Z",
+ "sinceISO": "2026-10-09T13:01:05.665Z",
  "coverage": [
   {
-   "from": "2026-10-09T12:10:22.904Z",
-   "to": "2026-11-08T12:05:59.255Z",
-   "polls": 60400
+   "from": "2026-10-09T13:01:10.677Z",
+   "to": "2026-11-08T13:01:05.101Z",
+   "polls": 60404
   }
  ],
  "spans": [
   {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-09T13:01:10.677Z",
+   "to": "2026-10-09T13:40:55.063Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays due to train cancellations. "
+  },
+  {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-09T12:10:22.904Z",
+   "from": "2026-10-09T13:01:10.677Z",
    "to": "2026-10-09T22:20:44.445Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
   },
   {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:10:22.904Z",
-   "to": "2026-10-09T12:16:00.047Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Cockfosters due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-09T12:10:22.904Z",
-   "to": "2026-10-09T15:10:25.818Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Victoria Line: Minor delays due to train cancellations.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:20:12.630Z",
-   "to": "2026-10-09T12:20:12.630Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:20:12.630Z",
-   "to": "2026-10-09T12:20:12.630Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:20:34.427Z",
-   "to": "2026-10-09T12:20:34.427Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:20:34.427Z",
-   "to": "2026-10-09T12:20:34.427Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:20:53.236Z",
-   "to": "2026-10-09T12:20:53.236Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:20:53.236Z",
-   "to": "2026-10-09T12:20:53.236Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:20:53.599Z",
-   "to": "2026-10-09T12:20:53.599Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:20:53.599Z",
-   "to": "2026-10-09T12:20:53.599Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:20:57.725Z",
-   "to": "2026-10-09T12:20:57.725Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:20:57.725Z",
-   "to": "2026-10-09T12:20:57.725Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:21:02.072Z",
-   "to": "2026-10-09T12:21:02.072Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:21:02.072Z",
-   "to": "2026-10-09T12:21:02.072Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:21:02.454Z",
-   "to": "2026-10-09T12:21:02.454Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:21:02.454Z",
-   "to": "2026-10-09T12:21:02.454Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:25:02.472Z",
-   "to": "2026-10-09T12:25:02.472Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:25:02.472Z",
-   "to": "2026-10-09T12:25:02.472Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:25:10.637Z",
-   "to": "2026-10-09T12:25:10.637Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:25:10.637Z",
-   "to": "2026-10-09T12:25:10.637Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:25:14.702Z",
-   "to": "2026-10-09T12:25:14.702Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:25:14.702Z",
-   "to": "2026-10-09T12:25:14.702Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:25:18.926Z",
-   "to": "2026-10-09T12:25:18.926Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:25:18.926Z",
-   "to": "2026-10-09T12:25:18.926Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:25:19.313Z",
-   "to": "2026-10-09T12:25:19.313Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:25:19.313Z",
-   "to": "2026-10-09T12:25:19.313Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:26:18.394Z",
-   "to": "2026-10-09T12:26:18.394Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:26:18.394Z",
-   "to": "2026-10-09T12:26:18.394Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:26:20.616Z",
-   "to": "2026-10-09T12:26:20.616Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:26:20.616Z",
-   "to": "2026-10-09T12:26:20.616Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:30:16.936Z",
-   "to": "2026-10-09T12:30:16.936Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:30:16.936Z",
-   "to": "2026-10-09T12:30:16.936Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:30:19.456Z",
-   "to": "2026-10-09T12:30:19.456Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:30:19.456Z",
-   "to": "2026-10-09T12:30:19.456Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:31:07.924Z",
-   "to": "2026-10-09T12:31:07.924Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:31:07.924Z",
-   "to": "2026-10-09T12:31:07.924Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:31:08.355Z",
-   "to": "2026-10-09T12:31:08.355Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:31:08.355Z",
-   "to": "2026-10-09T12:31:08.355Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:31:20.610Z",
-   "to": "2026-10-09T12:31:20.610Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:31:20.610Z",
-   "to": "2026-10-09T12:31:20.610Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:31:25.201Z",
-   "to": "2026-10-09T12:31:25.201Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:31:25.201Z",
-   "to": "2026-10-09T12:31:25.201Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:31:25.550Z",
-   "to": "2026-10-09T12:31:25.550Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:31:25.550Z",
-   "to": "2026-10-09T12:31:25.550Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-10-09T12:35:02.705Z",
-   "to": "2026-10-09T12:55:56.586Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:35:02.705Z",
-   "to": "2026-10-09T12:35:02.705Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:35:02.705Z",
-   "to": "2026-10-09T12:35:02.705Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:35:11.693Z",
-   "to": "2026-10-09T12:35:11.693Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:35:11.693Z",
-   "to": "2026-10-09T12:35:11.693Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:35:25.068Z",
-   "to": "2026-10-09T12:35:25.068Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:35:25.068Z",
-   "to": "2026-10-09T12:35:25.068Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:35:34.918Z",
-   "to": "2026-10-09T12:35:34.918Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:35:34.918Z",
-   "to": "2026-10-09T12:35:34.918Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:35:35.255Z",
-   "to": "2026-10-09T12:35:35.255Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:35:35.255Z",
-   "to": "2026-10-09T12:35:35.255Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:36:29.609Z",
-   "to": "2026-10-09T12:36:29.609Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:36:29.609Z",
-   "to": "2026-10-09T12:36:29.609Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:36:32.899Z",
-   "to": "2026-10-09T12:36:32.899Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:36:32.899Z",
-   "to": "2026-10-09T12:36:32.899Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:40:12.093Z",
-   "to": "2026-10-09T12:40:12.093Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:40:12.093Z",
-   "to": "2026-10-09T12:40:12.093Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:40:21.903Z",
-   "to": "2026-10-09T12:40:21.903Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:40:21.903Z",
-   "to": "2026-10-09T12:40:21.903Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:41:23.872Z",
-   "to": "2026-10-09T12:41:23.872Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:41:23.872Z",
-   "to": "2026-10-09T12:41:23.872Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:41:24.206Z",
-   "to": "2026-10-09T12:41:24.206Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:41:24.206Z",
-   "to": "2026-10-09T12:41:24.206Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:41:29.955Z",
-   "to": "2026-10-09T12:41:29.955Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:41:29.955Z",
-   "to": "2026-10-09T12:41:29.955Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:41:35.181Z",
-   "to": "2026-10-09T12:41:35.181Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:41:35.181Z",
-   "to": "2026-10-09T12:41:35.181Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:41:35.760Z",
-   "to": "2026-10-09T12:41:35.760Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:41:35.760Z",
-   "to": "2026-10-09T12:41:35.760Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:45:03.601Z",
-   "to": "2026-10-09T12:45:03.601Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:45:03.601Z",
-   "to": "2026-10-09T12:45:03.601Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:45:03.986Z",
-   "to": "2026-10-09T12:45:03.986Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:45:03.986Z",
-   "to": "2026-10-09T12:45:03.986Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:45:08.051Z",
-   "to": "2026-10-09T12:45:08.051Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:45:08.051Z",
-   "to": "2026-10-09T12:45:08.051Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:45:12.312Z",
-   "to": "2026-10-09T12:45:12.312Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:45:12.312Z",
-   "to": "2026-10-09T12:45:12.312Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:45:13.077Z",
-   "to": "2026-10-09T12:45:13.077Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:45:13.077Z",
-   "to": "2026-10-09T12:45:13.077Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:45:40.102Z",
-   "to": "2026-10-09T12:45:40.102Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:45:40.102Z",
-   "to": "2026-10-09T12:45:40.102Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:45:43.418Z",
-   "to": "2026-10-09T12:45:43.418Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:45:43.418Z",
-   "to": "2026-10-09T12:45:43.418Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-09T12:50:15.147Z",
+   "from": "2026-10-09T13:01:10.677Z",
    "to": "2026-10-09T13:36:01.600Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -813,357 +39,6 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-10-09T12:50:15.147Z",
-   "to": "2026-10-09T12:50:15.147Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:50:15.147Z",
-   "to": "2026-10-09T12:50:15.147Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:50:29.792Z",
-   "to": "2026-10-09T12:50:29.792Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:50:29.792Z",
-   "to": "2026-10-09T12:50:29.792Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:51:38.568Z",
-   "to": "2026-10-09T12:51:38.568Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:51:38.568Z",
-   "to": "2026-10-09T12:51:38.568Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:51:58.201Z",
-   "to": "2026-10-09T12:51:58.201Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:51:58.201Z",
-   "to": "2026-10-09T12:51:58.201Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:52:03.363Z",
-   "to": "2026-10-09T12:52:03.363Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:52:03.363Z",
-   "to": "2026-10-09T12:52:03.363Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:52:09.371Z",
-   "to": "2026-10-09T12:52:09.371Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:52:09.371Z",
-   "to": "2026-10-09T12:52:09.371Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:52:09.793Z",
-   "to": "2026-10-09T12:52:09.793Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:52:09.793Z",
-   "to": "2026-10-09T12:52:09.793Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:55:02.572Z",
-   "to": "2026-10-09T12:55:02.572Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:55:02.572Z",
-   "to": "2026-10-09T12:55:02.572Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:55:03.160Z",
-   "to": "2026-10-09T12:55:03.160Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:55:03.160Z",
-   "to": "2026-10-09T12:55:03.160Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:55:08.216Z",
-   "to": "2026-10-09T12:55:08.216Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:55:08.216Z",
-   "to": "2026-10-09T12:55:08.216Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:55:16.702Z",
-   "to": "2026-10-09T12:55:16.702Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:55:16.702Z",
-   "to": "2026-10-09T12:55:16.702Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:55:17.014Z",
-   "to": "2026-10-09T12:55:17.014Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:55:17.014Z",
-   "to": "2026-10-09T12:55:17.014Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:55:54.323Z",
-   "to": "2026-10-09T12:55:54.323Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:55:54.323Z",
-   "to": "2026-10-09T12:55:54.323Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:55:56.586Z",
-   "to": "2026-10-09T12:55:56.586Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T12:55:56.586Z",
-   "to": "2026-10-09T12:55:56.586Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-10-09T13:00:12.210Z",
-   "to": "2026-10-09T13:40:55.063Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Bakerloo Line: Severe delays due to train cancellations. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T13:00:12.210Z",
-   "to": "2026-10-09T13:00:12.210Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T13:00:12.210Z",
-   "to": "2026-10-09T13:00:12.210Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T13:00:22.920Z",
-   "to": "2026-10-09T13:00:22.920Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T13:00:22.920Z",
-   "to": "2026-10-09T13:00:22.920Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T13:00:53.155Z",
-   "to": "2026-10-09T13:00:53.155Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T13:00:53.155Z",
-   "to": "2026-10-09T13:00:53.155Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T13:00:53.516Z",
-   "to": "2026-10-09T13:00:53.516Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T13:00:53.516Z",
-   "to": "2026-10-09T13:00:53.516Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T13:01:01.473Z",
-   "to": "2026-10-09T13:01:01.473Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-09T13:01:01.473Z",
-   "to": "2026-10-09T13:01:01.473Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
    "from": "2026-10-09T13:01:10.677Z",
    "to": "2026-10-09T13:01:10.677Z",
    "severity": 9,
@@ -1178,6 +53,15 @@
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Cockfosters and Heathrow Terminals westbound only due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-09T13:01:10.677Z",
+   "to": "2026-10-09T15:10:25.818Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations.  "
   },
   {
    "line": "piccadilly",
@@ -897655,7 +896539,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-11-08T00:05:03.861Z",
-   "to": "2026-11-08T12:05:59.255Z",
+   "to": "2026-11-08T13:01:05.101Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Sunday 8 November, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays, Queens Road Peckham, Peckham Rye, Denmark Hill, Clapham High Street and Wandsworth Road. The 0025 last Sunday morning train from Surrey Quays to Clapham Junction will not run. Please use the previous 0008 train."
@@ -906313,7 +905197,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-08T04:15:49.903Z",
-   "to": "2026-11-08T12:05:59.255Z",
+   "to": "2026-11-08T13:01:05.101Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -906322,7 +905206,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-08T04:15:49.903Z",
-   "to": "2026-11-08T12:05:59.255Z",
+   "to": "2026-11-08T13:01:05.101Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -906385,7 +905269,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-11-08T04:20:02.445Z",
-   "to": "2026-11-08T12:05:59.255Z",
+   "to": "2026-11-08T13:01:05.101Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "MILDMAY LINE: Saturday 7 and Sunday 8 November, no service between Willesden Junction and Clapham Junction. There will also be no SOUTHERN services between Watford Junction and Clapham Junction at these times. Please use local London Buses connections."
@@ -906421,7 +905305,7 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-11-08T04:31:19.393Z",
-   "to": "2026-11-08T12:05:59.255Z",
+   "to": "2026-11-08T13:01:04.616Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "LIONESS LINE: Sunday 8 November, until approx. 1300, no service between Willesden Junction and Watford Junction."
@@ -912559,7 +911443,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-08T10:05:18.185Z",
-   "to": "2026-11-08T12:05:59.255Z",
+   "to": "2026-11-08T13:01:05.101Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
@@ -915641,6 +914525,1437 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:06:16.453Z",
+   "to": "2026-11-08T12:06:16.453Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:06:16.453Z",
+   "to": "2026-11-08T12:06:16.453Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:06:24.430Z",
+   "to": "2026-11-08T12:06:24.430Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:06:24.430Z",
+   "to": "2026-11-08T12:06:24.430Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:10:04.105Z",
+   "to": "2026-11-08T12:10:04.105Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:10:04.105Z",
+   "to": "2026-11-08T12:10:04.105Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:10:06.342Z",
+   "to": "2026-11-08T12:10:06.342Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:10:06.342Z",
+   "to": "2026-11-08T12:10:06.342Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:10:14.142Z",
+   "to": "2026-11-08T12:10:14.142Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:10:14.142Z",
+   "to": "2026-11-08T12:10:14.142Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:11:13.996Z",
+   "to": "2026-11-08T12:11:13.996Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:11:13.996Z",
+   "to": "2026-11-08T12:11:13.996Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:11:14.410Z",
+   "to": "2026-11-08T12:11:14.410Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:11:14.410Z",
+   "to": "2026-11-08T12:11:14.410Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:11:14.924Z",
+   "to": "2026-11-08T12:11:14.924Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:11:14.924Z",
+   "to": "2026-11-08T12:11:14.924Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:11:15.446Z",
+   "to": "2026-11-08T12:11:15.446Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:11:15.446Z",
+   "to": "2026-11-08T12:11:15.446Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:15:00.460Z",
+   "to": "2026-11-08T12:15:00.460Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:15:00.460Z",
+   "to": "2026-11-08T12:15:00.460Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:15:01.099Z",
+   "to": "2026-11-08T12:15:01.099Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:15:01.099Z",
+   "to": "2026-11-08T12:15:01.099Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:15:01.547Z",
+   "to": "2026-11-08T12:15:01.547Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:15:01.547Z",
+   "to": "2026-11-08T12:15:01.547Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:15:01.912Z",
+   "to": "2026-11-08T12:15:01.912Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:15:01.912Z",
+   "to": "2026-11-08T12:15:01.912Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:15:31.830Z",
+   "to": "2026-11-08T12:15:31.830Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:15:31.830Z",
+   "to": "2026-11-08T12:15:31.830Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:15:33.995Z",
+   "to": "2026-11-08T12:15:33.995Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:15:33.995Z",
+   "to": "2026-11-08T12:15:33.995Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:15:41.073Z",
+   "to": "2026-11-08T12:15:41.073Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:15:41.073Z",
+   "to": "2026-11-08T12:15:41.073Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:20:04.180Z",
+   "to": "2026-11-08T12:20:04.180Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:20:04.180Z",
+   "to": "2026-11-08T12:20:04.180Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:20:06.498Z",
+   "to": "2026-11-08T12:20:06.498Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:20:06.498Z",
+   "to": "2026-11-08T12:20:06.498Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:20:13.636Z",
+   "to": "2026-11-08T12:20:13.636Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:20:13.636Z",
+   "to": "2026-11-08T12:20:13.636Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:20:45.600Z",
+   "to": "2026-11-08T12:20:45.600Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:20:45.600Z",
+   "to": "2026-11-08T12:20:45.600Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:20:46.240Z",
+   "to": "2026-11-08T12:20:46.240Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:20:46.240Z",
+   "to": "2026-11-08T12:20:46.240Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:20:46.636Z",
+   "to": "2026-11-08T12:20:46.636Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:20:46.636Z",
+   "to": "2026-11-08T12:20:46.636Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:20:47.093Z",
+   "to": "2026-11-08T12:20:47.093Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:20:47.093Z",
+   "to": "2026-11-08T12:20:47.093Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:25:00.701Z",
+   "to": "2026-11-08T12:25:00.701Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:25:00.701Z",
+   "to": "2026-11-08T12:25:00.701Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:25:01.220Z",
+   "to": "2026-11-08T12:25:01.220Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:25:01.220Z",
+   "to": "2026-11-08T12:25:01.220Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:25:01.874Z",
+   "to": "2026-11-08T12:25:01.874Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:25:01.874Z",
+   "to": "2026-11-08T12:25:01.874Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:25:02.193Z",
+   "to": "2026-11-08T12:25:02.193Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:25:02.193Z",
+   "to": "2026-11-08T12:25:02.193Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:26:07.049Z",
+   "to": "2026-11-08T12:26:07.049Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:26:07.049Z",
+   "to": "2026-11-08T12:26:07.049Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:26:09.689Z",
+   "to": "2026-11-08T12:26:09.689Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:26:09.689Z",
+   "to": "2026-11-08T12:26:09.689Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:26:17.065Z",
+   "to": "2026-11-08T12:26:17.065Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:26:17.065Z",
+   "to": "2026-11-08T12:26:17.065Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:30:04.154Z",
+   "to": "2026-11-08T12:30:04.154Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:30:04.154Z",
+   "to": "2026-11-08T12:30:04.154Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:30:06.229Z",
+   "to": "2026-11-08T12:30:06.229Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:30:06.229Z",
+   "to": "2026-11-08T12:30:06.229Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:30:13.308Z",
+   "to": "2026-11-08T12:30:13.308Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:30:13.308Z",
+   "to": "2026-11-08T12:30:13.308Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:30:18.154Z",
+   "to": "2026-11-08T12:30:18.154Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:30:18.154Z",
+   "to": "2026-11-08T12:30:18.154Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:30:18.987Z",
+   "to": "2026-11-08T12:30:18.987Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:30:18.987Z",
+   "to": "2026-11-08T12:30:18.987Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:30:19.429Z",
+   "to": "2026-11-08T12:30:19.429Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:30:19.429Z",
+   "to": "2026-11-08T12:30:19.429Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:30:20.090Z",
+   "to": "2026-11-08T12:30:20.090Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:30:20.090Z",
+   "to": "2026-11-08T12:30:20.090Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:35:00.528Z",
+   "to": "2026-11-08T12:35:00.528Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:35:00.528Z",
+   "to": "2026-11-08T12:35:00.528Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:35:01.005Z",
+   "to": "2026-11-08T12:35:01.005Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:35:01.005Z",
+   "to": "2026-11-08T12:35:01.005Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:35:03.505Z",
+   "to": "2026-11-08T12:35:03.505Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:35:03.505Z",
+   "to": "2026-11-08T12:35:03.505Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:35:03.863Z",
+   "to": "2026-11-08T12:35:03.863Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:35:03.863Z",
+   "to": "2026-11-08T12:35:03.863Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:35:40.622Z",
+   "to": "2026-11-08T12:35:40.622Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:35:40.622Z",
+   "to": "2026-11-08T12:35:40.622Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:35:43.074Z",
+   "to": "2026-11-08T12:35:43.074Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:35:43.074Z",
+   "to": "2026-11-08T12:35:43.074Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:35:50.492Z",
+   "to": "2026-11-08T12:35:50.492Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:35:50.492Z",
+   "to": "2026-11-08T12:35:50.492Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:40:04.031Z",
+   "to": "2026-11-08T12:40:04.031Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:40:04.031Z",
+   "to": "2026-11-08T12:40:04.031Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:40:06.126Z",
+   "to": "2026-11-08T12:40:06.126Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:40:06.126Z",
+   "to": "2026-11-08T12:40:06.126Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:40:13.459Z",
+   "to": "2026-11-08T12:40:13.459Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:40:13.459Z",
+   "to": "2026-11-08T12:40:13.459Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:40:55.992Z",
+   "to": "2026-11-08T12:40:55.992Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:40:55.992Z",
+   "to": "2026-11-08T12:40:55.992Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:40:56.399Z",
+   "to": "2026-11-08T12:40:56.399Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:40:56.399Z",
+   "to": "2026-11-08T12:40:56.399Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:40:56.915Z",
+   "to": "2026-11-08T12:40:56.915Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:40:56.915Z",
+   "to": "2026-11-08T12:40:56.915Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:40:57.451Z",
+   "to": "2026-11-08T12:40:57.451Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:40:57.451Z",
+   "to": "2026-11-08T12:40:57.451Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:45:00.683Z",
+   "to": "2026-11-08T12:45:00.683Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:45:00.683Z",
+   "to": "2026-11-08T12:45:00.683Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:45:01.154Z",
+   "to": "2026-11-08T12:45:01.154Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:45:01.154Z",
+   "to": "2026-11-08T12:45:01.154Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:45:01.567Z",
+   "to": "2026-11-08T12:45:01.567Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:45:01.567Z",
+   "to": "2026-11-08T12:45:01.567Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:45:01.924Z",
+   "to": "2026-11-08T12:45:01.924Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:45:01.924Z",
+   "to": "2026-11-08T12:45:01.924Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:46:16.864Z",
+   "to": "2026-11-08T12:46:16.864Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:46:16.864Z",
+   "to": "2026-11-08T12:46:16.864Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:46:19.180Z",
+   "to": "2026-11-08T12:46:19.180Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:46:19.180Z",
+   "to": "2026-11-08T12:46:19.180Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:46:26.529Z",
+   "to": "2026-11-08T12:46:26.529Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:46:26.529Z",
+   "to": "2026-11-08T12:46:26.529Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:50:04.054Z",
+   "to": "2026-11-08T12:50:04.054Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:50:04.054Z",
+   "to": "2026-11-08T12:50:04.054Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:50:06.406Z",
+   "to": "2026-11-08T12:50:06.406Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:50:06.406Z",
+   "to": "2026-11-08T12:50:06.406Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:50:13.850Z",
+   "to": "2026-11-08T12:50:13.850Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:50:13.850Z",
+   "to": "2026-11-08T12:50:13.850Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:50:27.567Z",
+   "to": "2026-11-08T12:50:27.567Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:50:27.567Z",
+   "to": "2026-11-08T12:50:27.567Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:50:27.917Z",
+   "to": "2026-11-08T12:50:27.917Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:50:27.917Z",
+   "to": "2026-11-08T12:50:27.917Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:50:28.275Z",
+   "to": "2026-11-08T12:50:28.275Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:50:28.275Z",
+   "to": "2026-11-08T12:50:28.275Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:50:28.784Z",
+   "to": "2026-11-08T12:50:28.784Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:50:28.784Z",
+   "to": "2026-11-08T12:50:28.784Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:55:00.612Z",
+   "to": "2026-11-08T12:55:00.612Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:55:00.612Z",
+   "to": "2026-11-08T12:55:00.612Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:55:05.314Z",
+   "to": "2026-11-08T12:55:05.314Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:55:05.314Z",
+   "to": "2026-11-08T12:55:05.314Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:55:05.704Z",
+   "to": "2026-11-08T12:55:05.704Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:55:05.704Z",
+   "to": "2026-11-08T12:55:05.704Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:55:06.294Z",
+   "to": "2026-11-08T12:55:06.294Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:55:06.294Z",
+   "to": "2026-11-08T12:55:06.294Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:55:49.321Z",
+   "to": "2026-11-08T12:55:49.321Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:55:49.321Z",
+   "to": "2026-11-08T12:55:49.321Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:55:51.368Z",
+   "to": "2026-11-08T12:55:51.368Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:55:51.368Z",
+   "to": "2026-11-08T12:55:51.368Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:55:58.503Z",
+   "to": "2026-11-08T12:55:58.503Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T12:55:58.503Z",
+   "to": "2026-11-08T12:55:58.503Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T13:00:04.755Z",
+   "to": "2026-11-08T13:00:04.755Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T13:00:04.755Z",
+   "to": "2026-11-08T13:00:04.755Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T13:00:07.160Z",
+   "to": "2026-11-08T13:00:07.160Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T13:00:07.160Z",
+   "to": "2026-11-08T13:00:07.160Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T13:00:14.314Z",
+   "to": "2026-11-08T13:00:14.314Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T13:00:14.314Z",
+   "to": "2026-11-08T13:00:14.314Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T13:01:03.891Z",
+   "to": "2026-11-08T13:01:03.891Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T13:01:03.891Z",
+   "to": "2026-11-08T13:01:03.891Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T13:01:04.250Z",
+   "to": "2026-11-08T13:01:04.250Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T13:01:04.250Z",
+   "to": "2026-11-08T13:01:04.250Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T13:01:04.616Z",
+   "to": "2026-11-08T13:01:04.616Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T13:01:04.616Z",
+   "to": "2026-11-08T13:01:04.616Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T13:01:05.101Z",
+   "to": "2026-11-08T13:01:05.101Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-08T13:01:05.101Z",
+   "to": "2026-11-08T13:01:05.101Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway. \r\n "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-08T13:01:05.101Z",
+   "to": "2026-11-08T13:01:05.101Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "LIONESS LINE: Saturday 7 and Sunday 8 November, a reduced service will run between Kilburn High Road and Euston. On Saturday, between 0630 and 2030, trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 0715 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road. On Sunday, between 1300 and 2030,  trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 1300 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road"
   }
  ]
 }
