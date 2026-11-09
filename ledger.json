@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-09T05:25:07.471Z",
- "sinceISO": "2026-10-10T05:25:00.902Z",
+ "generatedAt": "2026-11-09T05:35:07.584Z",
+ "sinceISO": "2026-10-10T05:35:01.131Z",
  "coverage": [
   {
-   "from": "2026-10-10T05:25:03.075Z",
-   "to": "2026-11-09T05:25:00.644Z",
+   "from": "2026-10-10T05:35:02.601Z",
+   "to": "2026-11-09T05:35:00.819Z",
    "polls": 60402
   }
  ],
@@ -12,7 +12,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-10-10T05:25:03.075Z",
+   "from": "2026-10-10T05:35:02.601Z",
    "to": "2026-10-11T00:25:01.923Z",
    "severity": 5,
    "description": "Part Closure",
@@ -21,7 +21,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-10T05:25:03.075Z",
+   "from": "2026-10-10T05:35:02.601Z",
    "to": "2026-10-11T00:25:01.923Z",
    "severity": 5,
    "description": "Part Closure",
@@ -30,38 +30,29 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-10T05:25:03.075Z",
+   "from": "2026-10-10T05:35:02.601Z",
    "to": "2026-10-10T08:15:01.968Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 October, no service between Stratford International and Woolwich Arsenal. Please use local London Buses, London Underground and Elizabeth line services (for Woolwich) as no replacement bus services will operate."
   },
   {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-10T05:25:03.075Z",
-   "to": "2026-10-10T05:31:28.804Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Moor Park and Watford southbound only due to train cancellations. The next southbound train from Watford will be at 06:23. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-10T05:25:03.075Z",
-   "to": "2026-10-11T00:16:35.220Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-10-10T05:30:05.962Z",
+   "from": "2026-10-10T05:35:02.601Z",
    "to": "2026-10-10T20:15:49.131Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "LIONESS LINE: Saturday 10 and Sunday 11 October, a reduced service will run between Kilburn High Road and Euston. On Saturday, between 0630 and 2030, trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 0715 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road. On Sunday, between 1130 and 2030,  trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 1215 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road"
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-10T05:35:02.601Z",
+   "to": "2026-10-11T00:16:35.220Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
   },
   {
    "line": "metropolitan",
@@ -914503,7 +914494,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-09T00:55:00.893Z",
-   "to": "2026-11-09T05:25:00.644Z",
+   "to": "2026-11-09T05:35:00.819Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00. "
@@ -921442,7 +921433,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-09T04:20:04.029Z",
-   "to": "2026-11-09T05:25:00.644Z",
+   "to": "2026-11-09T05:35:00.819Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -921451,7 +921442,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-11-09T05:20:03.832Z",
-   "to": "2026-11-09T05:25:00.644Z",
+   "to": "2026-11-09T05:35:00.819Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Mildmay Line: No service between Willesden Junction and Clapham Junction while we fix a signal failure in the Shepherd's Bush area. GOOD SERVICE on the rest of the line.  "
@@ -921469,10 +921460,19 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-09T05:25:00.644Z",
-   "to": "2026-11-09T05:25:00.644Z",
+   "to": "2026-11-09T05:35:00.819Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays between Turnham Green and Ealing Broadway due to train cancellations. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses and Elizabeth line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T05:35:00.819Z",
+   "to": "2026-11-09T05:35:00.819Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
