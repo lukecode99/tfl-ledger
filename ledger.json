@@ -1,1607 +1,14 @@
 {
- "generatedAt": "2026-11-09T12:35:11.099Z",
- "sinceISO": "2026-10-10T12:35:01.724Z",
+ "generatedAt": "2026-11-09T13:05:07.702Z",
+ "sinceISO": "2026-10-10T13:05:00.913Z",
  "coverage": [
   {
-   "from": "2026-10-10T12:35:03.213Z",
-   "to": "2026-11-09T12:35:00.643Z",
+   "from": "2026-10-10T13:05:02.307Z",
+   "to": "2026-11-09T13:05:00.623Z",
    "polls": 60402
   }
  ],
  "spans": [
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-10T12:35:03.213Z",
-   "to": "2026-10-10T14:50:33.263Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-10T12:35:03.213Z",
-   "to": "2026-10-11T00:25:01.923Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road and Aldgate (via Victoria)"
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-10T12:35:03.213Z",
-   "to": "2026-10-11T00:25:01.923Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate."
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-10-10T12:35:03.213Z",
-   "to": "2026-10-11T00:25:13.675Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 October, no service between Stratford International and Woolwich Arsenal. Please use local London Buses, London Underground and Elizabeth line services (for Woolwich) as no replacement bus services will operate."
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-10T12:35:03.213Z",
-   "to": "2026-10-10T14:50:33.263Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: Severe delays due to an earlier faulty train at West Ham. Tickets are being accepted on London Buses, Mildmay Line, Elizabeth Line and C2C services. "
-  },
-  {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-10-10T12:35:03.213Z",
-   "to": "2026-10-10T20:15:49.131Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "LIONESS LINE: Saturday 10 and Sunday 11 October, a reduced service will run between Kilburn High Road and Euston. On Saturday, between 0630 and 2030, trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 0715 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road. On Sunday, between 1130 and 2030,  trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 1215 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road"
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-10T12:35:03.213Z",
-   "to": "2026-10-10T12:51:32.887Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge and between Moor Park and Chesham due to train cancellations. The next southbound train from Chesham will be at 13:56. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:35:03.213Z",
-   "to": "2026-10-10T12:35:03.213Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:35:03.213Z",
-   "to": "2026-10-10T12:35:03.213Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:35:03.213Z",
-   "to": "2026-10-10T12:35:03.213Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:35:03.213Z",
-   "to": "2026-10-10T12:35:03.213Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-10T12:35:03.213Z",
-   "to": "2026-10-11T00:16:35.220Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:35:06.781Z",
-   "to": "2026-10-10T12:35:06.781Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:35:06.781Z",
-   "to": "2026-10-10T12:35:06.781Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:35:06.781Z",
-   "to": "2026-10-10T12:35:06.781Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:35:06.781Z",
-   "to": "2026-10-10T12:35:06.781Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:35:07.144Z",
-   "to": "2026-10-10T12:35:07.144Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:35:07.144Z",
-   "to": "2026-10-10T12:35:07.144Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:35:07.144Z",
-   "to": "2026-10-10T12:35:07.144Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:35:07.144Z",
-   "to": "2026-10-10T12:35:07.144Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:35:13.392Z",
-   "to": "2026-10-10T12:35:13.392Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:35:13.392Z",
-   "to": "2026-10-10T12:35:13.392Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:35:13.392Z",
-   "to": "2026-10-10T12:35:13.392Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:35:13.392Z",
-   "to": "2026-10-10T12:35:13.392Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:36:05.272Z",
-   "to": "2026-10-10T12:36:05.272Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:36:05.272Z",
-   "to": "2026-10-10T12:36:05.272Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:36:05.272Z",
-   "to": "2026-10-10T12:36:05.272Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:36:05.272Z",
-   "to": "2026-10-10T12:36:05.272Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:36:11.434Z",
-   "to": "2026-10-10T12:36:11.434Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:36:11.434Z",
-   "to": "2026-10-10T12:36:11.434Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:36:11.434Z",
-   "to": "2026-10-10T12:36:11.434Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:36:11.434Z",
-   "to": "2026-10-10T12:36:11.434Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:36:15.070Z",
-   "to": "2026-10-10T12:36:15.070Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:36:15.070Z",
-   "to": "2026-10-10T12:36:15.070Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:36:15.070Z",
-   "to": "2026-10-10T12:36:15.070Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:36:15.070Z",
-   "to": "2026-10-10T12:36:15.070Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:40:15.279Z",
-   "to": "2026-10-10T12:40:15.279Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:40:15.279Z",
-   "to": "2026-10-10T12:40:15.279Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:40:15.279Z",
-   "to": "2026-10-10T12:40:15.279Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:40:15.279Z",
-   "to": "2026-10-10T12:40:15.279Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. \r\n\r\n "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:40:18.224Z",
-   "to": "2026-10-10T12:40:18.224Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:40:18.224Z",
-   "to": "2026-10-10T12:40:18.224Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:40:18.224Z",
-   "to": "2026-10-10T12:40:18.224Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:40:18.224Z",
-   "to": "2026-10-10T12:40:18.224Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:40:30.376Z",
-   "to": "2026-10-10T12:40:30.376Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:40:30.376Z",
-   "to": "2026-10-10T12:40:30.376Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:40:30.376Z",
-   "to": "2026-10-10T12:40:30.376Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:40:30.376Z",
-   "to": "2026-10-10T12:40:30.376Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:41:07.987Z",
-   "to": "2026-10-10T12:41:07.987Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:41:07.987Z",
-   "to": "2026-10-10T12:41:07.987Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:41:07.987Z",
-   "to": "2026-10-10T12:41:07.987Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:41:07.987Z",
-   "to": "2026-10-10T12:41:07.987Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:41:14.263Z",
-   "to": "2026-10-10T12:41:14.263Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:41:14.263Z",
-   "to": "2026-10-10T12:41:14.263Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:41:14.263Z",
-   "to": "2026-10-10T12:41:14.263Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:41:14.263Z",
-   "to": "2026-10-10T12:41:14.263Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:41:14.599Z",
-   "to": "2026-10-10T12:41:14.599Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:41:14.599Z",
-   "to": "2026-10-10T12:41:14.599Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:41:14.599Z",
-   "to": "2026-10-10T12:41:14.599Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:41:14.599Z",
-   "to": "2026-10-10T12:41:14.599Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:41:28.094Z",
-   "to": "2026-10-10T12:41:28.094Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:41:28.094Z",
-   "to": "2026-10-10T12:41:28.094Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:41:28.094Z",
-   "to": "2026-10-10T12:41:28.094Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:41:28.094Z",
-   "to": "2026-10-10T12:41:28.094Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:45:02.227Z",
-   "to": "2026-10-10T12:45:02.227Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:45:02.227Z",
-   "to": "2026-10-10T12:45:02.227Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:45:02.227Z",
-   "to": "2026-10-10T12:45:02.227Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:45:02.227Z",
-   "to": "2026-10-10T12:45:02.227Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:45:06.496Z",
-   "to": "2026-10-10T12:45:06.496Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:45:06.496Z",
-   "to": "2026-10-10T12:45:06.496Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:45:06.496Z",
-   "to": "2026-10-10T12:45:06.496Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:45:06.496Z",
-   "to": "2026-10-10T12:45:06.496Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:45:06.836Z",
-   "to": "2026-10-10T12:45:06.836Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:45:06.836Z",
-   "to": "2026-10-10T12:45:06.836Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:45:06.836Z",
-   "to": "2026-10-10T12:45:06.836Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:45:06.836Z",
-   "to": "2026-10-10T12:45:06.836Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:45:21.993Z",
-   "to": "2026-10-10T12:45:21.993Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:45:21.993Z",
-   "to": "2026-10-10T12:45:21.993Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:45:21.993Z",
-   "to": "2026-10-10T12:45:21.993Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:45:21.993Z",
-   "to": "2026-10-10T12:45:21.993Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:46:20.576Z",
-   "to": "2026-10-10T12:46:20.576Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:46:20.576Z",
-   "to": "2026-10-10T12:46:20.576Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:46:20.576Z",
-   "to": "2026-10-10T12:46:20.576Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:46:20.576Z",
-   "to": "2026-10-10T12:46:20.576Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:46:22.655Z",
-   "to": "2026-10-10T12:46:22.655Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:46:22.655Z",
-   "to": "2026-10-10T12:46:22.655Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:46:22.655Z",
-   "to": "2026-10-10T12:46:22.655Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:46:22.655Z",
-   "to": "2026-10-10T12:46:22.655Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:46:26.146Z",
-   "to": "2026-10-10T12:46:26.146Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:46:26.146Z",
-   "to": "2026-10-10T12:46:26.146Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:46:26.146Z",
-   "to": "2026-10-10T12:46:26.146Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:46:26.146Z",
-   "to": "2026-10-10T12:46:26.146Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:50:09.613Z",
-   "to": "2026-10-10T12:50:09.613Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:50:09.613Z",
-   "to": "2026-10-10T12:50:09.613Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:50:09.613Z",
-   "to": "2026-10-10T12:50:09.613Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:50:09.613Z",
-   "to": "2026-10-10T12:50:09.613Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:50:11.540Z",
-   "to": "2026-10-10T12:50:11.540Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:50:11.540Z",
-   "to": "2026-10-10T12:50:11.540Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:50:11.540Z",
-   "to": "2026-10-10T12:50:11.540Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:50:11.540Z",
-   "to": "2026-10-10T12:50:11.540Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:50:18.905Z",
-   "to": "2026-10-10T12:50:18.905Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:50:18.905Z",
-   "to": "2026-10-10T12:50:18.905Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:50:18.905Z",
-   "to": "2026-10-10T12:50:18.905Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:50:18.905Z",
-   "to": "2026-10-10T12:50:18.905Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:51:22.524Z",
-   "to": "2026-10-10T12:51:22.524Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:51:22.524Z",
-   "to": "2026-10-10T12:51:22.524Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:51:22.524Z",
-   "to": "2026-10-10T12:51:22.524Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:51:22.524Z",
-   "to": "2026-10-10T12:51:22.524Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:51:26.381Z",
-   "to": "2026-10-10T12:51:26.381Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:51:26.381Z",
-   "to": "2026-10-10T12:51:26.381Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:51:26.381Z",
-   "to": "2026-10-10T12:51:26.381Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:51:26.381Z",
-   "to": "2026-10-10T12:51:26.381Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:51:26.755Z",
-   "to": "2026-10-10T12:51:26.755Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:51:26.755Z",
-   "to": "2026-10-10T12:51:26.755Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:51:26.755Z",
-   "to": "2026-10-10T12:51:26.755Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:51:26.755Z",
-   "to": "2026-10-10T12:51:26.755Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:51:32.887Z",
-   "to": "2026-10-10T12:51:32.887Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:51:32.887Z",
-   "to": "2026-10-10T12:51:32.887Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:51:32.887Z",
-   "to": "2026-10-10T12:51:32.887Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:51:32.887Z",
-   "to": "2026-10-10T12:51:32.887Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-10T12:55:02.155Z",
-   "to": "2026-10-10T13:11:02.302Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge and between Moor Park and Amersham due to train cancellations. The next southbound train from Amersham will be at 14:48. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:55:02.155Z",
-   "to": "2026-10-10T12:55:02.155Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:55:02.155Z",
-   "to": "2026-10-10T12:55:02.155Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:55:02.155Z",
-   "to": "2026-10-10T12:55:02.155Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:55:02.155Z",
-   "to": "2026-10-10T12:55:02.155Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:55:12.054Z",
-   "to": "2026-10-10T12:55:12.054Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:55:12.054Z",
-   "to": "2026-10-10T12:55:12.054Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:55:12.054Z",
-   "to": "2026-10-10T12:55:12.054Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:55:12.054Z",
-   "to": "2026-10-10T12:55:12.054Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:55:12.387Z",
-   "to": "2026-10-10T12:55:12.387Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:55:12.387Z",
-   "to": "2026-10-10T12:55:12.387Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:55:12.387Z",
-   "to": "2026-10-10T12:55:12.387Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:55:12.387Z",
-   "to": "2026-10-10T12:55:12.387Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:55:19.274Z",
-   "to": "2026-10-10T12:55:19.274Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:55:19.274Z",
-   "to": "2026-10-10T12:55:19.274Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:55:19.274Z",
-   "to": "2026-10-10T12:55:19.274Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:55:19.274Z",
-   "to": "2026-10-10T12:55:19.274Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:55:32.716Z",
-   "to": "2026-10-10T12:55:32.716Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:55:32.716Z",
-   "to": "2026-10-10T12:55:32.716Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:55:32.716Z",
-   "to": "2026-10-10T12:55:32.716Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:55:32.716Z",
-   "to": "2026-10-10T12:55:32.716Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:55:35.016Z",
-   "to": "2026-10-10T12:55:35.016Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:55:35.016Z",
-   "to": "2026-10-10T12:55:35.016Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:55:35.016Z",
-   "to": "2026-10-10T12:55:35.016Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:55:35.016Z",
-   "to": "2026-10-10T12:55:35.016Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:55:43.301Z",
-   "to": "2026-10-10T12:55:43.301Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T12:55:43.301Z",
-   "to": "2026-10-10T12:55:43.301Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:55:43.301Z",
-   "to": "2026-10-10T12:55:43.301Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T12:55:43.301Z",
-   "to": "2026-10-10T12:55:43.301Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T13:00:05.741Z",
-   "to": "2026-10-10T13:00:05.741Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T13:00:05.741Z",
-   "to": "2026-10-10T13:00:05.741Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T13:00:05.741Z",
-   "to": "2026-10-10T13:00:05.741Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T13:00:05.741Z",
-   "to": "2026-10-10T13:00:05.741Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T13:00:17.399Z",
-   "to": "2026-10-10T13:00:17.399Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T13:00:17.399Z",
-   "to": "2026-10-10T13:00:17.399Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T13:00:17.399Z",
-   "to": "2026-10-10T13:00:17.399Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T13:00:17.399Z",
-   "to": "2026-10-10T13:00:17.399Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T13:00:22.275Z",
-   "to": "2026-10-10T13:00:22.275Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T13:00:22.275Z",
-   "to": "2026-10-10T13:00:22.275Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T13:00:22.275Z",
-   "to": "2026-10-10T13:00:22.275Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T13:00:22.275Z",
-   "to": "2026-10-10T13:00:22.275Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T13:00:36.069Z",
-   "to": "2026-10-10T13:00:36.069Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T13:00:36.069Z",
-   "to": "2026-10-10T13:00:36.069Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T13:00:36.069Z",
-   "to": "2026-10-10T13:00:36.069Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T13:00:36.069Z",
-   "to": "2026-10-10T13:00:36.069Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T13:00:40.098Z",
-   "to": "2026-10-10T13:00:40.098Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T13:00:40.098Z",
-   "to": "2026-10-10T13:00:40.098Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T13:00:40.098Z",
-   "to": "2026-10-10T13:00:40.098Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T13:00:40.098Z",
-   "to": "2026-10-10T13:00:40.098Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T13:00:40.435Z",
-   "to": "2026-10-10T13:00:40.435Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T13:00:40.435Z",
-   "to": "2026-10-10T13:00:40.435Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T13:00:40.435Z",
-   "to": "2026-10-10T13:00:40.435Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T13:00:40.435Z",
-   "to": "2026-10-10T13:00:40.435Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T13:00:48.778Z",
-   "to": "2026-10-10T13:00:48.778Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-10T13:00:48.778Z",
-   "to": "2026-10-10T13:00:48.778Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and SEVERE DELAYS between Kennington and Morden due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T13:00:48.778Z",
-   "to": "2026-10-10T13:00:48.778Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-10T13:00:48.778Z",
-   "to": "2026-10-10T13:00:48.778Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
-  },
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
@@ -1612,6 +19,69 @@
    "reason": "Bakerloo Line: Minor delays due to train cancellations. "
   },
   {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-10T13:05:02.307Z",
+   "to": "2026-10-10T14:50:33.263Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-10T13:05:02.307Z",
+   "to": "2026-10-11T00:25:01.923Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road and Aldgate (via Victoria)"
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-10T13:05:02.307Z",
+   "to": "2026-10-11T00:25:01.923Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate."
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-10T13:05:02.307Z",
+   "to": "2026-10-11T00:25:13.675Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 October, no service between Stratford International and Woolwich Arsenal. Please use local London Buses, London Underground and Elizabeth line services (for Woolwich) as no replacement bus services will operate."
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-10-10T13:05:02.307Z",
+   "to": "2026-10-10T14:50:33.263Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Jubilee Line: Severe delays due to an earlier faulty train at West Ham. Tickets are being accepted on London Buses, Mildmay Line, Elizabeth Line and C2C services. "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-10-10T13:05:02.307Z",
+   "to": "2026-10-10T20:15:49.131Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "LIONESS LINE: Saturday 10 and Sunday 11 October, a reduced service will run between Kilburn High Road and Euston. On Saturday, between 0630 and 2030, trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 0715 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road. On Sunday, between 1130 and 2030,  trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 1215 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road"
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-10T13:05:02.307Z",
+   "to": "2026-10-10T13:11:02.302Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge and between Moor Park and Amersham due to train cancellations. The next southbound train from Amersham will be at 14:48. GOOD SERVICE on the rest of the line. "
+  },
+  {
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-10T13:05:02.307Z",
@@ -1646,6 +116,15 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we respond to a fire alert at Blackhorse Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-10T13:05:02.307Z",
+   "to": "2026-10-11T00:16:35.220Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
   },
   {
    "line": "northern",
@@ -910561,7 +909040,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-09T04:20:04.029Z",
-   "to": "2026-11-09T12:35:00.643Z",
+   "to": "2026-11-09T13:05:00.623Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -915286,7 +913765,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-11-09T09:40:04.274Z",
-   "to": "2026-11-09T12:35:00.643Z",
+   "to": "2026-11-09T13:05:00.623Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Minor delays between Ilford and Shenfield while we fix a signal system failure in the Gidea Park area. GOOD SERVICE on the rest of line.  "
@@ -915709,7 +914188,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-09T10:35:00.712Z",
-   "to": "2026-11-09T12:35:00.643Z",
+   "to": "2026-11-09T13:05:00.623Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays between Camden Town and Battersea Power Station via Charing Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line. "
@@ -917374,7 +915853,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-09T12:10:04.178Z",
-   "to": "2026-11-09T12:35:00.643Z",
+   "to": "2026-11-09T13:05:00.623Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Baker Street. GOOD SERVICE on the rest of the line.  "
@@ -918026,6 +916505,753 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:35:19.319Z",
+   "to": "2026-11-09T12:35:19.319Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:35:19.319Z",
+   "to": "2026-11-09T12:35:19.319Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:35:19.712Z",
+   "to": "2026-11-09T12:35:19.712Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:35:19.712Z",
+   "to": "2026-11-09T12:35:19.712Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:35:20.122Z",
+   "to": "2026-11-09T12:35:20.122Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:35:20.122Z",
+   "to": "2026-11-09T12:35:20.122Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:36:30.771Z",
+   "to": "2026-11-09T12:36:30.771Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:36:30.771Z",
+   "to": "2026-11-09T12:36:30.771Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:36:33.056Z",
+   "to": "2026-11-09T12:36:33.056Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:36:33.056Z",
+   "to": "2026-11-09T12:36:33.056Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:36:40.331Z",
+   "to": "2026-11-09T12:36:40.331Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:36:40.331Z",
+   "to": "2026-11-09T12:36:40.331Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:40:04.040Z",
+   "to": "2026-11-09T12:40:04.040Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:40:04.040Z",
+   "to": "2026-11-09T12:40:04.040Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:40:05.994Z",
+   "to": "2026-11-09T12:40:05.994Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:40:05.994Z",
+   "to": "2026-11-09T12:40:05.994Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:40:13.038Z",
+   "to": "2026-11-09T12:40:13.038Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:40:13.038Z",
+   "to": "2026-11-09T12:40:13.038Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:40:42.135Z",
+   "to": "2026-11-09T12:40:42.135Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:40:42.135Z",
+   "to": "2026-11-09T12:40:42.135Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:40:43.390Z",
+   "to": "2026-11-09T12:40:43.390Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:40:43.390Z",
+   "to": "2026-11-09T12:40:43.390Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:40:43.798Z",
+   "to": "2026-11-09T12:40:43.798Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:40:43.798Z",
+   "to": "2026-11-09T12:40:43.798Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:40:44.500Z",
+   "to": "2026-11-09T12:40:44.500Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:40:44.500Z",
+   "to": "2026-11-09T12:40:44.500Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:45:00.906Z",
+   "to": "2026-11-09T12:45:00.906Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:45:00.906Z",
+   "to": "2026-11-09T12:45:00.906Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:45:01.511Z",
+   "to": "2026-11-09T12:45:01.511Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:45:01.511Z",
+   "to": "2026-11-09T12:45:01.511Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:45:02.007Z",
+   "to": "2026-11-09T12:45:02.007Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:45:02.007Z",
+   "to": "2026-11-09T12:45:02.007Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:45:02.349Z",
+   "to": "2026-11-09T12:45:02.349Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:45:02.349Z",
+   "to": "2026-11-09T12:45:02.349Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:46:03.373Z",
+   "to": "2026-11-09T12:46:03.373Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:46:03.373Z",
+   "to": "2026-11-09T12:46:03.373Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:46:05.836Z",
+   "to": "2026-11-09T12:46:05.836Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:46:05.836Z",
+   "to": "2026-11-09T12:46:05.836Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:46:12.828Z",
+   "to": "2026-11-09T12:46:12.828Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:46:12.828Z",
+   "to": "2026-11-09T12:46:12.828Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:50:03.748Z",
+   "to": "2026-11-09T12:50:03.748Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:50:03.748Z",
+   "to": "2026-11-09T12:50:03.748Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:50:05.911Z",
+   "to": "2026-11-09T12:50:05.911Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:50:05.911Z",
+   "to": "2026-11-09T12:50:05.911Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:50:12.715Z",
+   "to": "2026-11-09T12:50:12.715Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:50:12.715Z",
+   "to": "2026-11-09T12:50:12.715Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:51:18.961Z",
+   "to": "2026-11-09T12:51:18.961Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:51:18.961Z",
+   "to": "2026-11-09T12:51:18.961Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:51:19.934Z",
+   "to": "2026-11-09T12:51:19.934Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:51:19.934Z",
+   "to": "2026-11-09T12:51:19.934Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:51:20.475Z",
+   "to": "2026-11-09T12:51:20.475Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:51:20.475Z",
+   "to": "2026-11-09T12:51:20.475Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:51:21.251Z",
+   "to": "2026-11-09T12:51:21.251Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:51:21.251Z",
+   "to": "2026-11-09T12:51:21.251Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:55:00.649Z",
+   "to": "2026-11-09T12:55:00.649Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:55:00.649Z",
+   "to": "2026-11-09T12:55:00.649Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:55:01.041Z",
+   "to": "2026-11-09T12:55:01.041Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:55:01.041Z",
+   "to": "2026-11-09T12:55:01.041Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:55:01.426Z",
+   "to": "2026-11-09T12:55:01.426Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:55:01.426Z",
+   "to": "2026-11-09T12:55:01.426Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:55:01.821Z",
+   "to": "2026-11-09T12:55:01.821Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:55:01.821Z",
+   "to": "2026-11-09T12:55:01.821Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:55:36.716Z",
+   "to": "2026-11-09T12:55:36.716Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:55:36.716Z",
+   "to": "2026-11-09T12:55:36.716Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:55:38.625Z",
+   "to": "2026-11-09T12:55:38.625Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:55:38.625Z",
+   "to": "2026-11-09T12:55:38.625Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:55:45.295Z",
+   "to": "2026-11-09T12:55:45.295Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T12:55:45.295Z",
+   "to": "2026-11-09T12:55:45.295Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:00:04.394Z",
+   "to": "2026-11-09T13:00:04.394Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:00:04.394Z",
+   "to": "2026-11-09T13:00:04.394Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:00:06.442Z",
+   "to": "2026-11-09T13:00:06.442Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:00:06.442Z",
+   "to": "2026-11-09T13:00:06.442Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:00:16.695Z",
+   "to": "2026-11-09T13:00:16.695Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:00:16.695Z",
+   "to": "2026-11-09T13:00:16.695Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:00:51.789Z",
+   "to": "2026-11-09T13:00:51.789Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:00:51.789Z",
+   "to": "2026-11-09T13:00:51.789Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:00:52.186Z",
+   "to": "2026-11-09T13:00:52.186Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:00:52.186Z",
+   "to": "2026-11-09T13:00:52.186Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:00:52.558Z",
+   "to": "2026-11-09T13:00:52.558Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:00:52.558Z",
+   "to": "2026-11-09T13:00:52.558Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:00:53.455Z",
+   "to": "2026-11-09T13:00:53.455Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:00:53.455Z",
+   "to": "2026-11-09T13:00:53.455Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T13:05:00.623Z",
+   "to": "2026-11-09T13:05:00.623Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident. GOOD SERVICE on the rest of the line.  "
   }
  ]
 }
