@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-09T05:20:13.101Z",
- "sinceISO": "2026-10-10T05:20:04.098Z",
+ "generatedAt": "2026-11-09T05:20:41.411Z",
+ "sinceISO": "2026-10-10T05:20:34.630Z",
  "coverage": [
   {
-   "from": "2026-10-10T05:20:07.876Z",
-   "to": "2026-11-09T05:20:03.832Z",
-   "polls": 60402
+   "from": "2026-10-10T05:20:59.193Z",
+   "to": "2026-11-09T05:20:34.377Z",
+   "polls": 60403
   }
  ],
  "spans": [
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-10-10T05:20:07.876Z",
+   "from": "2026-10-10T05:20:59.193Z",
    "to": "2026-10-11T00:25:01.923Z",
    "severity": 5,
    "description": "Part Closure",
@@ -21,7 +21,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-10T05:20:07.876Z",
+   "from": "2026-10-10T05:20:59.193Z",
    "to": "2026-10-11T00:25:01.923Z",
    "severity": 5,
    "description": "Part Closure",
@@ -30,7 +30,7 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-10T05:20:07.876Z",
+   "from": "2026-10-10T05:20:59.193Z",
    "to": "2026-10-10T08:15:01.968Z",
    "severity": 5,
    "description": "Part Closure",
@@ -39,7 +39,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-10T05:20:07.876Z",
+   "from": "2026-10-10T05:20:59.193Z",
    "to": "2026-10-10T05:31:28.804Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -48,7 +48,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-10-10T05:20:07.876Z",
+   "from": "2026-10-10T05:20:59.193Z",
    "to": "2026-10-11T00:16:35.220Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -914503,7 +914503,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-09T00:55:00.893Z",
-   "to": "2026-11-09T05:20:03.832Z",
+   "to": "2026-11-09T05:20:34.377Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00. "
@@ -921442,7 +921442,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-09T04:20:04.029Z",
-   "to": "2026-11-09T05:20:03.832Z",
+   "to": "2026-11-09T05:20:34.377Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -921451,10 +921451,19 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-11-09T05:20:03.832Z",
-   "to": "2026-11-09T05:20:03.832Z",
+   "to": "2026-11-09T05:20:34.377Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Mildmay Line: No service between Willesden Junction and Clapham Junction while we fix a signal failure in the Shepherd's Bush area. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T05:20:34.377Z",
+   "to": "2026-11-09T05:20:34.377Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Turnham Green and Ealing Broadway due to train cancellations. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
