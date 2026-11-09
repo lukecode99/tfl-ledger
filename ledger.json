@@ -1,18 +1,27 @@
 {
- "generatedAt": "2026-11-09T11:20:14.081Z",
- "sinceISO": "2026-10-10T11:20:06.818Z",
+ "generatedAt": "2026-11-09T11:35:11.414Z",
+ "sinceISO": "2026-10-10T11:35:01.758Z",
  "coverage": [
   {
-   "from": "2026-10-10T11:20:18.740Z",
-   "to": "2026-11-09T11:20:04.174Z",
-   "polls": 60401
+   "from": "2026-10-10T11:35:02.305Z",
+   "to": "2026-11-09T11:35:00.855Z",
+   "polls": 60402
   }
  ],
  "spans": [
   {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-10T11:35:02.305Z",
+   "to": "2026-10-10T12:06:49.771Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway due to train cancellations. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
+  },
+  {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-10-10T11:20:18.740Z",
+   "from": "2026-10-10T11:35:02.305Z",
    "to": "2026-10-11T00:25:01.923Z",
    "severity": 5,
    "description": "Part Closure",
@@ -21,7 +30,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-10T11:20:18.740Z",
+   "from": "2026-10-10T11:35:02.305Z",
    "to": "2026-10-11T00:25:01.923Z",
    "severity": 5,
    "description": "Part Closure",
@@ -30,7 +39,7 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-10T11:20:18.740Z",
+   "from": "2026-10-10T11:35:02.305Z",
    "to": "2026-10-11T00:25:13.675Z",
    "severity": 5,
    "description": "Part Closure",
@@ -39,7 +48,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-10-10T11:20:18.740Z",
+   "from": "2026-10-10T11:35:02.305Z",
    "to": "2026-10-10T14:50:33.263Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -48,7 +57,7 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-10-10T11:20:18.740Z",
+   "from": "2026-10-10T11:35:02.305Z",
    "to": "2026-10-10T20:15:49.131Z",
    "severity": 7,
    "description": "Reduced Service",
@@ -57,7 +66,7 @@
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-10-10T11:20:18.740Z",
+   "from": "2026-10-10T11:35:02.305Z",
    "to": "2026-10-10T12:06:49.771Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -66,7 +75,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-10-10T11:20:18.740Z",
+   "from": "2026-10-10T11:35:02.305Z",
    "to": "2026-10-10T11:55:02.217Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -75,20 +84,11 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-10-10T11:20:18.740Z",
+   "from": "2026-10-10T11:35:02.305Z",
    "to": "2026-10-11T00:16:35.220Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-10T11:30:11.231Z",
-   "to": "2026-10-10T12:06:49.771Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway due to train cancellations. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "victoria",
@@ -911605,7 +911605,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-09T04:20:04.029Z",
-   "to": "2026-11-09T11:20:04.174Z",
+   "to": "2026-11-09T11:35:00.855Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -916330,7 +916330,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-11-09T09:40:04.274Z",
-   "to": "2026-11-09T11:20:04.174Z",
+   "to": "2026-11-09T11:35:00.855Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Minor delays between Ilford and Shenfield while we fix a signal system failure in the Gidea Park area. GOOD SERVICE on the rest of line.  "
@@ -916717,7 +916717,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-09T09:55:00.562Z",
-   "to": "2026-11-09T11:20:04.174Z",
+   "to": "2026-11-09T11:30:32.918Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Metropolitan Line: Severe delays due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink.  "
@@ -916726,7 +916726,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-09T10:05:00.578Z",
-   "to": "2026-11-09T11:20:04.174Z",
+   "to": "2026-11-09T11:35:00.855Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Waterloo and City Line: Minor delays due to train cancellations "
@@ -916744,7 +916744,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-09T10:30:04.283Z",
-   "to": "2026-11-09T11:20:04.174Z",
+   "to": "2026-11-09T11:35:00.855Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between, Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -916753,7 +916753,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-09T10:35:00.712Z",
-   "to": "2026-11-09T11:20:04.174Z",
+   "to": "2026-11-09T11:35:00.855Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays between Camden Town and Battersea Power Station via Charing Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line. "
@@ -916762,7 +916762,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-09T11:00:04.052Z",
-   "to": "2026-11-09T11:20:04.174Z",
+   "to": "2026-11-09T11:35:00.855Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Bakerloo Line: Severe delays while we fix a signal failure at Baker Street.  "
@@ -917162,6 +917162,384 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:20:23.836Z",
+   "to": "2026-11-09T11:20:23.836Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:20:23.836Z",
+   "to": "2026-11-09T11:20:23.836Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:20:30.491Z",
+   "to": "2026-11-09T11:20:30.491Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:20:30.491Z",
+   "to": "2026-11-09T11:20:30.491Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:20:57.590Z",
+   "to": "2026-11-09T11:20:57.590Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:20:57.590Z",
+   "to": "2026-11-09T11:20:57.590Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:20:57.965Z",
+   "to": "2026-11-09T11:20:57.965Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:20:57.965Z",
+   "to": "2026-11-09T11:20:57.965Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:20:58.396Z",
+   "to": "2026-11-09T11:20:58.396Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:20:58.396Z",
+   "to": "2026-11-09T11:20:58.396Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:20:59.415Z",
+   "to": "2026-11-09T11:20:59.415Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:20:59.415Z",
+   "to": "2026-11-09T11:20:59.415Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:25:00.828Z",
+   "to": "2026-11-09T11:25:00.828Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:25:00.828Z",
+   "to": "2026-11-09T11:25:00.828Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:25:01.875Z",
+   "to": "2026-11-09T11:25:01.875Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:25:01.875Z",
+   "to": "2026-11-09T11:25:01.875Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:25:02.246Z",
+   "to": "2026-11-09T11:25:02.246Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:25:02.246Z",
+   "to": "2026-11-09T11:25:02.246Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:25:02.759Z",
+   "to": "2026-11-09T11:25:02.759Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:25:02.759Z",
+   "to": "2026-11-09T11:25:02.759Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:26:19.387Z",
+   "to": "2026-11-09T11:26:19.387Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:26:19.387Z",
+   "to": "2026-11-09T11:26:19.387Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:26:21.782Z",
+   "to": "2026-11-09T11:26:21.782Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:26:21.782Z",
+   "to": "2026-11-09T11:26:21.782Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:26:28.976Z",
+   "to": "2026-11-09T11:26:28.976Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:26:28.976Z",
+   "to": "2026-11-09T11:26:28.976Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:30:04.325Z",
+   "to": "2026-11-09T11:30:04.325Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:30:04.325Z",
+   "to": "2026-11-09T11:30:04.325Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:30:06.508Z",
+   "to": "2026-11-09T11:30:06.508Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:30:06.508Z",
+   "to": "2026-11-09T11:30:06.508Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:30:17.524Z",
+   "to": "2026-11-09T11:30:17.524Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:30:17.524Z",
+   "to": "2026-11-09T11:30:17.524Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:30:31.584Z",
+   "to": "2026-11-09T11:30:31.584Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:30:31.584Z",
+   "to": "2026-11-09T11:30:31.584Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:30:32.012Z",
+   "to": "2026-11-09T11:30:32.012Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:30:32.012Z",
+   "to": "2026-11-09T11:30:32.012Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:30:32.403Z",
+   "to": "2026-11-09T11:30:32.403Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:30:32.403Z",
+   "to": "2026-11-09T11:30:32.403Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:30:32.918Z",
+   "to": "2026-11-09T11:30:32.918Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-09T11:30:32.918Z",
+   "to": "2026-11-09T11:30:32.918Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Edgware Road due to an earlier points failure in the High Street Kensington area. MINOR DELAYS on the rest of the line  due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T11:35:00.855Z",
+   "to": "2026-11-09T11:35:00.855Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Aldgate and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-09T11:35:00.855Z",
+   "to": "2026-11-09T11:35:00.855Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Severe delays between Aldgate and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.  "
   }
  ]
 }
