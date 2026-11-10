@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-10T07:35:20.306Z",
- "sinceISO": "2026-10-11T07:35:12.538Z",
+ "generatedAt": "2026-11-10T07:50:11.399Z",
+ "sinceISO": "2026-10-11T07:50:01.064Z",
  "coverage": [
   {
-   "from": "2026-10-11T07:35:15.551Z",
-   "to": "2026-11-10T07:35:12.291Z",
-   "polls": 60399
+   "from": "2026-10-11T07:50:10.050Z",
+   "to": "2026-11-10T07:50:00.773Z",
+   "polls": 60402
   }
  ],
  "spans": [
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-10-11T07:35:15.551Z",
+   "from": "2026-10-11T07:50:10.050Z",
    "to": "2026-10-11T23:50:05.935Z",
    "severity": 5,
    "description": "Part Closure",
@@ -21,7 +21,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-11T07:35:15.551Z",
+   "from": "2026-10-11T07:50:10.050Z",
    "to": "2026-10-11T23:50:05.935Z",
    "severity": 5,
    "description": "Part Closure",
@@ -30,16 +30,25 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-11T07:35:15.551Z",
+   "from": "2026-10-11T07:50:10.050Z",
    "to": "2026-10-11T23:50:05.935Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 October, no service between Stratford International and Woolwich Arsenal. Please use local London Buses, London Underground and Elizabeth line services (for Woolwich) as no replacement bus services will operate."
   },
   {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-11T07:50:10.050Z",
+   "to": "2026-10-11T07:55:46.290Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Minor delays between Paddington and Heathrow Terminals / Reading while we fix a signal system failure. No service between West Drayton and Slough due to planned engineering work. GOOD SERVICE on the rest of the line.\r\n "
+  },
+  {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-11T07:35:15.551Z",
+   "from": "2026-10-11T07:50:10.050Z",
    "to": "2026-10-11T07:51:42.278Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -48,7 +57,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-10-11T07:35:15.551Z",
+   "from": "2026-10-11T07:50:10.050Z",
    "to": "2026-10-11T21:35:03.575Z",
    "severity": 7,
    "description": "Reduced Service",
@@ -57,7 +66,7 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-10-11T07:35:15.551Z",
+   "from": "2026-10-11T07:50:10.050Z",
    "to": "2026-10-11T07:55:46.290Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -66,7 +75,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-10-11T07:35:15.551Z",
+   "from": "2026-10-11T07:50:10.050Z",
    "to": "2026-10-11T16:40:38.535Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -75,7 +84,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-10-11T07:35:15.551Z",
+   "from": "2026-10-11T07:50:10.050Z",
    "to": "2026-10-11T23:45:11.638Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -84,7 +93,7 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-10-11T07:35:15.551Z",
+   "from": "2026-10-11T07:50:10.050Z",
    "to": "2026-10-11T09:15:47.878Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -93,20 +102,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-10-11T07:35:15.551Z",
+   "from": "2026-10-11T07:50:10.050Z",
    "to": "2026-10-11T18:40:05.939Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Sunday 11 October, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN services to/from Clapham Junction."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-11T07:36:07.067Z",
-   "to": "2026-10-11T07:55:46.290Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Minor delays between Paddington and Heathrow Terminals / Reading while we fix a signal system failure. No service between West Drayton and Slough due to planned engineering work. GOOD SERVICE on the rest of the line.\r\n "
   },
   {
    "line": "suffragette",
@@ -909733,7 +909733,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-10T04:35:12.635Z",
-   "to": "2026-11-10T07:35:12.291Z",
+   "to": "2026-11-10T07:50:00.773Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -909805,7 +909805,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-11-10T06:35:12.222Z",
-   "to": "2026-11-10T07:35:12.291Z",
+   "to": "2026-11-10T07:50:00.773Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
@@ -910165,10 +910165,379 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-10T07:35:12.291Z",
-   "to": "2026-11-10T07:35:12.291Z",
+   "to": "2026-11-10T07:50:00.773Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to an earlier points failure at Kennington. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:35:29.416Z",
+   "to": "2026-11-10T07:35:29.416Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:35:29.416Z",
+   "to": "2026-11-10T07:35:29.416Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:35:36.974Z",
+   "to": "2026-11-10T07:35:36.974Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:35:36.974Z",
+   "to": "2026-11-10T07:35:36.974Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:35:39.385Z",
+   "to": "2026-11-10T07:35:39.385Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:35:39.385Z",
+   "to": "2026-11-10T07:35:39.385Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:35:46.502Z",
+   "to": "2026-11-10T07:35:46.502Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:35:46.502Z",
+   "to": "2026-11-10T07:35:46.502Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:35:47.131Z",
+   "to": "2026-11-10T07:35:47.131Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:35:47.131Z",
+   "to": "2026-11-10T07:35:47.131Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:35:47.508Z",
+   "to": "2026-11-10T07:35:47.508Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:35:47.508Z",
+   "to": "2026-11-10T07:35:47.508Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:40:01.185Z",
+   "to": "2026-11-10T07:40:01.185Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:40:01.185Z",
+   "to": "2026-11-10T07:40:01.185Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:40:03.804Z",
+   "to": "2026-11-10T07:40:03.804Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:40:03.804Z",
+   "to": "2026-11-10T07:40:03.804Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:40:11.869Z",
+   "to": "2026-11-10T07:40:11.869Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:40:11.869Z",
+   "to": "2026-11-10T07:40:11.869Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:40:12.226Z",
+   "to": "2026-11-10T07:40:12.226Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:40:12.226Z",
+   "to": "2026-11-10T07:40:12.226Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:40:12.601Z",
+   "to": "2026-11-10T07:40:12.601Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:40:12.601Z",
+   "to": "2026-11-10T07:40:12.601Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:41:08.206Z",
+   "to": "2026-11-10T07:41:08.206Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:41:08.206Z",
+   "to": "2026-11-10T07:41:08.206Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:41:13.411Z",
+   "to": "2026-11-10T07:41:13.411Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:41:13.411Z",
+   "to": "2026-11-10T07:41:13.411Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:45:14.575Z",
+   "to": "2026-11-10T07:45:14.575Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:45:14.575Z",
+   "to": "2026-11-10T07:45:14.575Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:45:17.318Z",
+   "to": "2026-11-10T07:45:17.318Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:45:17.318Z",
+   "to": "2026-11-10T07:45:17.318Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:46:16.652Z",
+   "to": "2026-11-10T07:46:16.652Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:46:16.652Z",
+   "to": "2026-11-10T07:46:16.652Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:46:19.148Z",
+   "to": "2026-11-10T07:46:19.148Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:46:19.148Z",
+   "to": "2026-11-10T07:46:19.148Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:46:26.094Z",
+   "to": "2026-11-10T07:46:26.094Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:46:26.094Z",
+   "to": "2026-11-10T07:46:26.094Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:46:27.222Z",
+   "to": "2026-11-10T07:46:27.222Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:46:27.222Z",
+   "to": "2026-11-10T07:46:27.222Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:46:28.226Z",
+   "to": "2026-11-10T07:46:28.226Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:46:28.226Z",
+   "to": "2026-11-10T07:46:28.226Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Tower Hill and Earl's Court westbound only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Becontree. Tickets are being accepted by London Buses.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-10T07:50:00.773Z",
+   "to": "2026-11-10T07:50:00.773Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Minor delays due to train cancellations. "
   }
  ]
 }
