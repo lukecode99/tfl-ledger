@@ -1,18 +1,27 @@
 {
- "generatedAt": "2026-11-10T21:05:19.201Z",
- "sinceISO": "2026-10-11T21:05:12.831Z",
+ "generatedAt": "2026-11-10T21:45:22.164Z",
+ "sinceISO": "2026-10-11T21:45:12.583Z",
  "coverage": [
   {
-   "from": "2026-10-11T21:05:18.121Z",
-   "to": "2026-11-10T21:05:12.553Z",
+   "from": "2026-10-11T21:45:16.197Z",
+   "to": "2026-11-10T21:45:12.333Z",
    "polls": 60401
   }
  ],
  "spans": [
   {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-11T21:45:16.197Z",
+   "to": "2026-10-11T23:46:23.517Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses. "
+  },
+  {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-11T21:05:18.121Z",
+   "from": "2026-10-11T21:45:16.197Z",
    "to": "2026-10-11T23:46:23.517Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,7 +30,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-10-11T21:05:18.121Z",
+   "from": "2026-10-11T21:45:16.197Z",
    "to": "2026-10-11T23:50:05.935Z",
    "severity": 5,
    "description": "Part Closure",
@@ -30,7 +39,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-11T21:05:18.121Z",
+   "from": "2026-10-11T21:45:16.197Z",
    "to": "2026-10-11T23:50:05.935Z",
    "severity": 5,
    "description": "Part Closure",
@@ -39,286 +48,16 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-11T21:05:18.121Z",
+   "from": "2026-10-11T21:45:16.197Z",
    "to": "2026-10-11T23:50:05.935Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 October, no service between Stratford International and Woolwich Arsenal. Please use local London Buses, London Underground and Elizabeth line services (for Woolwich) as no replacement bus services will operate."
   },
   {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:05:18.121Z",
-   "to": "2026-10-11T21:35:03.575Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-11T21:05:18.121Z",
-   "to": "2026-10-11T22:00:07.095Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "SUFFRAGETTE LINE: Sunday 11 October, between 0845 and 2300, no service between Barking and Barking Riverside, please use local London Buses services."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-11T21:05:18.121Z",
-   "to": "2026-10-11T23:45:11.638Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-11T21:05:18.121Z",
-   "to": "2026-10-11T23:50:05.935Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 11 October, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN services to/from Clapham Junction."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:35:03.575Z",
-   "to": "2026-10-11T21:35:03.575Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:35:16.524Z",
-   "to": "2026-10-11T21:35:16.524Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:35:16.524Z",
-   "to": "2026-10-11T21:35:16.524Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:35:16.855Z",
-   "to": "2026-10-11T21:35:16.855Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:35:16.855Z",
-   "to": "2026-10-11T21:35:16.855Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:35:23.640Z",
-   "to": "2026-10-11T21:36:40.109Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:36:40.109Z",
-   "to": "2026-10-11T21:36:40.109Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-10-11T21:36:49.482Z",
-   "to": "2026-10-11T23:46:23.517Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Bakerloo Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:36:49.482Z",
-   "to": "2026-10-11T21:36:49.482Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:36:49.482Z",
-   "to": "2026-10-11T21:36:49.482Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:37:02.390Z",
-   "to": "2026-10-11T21:37:02.390Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:37:02.390Z",
-   "to": "2026-10-11T21:37:02.390Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:40:05.820Z",
-   "to": "2026-10-11T21:40:05.820Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:40:05.820Z",
-   "to": "2026-10-11T21:40:05.820Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:40:15.337Z",
-   "to": "2026-10-11T21:40:15.337Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:40:15.337Z",
-   "to": "2026-10-11T21:40:15.337Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:40:19.505Z",
-   "to": "2026-10-11T21:40:19.505Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:40:19.505Z",
-   "to": "2026-10-11T21:40:19.505Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:40:43.088Z",
-   "to": "2026-10-11T21:40:43.088Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:40:43.088Z",
-   "to": "2026-10-11T21:40:43.088Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:40:46.767Z",
-   "to": "2026-10-11T21:40:46.767Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:40:46.767Z",
-   "to": "2026-10-11T21:40:46.767Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:40:47.102Z",
-   "to": "2026-10-11T21:40:47.102Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:40:47.102Z",
-   "to": "2026-10-11T21:40:47.102Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:40:52.405Z",
-   "to": "2026-10-11T21:40:52.405Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:40:52.405Z",
-   "to": "2026-10-11T21:40:52.405Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
-  },
-  {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-10-11T21:45:03.576Z",
+   "from": "2026-10-11T21:45:16.197Z",
    "to": "2026-10-11T23:30:50.509Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -327,24 +66,6 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-10-11T21:45:03.576Z",
-   "to": "2026-10-11T21:45:03.576Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-11T21:45:03.576Z",
-   "to": "2026-10-11T21:45:03.576Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
    "from": "2026-10-11T21:45:16.197Z",
    "to": "2026-10-11T21:45:16.197Z",
    "severity": 7,
@@ -359,6 +80,33 @@
    "severity": 7,
    "description": "Reduced Service",
    "reason": "MILDMAY LINE: Sunday 11 October, the 2201 train from Stratford to Richmond will terminate at Willesden Junction at 2241"
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-11T21:45:16.197Z",
+   "to": "2026-10-11T22:00:07.095Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 11 October, between 0845 and 2300, no service between Barking and Barking Riverside, please use local London Buses services."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-11T21:45:16.197Z",
+   "to": "2026-10-11T23:45:11.638Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-10-11T21:45:16.197Z",
+   "to": "2026-10-11T23:50:05.935Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: Sunday 11 October, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN services to/from Clapham Junction."
   },
   {
    "line": "mildmay",
@@ -903802,7 +903550,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-10T04:35:12.635Z",
-   "to": "2026-11-10T21:05:12.553Z",
+   "to": "2026-11-10T21:45:12.333Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
@@ -906124,7 +905872,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-10T16:06:34.654Z",
-   "to": "2026-11-10T21:05:12.553Z",
+   "to": "2026-11-10T21:45:12.333Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
@@ -912109,7 +911857,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-11-10T18:51:45.855Z",
-   "to": "2026-11-10T21:05:12.553Z",
+   "to": "2026-11-10T21:45:12.333Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to a track fault at Brixton. Tickets are being accepted on London Buses, London Overground, Great Northern Railway, Thameslink, Greater Anglia, South Western Railway and Southeastern Railway services. "
@@ -917059,7 +916807,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-10T20:40:48.734Z",
-   "to": "2026-11-10T21:05:12.553Z",
+   "to": "2026-11-10T21:45:12.333Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to train cancellations. "
@@ -917500,7 +917248,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-10T20:56:42.566Z",
-   "to": "2026-11-10T21:05:12.553Z",
+   "to": "2026-11-10T21:41:16.965Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Turnham Green and Richmond due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -917653,7 +917401,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-11-10T21:05:12.553Z",
-   "to": "2026-11-10T21:05:12.553Z",
+   "to": "2026-11-10T21:45:12.333Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Mildmay Line: Minor delays due to an earlier signal failure at Shepherd's Bush.  "
