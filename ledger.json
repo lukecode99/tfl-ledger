@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-11T13:00:19.726Z",
- "sinceISO": "2026-10-12T13:00:08.171Z",
+ "generatedAt": "2026-11-11T13:05:21.115Z",
+ "sinceISO": "2026-10-12T13:05:13.549Z",
  "coverage": [
   {
-   "from": "2026-10-12T13:00:12.216Z",
-   "to": "2026-11-11T13:00:06.830Z",
-   "polls": 60401
+   "from": "2026-10-12T13:05:14.022Z",
+   "to": "2026-11-11T13:05:13.260Z",
+   "polls": 60399
   }
  ],
  "spans": [
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-12T13:00:12.216Z",
+   "from": "2026-10-12T13:05:14.022Z",
    "to": "2026-10-12T13:10:15.920Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -21,7 +21,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-10-12T13:00:12.216Z",
+   "from": "2026-10-12T13:05:14.022Z",
    "to": "2026-10-12T13:30:59.752Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -908338,7 +908338,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-11T07:55:13.355Z",
-   "to": "2026-11-11T13:00:06.830Z",
+   "to": "2026-11-11T13:05:13.260Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
@@ -908707,7 +908707,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-11T08:10:06.284Z",
-   "to": "2026-11-11T13:00:06.830Z",
+   "to": "2026-11-11T13:05:13.260Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between Leytonstone and Epping / Hainault via Newbury Park and between North Acton and Ealing Broadway / West Ruislip due to train cancellations. GOOD SERVICE on the rest of the line.  "
@@ -912568,7 +912568,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-11T10:00:05.762Z",
-   "to": "2026-11-11T13:00:06.830Z",
+   "to": "2026-11-11T13:00:57.472Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Jubilee Line: Severe delays due to an earlier faulty train at Westminster. Tickets will be accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C, Southeastern, Thameslink via any reasonable route.   "
@@ -915061,7 +915061,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-11T12:45:12.981Z",
-   "to": "2026-11-11T13:00:06.830Z",
+   "to": "2026-11-11T13:05:13.260Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Suffragette Line: No service due to a vehicle hitting a bridge in the Harringay area. "
@@ -915430,10 +915430,19 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-11T13:00:06.830Z",
-   "to": "2026-11-11T13:00:06.830Z",
+   "to": "2026-11-11T13:05:13.260Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-11-11T13:05:13.260Z",
+   "to": "2026-11-11T13:05:13.260Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Minor delays due to an earlier faulty train at Westminster.  "
   }
  ]
 }
