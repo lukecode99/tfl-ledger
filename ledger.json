@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-11T06:00:16.470Z",
- "sinceISO": "2026-10-12T06:00:06.693Z",
+ "generatedAt": "2026-11-11T06:00:33.750Z",
+ "sinceISO": "2026-10-12T06:00:25.079Z",
  "coverage": [
   {
-   "from": "2026-10-12T06:00:09.333Z",
-   "to": "2026-11-11T06:00:06.434Z",
-   "polls": 60402
+   "from": "2026-10-12T06:01:11.447Z",
+   "to": "2026-11-11T06:00:24.709Z",
+   "polls": 60400
   }
  ],
  "spans": [
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-12T06:00:09.333Z",
+   "from": "2026-10-12T06:01:11.447Z",
    "to": "2026-10-12T06:20:49.975Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -908950,7 +908950,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-11T00:35:12.080Z",
-   "to": "2026-11-11T06:00:06.434Z",
+   "to": "2026-11-11T06:00:24.709Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00. "
@@ -910961,6 +910961,42 @@
    "severity": 2,
    "description": "Suspended",
    "reason": "Suffragette Line: No service due to late finish of engineering work.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-11T06:00:24.709Z",
+   "to": "2026-11-11T06:00:24.709Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Ealing Broadway and Earl's Court eastbound only, and MINOR DELAYS on the rest of the line due to train cancellations. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-11T06:00:24.709Z",
+   "to": "2026-11-11T06:00:24.709Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Ealing Broadway and Earl's Court eastbound only, and MINOR DELAYS on the rest of the line due to train cancellations. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-11T06:00:24.709Z",
+   "to": "2026-11-11T06:00:24.709Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Baker Street and Wembley Park northbound only due to train cancellations. London Buses are accepting tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-11T06:00:24.709Z",
+   "to": "2026-11-11T06:00:24.709Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Suffragette Line: No service due to a late finish of engineering work.  "
   }
  ]
 }
