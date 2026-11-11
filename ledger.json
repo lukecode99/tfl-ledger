@@ -1,27 +1,36 @@
 {
- "generatedAt": "2026-11-11T20:35:23.399Z",
- "sinceISO": "2026-10-12T20:35:14.919Z",
+ "generatedAt": "2026-11-11T20:55:23.261Z",
+ "sinceISO": "2026-10-12T20:55:13.288Z",
  "coverage": [
   {
-   "from": "2026-10-12T20:35:42.787Z",
-   "to": "2026-11-11T20:35:13.884Z",
-   "polls": 60398
+   "from": "2026-10-12T20:55:14.377Z",
+   "to": "2026-11-11T20:55:12.997Z",
+   "polls": 60399
   }
  ],
  "spans": [
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-10-12T20:35:42.787Z",
+   "from": "2026-10-12T20:55:14.377Z",
    "to": "2026-10-13T00:10:53.211Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
   },
   {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-12T20:55:14.377Z",
+   "to": "2026-10-12T22:55:40.068Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Monday 12 October, the 2148 train from Richmond to Stratford will terminate at Willesden Junction at 2206. The 2300 train from Stratford to Richmond will not run"
+  },
+  {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-10-12T20:35:42.787Z",
+   "from": "2026-10-12T20:55:14.377Z",
    "to": "2026-10-12T21:26:14.837Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -30,20 +39,11 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-10-12T20:35:42.787Z",
+   "from": "2026-10-12T20:55:14.377Z",
    "to": "2026-10-12T21:35:29.460Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-12T20:46:00.907Z",
-   "to": "2026-10-12T22:55:40.068Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Monday 12 October, the 2148 train from Richmond to Stratford will terminate at Willesden Junction at 2206. The 2300 train from Stratford to Richmond will not run"
   },
   {
    "line": "elizabeth",
@@ -915385,7 +915385,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-11T15:56:39.813Z",
-   "to": "2026-11-11T20:35:13.884Z",
+   "to": "2026-11-11T20:55:12.997Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -916915,7 +916915,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-11-11T18:25:12.364Z",
-   "to": "2026-11-11T20:35:13.884Z",
+   "to": "2026-11-11T20:55:12.997Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a points failure at West Croydon. GOOD SERVICE on the rest of the line. "
@@ -920686,7 +920686,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-11-11T19:40:06.576Z",
-   "to": "2026-11-11T20:35:13.884Z",
+   "to": "2026-11-11T20:55:12.997Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays clockwise due to an earlier faulty train at Gloucester Road. GOOD SERVICE anticlockwise.  "
@@ -920695,7 +920695,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-11T19:40:06.576Z",
-   "to": "2026-11-11T20:35:13.884Z",
+   "to": "2026-11-11T20:55:12.997Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays while we fix a signal failure at Stamford Brook and due to train cancellations. Tickets are being accepted London Buses, Mildmay line, Elizabeth line and South Western Railway via any reasonable route. "
@@ -922117,10 +922117,505 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-11T20:35:13.884Z",
-   "to": "2026-11-11T20:35:13.884Z",
+   "to": "2026-11-11T20:55:12.997Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a points failure at Chalfont & Latimer. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:35:33.082Z",
+   "to": "2026-11-11T20:35:33.082Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:35:33.082Z",
+   "to": "2026-11-11T20:35:33.082Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:35:54.430Z",
+   "to": "2026-11-11T20:35:54.430Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:35:54.430Z",
+   "to": "2026-11-11T20:35:54.430Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:35:54.910Z",
+   "to": "2026-11-11T20:35:54.910Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:35:54.910Z",
+   "to": "2026-11-11T20:35:54.910Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:35:55.352Z",
+   "to": "2026-11-11T20:35:55.352Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:35:55.352Z",
+   "to": "2026-11-11T20:35:55.352Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:35:55.760Z",
+   "to": "2026-11-11T20:35:55.760Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:35:55.760Z",
+   "to": "2026-11-11T20:35:55.760Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:35:58.105Z",
+   "to": "2026-11-11T20:35:58.105Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:35:58.105Z",
+   "to": "2026-11-11T20:35:58.105Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:40:06.577Z",
+   "to": "2026-11-11T20:40:06.577Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:40:06.577Z",
+   "to": "2026-11-11T20:40:06.577Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:40:07.013Z",
+   "to": "2026-11-11T20:40:07.013Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:40:07.013Z",
+   "to": "2026-11-11T20:40:07.013Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:40:07.548Z",
+   "to": "2026-11-11T20:40:07.548Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:40:07.548Z",
+   "to": "2026-11-11T20:40:07.548Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:40:08.087Z",
+   "to": "2026-11-11T20:40:08.087Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:40:08.087Z",
+   "to": "2026-11-11T20:40:08.087Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:40:12.056Z",
+   "to": "2026-11-11T20:40:12.056Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:40:12.056Z",
+   "to": "2026-11-11T20:40:12.056Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:41:23.628Z",
+   "to": "2026-11-11T20:41:23.628Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:41:23.628Z",
+   "to": "2026-11-11T20:41:23.628Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:41:25.909Z",
+   "to": "2026-11-11T20:41:25.909Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:41:25.909Z",
+   "to": "2026-11-11T20:41:25.909Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:45:13.011Z",
+   "to": "2026-11-11T20:45:13.011Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:45:13.011Z",
+   "to": "2026-11-11T20:45:13.011Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:45:15.142Z",
+   "to": "2026-11-11T20:45:15.142Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:45:15.142Z",
+   "to": "2026-11-11T20:45:15.142Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:45:33.200Z",
+   "to": "2026-11-11T20:45:33.200Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:45:33.200Z",
+   "to": "2026-11-11T20:45:33.200Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:45:33.918Z",
+   "to": "2026-11-11T20:45:33.918Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:45:33.918Z",
+   "to": "2026-11-11T20:45:33.918Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:45:34.308Z",
+   "to": "2026-11-11T20:45:34.308Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:45:34.308Z",
+   "to": "2026-11-11T20:45:34.308Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:45:34.724Z",
+   "to": "2026-11-11T20:45:34.724Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:45:34.724Z",
+   "to": "2026-11-11T20:45:34.724Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:45:36.855Z",
+   "to": "2026-11-11T20:45:36.855Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:45:36.855Z",
+   "to": "2026-11-11T20:45:36.855Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:50:06.132Z",
+   "to": "2026-11-11T20:50:06.132Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:50:06.132Z",
+   "to": "2026-11-11T20:50:06.132Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:50:06.530Z",
+   "to": "2026-11-11T20:50:06.530Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:50:06.530Z",
+   "to": "2026-11-11T20:50:06.530Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:50:06.962Z",
+   "to": "2026-11-11T20:50:06.962Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:50:06.962Z",
+   "to": "2026-11-11T20:50:06.962Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:50:07.359Z",
+   "to": "2026-11-11T20:50:07.359Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:50:07.359Z",
+   "to": "2026-11-11T20:50:07.359Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:50:09.362Z",
+   "to": "2026-11-11T20:50:09.362Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:50:09.362Z",
+   "to": "2026-11-11T20:50:09.362Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:51:00.926Z",
+   "to": "2026-11-11T20:51:00.926Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:51:00.926Z",
+   "to": "2026-11-11T20:51:00.926Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:51:04.373Z",
+   "to": "2026-11-11T20:51:04.373Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:51:04.373Z",
+   "to": "2026-11-11T20:51:04.373Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Docklands Light Railway: No service between Gallions Reach and Beckton, and MINOR DELAYS between Tower Gateway and Gallions Reach while we fix a faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-11-11T20:55:12.997Z",
+   "to": "2026-11-11T20:55:12.997Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: Minor delays between Beckton and Tower Gateway due to an earlier faulty train at Beckton. GOOD SERVICE on other DLR routes.  "
   }
  ]
 }
