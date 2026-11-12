@@ -1,45 +1,27 @@
 {
- "generatedAt": "2026-11-12T05:21:25.938Z",
- "sinceISO": "2026-10-13T05:21:16.749Z",
+ "generatedAt": "2026-11-12T05:45:55.211Z",
+ "sinceISO": "2026-10-13T05:45:44.857Z",
  "coverage": [
   {
-   "from": "2026-10-13T05:21:17.479Z",
-   "to": "2026-11-12T05:21:16.483Z",
-   "polls": 60403
+   "from": "2026-10-13T05:46:01.032Z",
+   "to": "2026-11-12T05:45:44.594Z",
+   "polls": 60401
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-13T05:21:17.479Z",
+   "from": "2026-10-13T05:46:01.032Z",
    "to": "2026-10-13T07:05:47.677Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
   },
   {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-13T05:21:17.479Z",
-   "to": "2026-10-13T05:30:41.664Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. After the 06:11 departure from Watford, the next departure will be at 06:28. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-13T05:21:17.479Z",
-   "to": "2026-10-13T05:40:14.382Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: Monday 12 and Tuesday 13 October, the 0558 first train from Richmond to Stratford will start from Camden Road at 0636. Customers from Richmond should use the next train at 0608."
-  },
-  {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-10-13T05:21:17.479Z",
+   "from": "2026-10-13T05:46:01.032Z",
    "to": "2026-10-13T09:20:36.172Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -922018,7 +922000,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-12T00:30:06.409Z",
-   "to": "2026-11-12T05:21:16.483Z",
+   "to": "2026-11-12T05:45:44.594Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
@@ -922513,10 +922495,19 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-12T05:21:16.483Z",
-   "to": "2026-11-12T05:21:16.483Z",
+   "to": "2026-11-12T05:45:44.594Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-12T05:45:44.594Z",
+   "to": "2026-11-12T05:45:44.594Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Battersea Power Station and Kennington due to an earlier faulty train at Nine Elms. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
