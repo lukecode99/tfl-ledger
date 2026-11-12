@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-12T18:55:17.503Z",
- "sinceISO": "2026-10-13T18:55:07.384Z",
+ "generatedAt": "2026-11-12T18:55:38.387Z",
+ "sinceISO": "2026-10-13T18:55:29.783Z",
  "coverage": [
   {
-   "from": "2026-10-13T18:55:07.536Z",
-   "to": "2026-11-12T18:55:04.544Z",
-   "polls": 60401
+   "from": "2026-10-13T18:55:57.704Z",
+   "to": "2026-11-12T18:55:29.185Z",
+   "polls": 60400
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-13T18:55:07.536Z",
+   "from": "2026-10-13T18:55:57.704Z",
    "to": "2026-10-13T20:00:49.960Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,7 +21,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-13T18:55:07.536Z",
+   "from": "2026-10-13T18:55:57.704Z",
    "to": "2026-10-13T20:11:15.273Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -30,7 +30,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-10-13T18:55:07.536Z",
+   "from": "2026-10-13T18:55:57.704Z",
    "to": "2026-10-13T19:31:14.887Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -915124,7 +915124,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-12T14:30:00.766Z",
-   "to": "2026-11-12T18:55:04.544Z",
+   "to": "2026-11-12T18:55:29.185Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -917491,7 +917491,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-12T17:35:08.212Z",
-   "to": "2026-11-12T18:55:04.544Z",
+   "to": "2026-11-12T18:55:29.185Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays due to an earlier points failure at Mornington Crescent. Tickets are  being accepted by London Buses, London Trams, Southeastern, Thameslink and South Western Railway services via any reasonable route. "
@@ -917761,7 +917761,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-11-12T17:56:54.677Z",
-   "to": "2026-11-12T18:55:04.544Z",
+   "to": "2026-11-12T18:55:27.077Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays between Acton Town and Rayners Lane due to an customer incident at North Ealing. GOOD SERVICE on the rest of the line. "
@@ -917770,7 +917770,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-12T18:41:53.385Z",
-   "to": "2026-11-12T18:55:04.544Z",
+   "to": "2026-11-12T18:55:29.185Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Wimbledon/ Ealing Broadway due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -917779,10 +917779,19 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-12T18:55:04.544Z",
-   "to": "2026-11-12T18:55:04.544Z",
+   "to": "2026-11-12T18:55:27.077Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Jubilee Line: No service while we fix a signalling problem. "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-11-12T18:55:29.185Z",
+   "to": "2026-11-12T18:55:29.185Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Jubilee Line: No service while we fix a signal system failure. "
   }
  ]
 }
