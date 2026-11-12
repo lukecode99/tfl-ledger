@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-12T16:35:15.320Z",
- "sinceISO": "2026-10-13T16:35:08.590Z",
+ "generatedAt": "2026-11-12T17:10:09.886Z",
+ "sinceISO": "2026-10-13T17:10:01.187Z",
  "coverage": [
   {
-   "from": "2026-10-13T16:35:08.932Z",
-   "to": "2026-11-12T16:35:08.304Z",
-   "polls": 60401
+   "from": "2026-10-13T17:10:06.173Z",
+   "to": "2026-11-12T17:10:00.920Z",
+   "polls": 60402
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-13T16:35:08.932Z",
+   "from": "2026-10-13T17:10:06.173Z",
    "to": "2026-10-13T20:00:49.960Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,7 +21,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-13T16:35:08.932Z",
+   "from": "2026-10-13T17:10:06.173Z",
    "to": "2026-10-13T20:11:15.273Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -915925,7 +915925,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-12T14:30:00.766Z",
-   "to": "2026-11-12T16:35:08.304Z",
+   "to": "2026-11-12T17:10:00.920Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -917644,10 +917644,28 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-12T16:35:08.304Z",
-   "to": "2026-11-12T16:35:08.304Z",
+   "to": "2026-11-12T17:05:53.450Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays due to an earlier points failure at Mornington Crescent. Tickets being accepted by London Buses, London Trams, Southeastern, Thameslink and South Western Railway services via any reasonable route. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-12T17:10:00.920Z",
+   "to": "2026-11-12T17:10:00.920Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: No service between Camden Town and Charing Cross while we fix a points failure at Mornington Crescent. SEVERE DELAYS on the rest of the line. Tickets being accepted by London Buses, London Trams, Southeastern, Thameslink and South Western Railway services via any reasonable route. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-12T17:10:00.920Z",
+   "to": "2026-11-12T17:10:00.920Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Camden Town and Charing Cross while we fix a points failure at Mornington Crescent. SEVERE DELAYS on the rest of the line. Tickets being accepted by London Buses, London Trams, Southeastern, Thameslink and South Western Railway services via any reasonable route. "
   }
  ]
 }
