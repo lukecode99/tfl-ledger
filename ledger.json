@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-12T22:30:09.140Z",
- "sinceISO": "2026-10-13T22:30:02.851Z",
+ "generatedAt": "2026-11-12T22:45:59.584Z",
+ "sinceISO": "2026-10-13T22:45:50.843Z",
  "coverage": [
   {
-   "from": "2026-10-13T22:30:07.515Z",
-   "to": "2026-11-12T22:30:02.566Z",
-   "polls": 60401
+   "from": "2026-10-13T22:50:06.101Z",
+   "to": "2026-11-12T22:45:50.229Z",
+   "polls": 60397
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-13T22:30:07.515Z",
+   "from": "2026-10-13T22:50:06.101Z",
    "to": "2026-10-14T00:20:30.148Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,7 +21,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-13T22:30:07.515Z",
+   "from": "2026-10-13T22:50:06.101Z",
    "to": "2026-10-14T00:20:30.148Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -30,7 +30,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-10-13T22:30:07.515Z",
+   "from": "2026-10-13T22:50:06.101Z",
    "to": "2026-10-14T00:20:30.148Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -39,7 +39,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-13T22:30:07.515Z",
+   "from": "2026-10-13T22:50:06.101Z",
    "to": "2026-10-14T00:20:30.148Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -48,7 +48,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-10-13T22:30:07.515Z",
+   "from": "2026-10-13T22:50:06.101Z",
    "to": "2026-10-14T00:20:30.148Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -57,7 +57,7 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-10-13T22:30:07.515Z",
+   "from": "2026-10-13T22:50:06.101Z",
    "to": "2026-10-14T00:25:09.016Z",
    "severity": 5,
    "description": "Part Closure",
@@ -916843,7 +916843,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-12T17:35:08.212Z",
-   "to": "2026-11-12T22:30:02.566Z",
+   "to": "2026-11-12T22:45:50.229Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays due to an earlier points failure at Mornington Crescent. Tickets are  being accepted by London Buses, London Trams, Southeastern, Thameslink and South Western Railway services via any reasonable route. "
@@ -917167,7 +917167,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-12T19:00:02.989Z",
-   "to": "2026-11-12T22:30:02.566Z",
+   "to": "2026-11-12T22:45:50.229Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to train cancellations.  "
@@ -917932,7 +917932,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-12T21:30:06.260Z",
-   "to": "2026-11-12T22:30:02.566Z",
+   "to": "2026-11-12T22:45:50.229Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays between Queen's park and Harrow & Wealdstone due to an earlier signal fault at South Kenton. GOOD SERVICE on the rest of the line. "
@@ -919876,7 +919876,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-11-12T22:25:11.247Z",
-   "to": "2026-11-12T22:30:02.566Z",
+   "to": "2026-11-12T22:45:50.229Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays due to train cancellations. "
@@ -920155,7 +920155,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-11-12T22:30:02.566Z",
-   "to": "2026-11-12T22:30:02.566Z",
+   "to": "2026-11-12T22:45:50.229Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Minor delays between Paddington and Heathrow Terminals/ Reading due to an earlier trespasser on the track at Hayes & Harlington. GOOD SERVICE on the rest of the line.  "
@@ -920177,6 +920177,879 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:30:23.840Z",
+   "to": "2026-11-12T22:30:23.840Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:30:23.840Z",
+   "to": "2026-11-12T22:30:23.840Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:30:23.840Z",
+   "to": "2026-11-12T22:30:23.840Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:30:23.840Z",
+   "to": "2026-11-12T22:30:23.840Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:31:58.415Z",
+   "to": "2026-11-12T22:31:58.415Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:31:58.415Z",
+   "to": "2026-11-12T22:31:58.415Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:31:58.415Z",
+   "to": "2026-11-12T22:31:58.415Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:31:58.415Z",
+   "to": "2026-11-12T22:31:58.415Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:32:00.967Z",
+   "to": "2026-11-12T22:32:00.967Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:32:00.967Z",
+   "to": "2026-11-12T22:32:00.967Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:32:00.967Z",
+   "to": "2026-11-12T22:32:00.967Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:32:00.967Z",
+   "to": "2026-11-12T22:32:00.967Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:32:03.705Z",
+   "to": "2026-11-12T22:32:03.705Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:32:03.705Z",
+   "to": "2026-11-12T22:32:03.705Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:32:03.705Z",
+   "to": "2026-11-12T22:32:03.705Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:32:03.705Z",
+   "to": "2026-11-12T22:32:03.705Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:32:06.317Z",
+   "to": "2026-11-12T22:32:06.317Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:32:06.317Z",
+   "to": "2026-11-12T22:32:06.317Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:32:06.317Z",
+   "to": "2026-11-12T22:32:06.317Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:32:06.317Z",
+   "to": "2026-11-12T22:32:06.317Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:35:04.856Z",
+   "to": "2026-11-12T22:35:04.856Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:35:04.856Z",
+   "to": "2026-11-12T22:35:04.856Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:35:04.856Z",
+   "to": "2026-11-12T22:35:04.856Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:35:04.856Z",
+   "to": "2026-11-12T22:35:04.856Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:35:05.630Z",
+   "to": "2026-11-12T22:35:05.630Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:35:05.630Z",
+   "to": "2026-11-12T22:35:05.630Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:35:05.630Z",
+   "to": "2026-11-12T22:35:05.630Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:35:05.630Z",
+   "to": "2026-11-12T22:35:05.630Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:35:07.780Z",
+   "to": "2026-11-12T22:35:07.780Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:35:07.780Z",
+   "to": "2026-11-12T22:35:07.780Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:35:07.780Z",
+   "to": "2026-11-12T22:35:07.780Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:35:07.780Z",
+   "to": "2026-11-12T22:35:07.780Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:35:09.926Z",
+   "to": "2026-11-12T22:35:09.926Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:35:09.926Z",
+   "to": "2026-11-12T22:35:09.926Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:35:09.926Z",
+   "to": "2026-11-12T22:35:09.926Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:35:09.926Z",
+   "to": "2026-11-12T22:35:09.926Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:35:12.180Z",
+   "to": "2026-11-12T22:35:12.180Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:35:12.180Z",
+   "to": "2026-11-12T22:35:12.180Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:35:12.180Z",
+   "to": "2026-11-12T22:35:12.180Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:35:12.180Z",
+   "to": "2026-11-12T22:35:12.180Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:36:17.678Z",
+   "to": "2026-11-12T22:36:17.678Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:36:17.678Z",
+   "to": "2026-11-12T22:36:17.678Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:36:17.678Z",
+   "to": "2026-11-12T22:36:17.678Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:36:17.678Z",
+   "to": "2026-11-12T22:36:17.678Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:36:24.924Z",
+   "to": "2026-11-12T22:36:24.924Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:36:24.924Z",
+   "to": "2026-11-12T22:36:24.924Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:36:24.924Z",
+   "to": "2026-11-12T22:36:24.924Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:36:24.924Z",
+   "to": "2026-11-12T22:36:24.924Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:40:30.153Z",
+   "to": "2026-11-12T22:40:30.153Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:40:30.153Z",
+   "to": "2026-11-12T22:40:30.153Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:40:30.153Z",
+   "to": "2026-11-12T22:40:30.153Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:40:30.153Z",
+   "to": "2026-11-12T22:40:30.153Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:40:37.597Z",
+   "to": "2026-11-12T22:40:37.597Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:40:37.597Z",
+   "to": "2026-11-12T22:40:37.597Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:40:37.597Z",
+   "to": "2026-11-12T22:40:37.597Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:40:37.597Z",
+   "to": "2026-11-12T22:40:37.597Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:41:33.228Z",
+   "to": "2026-11-12T22:41:33.228Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:41:33.228Z",
+   "to": "2026-11-12T22:41:33.228Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:41:33.228Z",
+   "to": "2026-11-12T22:41:33.228Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:41:33.228Z",
+   "to": "2026-11-12T22:41:33.228Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:41:35.922Z",
+   "to": "2026-11-12T22:41:35.922Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:41:35.922Z",
+   "to": "2026-11-12T22:41:35.922Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:41:35.922Z",
+   "to": "2026-11-12T22:41:35.922Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:41:35.922Z",
+   "to": "2026-11-12T22:41:35.922Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:41:38.042Z",
+   "to": "2026-11-12T22:41:38.042Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:41:38.042Z",
+   "to": "2026-11-12T22:41:38.042Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:41:38.042Z",
+   "to": "2026-11-12T22:41:38.042Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:41:38.042Z",
+   "to": "2026-11-12T22:41:38.042Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:41:40.251Z",
+   "to": "2026-11-12T22:41:40.251Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:41:40.251Z",
+   "to": "2026-11-12T22:41:40.251Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:41:40.251Z",
+   "to": "2026-11-12T22:41:40.251Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:41:40.251Z",
+   "to": "2026-11-12T22:41:40.251Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:43:09.779Z",
+   "to": "2026-11-12T22:43:09.779Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:43:09.779Z",
+   "to": "2026-11-12T22:43:09.779Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:43:09.779Z",
+   "to": "2026-11-12T22:43:09.779Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:43:09.779Z",
+   "to": "2026-11-12T22:43:09.779Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:45:02.592Z",
+   "to": "2026-11-12T22:45:02.592Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:45:02.592Z",
+   "to": "2026-11-12T22:45:02.592Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:45:02.592Z",
+   "to": "2026-11-12T22:45:02.592Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:45:02.592Z",
+   "to": "2026-11-12T22:45:02.592Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:45:04.709Z",
+   "to": "2026-11-12T22:45:04.709Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:45:04.709Z",
+   "to": "2026-11-12T22:45:04.709Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:45:04.709Z",
+   "to": "2026-11-12T22:45:04.709Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:45:04.709Z",
+   "to": "2026-11-12T22:45:04.709Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:45:06.770Z",
+   "to": "2026-11-12T22:45:06.770Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:45:06.770Z",
+   "to": "2026-11-12T22:45:06.770Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:45:06.770Z",
+   "to": "2026-11-12T22:45:06.770Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:45:06.770Z",
+   "to": "2026-11-12T22:45:06.770Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:45:14.139Z",
+   "to": "2026-11-12T22:45:14.139Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:45:14.139Z",
+   "to": "2026-11-12T22:45:14.139Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:45:14.139Z",
+   "to": "2026-11-12T22:45:14.139Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:45:14.139Z",
+   "to": "2026-11-12T22:45:14.139Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:45:50.229Z",
+   "to": "2026-11-12T22:45:50.229Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-12T22:45:50.229Z",
+   "to": "2026-11-12T22:45:50.229Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Whitechapel. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:45:50.229Z",
+   "to": "2026-11-12T22:45:50.229Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T22:45:50.229Z",
+   "to": "2026-11-12T22:45:50.229Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-11-12T22:45:50.229Z",
+   "to": "2026-11-12T22:45:50.229Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WEAVER LINE: Monday 9, Tuesday 10, Wednesday 11 and Thursday 12 November, after 2245 each evening, no service between Hackney Downs and Chingford. Last through trains operate at 2231 from Liverpool Street and at 2253 from Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton, St James Street, Walthamstow Central, Wood Street and Highams Park. The last three northbound buses operate from Liverpool Street at 0014 0044 and 0114 and also call at Bethnal Green, Cambridge Heath and London Fields (Mare Street)"
   }
  ]
 }
