@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-12T20:20:19.933Z",
- "sinceISO": "2026-10-13T20:20:10.248Z",
+ "generatedAt": "2026-11-12T20:30:19.014Z",
+ "sinceISO": "2026-10-13T20:30:09.530Z",
  "coverage": [
   {
-   "from": "2026-10-13T20:20:12.582Z",
-   "to": "2026-11-12T20:20:09.956Z",
-   "polls": 60400
+   "from": "2026-10-13T20:30:09.603Z",
+   "to": "2026-11-12T20:30:09.263Z",
+   "polls": 60401
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-13T20:20:12.582Z",
+   "from": "2026-10-13T20:30:09.603Z",
    "to": "2026-10-13T20:30:46.045Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -21,7 +21,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-13T20:20:12.582Z",
+   "from": "2026-10-13T20:30:09.603Z",
    "to": "2026-10-14T00:20:30.148Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -30,7 +30,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-10-13T20:20:12.582Z",
+   "from": "2026-10-13T20:30:09.603Z",
    "to": "2026-10-14T00:20:30.148Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -39,7 +39,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-10-13T20:20:12.582Z",
+   "from": "2026-10-13T20:30:09.603Z",
    "to": "2026-10-13T21:26:28.827Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -915079,7 +915079,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-12T14:30:00.766Z",
-   "to": "2026-11-12T20:20:09.956Z",
+   "to": "2026-11-12T20:26:25.448Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -917446,7 +917446,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-12T17:35:08.212Z",
-   "to": "2026-11-12T20:20:09.956Z",
+   "to": "2026-11-12T20:30:09.263Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays due to an earlier points failure at Mornington Crescent. Tickets are  being accepted by London Buses, London Trams, Southeastern, Thameslink and South Western Railway services via any reasonable route. "
@@ -917770,10 +917770,19 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-12T19:00:02.989Z",
-   "to": "2026-11-12T20:20:09.956Z",
+   "to": "2026-11-12T20:30:09.263Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T20:30:09.263Z",
+   "to": "2026-11-12T20:30:09.263Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: Severe delays while we fix a signal failure in the Stratford area. "
   }
  ]
 }
