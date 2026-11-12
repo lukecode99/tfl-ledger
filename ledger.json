@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-12T21:36:45.089Z",
- "sinceISO": "2026-10-13T21:36:39.021Z",
+ "generatedAt": "2026-11-12T21:40:58.689Z",
+ "sinceISO": "2026-10-13T21:40:52.639Z",
  "coverage": [
   {
-   "from": "2026-10-13T21:40:06.234Z",
-   "to": "2026-11-12T21:36:38.525Z",
-   "polls": 60399
+   "from": "2026-10-13T21:45:02.402Z",
+   "to": "2026-11-12T21:40:51.592Z",
+   "polls": 60397
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-13T21:40:06.234Z",
+   "from": "2026-10-13T21:45:02.402Z",
    "to": "2026-10-13T22:05:29.422Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -21,7 +21,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-13T21:40:06.234Z",
+   "from": "2026-10-13T21:45:02.402Z",
    "to": "2026-10-14T00:20:30.148Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -30,25 +30,16 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-10-13T21:40:06.234Z",
+   "from": "2026-10-13T21:45:02.402Z",
    "to": "2026-10-14T00:20:30.148Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to an earlier signal failure at Canary Wharf.  "
   },
   {
-   "line": "lioness",
-   "lineName": "Lioness",
-   "from": "2026-10-13T21:40:06.234Z",
-   "to": "2026-10-13T21:40:51.418Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Lioness Line: Severe delays due to an earlier customer incident at Queens Park. Tickets are being accepted on London Underground.  "
-  },
-  {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-10-13T21:40:06.234Z",
+   "from": "2026-10-13T21:45:02.402Z",
    "to": "2026-10-14T00:20:30.148Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -916879,7 +916870,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-12T17:35:08.212Z",
-   "to": "2026-11-12T21:36:38.525Z",
+   "to": "2026-11-12T21:40:51.592Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays due to an earlier points failure at Mornington Crescent. Tickets are  being accepted by London Buses, London Trams, Southeastern, Thameslink and South Western Railway services via any reasonable route. "
@@ -917203,7 +917194,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-12T19:00:02.989Z",
-   "to": "2026-11-12T21:36:38.525Z",
+   "to": "2026-11-12T21:40:51.592Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to train cancellations.  "
@@ -917968,7 +917959,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-12T21:30:06.260Z",
-   "to": "2026-11-12T21:36:38.525Z",
+   "to": "2026-11-12T21:40:51.592Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays between Queen's park and Harrow & Wealdstone due to an earlier signal fault at South Kenton. GOOD SERVICE on the rest of the line. "
@@ -917977,7 +917968,7 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-11-12T21:30:06.260Z",
-   "to": "2026-11-12T21:36:38.525Z",
+   "to": "2026-11-12T21:40:51.233Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Lioness Line: Minor delays due to an earlier signal failure at South Kenton. "
@@ -918121,7 +918112,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-12T21:35:04.688Z",
-   "to": "2026-11-12T21:36:38.525Z",
+   "to": "2026-11-12T21:40:51.592Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -918202,7 +918193,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-12T21:36:38.525Z",
-   "to": "2026-11-12T21:36:38.525Z",
+   "to": "2026-11-12T21:40:51.592Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Barking and Earl's Court westbound only due to an earlier faulty train at Whitechapel. GOOD SERVICE on the rest of the line. "
@@ -918221,6 +918212,96 @@
    "lineName": "Mildmay",
    "from": "2026-11-12T21:36:38.525Z",
    "to": "2026-11-12T21:36:38.525Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T21:37:00.017Z",
+   "to": "2026-11-12T21:37:00.017Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T21:37:00.017Z",
+   "to": "2026-11-12T21:37:00.017Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T21:40:04.648Z",
+   "to": "2026-11-12T21:40:04.648Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T21:40:04.648Z",
+   "to": "2026-11-12T21:40:04.648Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T21:40:12.209Z",
+   "to": "2026-11-12T21:40:12.209Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T21:40:12.209Z",
+   "to": "2026-11-12T21:40:12.209Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T21:40:51.233Z",
+   "to": "2026-11-12T21:40:51.233Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T21:40:51.233Z",
+   "to": "2026-11-12T21:40:51.233Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T21:40:51.592Z",
+   "to": "2026-11-12T21:40:51.592Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-12T21:40:51.592Z",
+   "to": "2026-11-12T21:40:51.592Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we fix a signal failure in the Stratford area. London Underground are accepting valid tickets via any reasonable route. "
