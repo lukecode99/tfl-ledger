@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-14T19:00:11.511Z",
- "sinceISO": "2026-10-15T19:00:04.866Z",
+ "generatedAt": "2026-11-14T19:25:11.967Z",
+ "sinceISO": "2026-10-15T19:25:04.735Z",
  "coverage": [
   {
-   "from": "2026-10-15T19:00:07.087Z",
-   "to": "2026-11-14T19:00:02.307Z",
-   "polls": 60395
+   "from": "2026-10-15T19:25:15.836Z",
+   "to": "2026-11-14T19:25:04.447Z",
+   "polls": 60394
   }
  ],
  "spans": [
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-15T19:00:07.087Z",
+   "from": "2026-10-15T19:25:15.836Z",
    "to": "2026-10-16T00:15:15.727Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,17 +21,26 @@
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:00:07.087Z",
-   "to": "2026-10-15T19:16:15.136Z",
+   "from": "2026-10-15T19:25:15.836Z",
+   "to": "2026-10-15T19:25:15.836Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-10-15T19:25:15.836Z",
+   "to": "2026-10-15T19:25:15.836Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
   },
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-10-15T19:00:07.087Z",
-   "to": "2026-10-15T19:00:07.087Z",
+   "from": "2026-10-15T19:25:15.836Z",
+   "to": "2026-10-15T19:25:15.836Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
@@ -39,260 +48,8 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-10-15T19:00:07.087Z",
-   "to": "2026-10-15T19:00:07.087Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:00:18.213Z",
-   "to": "2026-10-15T19:00:18.213Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:00:18.213Z",
-   "to": "2026-10-15T19:00:18.213Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:00:22.758Z",
-   "to": "2026-10-15T19:00:22.758Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:00:22.758Z",
-   "to": "2026-10-15T19:00:22.758Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:00:43.050Z",
-   "to": "2026-10-15T19:00:43.050Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:00:43.050Z",
-   "to": "2026-10-15T19:00:43.050Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:00:47.072Z",
-   "to": "2026-10-15T19:00:47.072Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:00:47.072Z",
-   "to": "2026-10-15T19:00:47.072Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:00:47.411Z",
-   "to": "2026-10-15T19:00:47.411Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:00:47.411Z",
-   "to": "2026-10-15T19:00:47.411Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:00:53.893Z",
-   "to": "2026-10-15T19:00:53.893Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:00:53.893Z",
-   "to": "2026-10-15T19:00:53.893Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:05:02.506Z",
-   "to": "2026-10-15T19:05:02.506Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:05:02.506Z",
-   "to": "2026-10-15T19:05:02.506Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:05:07.102Z",
-   "to": "2026-10-15T19:05:07.102Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:05:07.102Z",
-   "to": "2026-10-15T19:05:07.102Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:05:07.480Z",
-   "to": "2026-10-15T19:05:07.480Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:05:07.480Z",
-   "to": "2026-10-15T19:05:07.480Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:05:13.279Z",
-   "to": "2026-10-15T19:05:13.279Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:05:13.279Z",
-   "to": "2026-10-15T19:05:13.279Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:05:56.400Z",
-   "to": "2026-10-15T19:05:56.400Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:05:56.400Z",
-   "to": "2026-10-15T19:05:56.400Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:05:58.868Z",
-   "to": "2026-10-15T19:05:58.868Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:05:58.868Z",
-   "to": "2026-10-15T19:05:58.868Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:06:02.977Z",
-   "to": "2026-10-15T19:06:02.977Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:06:02.977Z",
-   "to": "2026-10-15T19:06:02.977Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:10:06.866Z",
-   "to": "2026-10-15T19:10:06.866Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:10:06.866Z",
-   "to": "2026-10-15T19:10:06.866Z",
+   "from": "2026-10-15T19:25:15.836Z",
+   "to": "2026-10-15T19:25:15.836Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
@@ -300,623 +57,11 @@
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-10-15T19:10:06.866Z",
-   "to": "2026-10-15T19:11:12.601Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Northern Line: No service between Camden Town and Battersea Power Station via Charing cross Southbound only while we fix a points failure at Camden Town. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:10:18.472Z",
-   "to": "2026-10-15T19:10:18.472Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:10:18.472Z",
-   "to": "2026-10-15T19:10:18.472Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:10:22.457Z",
-   "to": "2026-10-15T19:10:22.457Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:10:22.457Z",
-   "to": "2026-10-15T19:10:22.457Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:11:02.284Z",
-   "to": "2026-10-15T19:11:02.284Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:11:02.284Z",
-   "to": "2026-10-15T19:11:02.284Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:11:06.355Z",
-   "to": "2026-10-15T19:11:06.355Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:11:06.355Z",
-   "to": "2026-10-15T19:11:06.355Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:11:06.695Z",
-   "to": "2026-10-15T19:11:06.695Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:11:06.695Z",
-   "to": "2026-10-15T19:11:06.695Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:11:12.601Z",
-   "to": "2026-10-15T19:11:12.601Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:11:12.601Z",
-   "to": "2026-10-15T19:11:12.601Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:15:02.794Z",
-   "to": "2026-10-15T19:15:02.794Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:15:02.794Z",
-   "to": "2026-10-15T19:15:02.794Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-15T19:15:02.794Z",
-   "to": "2026-10-15T19:20:29.598Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and Battersea Power Station via Charing cross while we fix a points failure at Camden Town. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:15:15.865Z",
-   "to": "2026-10-15T19:15:15.865Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:15:15.865Z",
-   "to": "2026-10-15T19:15:15.865Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:15:16.247Z",
-   "to": "2026-10-15T19:15:16.247Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:15:16.247Z",
-   "to": "2026-10-15T19:15:16.247Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:15:22.152Z",
-   "to": "2026-10-15T19:15:22.152Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:15:22.152Z",
-   "to": "2026-10-15T19:15:22.152Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:16:15.136Z",
-   "to": "2026-10-15T19:16:15.136Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:16:15.136Z",
-   "to": "2026-10-15T19:16:15.136Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:16:17.299Z",
-   "to": "2026-10-15T19:16:17.299Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:16:17.299Z",
-   "to": "2026-10-15T19:16:17.299Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:16:17.299Z",
-   "to": "2026-10-15T19:16:17.299Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:16:17.299Z",
-   "to": "2026-10-15T19:16:17.299Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:16:32.101Z",
-   "to": "2026-10-15T19:16:32.101Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:16:32.101Z",
-   "to": "2026-10-15T19:16:32.101Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:16:32.101Z",
-   "to": "2026-10-15T19:16:32.101Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:16:32.101Z",
-   "to": "2026-10-15T19:16:32.101Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:20:06.308Z",
-   "to": "2026-10-15T19:20:06.308Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:20:06.308Z",
-   "to": "2026-10-15T19:20:06.308Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:20:06.308Z",
-   "to": "2026-10-15T19:20:06.308Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:20:06.308Z",
-   "to": "2026-10-15T19:20:06.308Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:20:08.455Z",
-   "to": "2026-10-15T19:20:08.455Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:20:08.455Z",
-   "to": "2026-10-15T19:20:08.455Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:20:08.455Z",
-   "to": "2026-10-15T19:20:08.455Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:20:08.455Z",
-   "to": "2026-10-15T19:20:08.455Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:20:12.675Z",
-   "to": "2026-10-15T19:20:12.675Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:20:12.675Z",
-   "to": "2026-10-15T19:20:12.675Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:20:12.675Z",
-   "to": "2026-10-15T19:20:12.675Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:20:12.675Z",
-   "to": "2026-10-15T19:20:12.675Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:20:19.000Z",
-   "to": "2026-10-15T19:20:19.000Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:20:19.000Z",
-   "to": "2026-10-15T19:20:19.000Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:20:19.000Z",
-   "to": "2026-10-15T19:20:19.000Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:20:19.000Z",
-   "to": "2026-10-15T19:20:19.000Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:20:23.431Z",
-   "to": "2026-10-15T19:20:23.431Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:20:23.431Z",
-   "to": "2026-10-15T19:20:23.431Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:20:23.431Z",
-   "to": "2026-10-15T19:20:23.431Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:20:23.431Z",
-   "to": "2026-10-15T19:20:23.431Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:20:23.814Z",
-   "to": "2026-10-15T19:20:23.814Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:20:23.814Z",
-   "to": "2026-10-15T19:20:23.814Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:20:23.814Z",
-   "to": "2026-10-15T19:20:23.814Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:20:23.814Z",
-   "to": "2026-10-15T19:20:23.814Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:20:29.598Z",
-   "to": "2026-10-15T19:20:29.598Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:20:29.598Z",
-   "to": "2026-10-15T19:20:29.598Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:20:29.598Z",
-   "to": "2026-10-15T19:20:29.598Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:20:29.598Z",
-   "to": "2026-10-15T19:20:29.598Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:25:02.241Z",
-   "to": "2026-10-15T19:25:02.241Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:25:02.241Z",
-   "to": "2026-10-15T19:25:02.241Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:25:02.241Z",
-   "to": "2026-10-15T19:25:02.241Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:25:02.241Z",
-   "to": "2026-10-15T19:25:02.241Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-15T19:25:02.241Z",
+   "from": "2026-10-15T19:25:15.836Z",
    "to": "2026-10-15T19:45:22.403Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays between Camden Town and Battersea Power Station via Charing cross while we fix a points failure at Camden Town. Tickets are being accepted on London Buses, London Trams, Thameslink and South Western railway Services. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:25:15.836Z",
-   "to": "2026-10-15T19:25:15.836Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-15T19:25:15.836Z",
-   "to": "2026-10-15T19:25:15.836Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Edgware Road and MINOR DELAYS on the rest of the line due to train cancellations. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:25:15.836Z",
-   "to": "2026-10-15T19:25:15.836Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-15T19:25:15.836Z",
-   "to": "2026-10-15T19:25:15.836Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Stratford and London Bridge and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
   },
   {
    "line": "hammersmith-city",
@@ -963589,7 +962734,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-14T05:35:04.368Z",
-   "to": "2026-11-14T19:00:02.307Z",
+   "to": "2026-11-14T19:25:04.447Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "NORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only, for Night journeys please use Night Bus services"
@@ -993379,7 +992524,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-14T13:00:02.814Z",
-   "to": "2026-11-14T19:00:02.307Z",
+   "to": "2026-11-14T19:25:04.447Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Barking Riverside and Barking for the rest of the day due to a points failure at Barking. GOOD SEVICE on the rest of the line. "
@@ -1015780,7 +1014925,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-14T17:15:04.333Z",
-   "to": "2026-11-14T19:00:02.307Z",
+   "to": "2026-11-14T19:25:04.447Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays due to train cancellations.  "
@@ -1017598,7 +1016743,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-14T17:50:02.241Z",
-   "to": "2026-11-14T19:00:02.307Z",
+   "to": "2026-11-14T19:25:04.447Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to train cancellations. "
@@ -1018615,7 +1017760,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-14T18:05:46.649Z",
-   "to": "2026-11-14T19:00:02.307Z",
+   "to": "2026-11-14T19:25:04.447Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
@@ -1019929,7 +1019074,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-14T18:35:04.394Z",
-   "to": "2026-11-14T19:00:02.307Z",
+   "to": "2026-11-14T19:25:04.447Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays due to train cancellations.  "
@@ -1020595,10 +1019740,649 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-11-14T19:00:02.307Z",
-   "to": "2026-11-14T19:00:02.307Z",
+   "to": "2026-11-14T19:20:37.108Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Windrush Line: Severe delays while we respond to a customer incident at Haggerston.  "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:00:23.326Z",
+   "to": "2026-11-14T19:00:23.326Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:00:23.326Z",
+   "to": "2026-11-14T19:00:23.326Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:00:23.692Z",
+   "to": "2026-11-14T19:00:23.692Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:00:23.692Z",
+   "to": "2026-11-14T19:00:23.692Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:00:24.113Z",
+   "to": "2026-11-14T19:00:24.113Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:00:24.113Z",
+   "to": "2026-11-14T19:00:24.113Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:00:24.568Z",
+   "to": "2026-11-14T19:00:24.568Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:00:24.568Z",
+   "to": "2026-11-14T19:00:24.568Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:00:26.704Z",
+   "to": "2026-11-14T19:00:26.704Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:00:26.704Z",
+   "to": "2026-11-14T19:00:26.704Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:01:19.670Z",
+   "to": "2026-11-14T19:01:19.670Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:01:19.670Z",
+   "to": "2026-11-14T19:01:19.670Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:05:04.464Z",
+   "to": "2026-11-14T19:05:04.464Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:05:04.464Z",
+   "to": "2026-11-14T19:05:04.464Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:05:35.816Z",
+   "to": "2026-11-14T19:05:35.816Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:05:35.816Z",
+   "to": "2026-11-14T19:05:35.816Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:05:41.408Z",
+   "to": "2026-11-14T19:05:41.408Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:05:41.408Z",
+   "to": "2026-11-14T19:05:41.408Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:05:41.803Z",
+   "to": "2026-11-14T19:05:41.803Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:05:41.803Z",
+   "to": "2026-11-14T19:05:41.803Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:05:42.218Z",
+   "to": "2026-11-14T19:05:42.218Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:05:42.218Z",
+   "to": "2026-11-14T19:05:42.218Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:05:42.580Z",
+   "to": "2026-11-14T19:05:42.580Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:05:42.580Z",
+   "to": "2026-11-14T19:05:42.580Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:05:44.720Z",
+   "to": "2026-11-14T19:05:44.720Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:05:44.720Z",
+   "to": "2026-11-14T19:05:44.720Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:10:02.516Z",
+   "to": "2026-11-14T19:10:02.516Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:10:02.516Z",
+   "to": "2026-11-14T19:10:02.516Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:10:06.983Z",
+   "to": "2026-11-14T19:10:06.983Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:10:06.983Z",
+   "to": "2026-11-14T19:10:06.983Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:10:07.365Z",
+   "to": "2026-11-14T19:10:07.365Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:10:07.365Z",
+   "to": "2026-11-14T19:10:07.365Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:10:07.724Z",
+   "to": "2026-11-14T19:10:07.724Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:10:07.724Z",
+   "to": "2026-11-14T19:10:07.724Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:10:08.091Z",
+   "to": "2026-11-14T19:10:08.091Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:10:08.091Z",
+   "to": "2026-11-14T19:10:08.091Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:10:10.206Z",
+   "to": "2026-11-14T19:10:10.206Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:10:10.206Z",
+   "to": "2026-11-14T19:10:10.206Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:10:59.463Z",
+   "to": "2026-11-14T19:10:59.463Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:10:59.463Z",
+   "to": "2026-11-14T19:10:59.463Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:15:05.082Z",
+   "to": "2026-11-14T19:15:05.082Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:15:05.082Z",
+   "to": "2026-11-14T19:15:05.082Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:16:17.574Z",
+   "to": "2026-11-14T19:16:17.574Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:16:17.574Z",
+   "to": "2026-11-14T19:16:17.574Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:16:21.687Z",
+   "to": "2026-11-14T19:16:21.687Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:16:21.687Z",
+   "to": "2026-11-14T19:16:21.687Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:16:22.027Z",
+   "to": "2026-11-14T19:16:22.027Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:16:22.027Z",
+   "to": "2026-11-14T19:16:22.027Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:16:22.400Z",
+   "to": "2026-11-14T19:16:22.400Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:16:22.400Z",
+   "to": "2026-11-14T19:16:22.400Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:16:22.810Z",
+   "to": "2026-11-14T19:16:22.810Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:16:22.810Z",
+   "to": "2026-11-14T19:16:22.810Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:16:24.935Z",
+   "to": "2026-11-14T19:16:24.935Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:16:24.935Z",
+   "to": "2026-11-14T19:16:24.935Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:20:03.115Z",
+   "to": "2026-11-14T19:20:03.115Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:20:03.115Z",
+   "to": "2026-11-14T19:20:03.115Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:20:07.245Z",
+   "to": "2026-11-14T19:20:07.245Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:20:07.245Z",
+   "to": "2026-11-14T19:20:07.245Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:20:09.421Z",
+   "to": "2026-11-14T19:20:09.421Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:20:09.421Z",
+   "to": "2026-11-14T19:20:09.421Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:20:09.798Z",
+   "to": "2026-11-14T19:20:09.798Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:20:09.798Z",
+   "to": "2026-11-14T19:20:09.798Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:20:10.202Z",
+   "to": "2026-11-14T19:20:10.202Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:20:10.202Z",
+   "to": "2026-11-14T19:20:10.202Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:20:12.358Z",
+   "to": "2026-11-14T19:20:12.358Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:20:12.358Z",
+   "to": "2026-11-14T19:20:12.358Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:20:37.108Z",
+   "to": "2026-11-14T19:20:37.108Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:20:37.108Z",
+   "to": "2026-11-14T19:20:37.108Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:25:04.447Z",
+   "to": "2026-11-14T19:25:04.447Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-14T19:25:04.447Z",
+   "to": "2026-11-14T19:25:04.447Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-14T19:25:04.447Z",
+   "to": "2026-11-14T19:25:04.447Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Windrush Line: Minor delays due to an earlier customer incident at Haggerston.  "
   }
  ]
 }
