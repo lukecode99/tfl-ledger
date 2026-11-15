@@ -1,81 +1,18 @@
 {
- "generatedAt": "2026-11-15T00:10:13.625Z",
- "sinceISO": "2026-10-16T00:10:02.669Z",
+ "generatedAt": "2026-11-15T00:35:10.151Z",
+ "sinceISO": "2026-10-16T00:35:04.199Z",
  "coverage": [
   {
-   "from": "2026-10-16T00:10:06.987Z",
-   "to": "2026-11-15T00:10:02.391Z",
-   "polls": 60395
+   "from": "2026-10-16T00:35:06.924Z",
+   "to": "2026-11-15T00:35:03.922Z",
+   "polls": 60394
   }
  ],
  "spans": [
   {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-16T00:10:06.987Z",
-   "to": "2026-10-16T00:15:15.727Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: Minor delays between Earl's Court and Wimbledon while we fix a track fault at Southfields. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-16T00:10:06.987Z",
-   "to": "2026-10-16T00:15:15.727Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays due to train cancellations. Tickets being accepted by London Buses, DLR, Elizabeth Line and C2C via any reasonable route. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-16T00:10:06.987Z",
-   "to": "2026-10-16T00:15:15.727Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: Severe delays due to earlier points failures at North Greenwich and Canary Wharf. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-16T00:10:06.987Z",
-   "to": "2026-10-16T00:15:16.057Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Minor delays due to an earlier points failure at Camden Town. All southbound trains from High Barnet will run via Bank, take the first train and change at Camden Town for the Charing Cross branch. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-16T00:10:06.987Z",
-   "to": "2026-10-16T00:16:04.269Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Victoria Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-16T00:10:06.987Z",
-   "to": "2026-10-16T05:00:57.777Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:10:06.987Z",
-   "to": "2026-10-16T00:15:30.189Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-16T00:15:02.604Z",
+   "from": "2026-10-16T00:35:06.924Z",
    "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
@@ -84,7 +21,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-16T00:15:02.604Z",
+   "from": "2026-10-16T00:35:06.924Z",
    "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
@@ -93,7 +30,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-10-16T00:15:02.604Z",
+   "from": "2026-10-16T00:35:06.924Z",
    "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
@@ -102,7 +39,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-16T00:15:16.057Z",
+   "from": "2026-10-16T00:35:06.924Z",
    "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
@@ -111,16 +48,25 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-16T00:15:16.057Z",
+   "from": "2026-10-16T00:35:06.924Z",
    "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Docklands Light Railway: Service will resume later this morning. "
   },
   {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-16T00:35:06.924Z",
+   "to": "2026-10-16T03:10:41.284Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Service will resume later this morning. "
+  },
+  {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-10-16T00:15:16.057Z",
+   "from": "2026-10-16T00:35:06.924Z",
    "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
@@ -129,25 +75,16 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-10-16T00:15:16.057Z",
+   "from": "2026-10-16T00:35:06.924Z",
    "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Jubilee Line: Service will resume later this morning. "
   },
   {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-16T00:15:30.189Z",
-   "to": "2026-10-16T03:10:41.284Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Service will resume later this morning. "
-  },
-  {
    "line": "liberty",
    "lineName": "Liberty",
-   "from": "2026-10-16T00:15:30.189Z",
+   "from": "2026-10-16T00:35:06.924Z",
    "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
@@ -156,7 +93,7 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-10-16T00:15:30.189Z",
+   "from": "2026-10-16T00:35:06.924Z",
    "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
@@ -165,7 +102,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-16T00:15:30.189Z",
+   "from": "2026-10-16T00:35:06.924Z",
    "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
@@ -174,7 +111,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-10-16T00:15:30.189Z",
+   "from": "2026-10-16T00:35:06.924Z",
    "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
@@ -183,8 +120,8 @@
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-10-16T00:15:30.189Z",
-   "to": "2026-10-16T00:15:30.189Z",
+   "from": "2026-10-16T00:35:06.924Z",
+   "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Northern Line: Service will resume later this morning. "
@@ -192,7 +129,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-10-16T00:15:30.189Z",
+   "from": "2026-10-16T00:35:06.924Z",
    "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
@@ -201,17 +138,35 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-10-16T00:15:30.189Z",
+   "from": "2026-10-16T00:35:06.924Z",
    "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Suffragette Line: Service will resume later this morning. "
   },
   {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-16T00:35:06.924Z",
+   "to": "2026-10-16T03:10:41.284Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Victoria Line: Service will resume later this morning. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-16T00:35:06.924Z",
+   "to": "2026-10-16T05:00:57.777Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
+  },
+  {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-10-16T00:15:30.189Z",
-   "to": "2026-10-16T00:15:30.189Z",
+   "from": "2026-10-16T00:35:06.924Z",
+   "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Weaver Line: Service will resume later this morning. "
@@ -219,344 +174,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-10-16T00:15:30.189Z",
+   "from": "2026-10-16T00:35:06.924Z",
    "to": "2026-10-16T03:10:41.284Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Windrush Line: Service will resume later this morning. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-16T00:16:04.269Z",
-   "to": "2026-10-16T00:16:04.269Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Minor delays due to an earlier points failure at Camden Town. All southbound trains from High Barnet will run via Bank, take the first train and change at Camden Town for the Charing Cross branch. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:16:04.269Z",
-   "to": "2026-10-16T00:16:15.525Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-16T00:16:15.525Z",
-   "to": "2026-10-16T00:16:15.525Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Northern Line: Service will resume later this morning. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-16T00:16:15.525Z",
-   "to": "2026-10-16T00:16:15.525Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Victoria Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:16:15.525Z",
-   "to": "2026-10-16T00:16:15.525Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-16T00:16:27.198Z",
-   "to": "2026-10-16T00:16:27.198Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Minor delays due to an earlier points failure at Camden Town. All southbound trains from High Barnet will run via Bank, take the first train and change at Camden Town for the Charing Cross branch. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-16T00:16:27.198Z",
-   "to": "2026-10-16T00:16:27.198Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Victoria Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:16:27.198Z",
-   "to": "2026-10-16T00:20:06.160Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-16T00:20:06.160Z",
-   "to": "2026-10-16T03:10:41.284Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Northern Line: Service will resume later this morning. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-16T00:20:06.160Z",
-   "to": "2026-10-16T03:10:41.284Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Victoria Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:20:06.160Z",
-   "to": "2026-10-16T00:20:06.160Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:20:16.346Z",
-   "to": "2026-10-16T00:20:16.346Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:20:16.346Z",
-   "to": "2026-10-16T00:20:16.346Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:20:20.252Z",
-   "to": "2026-10-16T00:20:20.252Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:20:20.252Z",
-   "to": "2026-10-16T00:20:20.252Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:21:09.997Z",
-   "to": "2026-10-16T00:21:09.997Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:21:09.997Z",
-   "to": "2026-10-16T00:21:09.997Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:21:13.876Z",
-   "to": "2026-10-16T00:21:13.876Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:21:13.876Z",
-   "to": "2026-10-16T00:21:13.876Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:21:14.230Z",
-   "to": "2026-10-16T00:21:14.230Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:21:14.230Z",
-   "to": "2026-10-16T00:21:14.230Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:21:20.390Z",
-   "to": "2026-10-16T00:21:20.390Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:21:20.390Z",
-   "to": "2026-10-16T00:21:20.390Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:25:02.256Z",
-   "to": "2026-10-16T00:25:02.256Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:25:02.256Z",
-   "to": "2026-10-16T00:25:02.256Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:25:08.027Z",
-   "to": "2026-10-16T00:25:08.027Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:25:08.027Z",
-   "to": "2026-10-16T00:25:08.027Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:25:08.377Z",
-   "to": "2026-10-16T00:25:08.377Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:25:08.377Z",
-   "to": "2026-10-16T00:25:08.377Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:25:14.158Z",
-   "to": "2026-10-16T00:25:14.158Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:25:14.158Z",
-   "to": "2026-10-16T00:25:14.158Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:26:22.565Z",
-   "to": "2026-10-16T00:26:22.565Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:26:22.565Z",
-   "to": "2026-10-16T00:26:22.565Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:26:24.745Z",
-   "to": "2026-10-16T00:26:24.745Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:26:24.745Z",
-   "to": "2026-10-16T00:26:24.745Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:26:28.717Z",
-   "to": "2026-10-16T00:26:28.717Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-16T00:26:28.717Z",
-   "to": "2026-10-16T03:10:41.284Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
   },
   {
    "line": "northern",
@@ -957226,7 +956848,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-14T05:35:04.368Z",
-   "to": "2026-11-15T00:10:02.391Z",
+   "to": "2026-11-15T00:35:03.922Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "NORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only, for Night journeys please use Night Bus services"
@@ -987016,7 +986638,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-14T13:00:02.814Z",
-   "to": "2026-11-15T00:10:02.391Z",
+   "to": "2026-11-15T00:35:03.922Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Barking Riverside and Barking for the rest of the day due to a points failure at Barking. GOOD SEVICE on the rest of the line. "
@@ -1012252,7 +1011874,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-14T18:05:46.649Z",
-   "to": "2026-11-15T00:10:02.391Z",
+   "to": "2026-11-15T00:35:03.922Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
@@ -1021387,7 +1021009,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-11-14T21:50:02.790Z",
-   "to": "2026-11-15T00:10:02.391Z",
+   "to": "2026-11-15T00:35:03.922Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to an earlier animal on the track. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western Railway, and Southeastern service. "
@@ -1022287,7 +1021909,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-11-14T22:25:04.023Z",
-   "to": "2026-11-15T00:10:02.391Z",
+   "to": "2026-11-15T00:35:03.922Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays due to an earlier trespasser on the track at Paddington.  "
@@ -1022422,7 +1022044,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-14T22:30:02.464Z",
-   "to": "2026-11-15T00:10:02.391Z",
+   "to": "2026-11-15T00:35:03.922Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays due to train cancellations.  "
@@ -1023187,7 +1022809,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-14T23:00:02.480Z",
-   "to": "2026-11-15T00:10:02.391Z",
+   "to": "2026-11-15T00:35:03.922Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays due to train cancellations. "
@@ -1024960,7 +1024582,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-11-15T00:10:02.391Z",
-   "to": "2026-11-15T00:10:02.391Z",
+   "to": "2026-11-15T00:35:03.922Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays due to an earlier trespasser on the track at Paddington.  "
@@ -1024982,6 +1024604,627 @@
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:10:24.773Z",
+   "to": "2026-11-15T00:10:24.773Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:10:24.773Z",
+   "to": "2026-11-15T00:10:24.773Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:10:25.148Z",
+   "to": "2026-11-15T00:10:25.148Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:10:25.148Z",
+   "to": "2026-11-15T00:10:25.148Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:10:25.632Z",
+   "to": "2026-11-15T00:10:25.632Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:10:25.632Z",
+   "to": "2026-11-15T00:10:25.632Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:10:25.972Z",
+   "to": "2026-11-15T00:10:25.972Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:10:25.972Z",
+   "to": "2026-11-15T00:10:25.972Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:10:27.997Z",
+   "to": "2026-11-15T00:10:27.997Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:10:27.997Z",
+   "to": "2026-11-15T00:10:27.997Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:11:12.602Z",
+   "to": "2026-11-15T00:11:12.602Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:11:12.602Z",
+   "to": "2026-11-15T00:11:12.602Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:15:04.014Z",
+   "to": "2026-11-15T00:15:04.014Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:15:04.014Z",
+   "to": "2026-11-15T00:15:04.014Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:15:26.441Z",
+   "to": "2026-11-15T00:15:26.441Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:15:26.441Z",
+   "to": "2026-11-15T00:15:26.441Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:15:30.734Z",
+   "to": "2026-11-15T00:15:30.734Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:15:30.734Z",
+   "to": "2026-11-15T00:15:30.734Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:15:31.596Z",
+   "to": "2026-11-15T00:15:31.596Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:15:31.596Z",
+   "to": "2026-11-15T00:15:31.596Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:15:31.988Z",
+   "to": "2026-11-15T00:15:31.988Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:15:31.988Z",
+   "to": "2026-11-15T00:15:31.988Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:15:32.446Z",
+   "to": "2026-11-15T00:15:32.446Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:15:32.446Z",
+   "to": "2026-11-15T00:15:32.446Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:15:34.595Z",
+   "to": "2026-11-15T00:15:34.595Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:15:34.595Z",
+   "to": "2026-11-15T00:15:34.595Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:20:02.442Z",
+   "to": "2026-11-15T00:20:02.442Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:20:02.442Z",
+   "to": "2026-11-15T00:20:02.442Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:20:06.592Z",
+   "to": "2026-11-15T00:20:06.592Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:20:06.592Z",
+   "to": "2026-11-15T00:20:06.592Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:20:07.119Z",
+   "to": "2026-11-15T00:20:07.119Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:20:07.119Z",
+   "to": "2026-11-15T00:20:07.119Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:20:07.466Z",
+   "to": "2026-11-15T00:20:07.466Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:20:07.466Z",
+   "to": "2026-11-15T00:20:07.466Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:20:07.823Z",
+   "to": "2026-11-15T00:20:07.823Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:20:07.823Z",
+   "to": "2026-11-15T00:20:07.823Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:20:09.865Z",
+   "to": "2026-11-15T00:20:09.865Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:20:09.865Z",
+   "to": "2026-11-15T00:20:09.865Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:20:48.800Z",
+   "to": "2026-11-15T00:20:48.800Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:20:48.800Z",
+   "to": "2026-11-15T00:20:48.800Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:25:03.905Z",
+   "to": "2026-11-15T00:25:03.905Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:25:03.905Z",
+   "to": "2026-11-15T00:25:03.905Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:26:10.028Z",
+   "to": "2026-11-15T00:26:10.028Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:26:10.028Z",
+   "to": "2026-11-15T00:26:10.028Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:26:14.234Z",
+   "to": "2026-11-15T00:26:14.234Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:26:14.234Z",
+   "to": "2026-11-15T00:26:14.234Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:26:14.581Z",
+   "to": "2026-11-15T00:26:14.581Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:26:14.581Z",
+   "to": "2026-11-15T00:26:14.581Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:26:16.774Z",
+   "to": "2026-11-15T00:26:16.774Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:26:16.774Z",
+   "to": "2026-11-15T00:26:16.774Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:26:17.174Z",
+   "to": "2026-11-15T00:26:17.174Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:26:17.174Z",
+   "to": "2026-11-15T00:26:17.174Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:26:19.523Z",
+   "to": "2026-11-15T00:26:19.523Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:26:19.523Z",
+   "to": "2026-11-15T00:26:19.523Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:30:02.314Z",
+   "to": "2026-11-15T00:30:02.314Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:30:02.314Z",
+   "to": "2026-11-15T00:30:02.314Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:30:06.061Z",
+   "to": "2026-11-15T00:30:06.061Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:30:06.061Z",
+   "to": "2026-11-15T00:30:06.061Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:30:06.384Z",
+   "to": "2026-11-15T00:30:06.384Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:30:06.384Z",
+   "to": "2026-11-15T00:30:06.384Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:30:06.717Z",
+   "to": "2026-11-15T00:30:06.717Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:30:06.717Z",
+   "to": "2026-11-15T00:30:06.717Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:30:07.153Z",
+   "to": "2026-11-15T00:30:07.153Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:30:07.153Z",
+   "to": "2026-11-15T00:30:07.153Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:30:09.154Z",
+   "to": "2026-11-15T00:30:09.154Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:30:09.154Z",
+   "to": "2026-11-15T00:30:09.154Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:30:28.488Z",
+   "to": "2026-11-15T00:30:28.488Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:30:28.488Z",
+   "to": "2026-11-15T00:30:28.488Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-11-15T00:35:03.922Z",
+   "to": "2026-11-15T00:35:03.922Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
   }
  ]
 }
