@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-11-17T20:31:44.091Z",
- "sinceISO": "2026-10-18T20:31:37.241Z",
+ "generatedAt": "2026-11-17T21:00:16.432Z",
+ "sinceISO": "2026-10-18T21:00:05.837Z",
  "coverage": [
   {
-   "from": "2026-10-18T20:35:04.146Z",
-   "to": "2026-11-17T20:31:36.965Z",
-   "polls": 60401
+   "from": "2026-10-18T21:00:16.509Z",
+   "to": "2026-11-17T21:00:05.564Z",
+   "polls": 60403
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-18T20:35:04.146Z",
-   "to": "2026-10-18T20:50:00.670Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Bakerloo Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway and Thameslink. "
+   "from": "2026-10-18T21:00:16.509Z",
+   "to": "2026-10-18T23:45:25.626Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Minor delays due to train cancellations. "
   },
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-18T20:35:04.146Z",
+   "from": "2026-10-18T21:00:16.509Z",
    "to": "2026-10-18T23:45:25.626Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -30,7 +30,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-18T20:35:04.146Z",
+   "from": "2026-10-18T21:00:16.509Z",
    "to": "2026-10-18T23:46:03.066Z",
    "severity": 5,
    "description": "Part Closure",
@@ -39,7 +39,7 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-18T20:35:04.146Z",
+   "from": "2026-10-18T21:00:16.509Z",
    "to": "2026-10-18T23:46:03.066Z",
    "severity": 5,
    "description": "Part Closure",
@@ -48,16 +48,25 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:35:04.146Z",
-   "to": "2026-10-18T20:40:39.240Z",
+   "from": "2026-10-18T21:00:16.509Z",
+   "to": "2026-10-18T21:00:16.509Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
   },
   {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-18T21:00:16.509Z",
+   "to": "2026-10-18T21:00:16.509Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
+  },
+  {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-18T20:35:04.146Z",
+   "from": "2026-10-18T21:00:16.509Z",
    "to": "2026-10-18T23:46:22.658Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -66,7 +75,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-10-18T20:35:04.146Z",
+   "from": "2026-10-18T21:00:16.509Z",
    "to": "2026-10-18T23:50:00.575Z",
    "severity": 5,
    "description": "Part Closure",
@@ -75,7 +84,7 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-10-18T20:35:04.146Z",
+   "from": "2026-10-18T21:00:16.509Z",
    "to": "2026-10-18T23:50:00.575Z",
    "severity": 5,
    "description": "Part Closure",
@@ -84,7 +93,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-10-18T20:35:04.146Z",
+   "from": "2026-10-18T21:00:16.509Z",
    "to": "2026-10-18T23:45:04.653Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -93,7 +102,7 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-10-18T20:35:04.146Z",
+   "from": "2026-10-18T21:00:16.509Z",
    "to": "2026-10-18T23:50:00.575Z",
    "severity": 5,
    "description": "Part Closure",
@@ -102,17 +111,8 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:40:39.240Z",
-   "to": "2026-10-18T20:40:39.240Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:40:48.414Z",
-   "to": "2026-10-18T20:40:48.414Z",
+   "from": "2026-10-18T21:00:35.161Z",
+   "to": "2026-10-18T21:00:35.161Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
@@ -120,449 +120,8 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:40:48.414Z",
-   "to": "2026-10-18T20:40:48.414Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:40:54.185Z",
-   "to": "2026-10-18T20:40:54.185Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:40:54.185Z",
-   "to": "2026-10-18T20:40:54.185Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:40:54.513Z",
-   "to": "2026-10-18T20:40:54.513Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:40:54.513Z",
-   "to": "2026-10-18T20:40:54.513Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:45:05.086Z",
-   "to": "2026-10-18T20:45:05.086Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:45:05.086Z",
-   "to": "2026-10-18T20:45:05.086Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:45:05.596Z",
-   "to": "2026-10-18T20:45:05.596Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:45:05.596Z",
-   "to": "2026-10-18T20:45:05.596Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:45:11.439Z",
-   "to": "2026-10-18T20:45:11.439Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:45:11.439Z",
-   "to": "2026-10-18T20:45:11.439Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:45:11.818Z",
-   "to": "2026-10-18T20:45:11.818Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:45:11.818Z",
-   "to": "2026-10-18T20:45:11.818Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:45:46.240Z",
-   "to": "2026-10-18T20:45:46.240Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:45:46.240Z",
-   "to": "2026-10-18T20:45:46.240Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:45:50.868Z",
-   "to": "2026-10-18T20:45:50.868Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:45:50.868Z",
-   "to": "2026-10-18T20:45:50.868Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:45:56.400Z",
-   "to": "2026-10-18T20:45:56.400Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:45:56.400Z",
-   "to": "2026-10-18T20:45:56.400Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:50:00.670Z",
-   "to": "2026-10-18T20:50:00.670Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:50:00.670Z",
-   "to": "2026-10-18T20:50:00.670Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-10-18T20:50:14.414Z",
-   "to": "2026-10-18T23:45:25.626Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:50:14.414Z",
-   "to": "2026-10-18T20:50:14.414Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:50:14.414Z",
-   "to": "2026-10-18T20:50:14.414Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:50:29.902Z",
-   "to": "2026-10-18T20:50:29.902Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:50:29.902Z",
-   "to": "2026-10-18T20:50:29.902Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:51:00.679Z",
-   "to": "2026-10-18T20:51:00.679Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:51:00.679Z",
-   "to": "2026-10-18T20:51:00.679Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:51:01.127Z",
-   "to": "2026-10-18T20:51:01.127Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:51:01.127Z",
-   "to": "2026-10-18T20:51:01.127Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:51:07.074Z",
-   "to": "2026-10-18T20:51:07.074Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:51:07.074Z",
-   "to": "2026-10-18T20:51:07.074Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:51:07.424Z",
-   "to": "2026-10-18T20:51:07.424Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:51:07.424Z",
-   "to": "2026-10-18T20:51:07.424Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:55:04.236Z",
-   "to": "2026-10-18T20:55:04.236Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:55:04.236Z",
-   "to": "2026-10-18T20:55:04.236Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:55:05.488Z",
-   "to": "2026-10-18T20:55:05.488Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:55:05.488Z",
-   "to": "2026-10-18T20:55:05.488Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:55:11.712Z",
-   "to": "2026-10-18T20:55:11.712Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:55:11.712Z",
-   "to": "2026-10-18T20:55:11.712Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:55:12.099Z",
-   "to": "2026-10-18T20:55:12.099Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:55:12.099Z",
-   "to": "2026-10-18T20:55:12.099Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:56:07.190Z",
-   "to": "2026-10-18T20:56:07.190Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:56:07.190Z",
-   "to": "2026-10-18T20:56:07.190Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:56:11.856Z",
-   "to": "2026-10-18T20:56:11.856Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:56:11.856Z",
-   "to": "2026-10-18T20:56:11.856Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:56:17.325Z",
-   "to": "2026-10-18T20:56:17.325Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T20:56:17.325Z",
-   "to": "2026-10-18T20:56:17.325Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T21:00:00.842Z",
-   "to": "2026-10-18T21:00:00.842Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T21:00:00.842Z",
-   "to": "2026-10-18T21:00:00.842Z",
+   "from": "2026-10-18T21:00:35.161Z",
+   "to": "2026-10-18T21:00:35.161Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
@@ -570,47 +129,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-10-18T21:00:00.842Z",
+   "from": "2026-10-18T21:00:35.161Z",
    "to": "2026-10-18T21:15:04.441Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Sunday 18 October, from 2200, no service between Surrey Quays and New Cross."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T21:00:16.509Z",
-   "to": "2026-10-18T21:00:16.509Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T21:00:16.509Z",
-   "to": "2026-10-18T21:00:16.509Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T21:00:35.161Z",
-   "to": "2026-10-18T21:00:35.161Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T21:00:35.161Z",
-   "to": "2026-10-18T21:00:35.161Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a fault with the signalling system at Acton Mainline. Tickets are being accepted on London Underground, London Buses, South Western Railway, Great Western Railway and Chiltern Railway services via any reasonable route. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "elizabeth",
@@ -1014511,7 +1014034,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-17T14:40:01.184Z",
-   "to": "2026-11-17T20:31:36.965Z",
+   "to": "2026-11-17T21:00:05.564Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
@@ -1014745,7 +1014268,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-11-17T20:15:01.030Z",
-   "to": "2026-11-17T20:31:36.965Z",
+   "to": "2026-11-17T21:00:05.564Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Mildmay Line: Severe delays between Willesden Junction and Clapham Junction due to an earlier customer incident. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
@@ -1014754,7 +1014277,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-11-17T20:30:00.889Z",
-   "to": "2026-11-17T20:31:36.965Z",
+   "to": "2026-11-17T21:00:05.180Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Minor delays between Whitechapel and Shenfield due to an earlier track fault between Forest Gate and Manor Park. GOOD SERVICE on the rest of the line. "
