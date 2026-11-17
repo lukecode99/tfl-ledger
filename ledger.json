@@ -1,607 +1,22 @@
 {
- "generatedAt": "2026-11-17T09:30:54.693Z",
- "sinceISO": "2026-10-18T09:30:47.446Z",
+ "generatedAt": "2026-11-17T09:55:12.603Z",
+ "sinceISO": "2026-10-18T09:55:01.913Z",
  "coverage": [
   {
-   "from": "2026-10-18T09:35:04.098Z",
-   "to": "2026-11-17T09:30:46.832Z",
-   "polls": 60399
+   "from": "2026-10-18T09:55:03.792Z",
+   "to": "2026-11-17T09:55:01.202Z",
+   "polls": 60402
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-18T09:35:04.098Z",
+   "from": "2026-10-18T09:55:03.792Z",
    "to": "2026-10-18T20:50:00.670Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Bakerloo Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway and Thameslink. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:35:04.098Z",
-   "to": "2026-10-18T09:35:04.098Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:35:04.098Z",
-   "to": "2026-10-18T09:35:04.098Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-10-18T09:35:04.098Z",
-   "to": "2026-10-18T23:46:03.066Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 18 October, no service between Shadwell and Tower Gateway."
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-18T09:35:04.098Z",
-   "to": "2026-10-18T20:40:39.240Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-18T09:35:04.098Z",
-   "to": "2026-10-18T10:56:26.998Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-18T09:35:04.098Z",
-   "to": "2026-10-18T10:16:07.518Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: Sunday 18 October, until 1115, no service between Gospel Oak and Stratford. Replacement bus service S operates between Gospel Oak (Southampton Road / Agincourt Road) and Stratford via Kentish Town West, Camden Road, Holloway Road (Piccadilly line), Highbury & Islington (for Caledonian Road & Barnsbury), Canonbury (St Pauls Road), Dalston Junction (for Dalston Kingsland), Hackney Central, Homerton and Hackney Wick."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-18T09:35:04.098Z",
-   "to": "2026-10-18T23:50:00.575Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-18T09:35:04.098Z",
-   "to": "2026-10-18T23:50:00.575Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "SUFFRAGETTE LINE: Sunday 18 October, no service between Barking and Barking Riverside, please use local London Buses services."
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-18T09:35:04.098Z",
-   "to": "2026-10-18T12:16:08.778Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Victoria Line: Minor delays due to train cancellations.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-18T09:35:04.098Z",
-   "to": "2026-10-18T23:45:04.653Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-18T09:35:04.098Z",
-   "to": "2026-10-18T23:50:00.575Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WEAVER LINE: Saturday 17 and Sunday 18 October, no service between Edmonton Green and Cheshunt. Replacement bus service L2 operates between Enfield Town and Cheshunt via Southbury, Turkey Street (Hertford Road), Waltham Cross (for Greater Anglia) and Theobalds Grove."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:35:04.476Z",
-   "to": "2026-10-18T09:35:04.476Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:35:04.476Z",
-   "to": "2026-10-18T09:35:04.476Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:35:09.800Z",
-   "to": "2026-10-18T09:35:09.800Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:35:09.800Z",
-   "to": "2026-10-18T09:35:09.800Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:35:10.133Z",
-   "to": "2026-10-18T09:35:10.133Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:35:10.133Z",
-   "to": "2026-10-18T09:35:10.133Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:35:34.059Z",
-   "to": "2026-10-18T09:35:34.059Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:35:34.059Z",
-   "to": "2026-10-18T09:35:34.059Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:35:38.404Z",
-   "to": "2026-10-18T09:35:38.404Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:35:38.404Z",
-   "to": "2026-10-18T09:35:38.404Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:35:43.795Z",
-   "to": "2026-10-18T09:35:43.795Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:35:43.795Z",
-   "to": "2026-10-18T09:35:43.795Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:40:00.352Z",
-   "to": "2026-10-18T09:40:00.352Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:40:00.352Z",
-   "to": "2026-10-18T09:40:00.352Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:40:04.222Z",
-   "to": "2026-10-18T09:40:04.222Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:40:04.222Z",
-   "to": "2026-10-18T09:40:04.222Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:40:09.604Z",
-   "to": "2026-10-18T09:40:09.604Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:40:09.604Z",
-   "to": "2026-10-18T09:40:09.604Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:40:47.861Z",
-   "to": "2026-10-18T09:40:47.861Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:40:47.861Z",
-   "to": "2026-10-18T09:40:47.861Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:40:48.631Z",
-   "to": "2026-10-18T09:40:48.631Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:40:48.631Z",
-   "to": "2026-10-18T09:40:48.631Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:40:53.919Z",
-   "to": "2026-10-18T09:40:53.919Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:40:53.919Z",
-   "to": "2026-10-18T09:40:53.919Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:40:54.271Z",
-   "to": "2026-10-18T09:40:54.271Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:40:54.271Z",
-   "to": "2026-10-18T09:40:54.271Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:45:03.817Z",
-   "to": "2026-10-18T09:45:03.817Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:45:03.817Z",
-   "to": "2026-10-18T09:45:03.817Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:45:04.735Z",
-   "to": "2026-10-18T09:45:04.735Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:45:04.735Z",
-   "to": "2026-10-18T09:45:04.735Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:45:10.574Z",
-   "to": "2026-10-18T09:45:10.574Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:45:10.574Z",
-   "to": "2026-10-18T09:45:10.574Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:45:10.912Z",
-   "to": "2026-10-18T09:45:10.912Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:45:10.912Z",
-   "to": "2026-10-18T09:45:10.912Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:45:54.369Z",
-   "to": "2026-10-18T09:45:54.369Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:45:54.369Z",
-   "to": "2026-10-18T09:45:54.369Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:45:58.596Z",
-   "to": "2026-10-18T09:45:58.596Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:45:58.596Z",
-   "to": "2026-10-18T09:45:58.596Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:46:04.078Z",
-   "to": "2026-10-18T09:46:04.078Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:46:04.078Z",
-   "to": "2026-10-18T09:46:04.078Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:50:00.719Z",
-   "to": "2026-10-18T09:50:00.719Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:50:00.719Z",
-   "to": "2026-10-18T09:50:00.719Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:50:04.622Z",
-   "to": "2026-10-18T09:50:04.622Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:50:04.622Z",
-   "to": "2026-10-18T09:50:04.622Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:50:10.139Z",
-   "to": "2026-10-18T09:50:10.139Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:50:10.139Z",
-   "to": "2026-10-18T09:50:10.139Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:51:07.413Z",
-   "to": "2026-10-18T09:51:07.413Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:51:07.413Z",
-   "to": "2026-10-18T09:51:07.413Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:51:07.748Z",
-   "to": "2026-10-18T09:51:07.748Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:51:07.748Z",
-   "to": "2026-10-18T09:51:07.748Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:51:13.055Z",
-   "to": "2026-10-18T09:51:13.055Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:51:13.055Z",
-   "to": "2026-10-18T09:51:13.055Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:51:13.390Z",
-   "to": "2026-10-18T09:51:13.390Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate."
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-18T09:51:13.390Z",
-   "to": "2026-10-18T09:51:13.390Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "central",
@@ -629,6 +44,87 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. MINOR DELAYS between Barking and Upminster due to an earlier faulty train at Becontree. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-18T09:55:03.792Z",
+   "to": "2026-10-18T23:46:03.066Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 18 October, no service between Shadwell and Tower Gateway."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-18T09:55:03.792Z",
+   "to": "2026-10-18T20:40:39.240Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-10-18T09:55:03.792Z",
+   "to": "2026-10-18T10:56:26.998Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-18T09:55:03.792Z",
+   "to": "2026-10-18T10:16:07.518Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 18 October, until 1115, no service between Gospel Oak and Stratford. Replacement bus service S operates between Gospel Oak (Southampton Road / Agincourt Road) and Stratford via Kentish Town West, Camden Road, Holloway Road (Piccadilly line), Highbury & Islington (for Caledonian Road & Barnsbury), Canonbury (St Pauls Road), Dalston Junction (for Dalston Kingsland), Hackney Central, Homerton and Hackney Wick."
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-18T09:55:03.792Z",
+   "to": "2026-10-18T23:50:00.575Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate."
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-18T09:55:03.792Z",
+   "to": "2026-10-18T23:50:00.575Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "SUFFRAGETTE LINE: Sunday 18 October, no service between Barking and Barking Riverside, please use local London Buses services."
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-18T09:55:03.792Z",
+   "to": "2026-10-18T12:16:08.778Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-18T09:55:03.792Z",
+   "to": "2026-10-18T23:45:04.653Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-18T09:55:03.792Z",
+   "to": "2026-10-18T23:50:00.575Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WEAVER LINE: Saturday 17 and Sunday 18 October, no service between Edmonton Green and Cheshunt. Replacement bus service L2 operates between Enfield Town and Cheshunt via Southbury, Turkey Street (Hertford Road), Waltham Cross (for Greater Anglia) and Theobalds Grove."
   },
   {
    "line": "district",
@@ -1014808,7 +1014304,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-17T07:10:01.079Z",
-   "to": "2026-11-17T09:30:46.832Z",
+   "to": "2026-11-17T09:55:01.202Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line. "
@@ -1015798,7 +1015294,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-17T09:05:00.805Z",
-   "to": "2026-11-17T09:30:46.832Z",
+   "to": "2026-11-17T09:55:01.202Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays due to an earlier faulty train at Gloucester Road. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, C2C and South Western Railway.  "
@@ -1015807,7 +1015303,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-11-17T09:10:01.161Z",
-   "to": "2026-11-17T09:30:46.832Z",
+   "to": "2026-11-17T09:55:01.202Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays due to an earlier faulty train at Gloucester Road. "
@@ -1015825,7 +1015321,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-17T09:25:00.908Z",
-   "to": "2026-11-17T09:30:46.832Z",
+   "to": "2026-11-17T09:55:01.202Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -1015924,10 +1015420,577 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-17T09:30:46.832Z",
-   "to": "2026-11-17T09:30:46.832Z",
+   "to": "2026-11-17T09:55:01.202Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Jubilee Line: Severe delays between Stanmore and West Hampstead due to an earlier faulty train at Waterloo. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:31:05.411Z",
+   "to": "2026-11-17T09:31:05.411Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:31:05.411Z",
+   "to": "2026-11-17T09:31:05.411Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:32:00.404Z",
+   "to": "2026-11-17T09:32:00.404Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:32:00.404Z",
+   "to": "2026-11-17T09:32:00.404Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:35:01.072Z",
+   "to": "2026-11-17T09:35:01.072Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:35:01.072Z",
+   "to": "2026-11-17T09:35:01.072Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:36:18.240Z",
+   "to": "2026-11-17T09:36:18.240Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:36:18.240Z",
+   "to": "2026-11-17T09:36:18.240Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:36:22.400Z",
+   "to": "2026-11-17T09:36:22.400Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:36:22.400Z",
+   "to": "2026-11-17T09:36:22.400Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:36:23.064Z",
+   "to": "2026-11-17T09:36:23.064Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:36:23.064Z",
+   "to": "2026-11-17T09:36:23.064Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:36:23.419Z",
+   "to": "2026-11-17T09:36:23.419Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:36:23.419Z",
+   "to": "2026-11-17T09:36:23.419Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:36:23.790Z",
+   "to": "2026-11-17T09:36:23.790Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:36:23.790Z",
+   "to": "2026-11-17T09:36:23.790Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:36:26.039Z",
+   "to": "2026-11-17T09:36:26.039Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:36:26.039Z",
+   "to": "2026-11-17T09:36:26.039Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:40:01.174Z",
+   "to": "2026-11-17T09:40:01.174Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:40:01.174Z",
+   "to": "2026-11-17T09:40:01.174Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:40:06.441Z",
+   "to": "2026-11-17T09:40:06.441Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:40:06.441Z",
+   "to": "2026-11-17T09:40:06.441Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:40:06.849Z",
+   "to": "2026-11-17T09:40:06.849Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:40:06.849Z",
+   "to": "2026-11-17T09:40:06.849Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:40:07.234Z",
+   "to": "2026-11-17T09:40:07.234Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:40:07.234Z",
+   "to": "2026-11-17T09:40:07.234Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:40:07.635Z",
+   "to": "2026-11-17T09:40:07.635Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:40:07.635Z",
+   "to": "2026-11-17T09:40:07.635Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:40:11.632Z",
+   "to": "2026-11-17T09:40:11.632Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:40:11.632Z",
+   "to": "2026-11-17T09:40:11.632Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:40:36.766Z",
+   "to": "2026-11-17T09:40:36.766Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:40:36.766Z",
+   "to": "2026-11-17T09:40:36.766Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:45:01.095Z",
+   "to": "2026-11-17T09:45:01.095Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:45:01.095Z",
+   "to": "2026-11-17T09:45:01.095Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:45:59.736Z",
+   "to": "2026-11-17T09:45:59.736Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:45:59.736Z",
+   "to": "2026-11-17T09:45:59.736Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:46:05.872Z",
+   "to": "2026-11-17T09:46:05.872Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:46:05.872Z",
+   "to": "2026-11-17T09:46:05.872Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:46:06.227Z",
+   "to": "2026-11-17T09:46:06.227Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:46:06.227Z",
+   "to": "2026-11-17T09:46:06.227Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:46:06.584Z",
+   "to": "2026-11-17T09:46:06.584Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:46:06.584Z",
+   "to": "2026-11-17T09:46:06.584Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:46:06.931Z",
+   "to": "2026-11-17T09:46:06.931Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:46:06.931Z",
+   "to": "2026-11-17T09:46:06.931Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:46:09.705Z",
+   "to": "2026-11-17T09:46:09.705Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:46:09.705Z",
+   "to": "2026-11-17T09:46:09.705Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:50:00.633Z",
+   "to": "2026-11-17T09:50:00.633Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:50:00.633Z",
+   "to": "2026-11-17T09:50:00.633Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:50:05.477Z",
+   "to": "2026-11-17T09:50:05.477Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:50:05.477Z",
+   "to": "2026-11-17T09:50:05.477Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:50:05.848Z",
+   "to": "2026-11-17T09:50:05.848Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:50:05.848Z",
+   "to": "2026-11-17T09:50:05.848Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:50:06.810Z",
+   "to": "2026-11-17T09:50:06.810Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:50:06.810Z",
+   "to": "2026-11-17T09:50:06.810Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:50:07.245Z",
+   "to": "2026-11-17T09:50:07.245Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:50:07.245Z",
+   "to": "2026-11-17T09:50:07.245Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:50:09.405Z",
+   "to": "2026-11-17T09:50:09.405Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:50:09.405Z",
+   "to": "2026-11-17T09:50:09.405Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:50:18.603Z",
+   "to": "2026-11-17T09:50:18.603Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:50:18.603Z",
+   "to": "2026-11-17T09:50:18.603Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:55:01.202Z",
+   "to": "2026-11-17T09:55:01.202Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading, and between Whitechapel and Shenfield due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:55:01.202Z",
+   "to": "2026-11-17T09:55:01.202Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading, and between Whitechapel and Shenfield due to an earlier faulty train at Southall. Good service on the rest of the line.  "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-17T09:55:01.202Z",
+   "to": "2026-11-17T09:55:01.202Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals, and MINOR DELAYS between Hayes & Harlington and Reading, and between Whitechapel and Shenfield due to an earlier faulty train at Southall. Good service on the rest of the line.  "
   }
  ]
 }
