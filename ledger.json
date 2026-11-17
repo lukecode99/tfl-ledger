@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-17T18:35:10.054Z",
- "sinceISO": "2026-10-18T18:35:00.912Z",
+ "generatedAt": "2026-11-17T18:41:22.427Z",
+ "sinceISO": "2026-10-18T18:41:15.926Z",
  "coverage": [
   {
-   "from": "2026-10-18T18:35:04.125Z",
-   "to": "2026-11-17T18:35:00.598Z",
-   "polls": 60402
+   "from": "2026-10-18T18:45:04.173Z",
+   "to": "2026-11-17T18:41:15.231Z",
+   "polls": 60401
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-18T18:35:04.125Z",
+   "from": "2026-10-18T18:45:04.173Z",
    "to": "2026-10-18T20:50:00.670Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -21,7 +21,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-18T18:35:04.125Z",
+   "from": "2026-10-18T18:45:04.173Z",
    "to": "2026-10-18T23:45:25.626Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -30,7 +30,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-18T18:35:04.125Z",
+   "from": "2026-10-18T18:45:04.173Z",
    "to": "2026-10-18T23:46:03.066Z",
    "severity": 5,
    "description": "Part Closure",
@@ -39,7 +39,7 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-18T18:35:04.125Z",
+   "from": "2026-10-18T18:45:04.173Z",
    "to": "2026-10-18T23:46:03.066Z",
    "severity": 5,
    "description": "Part Closure",
@@ -48,7 +48,7 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-18T18:35:04.125Z",
+   "from": "2026-10-18T18:45:04.173Z",
    "to": "2026-10-18T20:40:39.240Z",
    "severity": 7,
    "description": "Reduced Service",
@@ -57,7 +57,7 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-10-18T18:35:04.125Z",
+   "from": "2026-10-18T18:45:04.173Z",
    "to": "2026-10-18T20:15:56.638Z",
    "severity": 7,
    "description": "Reduced Service",
@@ -66,16 +66,25 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-18T18:35:04.125Z",
-   "to": "2026-10-18T18:40:00.394Z",
+   "from": "2026-10-18T18:45:04.173Z",
+   "to": "2026-10-18T18:45:04.173Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-hill and Uxbridge/ Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge, MINOR DELAYS between Harrow-on the-Hill and Watford due to train cancellations. Tickets are being accepted on London Buses, the Lioness line and London Northwestern. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-10-18T18:45:04.173Z",
+   "to": "2026-10-18T18:45:04.173Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge, MINOR DELAYS between Harrow-on the-Hill and Watford due to train cancellations. Tickets are being accepted on London Buses, the Lioness line and London Northwestern. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-10-18T18:35:04.125Z",
+   "from": "2026-10-18T18:45:04.173Z",
    "to": "2026-10-18T23:50:00.575Z",
    "severity": 5,
    "description": "Part Closure",
@@ -84,7 +93,7 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-10-18T18:35:04.125Z",
+   "from": "2026-10-18T18:45:04.173Z",
    "to": "2026-10-18T23:50:00.575Z",
    "severity": 5,
    "description": "Part Closure",
@@ -93,7 +102,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-10-18T18:35:04.125Z",
+   "from": "2026-10-18T18:45:04.173Z",
    "to": "2026-10-18T23:45:04.653Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -102,137 +111,11 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-10-18T18:35:04.125Z",
+   "from": "2026-10-18T18:45:04.173Z",
    "to": "2026-10-18T23:50:00.575Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WEAVER LINE: Saturday 17 and Sunday 18 October, no service between Edmonton Green and Cheshunt. Replacement bus service L2 operates between Enfield Town and Cheshunt via Southbury, Turkey Street (Hertford Road), Waltham Cross (for Greater Anglia) and Theobalds Grove."
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-18T18:40:04.222Z",
-   "to": "2026-10-18T18:40:04.222Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-hill and Uxbridge, MINOR DELAYS between Harrow-on the- HILL and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-18T18:40:04.222Z",
-   "to": "2026-10-18T18:40:04.222Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-hill and Uxbridge, MINOR DELAYS between Harrow-on the- HILL and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-18T18:40:19.964Z",
-   "to": "2026-10-18T18:40:19.964Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-hill and Uxbridge, MINOR DELAYS between Harrow-on the- HILL and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-18T18:40:19.964Z",
-   "to": "2026-10-18T18:40:19.964Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-hill and Uxbridge, MINOR DELAYS between Harrow-on the- HILL and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-18T18:40:31.925Z",
-   "to": "2026-10-18T18:40:31.925Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-hill and Uxbridge, MINOR DELAYS between Harrow-on the- HILL and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-18T18:40:31.925Z",
-   "to": "2026-10-18T18:40:31.925Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-hill and Uxbridge, MINOR DELAYS between Harrow-on the- HILL and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-18T18:40:32.323Z",
-   "to": "2026-10-18T18:40:32.323Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-hill and Uxbridge, MINOR DELAYS between Harrow-on the- HILL and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-18T18:40:32.323Z",
-   "to": "2026-10-18T18:40:32.323Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-hill and Uxbridge, MINOR DELAYS between Harrow-on the- HILL and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-18T18:40:38.017Z",
-   "to": "2026-10-18T18:40:38.017Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-hill and Uxbridge, MINOR DELAYS between Harrow-on the- HILL and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-18T18:40:38.017Z",
-   "to": "2026-10-18T18:40:38.017Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-hill and Uxbridge, MINOR DELAYS between Harrow-on the- HILL and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-18T18:40:38.368Z",
-   "to": "2026-10-18T18:40:38.368Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-hill and Uxbridge, MINOR DELAYS between Harrow-on the- HILL and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-18T18:40:38.368Z",
-   "to": "2026-10-18T18:40:38.368Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-hill and Uxbridge, MINOR DELAYS between Harrow-on the- HILL and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-18T18:45:04.173Z",
-   "to": "2026-10-18T18:45:04.173Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge, MINOR DELAYS between Harrow-on the-Hill and Watford due to train cancellations. Tickets are being accepted on London Buses, the Lioness line and London Northwestern. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-18T18:45:04.173Z",
-   "to": "2026-10-18T18:45:04.173Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge, MINOR DELAYS between Harrow-on the-Hill and Watford due to train cancellations. Tickets are being accepted on London Buses, the Lioness line and London Northwestern. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "metropolitan",
@@ -1015933,7 +1015816,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-17T14:40:01.184Z",
-   "to": "2026-11-17T18:35:00.598Z",
+   "to": "2026-11-17T18:41:15.231Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
@@ -1016077,7 +1015960,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-17T17:20:05.205Z",
-   "to": "2026-11-17T18:35:00.598Z",
+   "to": "2026-11-17T18:41:15.231Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays between Camden Town and Battersea Power Station southbound only via Charing Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line. "
@@ -1016086,7 +1015969,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-17T17:30:01.270Z",
-   "to": "2026-11-17T18:35:00.598Z",
+   "to": "2026-11-17T18:41:15.231Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Turnham Green and Richmond due to train cancellations. GOOD SERVICE on the rest of the line.  "
@@ -1016131,7 +1016014,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-11-17T18:00:48.979Z",
-   "to": "2026-11-17T18:35:00.598Z",
+   "to": "2026-11-17T18:41:15.231Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Mildmay Line: No service between Willesden Junction and Clapham Junction while emergency services deal with a casualty on the track. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
@@ -1016140,10 +1016023,19 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-11-17T18:35:00.598Z",
-   "to": "2026-11-17T18:35:00.598Z",
+   "to": "2026-11-17T18:41:15.231Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays between Whitechapel and Shenfield while we fix a track fault between Forest Gate and Manor Park. London Underground is accepting tickets via reasonable routes. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-17T18:41:15.231Z",
+   "to": "2026-11-17T18:41:15.231Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals / Uxbridge due to an earlier person ill on a train at Caledonian Road. GOOD SERVIVCE on the rest of the line. "
   }
  ]
 }
