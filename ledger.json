@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-18T22:30:50.401Z",
- "sinceISO": "2026-10-19T22:30:41.069Z",
+ "generatedAt": "2026-11-18T22:50:10.346Z",
+ "sinceISO": "2026-10-19T22:50:01.148Z",
  "coverage": [
   {
-   "from": "2026-10-19T22:31:12.091Z",
-   "to": "2026-11-18T22:30:40.148Z",
-   "polls": 60406
+   "from": "2026-10-19T22:50:12.435Z",
+   "to": "2026-11-18T22:50:00.875Z",
+   "polls": 60402
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-19T22:31:12.091Z",
+   "from": "2026-10-19T22:50:12.435Z",
    "to": "2026-10-20T00:30:42.018Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,7 +21,7 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-19T22:31:12.091Z",
+   "from": "2026-10-19T22:50:12.435Z",
    "to": "2026-10-19T23:00:00.536Z",
    "severity": 7,
    "description": "Reduced Service",
@@ -30,308 +30,38 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-19T22:31:12.091Z",
+   "from": "2026-10-19T22:50:12.435Z",
    "to": "2026-10-19T23:10:00.423Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Moor Park and Watford / Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
   },
   {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-19T22:50:12.435Z",
+   "to": "2026-10-19T22:50:12.435Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-19T22:50:12.435Z",
+   "to": "2026-10-19T22:50:12.435Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
+  },
+  {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-10-19T22:31:12.091Z",
+   "from": "2026-10-19T22:50:12.435Z",
    "to": "2026-10-19T22:51:00.995Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays between Surrey Quays and Clapham Junction due to an earlier operational incident. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:40:00.399Z",
-   "to": "2026-10-19T22:40:00.399Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:40:00.399Z",
-   "to": "2026-10-19T22:40:00.399Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:40:15.135Z",
-   "to": "2026-10-19T22:40:15.135Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:40:15.135Z",
-   "to": "2026-10-19T22:40:15.135Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:40:21.072Z",
-   "to": "2026-10-19T22:40:21.072Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:40:21.072Z",
-   "to": "2026-10-19T22:40:21.072Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:40:30.937Z",
-   "to": "2026-10-19T22:40:30.937Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:40:30.937Z",
-   "to": "2026-10-19T22:40:30.937Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:40:31.266Z",
-   "to": "2026-10-19T22:40:31.266Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:40:31.266Z",
-   "to": "2026-10-19T22:40:31.266Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:40:37.773Z",
-   "to": "2026-10-19T22:40:37.773Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:40:37.773Z",
-   "to": "2026-10-19T22:40:37.773Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:40:38.110Z",
-   "to": "2026-10-19T22:40:38.110Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:40:38.110Z",
-   "to": "2026-10-19T22:40:38.110Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:45:04.209Z",
-   "to": "2026-10-19T22:45:04.209Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:45:04.209Z",
-   "to": "2026-10-19T22:45:04.209Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:45:04.552Z",
-   "to": "2026-10-19T22:45:04.552Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:45:04.552Z",
-   "to": "2026-10-19T22:45:04.552Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:45:09.982Z",
-   "to": "2026-10-19T22:45:09.982Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:45:09.982Z",
-   "to": "2026-10-19T22:45:09.982Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:45:10.408Z",
-   "to": "2026-10-19T22:45:10.408Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:45:10.408Z",
-   "to": "2026-10-19T22:45:10.408Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:45:38.982Z",
-   "to": "2026-10-19T22:45:38.982Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:45:38.982Z",
-   "to": "2026-10-19T22:45:38.982Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:45:42.824Z",
-   "to": "2026-10-19T22:45:42.824Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:45:42.824Z",
-   "to": "2026-10-19T22:45:42.824Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:45:48.900Z",
-   "to": "2026-10-19T22:45:48.900Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:45:48.900Z",
-   "to": "2026-10-19T22:45:48.900Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:50:00.550Z",
-   "to": "2026-10-19T22:50:00.550Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:50:00.550Z",
-   "to": "2026-10-19T22:50:00.550Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:50:12.435Z",
-   "to": "2026-10-19T22:50:12.435Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-19T22:50:12.435Z",
-   "to": "2026-10-19T22:50:12.435Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Mildmay Line: No service between Highbury & Islington and Stratford due to a faulty freight train at Hackney Central. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
   },
   {
    "line": "mildmay",
@@ -1000165,7 +999895,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-18T18:57:07.327Z",
-   "to": "2026-11-18T22:30:40.148Z",
+   "to": "2026-11-18T22:50:00.875Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
@@ -1000183,7 +999913,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-18T20:10:01.016Z",
-   "to": "2026-11-18T22:30:40.148Z",
+   "to": "2026-11-18T22:50:00.875Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays due to train cancellations. "
@@ -1000282,7 +1000012,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-18T21:51:01.039Z",
-   "to": "2026-11-18T22:30:40.148Z",
+   "to": "2026-11-18T22:45:47.423Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Ealing Broadway due to an earlier faulty train at Cannon Street. GOOD SERVICE on the rest of the line.  "
@@ -1000291,7 +1000021,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-11-18T22:30:40.148Z",
-   "to": "2026-11-18T22:30:40.148Z",
+   "to": "2026-11-18T22:50:00.875Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "MILDMAY LINE: Monday 16, Tuesday 17, Wednesday 18 and Thursday 19 November, the 2229 train from Stratford to Richmond will terminate at Camden Road at 2249"
