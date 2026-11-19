@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-19T07:45:12.791Z",
- "sinceISO": "2026-10-20T07:45:01.724Z",
+ "generatedAt": "2026-11-19T08:00:14.511Z",
+ "sinceISO": "2026-10-20T08:00:02.120Z",
  "coverage": [
   {
-   "from": "2026-10-20T07:45:04.539Z",
-   "to": "2026-11-19T07:45:00.822Z",
-   "polls": 60399
+   "from": "2026-10-20T08:00:05.018Z",
+   "to": "2026-11-19T08:00:01.131Z",
+   "polls": 60400
   }
  ],
  "spans": [
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-20T07:45:04.539Z",
+   "from": "2026-10-20T08:00:05.018Z",
    "to": "2026-10-20T08:41:00.577Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,7 +21,7 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-20T07:45:04.539Z",
+   "from": "2026-10-20T08:00:05.018Z",
    "to": "2026-10-20T08:16:04.969Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -996025,7 +996025,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-19T06:15:00.642Z",
-   "to": "2026-11-19T07:45:00.822Z",
+   "to": "2026-11-19T08:00:01.131Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays due to train cancellations.  "
@@ -996043,7 +996043,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-19T07:00:49.646Z",
-   "to": "2026-11-19T07:45:00.822Z",
+   "to": "2026-11-19T08:00:01.131Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
@@ -996052,10 +996052,19 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-19T07:45:00.822Z",
-   "to": "2026-11-19T07:45:00.822Z",
+   "to": "2026-11-19T07:55:51.530Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays eastbound only due to an earlier faulty train at Westminster. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "jubilee",
+   "lineName": "Jubilee",
+   "from": "2026-11-19T08:00:01.131Z",
+   "to": "2026-11-19T08:00:01.131Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Jubilee Line: Minor delays due to an earlier faulty train at Westminster. "
   }
  ]
 }
