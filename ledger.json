@@ -1,72 +1,18 @@
 {
- "generatedAt": "2026-11-19T09:46:27.425Z",
- "sinceISO": "2026-10-20T09:46:16.649Z",
+ "generatedAt": "2026-11-19T09:55:07.990Z",
+ "sinceISO": "2026-10-20T09:55:01.364Z",
  "coverage": [
   {
-   "from": "2026-10-20T09:46:18.414Z",
-   "to": "2026-11-19T09:46:14.492Z",
-   "polls": 60397
+   "from": "2026-10-20T09:55:04.324Z",
+   "to": "2026-11-19T09:55:01.020Z",
+   "polls": 60399
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-20T09:46:18.414Z",
-   "to": "2026-10-20T09:46:27.472Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Minor delays while we fix a faulty train at Queensway. "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-20T09:46:18.414Z",
-   "to": "2026-10-20T09:46:27.472Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-20T09:46:18.414Z",
-   "to": "2026-10-20T09:55:46.483Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: Severe delays due to an earlier signal fault at Mansion House. Tickets will be accepted on London Buses, C2C, Elizabeth Line and DLR services. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-20T09:46:18.414Z",
-   "to": "2026-10-20T10:05:21.365Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow Terminals/Reading while we fix a faulty train at Hayes & Harlington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway and South Western Railway services via any reasonable route. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-20T09:46:18.414Z",
-   "to": "2026-10-20T09:46:27.472Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking while we fix a signal failure at Mansion House. GOOD SERVICE on the rest of the line. Tickets will be accepted on London buses. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-20T09:46:18.414Z",
-   "to": "2026-10-20T10:00:45.923Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: Severe delays between Clapham Junction and Wandsworth Road due to an earlier person ill on a train at Norwood Junction. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-20T09:50:04.361Z",
+   "from": "2026-10-20T09:55:04.324Z",
    "to": "2026-10-20T10:06:19.335Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -75,20 +21,47 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-10-20T09:50:04.361Z",
+   "from": "2026-10-20T09:55:04.324Z",
    "to": "2026-10-20T09:55:46.483Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Circle Line: Severe delays service clockwise only due to an earlier signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses. "
   },
   {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-20T09:55:04.324Z",
+   "to": "2026-10-20T09:55:46.483Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays due to an earlier signal fault at Mansion House. Tickets will be accepted on London Buses, C2C, Elizabeth Line and DLR services. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-20T09:55:04.324Z",
+   "to": "2026-10-20T10:05:21.365Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow Terminals/Reading while we fix a faulty train at Hayes & Harlington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway and South Western Railway services via any reasonable route. "
+  },
+  {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-10-20T09:50:19.779Z",
+   "from": "2026-10-20T09:55:04.324Z",
    "to": "2026-10-20T09:55:46.483Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Hammersmith and City Line: Severe delays due to an earlier signal failure at Mansion House.  Tickets will be accepted on London buses. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-10-20T09:55:04.324Z",
+   "to": "2026-10-20T10:00:45.923Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Windrush Line: Severe delays between Clapham Junction and Wandsworth Road due to an earlier person ill on a train at Norwood Junction. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "circle",
@@ -994486,7 +994459,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-11-19T08:20:00.760Z",
-   "to": "2026-11-19T09:46:14.492Z",
+   "to": "2026-11-19T09:55:01.020Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
@@ -994495,7 +994468,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-19T08:25:00.630Z",
-   "to": "2026-11-19T09:46:14.492Z",
+   "to": "2026-11-19T09:55:01.020Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charring Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line. "
@@ -994639,7 +994612,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-19T09:07:09.286Z",
-   "to": "2026-11-19T09:46:14.492Z",
+   "to": "2026-11-19T09:50:31.139Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Aldgate and Baker Street due to an earlier person ill on a train at Finchley Road. GOOD SERVICE on the rest of the line. "
@@ -994936,7 +994909,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-19T09:20:00.847Z",
-   "to": "2026-11-19T09:46:14.492Z",
+   "to": "2026-11-19T09:55:01.020Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Jubilee Line: Severe delays due to train cancellations. Tickets are being accepted on, London Buses, Mildmay Line, DLR, Elizabeth Line, C2C, Southeastern and Thameslink services. "
@@ -995323,7 +995296,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-19T09:35:31.558Z",
-   "to": "2026-11-19T09:46:14.492Z",
+   "to": "2026-11-19T09:55:01.020Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
@@ -995332,7 +995305,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-11-19T09:35:31.558Z",
-   "to": "2026-11-19T09:46:14.492Z",
+   "to": "2026-11-19T09:55:01.020Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Circle Line: Minor delays clockwise only, while we help a person ill on a train at Edgware road. GOOD SERVICE on the rest of the line. "
@@ -995341,7 +995314,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-11-19T09:35:31.558Z",
-   "to": "2026-11-19T09:46:14.492Z",
+   "to": "2026-11-19T09:55:01.020Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Hammersmith and City Line: Minor delays eastbound only, while we help a person ill on a train at Edgware road. GOOD SERVICE on the rest of the line. "
@@ -995359,7 +995332,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-19T09:46:14.492Z",
-   "to": "2026-11-19T09:46:14.492Z",
+   "to": "2026-11-19T09:55:01.020Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "District Line: No service between High Street Kensington and Edgware Road while we help a person ill on a train at Edgware Road. Tickets are being accepted on London Buses and Elizabeth Line services. GOOD SERVICE on the rest of the line. "
