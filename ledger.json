@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-20T17:50:13.096Z",
- "sinceISO": "2026-10-21T17:50:01.119Z",
+ "generatedAt": "2026-11-20T17:55:10.858Z",
+ "sinceISO": "2026-10-21T17:55:01.374Z",
  "coverage": [
   {
-   "from": "2026-10-21T17:50:07.444Z",
-   "to": "2026-11-20T17:50:00.810Z",
-   "polls": 60400
+   "from": "2026-10-21T17:55:04.308Z",
+   "to": "2026-11-20T17:55:01.074Z",
+   "polls": 60401
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-21T17:50:07.444Z",
+   "from": "2026-10-21T17:55:04.308Z",
    "to": "2026-10-21T19:26:12.935Z",
    "severity": 3,
    "description": "Part Suspended",
@@ -21,7 +21,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-21T17:50:07.444Z",
+   "from": "2026-10-21T17:55:04.308Z",
    "to": "2026-10-21T21:00:57.737Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -30,7 +30,7 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-21T17:50:07.444Z",
+   "from": "2026-10-21T17:55:04.308Z",
    "to": "2026-10-21T18:11:19.598Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -39,7 +39,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-10-21T17:50:07.444Z",
+   "from": "2026-10-21T17:55:04.308Z",
    "to": "2026-10-21T18:35:04.567Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -48,7 +48,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-10-21T17:50:07.444Z",
+   "from": "2026-10-21T17:55:04.308Z",
    "to": "2026-10-21T18:36:28.920Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -57,7 +57,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-10-21T17:50:07.444Z",
+   "from": "2026-10-21T17:55:04.308Z",
    "to": "2026-10-21T22:30:34.051Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -975352,7 +975352,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-11-20T13:55:00.586Z",
-   "to": "2026-11-20T17:50:00.810Z",
+   "to": "2026-11-20T17:55:01.074Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "TUBE STRIKE: Piccadilly line service control staff are planning to take strike action from Friday 20 until Saturday evening 21 November. There will be no service from midday on Friday until Saturday evening, including Night Tube on Friday night. Normal Night Tube service is expected to operate on Saturday night. Due to shared infrastructure around the Ealing Common District line depot, there will be no DISTRICT LINE service between Turnham Green and Ealing Broadway from midday on Friday until Saturday evening. Replacement buses will operate during Friday Night Tube hours and Saturday daytime only. Please use ELIZABETH LINE services for travel between Central London and Heathrow, and between terminals, and METROPOLITAN LINE services between Rayners Lane and Uxbridge."
@@ -979150,7 +979150,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-20T16:11:28.498Z",
-   "to": "2026-11-20T17:50:00.810Z",
+   "to": "2026-11-20T17:55:01.074Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Bakerloo Line: Severe delays due to a track fault at Willesden Junction. London Buses, London Overground, London Northwestern Railway and Thameslink are accepting tickets via any reasonable route. "
@@ -980203,7 +980203,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-20T16:35:00.881Z",
-   "to": "2026-11-20T17:50:00.810Z",
+   "to": "2026-11-20T17:55:01.074Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
@@ -981886,7 +981886,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-11-20T17:40:00.935Z",
-   "to": "2026-11-20T17:50:00.810Z",
+   "to": "2026-11-20T17:55:01.074Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Mildmay Line: Severe delays due to a faulty train at Stratford. London Underground are accepting tickets via any reasonable route. "
@@ -982147,10 +982147,145 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-11-20T17:50:00.810Z",
-   "to": "2026-11-20T17:50:00.810Z",
+   "to": "2026-11-20T17:50:38.264Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays while we fix a points failure at Brixton.  "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-20T17:50:26.055Z",
+   "to": "2026-11-20T17:50:26.055Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to strike action. SEVERE DELAYS on the rest of the line due to train cancellations. London Buses, DLR, Mildmay line, South Western Railway, Elizabeth line, C2C and South Western Railway are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-20T17:50:26.055Z",
+   "to": "2026-11-20T17:50:26.055Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "TUBE STRIKE: Piccadilly line service control staff are taking strike action from Friday 20 until Saturday evening, 21 November. Due to shared infrastructure around the Ealing Common District line depot, there will be no DISTRICT LINE service between Turnham Green and Ealing Broadway from midday on Friday until Saturday evening, with a reduced service on the rest of the line. No Piccadilly line service is expected during the strike. Replacement bus services operate during Friday Night Tube and Saturday daytime hours only. Please use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond, where available."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-20T17:50:26.446Z",
+   "to": "2026-11-20T17:50:26.446Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to strike action. SEVERE DELAYS on the rest of the line due to train cancellations. London Buses, DLR, Mildmay line, South Western Railway, Elizabeth line, C2C and South Western Railway are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-20T17:50:26.446Z",
+   "to": "2026-11-20T17:50:26.446Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "TUBE STRIKE: Piccadilly line service control staff are taking strike action from Friday 20 until Saturday evening, 21 November. Due to shared infrastructure around the Ealing Common District line depot, there will be no DISTRICT LINE service between Turnham Green and Ealing Broadway from midday on Friday until Saturday evening, with a reduced service on the rest of the line. No Piccadilly line service is expected during the strike. Replacement bus services operate during Friday Night Tube and Saturday daytime hours only. Please use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond, where available."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-20T17:50:26.840Z",
+   "to": "2026-11-20T17:50:26.840Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to strike action. SEVERE DELAYS on the rest of the line due to train cancellations. London Buses, DLR, Mildmay line, South Western Railway, Elizabeth line, C2C and South Western Railway are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-20T17:50:26.840Z",
+   "to": "2026-11-20T17:50:26.840Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "TUBE STRIKE: Piccadilly line service control staff are taking strike action from Friday 20 until Saturday evening, 21 November. Due to shared infrastructure around the Ealing Common District line depot, there will be no DISTRICT LINE service between Turnham Green and Ealing Broadway from midday on Friday until Saturday evening, with a reduced service on the rest of the line. No Piccadilly line service is expected during the strike. Replacement bus services operate during Friday Night Tube and Saturday daytime hours only. Please use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond, where available."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-20T17:50:27.207Z",
+   "to": "2026-11-20T17:50:27.207Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to strike action. SEVERE DELAYS on the rest of the line due to train cancellations. London Buses, DLR, Mildmay line, South Western Railway, Elizabeth line, C2C and South Western Railway are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-20T17:50:27.207Z",
+   "to": "2026-11-20T17:50:27.207Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "TUBE STRIKE: Piccadilly line service control staff are taking strike action from Friday 20 until Saturday evening, 21 November. Due to shared infrastructure around the Ealing Common District line depot, there will be no DISTRICT LINE service between Turnham Green and Ealing Broadway from midday on Friday until Saturday evening, with a reduced service on the rest of the line. No Piccadilly line service is expected during the strike. Replacement bus services operate during Friday Night Tube and Saturday daytime hours only. Please use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond, where available."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-20T17:50:29.491Z",
+   "to": "2026-11-20T17:50:29.491Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to strike action. SEVERE DELAYS on the rest of the line due to train cancellations. London Buses, DLR, Mildmay line, South Western Railway, Elizabeth line, C2C and South Western Railway are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-20T17:50:29.491Z",
+   "to": "2026-11-20T17:50:29.491Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "TUBE STRIKE: Piccadilly line service control staff are taking strike action from Friday 20 until Saturday evening, 21 November. Due to shared infrastructure around the Ealing Common District line depot, there will be no DISTRICT LINE service between Turnham Green and Ealing Broadway from midday on Friday until Saturday evening, with a reduced service on the rest of the line. No Piccadilly line service is expected during the strike. Replacement bus services operate during Friday Night Tube and Saturday daytime hours only. Please use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond, where available."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-20T17:50:38.264Z",
+   "to": "2026-11-20T17:50:38.264Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to strike action. SEVERE DELAYS on the rest of the line due to train cancellations. London Buses, DLR, Mildmay line, South Western Railway, Elizabeth line, C2C and South Western Railway are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-20T17:50:38.264Z",
+   "to": "2026-11-20T17:50:38.264Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "TUBE STRIKE: Piccadilly line service control staff are taking strike action from Friday 20 until Saturday evening, 21 November. Due to shared infrastructure around the Ealing Common District line depot, there will be no DISTRICT LINE service between Turnham Green and Ealing Broadway from midday on Friday until Saturday evening, with a reduced service on the rest of the line. No Piccadilly line service is expected during the strike. Replacement bus services operate during Friday Night Tube and Saturday daytime hours only. Please use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond, where available."
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-20T17:55:01.074Z",
+   "to": "2026-11-20T17:55:01.074Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: No service between Turnham Green and Ealing Broadway due to strike action. SEVERE DELAYS on the rest of the line due to train cancellations. London Buses, DLR, Mildmay line, South Western Railway, Elizabeth line, C2C and South Western Railway are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-11-20T17:55:01.074Z",
+   "to": "2026-11-20T17:55:01.074Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "TUBE STRIKE: Piccadilly line service control staff are taking strike action from Friday 20 until Saturday evening, 21 November. Due to shared infrastructure around the Ealing Common District line depot, there will be no DISTRICT LINE service between Turnham Green and Ealing Broadway from midday on Friday until Saturday evening, with a reduced service on the rest of the line. No Piccadilly line service is expected during the strike. Replacement bus services operate during Friday Night Tube and Saturday daytime hours only. Please use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond, where available."
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-20T17:55:01.074Z",
+   "to": "2026-11-20T17:55:01.074Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Victoria Line: Severe delays while we fix a points failure at Brixton. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Greater Anglia, Southeastern and South Western Railway.  "
   }
  ]
 }
