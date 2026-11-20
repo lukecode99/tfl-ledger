@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-20T07:05:11.275Z",
- "sinceISO": "2026-10-21T07:05:01.286Z",
+ "generatedAt": "2026-11-20T07:10:07.501Z",
+ "sinceISO": "2026-10-21T07:10:01.348Z",
  "coverage": [
   {
-   "from": "2026-10-21T07:05:04.998Z",
-   "to": "2026-11-20T07:05:00.770Z",
-   "polls": 60401
+   "from": "2026-10-21T07:10:06.529Z",
+   "to": "2026-11-20T07:10:00.790Z",
+   "polls": 60400
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-21T07:05:04.998Z",
+   "from": "2026-10-21T07:10:06.529Z",
    "to": "2026-10-21T08:50:51.475Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,7 +21,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-21T07:05:04.998Z",
+   "from": "2026-10-21T07:10:06.529Z",
    "to": "2026-10-21T07:10:49.773Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -30,7 +30,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-10-21T07:05:04.998Z",
+   "from": "2026-10-21T07:10:06.529Z",
    "to": "2026-10-21T08:06:13.719Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -39,7 +39,7 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-10-21T07:05:04.998Z",
+   "from": "2026-10-21T07:10:06.529Z",
    "to": "2026-10-21T07:30:39.611Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -963508,7 +963508,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-11-20T04:35:00.608Z",
-   "to": "2026-11-20T07:05:00.770Z",
+   "to": "2026-11-20T07:10:00.790Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays due to strike action.  "
@@ -963535,7 +963535,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-20T06:45:00.926Z",
-   "to": "2026-11-20T07:05:00.770Z",
+   "to": "2026-11-20T07:06:01.271Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays between Queens's Park and Harrow & Wealdstone due to a track fault at Willesden Junction. "
@@ -963544,7 +963544,7 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-11-20T06:50:00.995Z",
-   "to": "2026-11-20T07:05:00.770Z",
+   "to": "2026-11-20T07:10:00.790Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Lioness Line: Severe delays due to a track fault at Willesden Junction. "
@@ -963553,10 +963553,28 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-20T07:05:00.770Z",
-   "to": "2026-11-20T07:05:00.770Z",
+   "to": "2026-11-20T07:10:00.790Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-20T07:10:00.790Z",
+   "to": "2026-11-20T07:10:00.790Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: Severe delays due to a track fault at Willesden Junction. London Buses and Thameslink are accepting valid tickets via any reasonable route. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-20T07:10:00.790Z",
+   "to": "2026-11-20T07:10:00.790Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Circle Line: Minor delays anticlockwise due to an earlier faulty train at Euston Square. GOOD SERVICE clockwise.  "
   }
  ]
 }
