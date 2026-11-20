@@ -1,45 +1,27 @@
 {
- "generatedAt": "2026-11-20T05:35:36.920Z",
- "sinceISO": "2026-10-21T05:35:27.406Z",
+ "generatedAt": "2026-11-20T05:55:07.736Z",
+ "sinceISO": "2026-10-21T05:55:01.402Z",
  "coverage": [
   {
-   "from": "2026-10-21T05:35:50.875Z",
-   "to": "2026-11-20T05:35:27.086Z",
-   "polls": 60399
+   "from": "2026-10-21T05:55:05.320Z",
+   "to": "2026-11-20T05:55:00.920Z",
+   "polls": 60401
   }
  ],
  "spans": [
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-21T05:35:50.875Z",
+   "from": "2026-10-21T05:55:05.320Z",
    "to": "2026-10-21T06:25:10.810Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays between  Earl's Court and Tower Hill  westbound only due to an earlier faulty train at Plaistow. GOOD SERVICE on the rest of the line.  "
   },
   {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-21T05:35:50.875Z",
-   "to": "2026-10-21T05:45:12.327Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-21T05:35:50.875Z",
-   "to": "2026-10-21T05:45:12.327Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
-  },
-  {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-10-21T05:35:50.875Z",
+   "from": "2026-10-21T05:55:05.320Z",
    "to": "2026-10-21T06:01:00.954Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -48,7 +30,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-10-21T05:35:50.875Z",
+   "from": "2026-10-21T05:55:05.320Z",
    "to": "2026-10-21T06:15:38.178Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -963409,7 +963391,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-20T00:35:00.811Z",
-   "to": "2026-11-20T05:35:27.086Z",
+   "to": "2026-11-20T05:55:00.920Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00. "
@@ -963580,10 +963562,19 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-11-20T04:35:00.608Z",
-   "to": "2026-11-20T05:35:27.086Z",
+   "to": "2026-11-20T05:55:00.920Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays due to strike action.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-20T05:55:00.920Z",
+   "to": "2026-11-20T05:55:00.920Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
