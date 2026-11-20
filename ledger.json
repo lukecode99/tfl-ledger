@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-20T06:45:11.731Z",
- "sinceISO": "2026-10-21T06:45:01.223Z",
+ "generatedAt": "2026-11-20T06:50:10.906Z",
+ "sinceISO": "2026-10-21T06:50:01.269Z",
  "coverage": [
   {
-   "from": "2026-10-21T06:45:05.169Z",
-   "to": "2026-11-20T06:45:00.926Z",
-   "polls": 60401
+   "from": "2026-10-21T06:50:18.336Z",
+   "to": "2026-11-20T06:50:00.995Z",
+   "polls": 60400
   }
  ],
  "spans": [
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-21T06:45:05.169Z",
+   "from": "2026-10-21T06:50:18.336Z",
    "to": "2026-10-21T06:56:12.507Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,7 +21,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-10-21T06:45:05.169Z",
+   "from": "2026-10-21T06:50:18.336Z",
    "to": "2026-10-21T06:51:08.539Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -30,7 +30,7 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-10-21T06:50:00.544Z",
+   "from": "2026-10-21T06:50:18.336Z",
    "to": "2026-10-21T07:30:39.611Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -963526,7 +963526,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-11-20T04:35:00.608Z",
-   "to": "2026-11-20T06:45:00.926Z",
+   "to": "2026-11-20T06:50:00.995Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays due to strike action.  "
@@ -963544,7 +963544,7 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-11-20T06:40:00.847Z",
-   "to": "2026-11-20T06:45:00.926Z",
+   "to": "2026-11-20T06:46:39.562Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Lioness Line: Minor delays due to a track fault at Willesden Junction. "
@@ -963553,10 +963553,19 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-20T06:45:00.926Z",
-   "to": "2026-11-20T06:45:00.926Z",
+   "to": "2026-11-20T06:50:00.995Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Bakerloo Line: Minor delays between Queens's Park and Harrow & Wealdstone due to a track fault at Willesden Junction. "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-20T06:50:00.995Z",
+   "to": "2026-11-20T06:50:00.995Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: Severe delays due to a track fault at Willesden Junction. "
   }
  ]
 }
