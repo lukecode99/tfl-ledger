@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-22T17:40:53.122Z",
- "sinceISO": "2026-10-23T17:40:45.839Z",
+ "generatedAt": "2026-11-22T17:45:21.276Z",
+ "sinceISO": "2026-10-23T17:45:13.420Z",
  "coverage": [
   {
-   "from": "2026-10-23T17:45:00.730Z",
-   "to": "2026-11-22T17:40:45.575Z",
-   "polls": 60407
+   "from": "2026-10-23T17:45:17.895Z",
+   "to": "2026-11-22T17:45:13.092Z",
+   "polls": 60406
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-23T17:45:00.730Z",
+   "from": "2026-10-23T17:45:17.895Z",
    "to": "2026-10-23T22:10:19.304Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,16 +21,25 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-23T17:45:00.730Z",
+   "from": "2026-10-23T17:45:17.895Z",
    "to": "2026-10-23T17:51:06.967Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays between High Street Kensington and Edgware Road due to an earlier points failure at High Street Kensington. Tickets will be accepted on London buses via any reasonable route. GOOD SERVICE on the rest of the line.  "
   },
   {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-23T17:45:17.895Z",
+   "to": "2026-10-23T17:45:58.774Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: Minor delays between Stratford international and Woolwich Arsenal due to a faulty train at Canning Town. GOOD SERVICE rest of the line. "
+  },
+  {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-23T17:45:00.730Z",
+   "from": "2026-10-23T17:45:17.895Z",
    "to": "2026-10-23T19:00:53.825Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -39,7 +48,7 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-10-23T17:45:00.730Z",
+   "from": "2026-10-23T17:45:17.895Z",
    "to": "2026-10-23T20:35:38.283Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -48,7 +57,7 @@
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-10-23T17:45:00.730Z",
+   "from": "2026-10-23T17:45:17.895Z",
    "to": "2026-10-23T17:56:25.576Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -57,7 +66,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-10-23T17:45:00.730Z",
+   "from": "2026-10-23T17:45:17.895Z",
    "to": "2026-10-23T17:51:06.967Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -66,7 +75,7 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-10-23T17:45:00.730Z",
+   "from": "2026-10-23T17:45:17.895Z",
    "to": "2026-10-24T00:15:55.326Z",
    "severity": 2,
    "description": "Suspended",
@@ -75,7 +84,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-10-23T17:45:00.730Z",
+   "from": "2026-10-23T17:45:17.895Z",
    "to": "2026-10-23T23:11:07.130Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -84,20 +93,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-10-23T17:45:00.730Z",
+   "from": "2026-10-23T17:45:17.895Z",
    "to": "2026-10-24T00:30:13.560Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Windrush Line: No service between West Croydon and Sydenham due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-10-23T17:45:01.143Z",
-   "to": "2026-10-23T17:45:58.774Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Docklands Light Railway: Minor delays between Stratford international and Woolwich Arsenal due to a faulty train at Canning Town. GOOD SERVICE rest of the line. "
   },
   {
    "line": "dlr",
@@ -1063237,7 +1063237,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-22T04:16:01.541Z",
-   "to": "2026-11-22T17:40:45.575Z",
+   "to": "2026-11-22T17:45:13.092Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "BAKERLOO LINE: Saturday 21 and Sunday 22 November, no service between Queens Park and Harrow & Wealdstone. Please note that special bus service 718 will NOT operate. There will also be no LIONESS LINE service between Euston and Watford Junction. LONDON NORTH WESTERN RAILWAY trains continue to stop at Harrow & Wealdstone. SOUTHERN trains stop at Wembley Central and Harrow & Wealdstone until 1900 Saturday only, not on Sunday."
@@ -1063246,7 +1063246,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-11-22T04:16:01.541Z",
-   "to": "2026-11-22T17:40:45.575Z",
+   "to": "2026-11-22T17:45:13.092Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 21 and Sunday 22 November, no service between Canning Town and Stratford International. Please use JUBILEE LINE and local London Buses services."
@@ -1063309,7 +1063309,7 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-11-22T04:20:02.998Z",
-   "to": "2026-11-22T17:40:45.575Z",
+   "to": "2026-11-22T17:45:13.092Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "LIONESS LINE: Saturday 21 and Sunday 22 November, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. Special bus service 720 operates (please note service 718 will NOT operate). LONDON NORTH WESTERN RAILWAY trains continue to serve Euston, Harrow & Wealdstone, Bushey and Watford Junction. SOUTHERN trains serve Wembley Central, Harrow & Wealdstone and Watford Junction until 1900 Saturday only, not on Sunday."
@@ -1063336,7 +1063336,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-22T04:20:02.998Z",
-   "to": "2026-11-22T17:40:45.575Z",
+   "to": "2026-11-22T17:45:13.092Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -1094575,7 +1094575,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-22T15:30:03.232Z",
-   "to": "2026-11-22T17:40:45.575Z",
+   "to": "2026-11-22T17:45:13.092Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -1094836,7 +1094836,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-22T15:35:13.607Z",
-   "to": "2026-11-22T17:40:45.575Z",
+   "to": "2026-11-22T17:45:13.092Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -1099229,6 +1099229,51 @@
    "lineName": "Mildmay",
    "from": "2026-11-22T17:40:45.575Z",
    "to": "2026-11-22T17:40:45.575Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:45:13.092Z",
+   "to": "2026-11-22T17:45:13.092Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:45:13.092Z",
+   "to": "2026-11-22T17:45:13.092Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "No service between Abbey Wood and Custom House and MINOR DELAYS between Custom House and Paddington while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:45:13.092Z",
+   "to": "2026-11-22T17:45:13.092Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House and MINOR DELAYS between Custom House and Paddington while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:45:13.092Z",
+   "to": "2026-11-22T17:45:13.092Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:45:13.092Z",
+   "to": "2026-11-22T17:45:13.092Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
