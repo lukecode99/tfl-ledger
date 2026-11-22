@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-22T17:15:25.246Z",
- "sinceISO": "2026-10-23T17:15:14.973Z",
+ "generatedAt": "2026-11-22T17:35:24.748Z",
+ "sinceISO": "2026-10-23T17:35:14.433Z",
  "coverage": [
   {
-   "from": "2026-10-23T17:15:34.937Z",
-   "to": "2026-11-22T17:15:14.141Z",
-   "polls": 60404
+   "from": "2026-10-23T17:35:16.129Z",
+   "to": "2026-11-22T17:35:14.182Z",
+   "polls": 60406
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-23T17:15:34.937Z",
+   "from": "2026-10-23T17:35:16.129Z",
    "to": "2026-10-23T22:10:19.304Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -21,25 +21,34 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-23T17:15:34.937Z",
-   "to": "2026-10-23T17:15:47.897Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "District Line: No service between High Street Kensington and Edgware Road while we fix a points failure at High street Kensington. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE on the rest of the line. "
+   "from": "2026-10-23T17:35:16.129Z",
+   "to": "2026-10-23T17:51:06.967Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "District Line: Severe delays between High Street Kensington and Edgware Road due to an earlier points failure at High Street Kensington. Tickets will be accepted on London buses via any reasonable route. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-23T17:15:34.937Z",
+   "from": "2026-10-23T17:35:16.129Z",
    "to": "2026-10-23T19:00:53.825Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays between Paddington and Heathrow/Reading while we fix an infrastructure defect at Southall. GOOD SERVICE on the rest of the line. "
   },
   {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-10-23T17:35:16.129Z",
+   "to": "2026-10-23T20:35:38.283Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Mildmay Line: Minor delays due to an earlier faulty train at Dalston Kingsland.  "
+  },
+  {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-10-23T17:15:34.937Z",
+   "from": "2026-10-23T17:35:16.129Z",
    "to": "2026-10-23T17:56:25.576Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -48,7 +57,7 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-10-23T17:15:34.937Z",
+   "from": "2026-10-23T17:35:16.129Z",
    "to": "2026-10-23T17:51:06.967Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -57,7 +66,7 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-10-23T17:15:34.937Z",
+   "from": "2026-10-23T17:35:16.129Z",
    "to": "2026-10-24T00:15:55.326Z",
    "severity": 2,
    "description": "Suspended",
@@ -66,7 +75,7 @@
   {
    "line": "victoria",
    "lineName": "Victoria",
-   "from": "2026-10-23T17:15:34.937Z",
+   "from": "2026-10-23T17:35:16.129Z",
    "to": "2026-10-23T23:11:07.130Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -75,110 +84,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-10-23T17:15:34.937Z",
-   "to": "2026-10-23T17:15:34.937Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between West Croydon and Sydenham, and SEVERE DELAYS between Highbury & Islington and Dalston Junction due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-23T17:15:34.937Z",
-   "to": "2026-10-23T17:15:34.937Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between West Croydon and Sydenham, and SEVERE DELAYS between Highbury & Islington and Dalston Junction due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-23T17:15:43.861Z",
-   "to": "2026-10-23T17:15:43.861Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between West Croydon and Sydenham, and SEVERE DELAYS between Highbury & Islington and Dalston Junction due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-23T17:15:43.861Z",
-   "to": "2026-10-23T17:15:43.861Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between West Croydon and Sydenham, and SEVERE DELAYS between Highbury & Islington and Dalston Junction due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-23T17:15:47.897Z",
-   "to": "2026-10-23T17:15:47.897Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Windrush Line: No service between West Croydon and Sydenham, and SEVERE DELAYS between Highbury & Islington and Dalston Junction due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-23T17:15:47.897Z",
-   "to": "2026-10-23T17:15:47.897Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between West Croydon and Sydenham, and SEVERE DELAYS between Highbury & Islington and Dalston Junction due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-23T17:20:00.560Z",
-   "to": "2026-10-23T17:20:00.560Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: Severe delays between High Street Kensington and Edgware Road due to an earlier points failure at High street Kensington.  "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-23T17:20:00.560Z",
+   "from": "2026-10-23T17:35:16.129Z",
    "to": "2026-10-24T00:30:13.560Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Windrush Line: No service between West Croydon and Sydenham due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-23T17:20:22.151Z",
-   "to": "2026-10-23T17:20:52.567Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: Severe delays between High Street Kensington and Edgware Road due to an earlier points failure at High street Kensington. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-23T17:25:00.383Z",
-   "to": "2026-10-23T17:31:17.092Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: Severe delays between High Street Kensington and Edgware Road due to an earlier points failure at High Street Kensington. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-23T17:30:00.443Z",
-   "to": "2026-10-23T20:35:38.283Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Mildmay Line: Minor delays due to an earlier faulty train at Dalston Kingsland.  "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-23T17:35:00.857Z",
-   "to": "2026-10-23T17:51:06.967Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "District Line: Severe delays between High Street Kensington and Edgware Road due to an earlier points failure at High Street Kensington. Tickets will be accepted on London buses via any reasonable route. GOOD SERVICE on the rest of the line.  "
   },
   {
    "line": "dlr",
@@ -1063327,7 +1063237,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-22T04:16:01.541Z",
-   "to": "2026-11-22T17:15:14.141Z",
+   "to": "2026-11-22T17:35:14.182Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "BAKERLOO LINE: Saturday 21 and Sunday 22 November, no service between Queens Park and Harrow & Wealdstone. Please note that special bus service 718 will NOT operate. There will also be no LIONESS LINE service between Euston and Watford Junction. LONDON NORTH WESTERN RAILWAY trains continue to stop at Harrow & Wealdstone. SOUTHERN trains stop at Wembley Central and Harrow & Wealdstone until 1900 Saturday only, not on Sunday."
@@ -1063336,7 +1063246,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-11-22T04:16:01.541Z",
-   "to": "2026-11-22T17:15:14.141Z",
+   "to": "2026-11-22T17:35:14.182Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 21 and Sunday 22 November, no service between Canning Town and Stratford International. Please use JUBILEE LINE and local London Buses services."
@@ -1063399,7 +1063309,7 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-11-22T04:20:02.998Z",
-   "to": "2026-11-22T17:15:14.141Z",
+   "to": "2026-11-22T17:35:14.182Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "LIONESS LINE: Saturday 21 and Sunday 22 November, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. Special bus service 720 operates (please note service 718 will NOT operate). LONDON NORTH WESTERN RAILWAY trains continue to serve Euston, Harrow & Wealdstone, Bushey and Watford Junction. SOUTHERN trains serve Wembley Central, Harrow & Wealdstone and Watford Junction until 1900 Saturday only, not on Sunday."
@@ -1063426,7 +1063336,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-22T04:20:02.998Z",
-   "to": "2026-11-22T17:15:14.141Z",
+   "to": "2026-11-22T17:35:14.182Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -1094665,7 +1094575,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-22T15:30:03.232Z",
-   "to": "2026-11-22T17:15:14.141Z",
+   "to": "2026-11-22T17:35:14.182Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -1094926,7 +1094836,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-22T15:35:13.607Z",
-   "to": "2026-11-22T17:15:14.141Z",
+   "to": "2026-11-22T17:35:14.182Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -1095457,7 +1095367,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-22T15:45:13.256Z",
-   "to": "2026-11-22T17:15:14.141Z",
+   "to": "2026-11-22T17:30:49.138Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays due to an earlier points failure at Camden Town.  "
@@ -1097861,6 +1097771,1014 @@
    "lineName": "Mildmay",
    "from": "2026-11-22T17:15:14.141Z",
    "to": "2026-11-22T17:15:14.141Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:15:31.878Z",
+   "to": "2026-11-22T17:15:31.878Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:15:31.878Z",
+   "to": "2026-11-22T17:15:31.878Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:15:31.878Z",
+   "to": "2026-11-22T17:15:31.878Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:15:31.878Z",
+   "to": "2026-11-22T17:15:31.878Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:16:36.027Z",
+   "to": "2026-11-22T17:16:36.027Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:16:36.027Z",
+   "to": "2026-11-22T17:16:36.027Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:16:36.027Z",
+   "to": "2026-11-22T17:16:36.027Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:16:36.027Z",
+   "to": "2026-11-22T17:16:36.027Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:16:37.276Z",
+   "to": "2026-11-22T17:16:37.276Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:16:37.276Z",
+   "to": "2026-11-22T17:16:37.276Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:16:37.276Z",
+   "to": "2026-11-22T17:16:37.276Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:16:37.276Z",
+   "to": "2026-11-22T17:16:37.276Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:16:37.634Z",
+   "to": "2026-11-22T17:16:37.634Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:16:37.634Z",
+   "to": "2026-11-22T17:16:37.634Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:16:37.634Z",
+   "to": "2026-11-22T17:16:37.634Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:16:37.634Z",
+   "to": "2026-11-22T17:16:37.634Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:16:37.978Z",
+   "to": "2026-11-22T17:16:37.978Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:16:37.978Z",
+   "to": "2026-11-22T17:16:37.978Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:16:37.978Z",
+   "to": "2026-11-22T17:16:37.978Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:16:37.978Z",
+   "to": "2026-11-22T17:16:37.978Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:16:40.889Z",
+   "to": "2026-11-22T17:16:40.889Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:16:40.889Z",
+   "to": "2026-11-22T17:16:40.889Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:16:40.889Z",
+   "to": "2026-11-22T17:16:40.889Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:16:40.889Z",
+   "to": "2026-11-22T17:16:40.889Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:20:02.825Z",
+   "to": "2026-11-22T17:20:02.825Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:20:02.825Z",
+   "to": "2026-11-22T17:20:02.825Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:20:02.825Z",
+   "to": "2026-11-22T17:20:02.825Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:20:02.825Z",
+   "to": "2026-11-22T17:20:02.825Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:20:03.673Z",
+   "to": "2026-11-22T17:20:03.673Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:20:03.673Z",
+   "to": "2026-11-22T17:20:03.673Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:20:03.673Z",
+   "to": "2026-11-22T17:20:03.673Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:20:03.673Z",
+   "to": "2026-11-22T17:20:03.673Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:20:04.048Z",
+   "to": "2026-11-22T17:20:04.048Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:20:04.048Z",
+   "to": "2026-11-22T17:20:04.048Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:20:04.048Z",
+   "to": "2026-11-22T17:20:04.048Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:20:04.048Z",
+   "to": "2026-11-22T17:20:04.048Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:20:04.448Z",
+   "to": "2026-11-22T17:20:04.448Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:20:04.448Z",
+   "to": "2026-11-22T17:20:04.448Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:20:04.448Z",
+   "to": "2026-11-22T17:20:04.448Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:20:04.448Z",
+   "to": "2026-11-22T17:20:04.448Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:20:06.989Z",
+   "to": "2026-11-22T17:20:06.989Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:20:06.989Z",
+   "to": "2026-11-22T17:20:06.989Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:20:06.989Z",
+   "to": "2026-11-22T17:20:06.989Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:20:06.989Z",
+   "to": "2026-11-22T17:20:06.989Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:21:03.618Z",
+   "to": "2026-11-22T17:21:03.618Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:21:03.618Z",
+   "to": "2026-11-22T17:21:03.618Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:21:03.618Z",
+   "to": "2026-11-22T17:21:03.618Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:21:03.618Z",
+   "to": "2026-11-22T17:21:03.618Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:21:04.044Z",
+   "to": "2026-11-22T17:21:04.044Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:21:04.044Z",
+   "to": "2026-11-22T17:21:04.044Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:21:04.044Z",
+   "to": "2026-11-22T17:21:04.044Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:21:04.044Z",
+   "to": "2026-11-22T17:21:04.044Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:25:14.838Z",
+   "to": "2026-11-22T17:25:14.838Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:25:14.838Z",
+   "to": "2026-11-22T17:25:14.838Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:25:14.838Z",
+   "to": "2026-11-22T17:25:14.838Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:25:14.838Z",
+   "to": "2026-11-22T17:25:14.838Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:25:15.848Z",
+   "to": "2026-11-22T17:25:15.848Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:25:15.848Z",
+   "to": "2026-11-22T17:25:15.848Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:25:15.848Z",
+   "to": "2026-11-22T17:25:15.848Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:25:15.848Z",
+   "to": "2026-11-22T17:25:15.848Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:26:16.622Z",
+   "to": "2026-11-22T17:26:16.622Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:26:16.622Z",
+   "to": "2026-11-22T17:26:16.622Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:26:16.622Z",
+   "to": "2026-11-22T17:26:16.622Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:26:16.622Z",
+   "to": "2026-11-22T17:26:16.622Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:26:17.418Z",
+   "to": "2026-11-22T17:26:17.418Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:26:17.418Z",
+   "to": "2026-11-22T17:26:17.418Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:26:17.418Z",
+   "to": "2026-11-22T17:26:17.418Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:26:17.418Z",
+   "to": "2026-11-22T17:26:17.418Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:26:18.124Z",
+   "to": "2026-11-22T17:26:18.124Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:26:18.124Z",
+   "to": "2026-11-22T17:26:18.124Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:26:18.124Z",
+   "to": "2026-11-22T17:26:18.124Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:26:18.124Z",
+   "to": "2026-11-22T17:26:18.124Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:26:18.486Z",
+   "to": "2026-11-22T17:26:18.486Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:26:18.486Z",
+   "to": "2026-11-22T17:26:18.486Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:26:18.486Z",
+   "to": "2026-11-22T17:26:18.486Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:26:18.486Z",
+   "to": "2026-11-22T17:26:18.486Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:26:20.818Z",
+   "to": "2026-11-22T17:26:20.818Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:26:20.818Z",
+   "to": "2026-11-22T17:26:20.818Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:26:20.818Z",
+   "to": "2026-11-22T17:26:20.818Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:26:20.818Z",
+   "to": "2026-11-22T17:26:20.818Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:30:02.860Z",
+   "to": "2026-11-22T17:30:02.860Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:30:02.860Z",
+   "to": "2026-11-22T17:30:02.860Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:30:02.860Z",
+   "to": "2026-11-22T17:30:02.860Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:30:02.860Z",
+   "to": "2026-11-22T17:30:02.860Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:30:03.255Z",
+   "to": "2026-11-22T17:30:03.255Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:30:03.255Z",
+   "to": "2026-11-22T17:30:03.255Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:30:03.255Z",
+   "to": "2026-11-22T17:30:03.255Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:30:03.255Z",
+   "to": "2026-11-22T17:30:03.255Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:30:03.685Z",
+   "to": "2026-11-22T17:30:03.685Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:30:03.685Z",
+   "to": "2026-11-22T17:30:03.685Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:30:03.685Z",
+   "to": "2026-11-22T17:30:03.685Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:30:03.685Z",
+   "to": "2026-11-22T17:30:03.685Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:30:04.100Z",
+   "to": "2026-11-22T17:30:04.100Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:30:04.100Z",
+   "to": "2026-11-22T17:30:04.100Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:30:04.100Z",
+   "to": "2026-11-22T17:30:04.100Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:30:04.100Z",
+   "to": "2026-11-22T17:30:04.100Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:30:09.768Z",
+   "to": "2026-11-22T17:30:09.768Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:30:09.768Z",
+   "to": "2026-11-22T17:30:09.768Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:30:09.768Z",
+   "to": "2026-11-22T17:30:09.768Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:30:09.768Z",
+   "to": "2026-11-22T17:30:09.768Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:30:48.704Z",
+   "to": "2026-11-22T17:30:48.704Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:30:48.704Z",
+   "to": "2026-11-22T17:30:48.704Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:30:48.704Z",
+   "to": "2026-11-22T17:30:48.704Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:30:48.704Z",
+   "to": "2026-11-22T17:30:48.704Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:30:49.138Z",
+   "to": "2026-11-22T17:30:49.138Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:30:49.138Z",
+   "to": "2026-11-22T17:30:49.138Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:30:49.138Z",
+   "to": "2026-11-22T17:30:49.138Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:30:49.138Z",
+   "to": "2026-11-22T17:30:49.138Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:35:14.182Z",
+   "to": "2026-11-22T17:35:14.182Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
+  },
+  {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-11-22T17:35:14.182Z",
+   "to": "2026-11-22T17:35:14.182Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "No service between Abbey Wood and Custom House while we deal with a customer incident. London Buses, Southeastern and Thameslink are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:35:14.182Z",
+   "to": "2026-11-22T17:35:14.182Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T17:35:14.182Z",
+   "to": "2026-11-22T17:35:14.182Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
