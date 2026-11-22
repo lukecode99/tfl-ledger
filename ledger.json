@@ -1,868 +1,22 @@
 {
- "generatedAt": "2026-11-22T15:45:22.865Z",
- "sinceISO": "2026-10-23T15:45:13.535Z",
+ "generatedAt": "2026-11-22T16:46:28.828Z",
+ "sinceISO": "2026-10-23T16:46:18.721Z",
  "coverage": [
   {
-   "from": "2026-10-23T15:45:55.407Z",
-   "to": "2026-11-22T15:45:13.256Z",
-   "polls": 60404
+   "from": "2026-10-23T16:46:23.690Z",
+   "to": "2026-11-22T16:46:17.971Z",
+   "polls": 60406
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-23T15:45:55.407Z",
+   "from": "2026-10-23T16:46:23.690Z",
    "to": "2026-10-23T22:10:19.304Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "elizabeth",
-   "lineName": "Elizabeth line",
-   "from": "2026-10-23T15:45:55.407Z",
-   "to": "2026-10-23T19:00:53.825Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Severe delays between Paddington and Heathrow/Reading while we fix an infrastructure defect at Southall. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:45:55.407Z",
-   "to": "2026-10-23T15:45:55.407Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:45:55.407Z",
-   "to": "2026-10-23T15:45:55.407Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-23T15:45:55.407Z",
-   "to": "2026-10-23T15:45:55.407Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Minor delays while we fix a signal failure at Leicester Square.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-23T15:45:55.407Z",
-   "to": "2026-10-24T00:15:55.326Z",
-   "severity": 2,
-   "description": "Suspended",
-   "reason": "Suffragette Line: No service due to a power supply failure and an operational incident. London Underground are accepting tickets via any reasonable route.  "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-23T15:45:55.407Z",
-   "to": "2026-10-23T23:11:07.130Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Victoria Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-23T15:45:55.407Z",
-   "to": "2026-10-23T16:46:48.149Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Windrush Line: No service between West Croydon and Sydenham due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:46:03.799Z",
-   "to": "2026-10-23T15:46:03.799Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:46:03.799Z",
-   "to": "2026-10-23T15:46:03.799Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-23T15:46:03.799Z",
-   "to": "2026-10-23T16:46:48.149Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals and Acton Town and Uxbridge while we fix a signal failure at Leicester Square. GOOD SERVICE on the rest of the line.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:46:24.580Z",
-   "to": "2026-10-23T15:46:24.580Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:46:24.580Z",
-   "to": "2026-10-23T15:46:24.580Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:50:00.806Z",
-   "to": "2026-10-23T15:50:00.806Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:50:00.806Z",
-   "to": "2026-10-23T15:50:00.806Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:50:09.331Z",
-   "to": "2026-10-23T15:50:09.331Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:50:09.331Z",
-   "to": "2026-10-23T15:50:09.331Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:50:14.946Z",
-   "to": "2026-10-23T15:50:14.946Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:50:14.946Z",
-   "to": "2026-10-23T15:50:14.946Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:51:08.349Z",
-   "to": "2026-10-23T15:51:08.349Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:51:08.349Z",
-   "to": "2026-10-23T15:51:08.349Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:51:09.994Z",
-   "to": "2026-10-23T15:51:09.994Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:51:09.994Z",
-   "to": "2026-10-23T15:51:09.994Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:51:14.055Z",
-   "to": "2026-10-23T15:51:14.055Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:51:14.055Z",
-   "to": "2026-10-23T15:51:14.055Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:51:15.152Z",
-   "to": "2026-10-23T15:51:15.152Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:51:15.152Z",
-   "to": "2026-10-23T15:51:15.152Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:55:00.790Z",
-   "to": "2026-10-23T15:55:00.790Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:55:00.790Z",
-   "to": "2026-10-23T15:55:00.790Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:55:01.779Z",
-   "to": "2026-10-23T15:55:01.779Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:55:01.779Z",
-   "to": "2026-10-23T15:55:01.779Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:55:06.458Z",
-   "to": "2026-10-23T15:55:06.458Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:55:06.458Z",
-   "to": "2026-10-23T15:55:06.458Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:55:06.830Z",
-   "to": "2026-10-23T15:55:06.830Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:55:06.830Z",
-   "to": "2026-10-23T15:55:06.830Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:55:18.807Z",
-   "to": "2026-10-23T15:55:18.807Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:55:18.807Z",
-   "to": "2026-10-23T15:55:18.807Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:55:26.654Z",
-   "to": "2026-10-23T15:55:26.654Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:55:26.654Z",
-   "to": "2026-10-23T15:55:26.654Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:55:31.341Z",
-   "to": "2026-10-23T15:55:31.341Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T15:55:31.341Z",
-   "to": "2026-10-23T15:55:31.341Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:00:00.776Z",
-   "to": "2026-10-23T16:00:00.776Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:00:00.776Z",
-   "to": "2026-10-23T16:00:00.776Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:00:08.969Z",
-   "to": "2026-10-23T16:00:08.969Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:00:08.969Z",
-   "to": "2026-10-23T16:00:08.969Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:00:13.475Z",
-   "to": "2026-10-23T16:00:13.475Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:00:13.475Z",
-   "to": "2026-10-23T16:00:13.475Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:00:31.294Z",
-   "to": "2026-10-23T16:00:31.294Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:00:31.294Z",
-   "to": "2026-10-23T16:00:31.294Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:00:31.712Z",
-   "to": "2026-10-23T16:00:31.712Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:00:31.712Z",
-   "to": "2026-10-23T16:00:31.712Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:00:36.561Z",
-   "to": "2026-10-23T16:00:36.561Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:00:36.561Z",
-   "to": "2026-10-23T16:00:36.561Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:00:36.929Z",
-   "to": "2026-10-23T16:00:36.929Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:00:36.929Z",
-   "to": "2026-10-23T16:00:36.929Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:05:00.754Z",
-   "to": "2026-10-23T16:05:00.754Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:05:00.754Z",
-   "to": "2026-10-23T16:05:00.754Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:05:01.099Z",
-   "to": "2026-10-23T16:05:01.099Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:05:01.099Z",
-   "to": "2026-10-23T16:05:01.099Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:05:05.114Z",
-   "to": "2026-10-23T16:05:05.114Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:05:05.114Z",
-   "to": "2026-10-23T16:05:05.114Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:05:05.462Z",
-   "to": "2026-10-23T16:05:05.462Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:05:05.462Z",
-   "to": "2026-10-23T16:05:05.462Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:05:43.767Z",
-   "to": "2026-10-23T16:05:43.767Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:05:43.767Z",
-   "to": "2026-10-23T16:05:43.767Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:05:53.265Z",
-   "to": "2026-10-23T16:05:53.265Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:05:53.265Z",
-   "to": "2026-10-23T16:05:53.265Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:05:57.387Z",
-   "to": "2026-10-23T16:05:57.387Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:05:57.387Z",
-   "to": "2026-10-23T16:05:57.387Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:10:00.734Z",
-   "to": "2026-10-23T16:10:00.734Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:10:00.734Z",
-   "to": "2026-10-23T16:10:00.734Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:10:08.510Z",
-   "to": "2026-10-23T16:10:08.510Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:10:08.510Z",
-   "to": "2026-10-23T16:10:08.510Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:10:12.568Z",
-   "to": "2026-10-23T16:10:12.568Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:10:12.568Z",
-   "to": "2026-10-23T16:10:12.568Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:10:56.681Z",
-   "to": "2026-10-23T16:10:56.681Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:10:56.681Z",
-   "to": "2026-10-23T16:10:56.681Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:10:57.598Z",
-   "to": "2026-10-23T16:10:57.598Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:10:57.598Z",
-   "to": "2026-10-23T16:10:57.598Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:11:02.085Z",
-   "to": "2026-10-23T16:11:02.085Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:11:02.085Z",
-   "to": "2026-10-23T16:11:02.085Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:11:03.963Z",
-   "to": "2026-10-23T16:11:03.963Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:11:03.963Z",
-   "to": "2026-10-23T16:11:03.963Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:15:00.698Z",
-   "to": "2026-10-23T16:15:00.698Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:15:00.698Z",
-   "to": "2026-10-23T16:15:00.698Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:15:01.075Z",
-   "to": "2026-10-23T16:15:01.075Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:15:01.075Z",
-   "to": "2026-10-23T16:15:01.075Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:15:05.438Z",
-   "to": "2026-10-23T16:15:05.438Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:15:05.438Z",
-   "to": "2026-10-23T16:15:05.438Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:15:08.030Z",
-   "to": "2026-10-23T16:15:08.030Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:15:08.030Z",
-   "to": "2026-10-23T16:15:08.030Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:16:08.698Z",
-   "to": "2026-10-23T16:16:08.698Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays due to earlier trespasser on the track at Golders Green. Tickets will be accepted on London Buses, Southeasters, Thameslink and South Western Railway services via reasonable routes.  "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-23T16:20:00.431Z",
-   "to": "2026-10-23T16:45:20.063Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays due to earlier trespasser on the track at Golders Green. Tickets will be accepted on London Buses, Southeastern, Thameslink and South Western Railway services via reasonable routes.  "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-23T16:40:00.463Z",
-   "to": "2026-10-23T16:41:16.645Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "District Line: No service between High Street Kensington and Edgware road due to a points failure at High street Kensington. GOOD SERVICE rest of the line. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-23T16:45:00.807Z",
-   "to": "2026-10-23T16:45:20.063Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "District Line: No service between High Street Kensington and Edgware road due to a points failure at High street Kensington. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE rest of the line. "
   },
   {
    "line": "district",
@@ -874,6 +28,15 @@
    "reason": "District Line: No service between High Street Kensington and Edgware Road while we fix a points failure at High street Kensington. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE rest of the line. "
   },
   {
+   "line": "elizabeth",
+   "lineName": "Elizabeth line",
+   "from": "2026-10-23T16:46:23.690Z",
+   "to": "2026-10-23T19:00:53.825Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Severe delays between Paddington and Heathrow/Reading while we fix an infrastructure defect at Southall. GOOD SERVICE on the rest of the line. "
+  },
+  {
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-10-23T16:46:23.690Z",
@@ -881,6 +44,42 @@
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays due to an earlier trespasser on the track at Golders Green. Tickets will be accepted on London Buses, Southeastern, Thameslink and South Western Railway services via reasonable routes.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-10-23T16:46:23.690Z",
+   "to": "2026-10-23T16:46:48.149Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals and Acton Town and Uxbridge while we fix a signal failure at Leicester Square. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-10-23T16:46:23.690Z",
+   "to": "2026-10-24T00:15:55.326Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Suffragette Line: No service due to a power supply failure and an operational incident. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-23T16:46:23.690Z",
+   "to": "2026-10-23T23:11:07.130Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-10-23T16:46:23.690Z",
+   "to": "2026-10-23T16:46:48.149Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Windrush Line: No service between West Croydon and Sydenham due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "district",
@@ -1064830,7 +1064029,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-22T04:16:01.541Z",
-   "to": "2026-11-22T15:45:13.256Z",
+   "to": "2026-11-22T16:46:17.971Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "BAKERLOO LINE: Saturday 21 and Sunday 22 November, no service between Queens Park and Harrow & Wealdstone. Please note that special bus service 718 will NOT operate. There will also be no LIONESS LINE service between Euston and Watford Junction. LONDON NORTH WESTERN RAILWAY trains continue to stop at Harrow & Wealdstone. SOUTHERN trains stop at Wembley Central and Harrow & Wealdstone until 1900 Saturday only, not on Sunday."
@@ -1064839,7 +1064038,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-11-22T04:16:01.541Z",
-   "to": "2026-11-22T15:45:13.256Z",
+   "to": "2026-11-22T16:46:17.971Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 21 and Sunday 22 November, no service between Canning Town and Stratford International. Please use JUBILEE LINE and local London Buses services."
@@ -1064902,7 +1064101,7 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-11-22T04:20:02.998Z",
-   "to": "2026-11-22T15:45:13.256Z",
+   "to": "2026-11-22T16:46:17.971Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "LIONESS LINE: Saturday 21 and Sunday 22 November, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. Special bus service 720 operates (please note service 718 will NOT operate). LONDON NORTH WESTERN RAILWAY trains continue to serve Euston, Harrow & Wealdstone, Bushey and Watford Junction. SOUTHERN trains serve Wembley Central, Harrow & Wealdstone and Watford Junction until 1900 Saturday only, not on Sunday."
@@ -1064929,7 +1064128,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-22T04:20:02.998Z",
-   "to": "2026-11-22T15:45:13.256Z",
+   "to": "2026-11-22T16:46:17.971Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -1083883,7 +1083082,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-11-22T10:20:03.346Z",
-   "to": "2026-11-22T15:45:13.256Z",
+   "to": "2026-11-22T16:46:17.971Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "ELIZABETH LINE: Sunday 22 November, from 0740, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway, Southall and Hayes & Harlington."
@@ -1096168,7 +1095367,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-22T15:30:03.232Z",
-   "to": "2026-11-22T15:45:13.256Z",
+   "to": "2026-11-22T16:46:17.971Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -1096429,7 +1095628,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-22T15:35:13.607Z",
-   "to": "2026-11-22T15:45:13.256Z",
+   "to": "2026-11-22T16:46:17.971Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. "
@@ -1096960,10 +1096159,1558 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-22T15:45:13.256Z",
-   "to": "2026-11-22T15:45:13.256Z",
+   "to": "2026-11-22T16:46:17.971Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays due to an earlier points failure at Camden Town.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:45:29.588Z",
+   "to": "2026-11-22T15:45:29.588Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:45:29.588Z",
+   "to": "2026-11-22T15:45:29.588Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:45:54.231Z",
+   "to": "2026-11-22T15:45:54.231Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:45:54.231Z",
+   "to": "2026-11-22T15:45:54.231Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:45:56.261Z",
+   "to": "2026-11-22T15:45:56.261Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:45:56.261Z",
+   "to": "2026-11-22T15:45:56.261Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:45:56.681Z",
+   "to": "2026-11-22T15:45:56.681Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:45:56.681Z",
+   "to": "2026-11-22T15:45:56.681Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:45:57.409Z",
+   "to": "2026-11-22T15:45:57.409Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:45:57.409Z",
+   "to": "2026-11-22T15:45:57.409Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:45:59.724Z",
+   "to": "2026-11-22T15:45:59.724Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:45:59.724Z",
+   "to": "2026-11-22T15:45:59.724Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:50:02.600Z",
+   "to": "2026-11-22T15:50:02.600Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:50:02.600Z",
+   "to": "2026-11-22T15:50:02.600Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:50:03.000Z",
+   "to": "2026-11-22T15:50:03.000Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:50:03.000Z",
+   "to": "2026-11-22T15:50:03.000Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:50:03.386Z",
+   "to": "2026-11-22T15:50:03.386Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:50:03.386Z",
+   "to": "2026-11-22T15:50:03.386Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:50:03.743Z",
+   "to": "2026-11-22T15:50:03.743Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:50:03.743Z",
+   "to": "2026-11-22T15:50:03.743Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:50:06.016Z",
+   "to": "2026-11-22T15:50:06.016Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:50:06.016Z",
+   "to": "2026-11-22T15:50:06.016Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:51:26.659Z",
+   "to": "2026-11-22T15:51:26.659Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:51:26.659Z",
+   "to": "2026-11-22T15:51:26.659Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:51:28.178Z",
+   "to": "2026-11-22T15:51:28.178Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:51:28.178Z",
+   "to": "2026-11-22T15:51:28.178Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:55:13.068Z",
+   "to": "2026-11-22T15:55:13.068Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:55:13.068Z",
+   "to": "2026-11-22T15:55:13.068Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:55:13.943Z",
+   "to": "2026-11-22T15:55:13.943Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:55:13.943Z",
+   "to": "2026-11-22T15:55:13.943Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:55:35.944Z",
+   "to": "2026-11-22T15:55:35.944Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:55:35.944Z",
+   "to": "2026-11-22T15:55:35.944Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:55:36.583Z",
+   "to": "2026-11-22T15:55:36.583Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:55:36.583Z",
+   "to": "2026-11-22T15:55:36.583Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:55:36.962Z",
+   "to": "2026-11-22T15:55:36.962Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:55:36.962Z",
+   "to": "2026-11-22T15:55:36.962Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:55:37.304Z",
+   "to": "2026-11-22T15:55:37.304Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:55:37.304Z",
+   "to": "2026-11-22T15:55:37.304Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:55:39.547Z",
+   "to": "2026-11-22T15:55:39.547Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T15:55:39.547Z",
+   "to": "2026-11-22T15:55:39.547Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:00:03.418Z",
+   "to": "2026-11-22T16:00:03.418Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:00:03.418Z",
+   "to": "2026-11-22T16:00:03.418Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:00:04.570Z",
+   "to": "2026-11-22T16:00:04.570Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:00:04.570Z",
+   "to": "2026-11-22T16:00:04.570Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:00:08.437Z",
+   "to": "2026-11-22T16:00:08.437Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:00:08.437Z",
+   "to": "2026-11-22T16:00:08.437Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:00:08.791Z",
+   "to": "2026-11-22T16:00:08.791Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:00:08.791Z",
+   "to": "2026-11-22T16:00:08.791Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:00:11.182Z",
+   "to": "2026-11-22T16:00:11.182Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:00:11.182Z",
+   "to": "2026-11-22T16:00:11.182Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:01:10.497Z",
+   "to": "2026-11-22T16:01:10.497Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:01:10.497Z",
+   "to": "2026-11-22T16:01:10.497Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:01:10.893Z",
+   "to": "2026-11-22T16:01:10.893Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:01:10.893Z",
+   "to": "2026-11-22T16:01:10.893Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:05:12.815Z",
+   "to": "2026-11-22T16:05:12.815Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:05:12.815Z",
+   "to": "2026-11-22T16:05:12.815Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:05:13.743Z",
+   "to": "2026-11-22T16:05:13.743Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:05:13.743Z",
+   "to": "2026-11-22T16:05:13.743Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:06:24.225Z",
+   "to": "2026-11-22T16:06:24.225Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:06:24.225Z",
+   "to": "2026-11-22T16:06:24.225Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:06:24.579Z",
+   "to": "2026-11-22T16:06:24.579Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:06:24.579Z",
+   "to": "2026-11-22T16:06:24.579Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:06:25.384Z",
+   "to": "2026-11-22T16:06:25.384Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:06:25.384Z",
+   "to": "2026-11-22T16:06:25.384Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:06:25.777Z",
+   "to": "2026-11-22T16:06:25.777Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:06:25.777Z",
+   "to": "2026-11-22T16:06:25.777Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:06:28.473Z",
+   "to": "2026-11-22T16:06:28.473Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:06:28.473Z",
+   "to": "2026-11-22T16:06:28.473Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:10:02.519Z",
+   "to": "2026-11-22T16:10:02.519Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:10:02.519Z",
+   "to": "2026-11-22T16:10:02.519Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:10:02.874Z",
+   "to": "2026-11-22T16:10:02.874Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:10:02.874Z",
+   "to": "2026-11-22T16:10:02.874Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:10:03.258Z",
+   "to": "2026-11-22T16:10:03.258Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:10:03.258Z",
+   "to": "2026-11-22T16:10:03.258Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:10:04.341Z",
+   "to": "2026-11-22T16:10:04.341Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:10:04.341Z",
+   "to": "2026-11-22T16:10:04.341Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:10:06.803Z",
+   "to": "2026-11-22T16:10:06.803Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:10:06.803Z",
+   "to": "2026-11-22T16:10:06.803Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:10:53.051Z",
+   "to": "2026-11-22T16:10:53.051Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:10:53.051Z",
+   "to": "2026-11-22T16:10:53.051Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:10:53.423Z",
+   "to": "2026-11-22T16:10:53.423Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:10:53.423Z",
+   "to": "2026-11-22T16:10:53.423Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:15:13.246Z",
+   "to": "2026-11-22T16:15:13.246Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:15:13.246Z",
+   "to": "2026-11-22T16:15:13.246Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:15:13.627Z",
+   "to": "2026-11-22T16:15:13.627Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:15:13.627Z",
+   "to": "2026-11-22T16:15:13.627Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:16:05.984Z",
+   "to": "2026-11-22T16:16:05.984Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:16:05.984Z",
+   "to": "2026-11-22T16:16:05.984Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:16:06.315Z",
+   "to": "2026-11-22T16:16:06.315Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:16:06.315Z",
+   "to": "2026-11-22T16:16:06.315Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:16:06.842Z",
+   "to": "2026-11-22T16:16:06.842Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:16:06.842Z",
+   "to": "2026-11-22T16:16:06.842Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:16:07.162Z",
+   "to": "2026-11-22T16:16:07.162Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:16:07.162Z",
+   "to": "2026-11-22T16:16:07.162Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:16:09.964Z",
+   "to": "2026-11-22T16:16:09.964Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:16:09.964Z",
+   "to": "2026-11-22T16:16:09.964Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:20:02.800Z",
+   "to": "2026-11-22T16:20:02.800Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:20:02.800Z",
+   "to": "2026-11-22T16:20:02.800Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:20:03.249Z",
+   "to": "2026-11-22T16:20:03.249Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:20:03.249Z",
+   "to": "2026-11-22T16:20:03.249Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:20:03.846Z",
+   "to": "2026-11-22T16:20:03.846Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:20:03.846Z",
+   "to": "2026-11-22T16:20:03.846Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:20:04.261Z",
+   "to": "2026-11-22T16:20:04.261Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:20:04.261Z",
+   "to": "2026-11-22T16:20:04.261Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:20:06.533Z",
+   "to": "2026-11-22T16:20:06.533Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:20:06.533Z",
+   "to": "2026-11-22T16:20:06.533Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:20:34.767Z",
+   "to": "2026-11-22T16:20:34.767Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:20:34.767Z",
+   "to": "2026-11-22T16:20:34.767Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:20:35.185Z",
+   "to": "2026-11-22T16:20:35.185Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:20:35.185Z",
+   "to": "2026-11-22T16:20:35.185Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:25:12.990Z",
+   "to": "2026-11-22T16:25:12.990Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:25:12.990Z",
+   "to": "2026-11-22T16:25:12.990Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:25:13.411Z",
+   "to": "2026-11-22T16:25:13.411Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:25:13.411Z",
+   "to": "2026-11-22T16:25:13.411Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:25:47.194Z",
+   "to": "2026-11-22T16:25:47.194Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:25:47.194Z",
+   "to": "2026-11-22T16:25:47.194Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:25:48.569Z",
+   "to": "2026-11-22T16:25:48.569Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:25:48.569Z",
+   "to": "2026-11-22T16:25:48.569Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:25:48.934Z",
+   "to": "2026-11-22T16:25:48.934Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:25:48.934Z",
+   "to": "2026-11-22T16:25:48.934Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:25:49.300Z",
+   "to": "2026-11-22T16:25:49.300Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:25:49.300Z",
+   "to": "2026-11-22T16:25:49.300Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:25:51.530Z",
+   "to": "2026-11-22T16:25:51.530Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:25:51.530Z",
+   "to": "2026-11-22T16:25:51.530Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:30:03.245Z",
+   "to": "2026-11-22T16:30:03.245Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:30:03.245Z",
+   "to": "2026-11-22T16:30:03.245Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:30:03.757Z",
+   "to": "2026-11-22T16:30:03.757Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:30:03.757Z",
+   "to": "2026-11-22T16:30:03.757Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:30:04.579Z",
+   "to": "2026-11-22T16:30:04.579Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:30:04.579Z",
+   "to": "2026-11-22T16:30:04.579Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:30:04.968Z",
+   "to": "2026-11-22T16:30:04.968Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:30:04.968Z",
+   "to": "2026-11-22T16:30:04.968Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:30:07.544Z",
+   "to": "2026-11-22T16:30:07.544Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:30:07.544Z",
+   "to": "2026-11-22T16:30:07.544Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:31:21.173Z",
+   "to": "2026-11-22T16:31:21.173Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:31:21.173Z",
+   "to": "2026-11-22T16:31:21.173Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:31:21.908Z",
+   "to": "2026-11-22T16:31:21.908Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:31:21.908Z",
+   "to": "2026-11-22T16:31:21.908Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:35:12.634Z",
+   "to": "2026-11-22T16:35:12.634Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:35:12.634Z",
+   "to": "2026-11-22T16:35:12.634Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:35:12.979Z",
+   "to": "2026-11-22T16:35:12.979Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:35:12.979Z",
+   "to": "2026-11-22T16:35:12.979Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:35:29.562Z",
+   "to": "2026-11-22T16:35:29.562Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:35:29.562Z",
+   "to": "2026-11-22T16:35:29.562Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:35:29.985Z",
+   "to": "2026-11-22T16:35:29.985Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:35:29.985Z",
+   "to": "2026-11-22T16:35:29.985Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:35:30.327Z",
+   "to": "2026-11-22T16:35:30.327Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:35:30.327Z",
+   "to": "2026-11-22T16:35:30.327Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:35:30.716Z",
+   "to": "2026-11-22T16:35:30.716Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:35:30.716Z",
+   "to": "2026-11-22T16:35:30.716Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:35:33.064Z",
+   "to": "2026-11-22T16:35:33.064Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:35:33.064Z",
+   "to": "2026-11-22T16:35:33.064Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:40:02.955Z",
+   "to": "2026-11-22T16:40:02.955Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:40:02.955Z",
+   "to": "2026-11-22T16:40:02.955Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:40:03.296Z",
+   "to": "2026-11-22T16:40:03.296Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:40:03.296Z",
+   "to": "2026-11-22T16:40:03.296Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:40:03.652Z",
+   "to": "2026-11-22T16:40:03.652Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:40:03.652Z",
+   "to": "2026-11-22T16:40:03.652Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:40:04.018Z",
+   "to": "2026-11-22T16:40:04.018Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:40:04.018Z",
+   "to": "2026-11-22T16:40:04.018Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:40:06.649Z",
+   "to": "2026-11-22T16:40:06.649Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:40:06.649Z",
+   "to": "2026-11-22T16:40:06.649Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:41:02.953Z",
+   "to": "2026-11-22T16:41:02.953Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:41:02.953Z",
+   "to": "2026-11-22T16:41:02.953Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:41:04.179Z",
+   "to": "2026-11-22T16:41:04.179Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:41:04.179Z",
+   "to": "2026-11-22T16:41:04.179Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:45:13.454Z",
+   "to": "2026-11-22T16:45:13.454Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:45:13.454Z",
+   "to": "2026-11-22T16:45:13.454Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:45:14.223Z",
+   "to": "2026-11-22T16:45:14.223Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:45:14.223Z",
+   "to": "2026-11-22T16:45:14.223Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:46:17.971Z",
+   "to": "2026-11-22T16:46:17.971Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. Replacement bus service R operates between Willesden Junction and Gunnersbury via Acton Central (The Vale) and South Acton (Acton Lane)."
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-22T16:46:17.971Z",
+   "to": "2026-11-22T16:46:17.971Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "MILDMAY LINE: Sunday 22 November, until 2215, a reduced service operates between Camden Road and Willesden Junction."
   }
  ]
 }
