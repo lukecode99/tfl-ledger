@@ -1,802 +1,19 @@
 {
- "generatedAt": "2026-11-23T12:13:22.396Z",
- "sinceISO": "2026-10-24T12:12:42.330Z",
+ "generatedAt": "2026-11-23T12:28:38.305Z",
+ "sinceISO": "2026-10-24T12:28:02.685Z",
  "coverage": [
   {
-   "from": "2026-10-24T12:15:00.825Z",
+   "from": "2026-10-24T12:30:00.344Z",
    "to": "2026-11-23T08:04:10.333Z",
-   "polls": 60054
+   "polls": 60033
   },
   {
    "from": "2026-11-23T08:24:22.921Z",
-   "to": "2026-11-23T12:12:41.511Z",
-   "polls": 287
+   "to": "2026-11-23T12:28:02.004Z",
+   "polls": 306
   }
  ],
  "spans": [
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-24T12:15:00.825Z",
-   "to": "2026-10-25T01:15:04.513Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-24T12:15:00.825Z",
-   "to": "2026-10-25T01:25:04.450Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-24T12:15:00.825Z",
-   "to": "2026-10-24T12:25:34.128Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Moor Park and Watford/Amersham/Chesham due to train cancellations. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:15:00.825Z",
-   "to": "2026-10-24T12:15:00.825Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:15:00.825Z",
-   "to": "2026-10-24T12:15:00.825Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:15:00.825Z",
-   "to": "2026-10-24T12:15:00.825Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:15:00.825Z",
-   "to": "2026-10-24T12:15:00.825Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:15:01.218Z",
-   "to": "2026-10-24T12:15:01.218Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:15:01.218Z",
-   "to": "2026-10-24T12:15:01.218Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:15:01.218Z",
-   "to": "2026-10-24T12:15:01.218Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:15:01.218Z",
-   "to": "2026-10-24T12:15:01.218Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:15:05.685Z",
-   "to": "2026-10-24T12:15:05.685Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:15:05.685Z",
-   "to": "2026-10-24T12:15:05.685Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:15:05.685Z",
-   "to": "2026-10-24T12:15:05.685Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:15:05.685Z",
-   "to": "2026-10-24T12:15:05.685Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:15:06.050Z",
-   "to": "2026-10-24T12:15:06.050Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:15:06.050Z",
-   "to": "2026-10-24T12:15:06.050Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:15:06.050Z",
-   "to": "2026-10-24T12:15:06.050Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:15:06.050Z",
-   "to": "2026-10-24T12:15:06.050Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:15:56.242Z",
-   "to": "2026-10-24T12:15:56.242Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:15:56.242Z",
-   "to": "2026-10-24T12:15:56.242Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:15:56.242Z",
-   "to": "2026-10-24T12:15:56.242Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:15:56.242Z",
-   "to": "2026-10-24T12:15:56.242Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:16:05.457Z",
-   "to": "2026-10-24T12:16:05.457Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:16:05.457Z",
-   "to": "2026-10-24T12:16:05.457Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:16:05.457Z",
-   "to": "2026-10-24T12:16:05.457Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:16:05.457Z",
-   "to": "2026-10-24T12:16:05.457Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:16:10.004Z",
-   "to": "2026-10-24T12:16:10.004Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:16:10.004Z",
-   "to": "2026-10-24T12:16:10.004Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:16:10.004Z",
-   "to": "2026-10-24T12:16:10.004Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:16:10.004Z",
-   "to": "2026-10-24T12:16:10.004Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:20:00.409Z",
-   "to": "2026-10-24T12:20:00.409Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:20:00.409Z",
-   "to": "2026-10-24T12:20:00.409Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:20:00.409Z",
-   "to": "2026-10-24T12:20:00.409Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:20:00.409Z",
-   "to": "2026-10-24T12:20:00.409Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:20:08.741Z",
-   "to": "2026-10-24T12:20:08.741Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:20:08.741Z",
-   "to": "2026-10-24T12:20:08.741Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:20:08.741Z",
-   "to": "2026-10-24T12:20:08.741Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:20:08.741Z",
-   "to": "2026-10-24T12:20:08.741Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:20:12.860Z",
-   "to": "2026-10-24T12:20:12.860Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:20:12.860Z",
-   "to": "2026-10-24T12:20:12.860Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:20:12.860Z",
-   "to": "2026-10-24T12:20:12.860Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:20:12.860Z",
-   "to": "2026-10-24T12:20:12.860Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:21:09.510Z",
-   "to": "2026-10-24T12:21:09.510Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:21:09.510Z",
-   "to": "2026-10-24T12:21:09.510Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:21:09.510Z",
-   "to": "2026-10-24T12:21:09.510Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:21:09.510Z",
-   "to": "2026-10-24T12:21:09.510Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:21:09.934Z",
-   "to": "2026-10-24T12:21:09.934Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:21:09.934Z",
-   "to": "2026-10-24T12:21:09.934Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:21:09.934Z",
-   "to": "2026-10-24T12:21:09.934Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:21:09.934Z",
-   "to": "2026-10-24T12:21:09.934Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:21:14.431Z",
-   "to": "2026-10-24T12:21:14.431Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:21:14.431Z",
-   "to": "2026-10-24T12:21:14.431Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:21:14.431Z",
-   "to": "2026-10-24T12:21:14.431Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:21:14.431Z",
-   "to": "2026-10-24T12:21:14.431Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:21:14.817Z",
-   "to": "2026-10-24T12:21:14.817Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:21:14.817Z",
-   "to": "2026-10-24T12:21:14.817Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:21:14.817Z",
-   "to": "2026-10-24T12:21:14.817Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:21:14.817Z",
-   "to": "2026-10-24T12:21:14.817Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:25:00.469Z",
-   "to": "2026-10-24T12:25:00.469Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:25:00.469Z",
-   "to": "2026-10-24T12:25:00.469Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:25:00.469Z",
-   "to": "2026-10-24T12:25:00.469Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:25:00.469Z",
-   "to": "2026-10-24T12:25:00.469Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:25:01.046Z",
-   "to": "2026-10-24T12:25:01.046Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:25:01.046Z",
-   "to": "2026-10-24T12:25:01.046Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:25:01.046Z",
-   "to": "2026-10-24T12:25:01.046Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:25:01.046Z",
-   "to": "2026-10-24T12:25:01.046Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:25:05.167Z",
-   "to": "2026-10-24T12:25:05.167Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:25:05.167Z",
-   "to": "2026-10-24T12:25:05.167Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:25:05.167Z",
-   "to": "2026-10-24T12:25:05.167Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:25:05.167Z",
-   "to": "2026-10-24T12:25:05.167Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:25:05.503Z",
-   "to": "2026-10-24T12:25:05.503Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:25:05.503Z",
-   "to": "2026-10-24T12:25:05.503Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:25:05.503Z",
-   "to": "2026-10-24T12:25:05.503Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:25:05.503Z",
-   "to": "2026-10-24T12:25:05.503Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:25:19.941Z",
-   "to": "2026-10-24T12:25:19.941Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:25:19.941Z",
-   "to": "2026-10-24T12:25:19.941Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:25:19.941Z",
-   "to": "2026-10-24T12:25:19.941Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:25:19.941Z",
-   "to": "2026-10-24T12:25:19.941Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:25:30.010Z",
-   "to": "2026-10-24T12:25:30.010Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:25:30.010Z",
-   "to": "2026-10-24T12:25:30.010Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:25:30.010Z",
-   "to": "2026-10-24T12:25:30.010Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:25:30.010Z",
-   "to": "2026-10-24T12:25:30.010Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:25:34.128Z",
-   "to": "2026-10-24T12:25:34.128Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-24T12:25:34.128Z",
-   "to": "2026-10-24T12:25:34.128Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:25:34.128Z",
-   "to": "2026-10-24T12:25:34.128Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-24T12:25:34.128Z",
-   "to": "2026-10-24T12:25:34.128Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
-  },
   {
    "line": "central",
    "lineName": "Central",
@@ -805,6 +22,24 @@
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays due to train cancellations.  "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-24T12:30:00.344Z",
+   "to": "2026-10-25T01:15:04.513Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+  },
+  {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-24T12:30:00.344Z",
+   "to": "2026-10-25T01:25:04.450Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
   },
   {
    "line": "metropolitan",
@@ -1085940,7 +1085175,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-23T11:35:01.362Z",
-   "to": "2026-11-23T12:12:41.511Z",
+   "to": "2026-11-23T12:28:02.004Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays due to an earlier points failure at Moor Park. "
@@ -1085995,6 +1085230,357 @@
    "lineName": "Suffragette",
    "from": "2026-11-23T12:12:41.511Z",
    "to": "2026-11-23T12:12:41.511Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:13:20.491Z",
+   "to": "2026-11-23T12:13:20.491Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:13:20.491Z",
+   "to": "2026-11-23T12:13:20.491Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:15:27.357Z",
+   "to": "2026-11-23T12:15:27.357Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:15:27.357Z",
+   "to": "2026-11-23T12:15:27.357Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:15:39.452Z",
+   "to": "2026-11-23T12:15:39.452Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:15:39.452Z",
+   "to": "2026-11-23T12:15:39.452Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:15:40.525Z",
+   "to": "2026-11-23T12:15:40.525Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:15:40.525Z",
+   "to": "2026-11-23T12:15:40.525Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:15:46.426Z",
+   "to": "2026-11-23T12:15:46.426Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:15:46.426Z",
+   "to": "2026-11-23T12:15:46.426Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:16:20.875Z",
+   "to": "2026-11-23T12:16:20.875Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:16:20.875Z",
+   "to": "2026-11-23T12:16:20.875Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:16:21.946Z",
+   "to": "2026-11-23T12:16:21.946Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:16:21.946Z",
+   "to": "2026-11-23T12:16:21.946Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:16:25.544Z",
+   "to": "2026-11-23T12:16:25.544Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:16:25.544Z",
+   "to": "2026-11-23T12:16:25.544Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:20:17.967Z",
+   "to": "2026-11-23T12:20:17.967Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:20:17.967Z",
+   "to": "2026-11-23T12:20:17.967Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:20:24.022Z",
+   "to": "2026-11-23T12:20:24.022Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:20:24.022Z",
+   "to": "2026-11-23T12:20:24.022Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:20:24.651Z",
+   "to": "2026-11-23T12:20:24.651Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:20:24.651Z",
+   "to": "2026-11-23T12:20:24.651Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:20:25.495Z",
+   "to": "2026-11-23T12:20:25.495Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:20:25.495Z",
+   "to": "2026-11-23T12:20:25.495Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:20:28.397Z",
+   "to": "2026-11-23T12:20:28.397Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:20:28.397Z",
+   "to": "2026-11-23T12:20:28.397Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:21:00.475Z",
+   "to": "2026-11-23T12:21:00.475Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:21:00.475Z",
+   "to": "2026-11-23T12:21:00.475Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:21:11.107Z",
+   "to": "2026-11-23T12:21:11.107Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:21:11.107Z",
+   "to": "2026-11-23T12:21:11.107Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:25:35.529Z",
+   "to": "2026-11-23T12:25:35.529Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:25:35.529Z",
+   "to": "2026-11-23T12:25:35.529Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:25:39.447Z",
+   "to": "2026-11-23T12:25:39.447Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:25:39.447Z",
+   "to": "2026-11-23T12:25:39.447Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:25:56.386Z",
+   "to": "2026-11-23T12:25:56.386Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:25:56.386Z",
+   "to": "2026-11-23T12:25:56.386Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "mildmay",
+   "lineName": "Mildmay",
+   "from": "2026-11-23T12:28:02.004Z",
+   "to": "2026-11-23T12:28:02.004Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Mildmay Line: Minor delays while we fix a points failure at Shepherd's Bush. "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:28:02.004Z",
+   "to": "2026-11-23T12:28:02.004Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "suffragette",
+   "lineName": "Suffragette",
+   "from": "2026-11-23T12:28:02.004Z",
+   "to": "2026-11-23T12:28:02.004Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and MINOR DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground are accepting tickets via any reasonable route.  "
