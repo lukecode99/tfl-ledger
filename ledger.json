@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-24T08:25:16.797Z",
- "sinceISO": "2026-10-25T08:25:05.945Z",
+ "generatedAt": "2026-11-24T08:50:13.322Z",
+ "sinceISO": "2026-10-25T08:50:01.565Z",
  "coverage": [
   {
-   "from": "2026-10-25T08:25:12.728Z",
+   "from": "2026-10-25T08:50:08.827Z",
    "to": "2026-11-23T08:04:10.333Z",
-   "polls": 58360
+   "polls": 58327
   },
   {
    "from": "2026-11-23T08:24:22.921Z",
@@ -24,16 +24,16 @@
   },
   {
    "from": "2026-11-23T23:58:05.418Z",
-   "to": "2026-11-24T08:25:03.068Z",
-   "polls": 711
+   "to": "2026-11-24T08:50:01.262Z",
+   "polls": 746
   }
  ],
  "spans": [
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-10-25T08:25:12.728Z",
-   "to": "2026-10-25T08:25:12.728Z",
+   "from": "2026-10-25T08:50:08.827Z",
+   "to": "2026-10-25T08:50:08.827Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
@@ -41,16 +41,16 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-10-25T08:25:12.728Z",
-   "to": "2026-10-25T08:25:12.728Z",
+   "from": "2026-10-25T08:50:08.827Z",
+   "to": "2026-10-25T08:50:08.827Z",
    "severity": 3,
    "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to train cancellations and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
+   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-25T08:25:12.728Z",
+   "from": "2026-10-25T08:50:08.827Z",
    "to": "2026-10-26T01:05:03.164Z",
    "severity": 5,
    "description": "Part Closure",
@@ -59,16 +59,25 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-25T08:25:12.728Z",
-   "to": "2026-10-25T08:46:00.098Z",
+   "from": "2026-10-25T08:50:08.827Z",
+   "to": "2026-10-25T08:50:08.827Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 25 October, no service between Shadwell and Tower Gateway."
   },
   {
+   "line": "dlr",
+   "lineName": "DLR",
+   "from": "2026-10-25T08:50:08.827Z",
+   "to": "2026-10-25T08:50:08.827Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Docklands Light Railway: No service between Tower Gateway and Shadwell due to planned engineering work. MINOR DELAYS between Bank and Canning Town/Canary Wharf while we fix a signal failure at Westferry. GOOD SERVICE on other DLR routes. "
+  },
+  {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-25T08:25:12.728Z",
+   "from": "2026-10-25T08:50:08.827Z",
    "to": "2026-10-26T01:10:04.279Z",
    "severity": 7,
    "description": "Reduced Service",
@@ -77,1883 +86,11 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-10-25T08:25:12.728Z",
+   "from": "2026-10-25T08:50:08.827Z",
    "to": "2026-10-25T09:40:36.073Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Jubilee Line: Severe delays due to an earlier signal failure at London Bridge. Tickets are being accepted on London Buses, Lioness line, DLR, Elizabeth line and Thameslink. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-25T08:25:12.728Z",
-   "to": "2026-10-25T08:46:21.431Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Watford and Moor Park due to train cancellations. Tickets are being accepted on Lioness line. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:25:12.728Z",
-   "to": "2026-10-25T08:25:12.728Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:25:12.728Z",
-   "to": "2026-10-25T08:25:12.728Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:25:12.728Z",
-   "to": "2026-10-25T08:25:12.728Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:25:12.728Z",
-   "to": "2026-10-25T08:25:12.728Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-25T08:25:12.728Z",
-   "to": "2026-10-26T00:45:11.995Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-25T08:25:12.728Z",
-   "to": "2026-10-26T01:10:04.279Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Sunday 25 October, no service between Sydenham and Crystal Palace. Please use local London Buses connections between Anerley and Crystal Palace."
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:25:13.075Z",
-   "to": "2026-10-25T08:25:13.075Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:25:13.075Z",
-   "to": "2026-10-25T08:25:13.075Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to train cancellations and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:25:13.075Z",
-   "to": "2026-10-25T08:25:13.075Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:25:13.075Z",
-   "to": "2026-10-25T08:25:13.075Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:25:13.075Z",
-   "to": "2026-10-25T08:25:13.075Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:25:13.075Z",
-   "to": "2026-10-25T08:25:13.075Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:26:05.026Z",
-   "to": "2026-10-25T08:26:05.026Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:26:05.026Z",
-   "to": "2026-10-25T08:26:05.026Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to train cancellations and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:26:05.026Z",
-   "to": "2026-10-25T08:26:05.026Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:26:05.026Z",
-   "to": "2026-10-25T08:26:05.026Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:26:05.026Z",
-   "to": "2026-10-25T08:26:05.026Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:26:05.026Z",
-   "to": "2026-10-25T08:26:05.026Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:26:08.914Z",
-   "to": "2026-10-25T08:26:08.914Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:26:08.914Z",
-   "to": "2026-10-25T08:26:08.914Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to train cancellations and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:26:08.914Z",
-   "to": "2026-10-25T08:26:08.914Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:26:08.914Z",
-   "to": "2026-10-25T08:26:08.914Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:26:08.914Z",
-   "to": "2026-10-25T08:26:08.914Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:26:08.914Z",
-   "to": "2026-10-25T08:26:08.914Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:26:11.107Z",
-   "to": "2026-10-25T08:26:11.107Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:26:11.107Z",
-   "to": "2026-10-25T08:26:11.107Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to train cancellations and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:26:11.107Z",
-   "to": "2026-10-25T08:26:11.107Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:26:11.107Z",
-   "to": "2026-10-25T08:26:11.107Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:26:11.107Z",
-   "to": "2026-10-25T08:26:11.107Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:26:11.107Z",
-   "to": "2026-10-25T08:26:11.107Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:30:08.640Z",
-   "to": "2026-10-25T08:30:08.640Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:30:08.640Z",
-   "to": "2026-10-25T08:30:08.640Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to train cancellations and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:30:08.640Z",
-   "to": "2026-10-25T08:30:08.640Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:30:08.640Z",
-   "to": "2026-10-25T08:30:08.640Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:30:08.640Z",
-   "to": "2026-10-25T08:30:08.640Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:30:08.640Z",
-   "to": "2026-10-25T08:30:08.640Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:30:14.258Z",
-   "to": "2026-10-25T08:30:14.258Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:30:14.258Z",
-   "to": "2026-10-25T08:30:14.258Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to train cancellations and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:30:14.258Z",
-   "to": "2026-10-25T08:30:14.258Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:30:14.258Z",
-   "to": "2026-10-25T08:30:14.258Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:30:14.258Z",
-   "to": "2026-10-25T08:30:14.258Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:30:14.258Z",
-   "to": "2026-10-25T08:30:14.258Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:30:16.909Z",
-   "to": "2026-10-25T08:30:16.909Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:30:16.909Z",
-   "to": "2026-10-25T08:30:16.909Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to train cancellations and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:30:16.909Z",
-   "to": "2026-10-25T08:30:16.909Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:30:16.909Z",
-   "to": "2026-10-25T08:30:16.909Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:30:16.909Z",
-   "to": "2026-10-25T08:30:16.909Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:30:16.909Z",
-   "to": "2026-10-25T08:30:16.909Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:31:18.451Z",
-   "to": "2026-10-25T08:31:18.451Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:31:18.451Z",
-   "to": "2026-10-25T08:31:18.451Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to train cancellations and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:31:18.451Z",
-   "to": "2026-10-25T08:31:18.451Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:31:18.451Z",
-   "to": "2026-10-25T08:31:18.451Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:31:18.451Z",
-   "to": "2026-10-25T08:31:18.451Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:31:18.451Z",
-   "to": "2026-10-25T08:31:18.451Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:31:21.894Z",
-   "to": "2026-10-25T08:31:21.894Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:31:21.894Z",
-   "to": "2026-10-25T08:31:21.894Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to train cancellations and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:31:21.894Z",
-   "to": "2026-10-25T08:31:21.894Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:31:21.894Z",
-   "to": "2026-10-25T08:31:21.894Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:31:21.894Z",
-   "to": "2026-10-25T08:31:21.894Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:31:21.894Z",
-   "to": "2026-10-25T08:31:21.894Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:31:33.005Z",
-   "to": "2026-10-25T08:31:33.005Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:31:33.005Z",
-   "to": "2026-10-25T08:31:33.005Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to train cancellations and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:31:33.005Z",
-   "to": "2026-10-25T08:31:33.005Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:31:33.005Z",
-   "to": "2026-10-25T08:31:33.005Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:31:33.005Z",
-   "to": "2026-10-25T08:31:33.005Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:31:33.005Z",
-   "to": "2026-10-25T08:31:33.005Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:31:33.346Z",
-   "to": "2026-10-25T08:31:33.346Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:31:33.346Z",
-   "to": "2026-10-25T08:31:33.346Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to train cancellations and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:31:33.346Z",
-   "to": "2026-10-25T08:31:33.346Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:31:33.346Z",
-   "to": "2026-10-25T08:31:33.346Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:31:33.346Z",
-   "to": "2026-10-25T08:31:33.346Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:31:33.346Z",
-   "to": "2026-10-25T08:31:33.346Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:35:04.282Z",
-   "to": "2026-10-25T08:35:04.282Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:35:04.282Z",
-   "to": "2026-10-25T08:35:04.282Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:35:04.282Z",
-   "to": "2026-10-25T08:35:04.282Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:35:04.282Z",
-   "to": "2026-10-25T08:35:04.282Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:35:04.282Z",
-   "to": "2026-10-25T08:35:04.282Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:35:04.282Z",
-   "to": "2026-10-25T08:35:04.282Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:35:19.177Z",
-   "to": "2026-10-25T08:35:19.177Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:35:19.177Z",
-   "to": "2026-10-25T08:35:19.177Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:35:19.177Z",
-   "to": "2026-10-25T08:35:19.177Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:35:19.177Z",
-   "to": "2026-10-25T08:35:19.177Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:35:19.177Z",
-   "to": "2026-10-25T08:35:19.177Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:35:19.177Z",
-   "to": "2026-10-25T08:35:19.177Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:35:28.342Z",
-   "to": "2026-10-25T08:35:28.342Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:35:28.342Z",
-   "to": "2026-10-25T08:35:28.342Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:35:28.342Z",
-   "to": "2026-10-25T08:35:28.342Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:35:28.342Z",
-   "to": "2026-10-25T08:35:28.342Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:35:28.342Z",
-   "to": "2026-10-25T08:35:28.342Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:35:28.342Z",
-   "to": "2026-10-25T08:35:28.342Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:35:28.778Z",
-   "to": "2026-10-25T08:35:28.778Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:35:28.778Z",
-   "to": "2026-10-25T08:35:28.778Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:35:28.778Z",
-   "to": "2026-10-25T08:35:28.778Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:35:28.778Z",
-   "to": "2026-10-25T08:35:28.778Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:35:28.778Z",
-   "to": "2026-10-25T08:35:28.778Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:35:28.778Z",
-   "to": "2026-10-25T08:35:28.778Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:36:37.876Z",
-   "to": "2026-10-25T08:36:37.876Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:36:37.876Z",
-   "to": "2026-10-25T08:36:37.876Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:36:37.876Z",
-   "to": "2026-10-25T08:36:37.876Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:36:37.876Z",
-   "to": "2026-10-25T08:36:37.876Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:36:37.876Z",
-   "to": "2026-10-25T08:36:37.876Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:36:37.876Z",
-   "to": "2026-10-25T08:36:37.876Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:36:41.969Z",
-   "to": "2026-10-25T08:36:41.969Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:36:41.969Z",
-   "to": "2026-10-25T08:36:41.969Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:36:41.969Z",
-   "to": "2026-10-25T08:36:41.969Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:36:41.969Z",
-   "to": "2026-10-25T08:36:41.969Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:36:41.969Z",
-   "to": "2026-10-25T08:36:41.969Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:36:41.969Z",
-   "to": "2026-10-25T08:36:41.969Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:36:44.127Z",
-   "to": "2026-10-25T08:36:44.127Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:36:44.127Z",
-   "to": "2026-10-25T08:36:44.127Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:36:44.127Z",
-   "to": "2026-10-25T08:36:44.127Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:36:44.127Z",
-   "to": "2026-10-25T08:36:44.127Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:36:44.127Z",
-   "to": "2026-10-25T08:36:44.127Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:36:44.127Z",
-   "to": "2026-10-25T08:36:44.127Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:40:08.171Z",
-   "to": "2026-10-25T08:40:08.171Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:40:08.171Z",
-   "to": "2026-10-25T08:40:08.171Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:40:08.171Z",
-   "to": "2026-10-25T08:40:08.171Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:40:08.171Z",
-   "to": "2026-10-25T08:40:08.171Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:40:08.171Z",
-   "to": "2026-10-25T08:40:08.171Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:40:08.171Z",
-   "to": "2026-10-25T08:40:08.171Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:40:12.544Z",
-   "to": "2026-10-25T08:40:12.544Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:40:12.544Z",
-   "to": "2026-10-25T08:40:12.544Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:40:12.544Z",
-   "to": "2026-10-25T08:40:12.544Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:40:12.544Z",
-   "to": "2026-10-25T08:40:12.544Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:40:12.544Z",
-   "to": "2026-10-25T08:40:12.544Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:40:12.544Z",
-   "to": "2026-10-25T08:40:12.544Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:40:14.784Z",
-   "to": "2026-10-25T08:40:14.784Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:40:14.784Z",
-   "to": "2026-10-25T08:40:14.784Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:40:14.784Z",
-   "to": "2026-10-25T08:40:14.784Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:40:14.784Z",
-   "to": "2026-10-25T08:40:14.784Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:40:14.784Z",
-   "to": "2026-10-25T08:40:14.784Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:40:14.784Z",
-   "to": "2026-10-25T08:40:14.784Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:40:43.714Z",
-   "to": "2026-10-25T08:40:43.714Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:40:43.714Z",
-   "to": "2026-10-25T08:40:43.714Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:40:43.714Z",
-   "to": "2026-10-25T08:40:43.714Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:40:43.714Z",
-   "to": "2026-10-25T08:40:43.714Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:40:43.714Z",
-   "to": "2026-10-25T08:40:43.714Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:40:43.714Z",
-   "to": "2026-10-25T08:40:43.714Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:40:44.094Z",
-   "to": "2026-10-25T08:40:44.094Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:40:44.094Z",
-   "to": "2026-10-25T08:40:44.094Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:40:44.094Z",
-   "to": "2026-10-25T08:40:44.094Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:40:44.094Z",
-   "to": "2026-10-25T08:40:44.094Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:40:44.094Z",
-   "to": "2026-10-25T08:40:44.094Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:40:44.094Z",
-   "to": "2026-10-25T08:40:44.094Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:40:52.014Z",
-   "to": "2026-10-25T08:40:52.014Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:40:52.014Z",
-   "to": "2026-10-25T08:40:52.014Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:40:52.014Z",
-   "to": "2026-10-25T08:40:52.014Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:40:52.014Z",
-   "to": "2026-10-25T08:40:52.014Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:40:52.014Z",
-   "to": "2026-10-25T08:40:52.014Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:40:52.014Z",
-   "to": "2026-10-25T08:40:52.014Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:40:52.355Z",
-   "to": "2026-10-25T08:40:52.355Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:40:52.355Z",
-   "to": "2026-10-25T08:40:52.355Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:40:52.355Z",
-   "to": "2026-10-25T08:40:52.355Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:40:52.355Z",
-   "to": "2026-10-25T08:40:52.355Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:40:52.355Z",
-   "to": "2026-10-25T08:40:52.355Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:40:52.355Z",
-   "to": "2026-10-25T08:40:52.355Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:45:04.725Z",
-   "to": "2026-10-25T08:45:04.725Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:45:04.725Z",
-   "to": "2026-10-25T08:45:04.725Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:45:04.725Z",
-   "to": "2026-10-25T08:45:04.725Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:45:04.725Z",
-   "to": "2026-10-25T08:45:04.725Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:45:04.725Z",
-   "to": "2026-10-25T08:45:04.725Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:45:04.725Z",
-   "to": "2026-10-25T08:45:04.725Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:45:05.098Z",
-   "to": "2026-10-25T08:45:05.098Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:45:05.098Z",
-   "to": "2026-10-25T08:45:05.098Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:45:05.098Z",
-   "to": "2026-10-25T08:45:05.098Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:45:05.098Z",
-   "to": "2026-10-25T08:45:05.098Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:45:05.098Z",
-   "to": "2026-10-25T08:45:05.098Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:45:05.098Z",
-   "to": "2026-10-25T08:45:05.098Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:45:13.007Z",
-   "to": "2026-10-25T08:45:13.007Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:45:13.007Z",
-   "to": "2026-10-25T08:45:13.007Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:45:13.007Z",
-   "to": "2026-10-25T08:45:13.007Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:45:13.007Z",
-   "to": "2026-10-25T08:45:13.007Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:45:13.007Z",
-   "to": "2026-10-25T08:45:13.007Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:45:13.007Z",
-   "to": "2026-10-25T08:45:13.007Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:45:13.358Z",
-   "to": "2026-10-25T08:45:13.358Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:45:13.358Z",
-   "to": "2026-10-25T08:45:13.358Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:45:13.358Z",
-   "to": "2026-10-25T08:45:13.358Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:45:13.358Z",
-   "to": "2026-10-25T08:45:13.358Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:45:13.358Z",
-   "to": "2026-10-25T08:45:13.358Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:45:13.358Z",
-   "to": "2026-10-25T08:45:13.358Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:46:00.098Z",
-   "to": "2026-10-25T08:46:00.098Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:46:00.098Z",
-   "to": "2026-10-25T08:46:00.098Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-10-25T08:46:00.098Z",
-   "to": "2026-10-25T08:46:00.098Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Docklands Light Railway: No service between Tower Gateway and Shadwell due to planned engineering work. MINOR DELAYS between Bank and Canning Town/Canary Wharf while we fix a signal failure at Westferry. GOOD SERVICE on other DLR routes. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:46:00.098Z",
-   "to": "2026-10-25T08:46:00.098Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:46:00.098Z",
-   "to": "2026-10-25T08:46:00.098Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:46:00.098Z",
-   "to": "2026-10-25T08:46:00.098Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:46:00.098Z",
-   "to": "2026-10-25T08:46:00.098Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:46:19.101Z",
-   "to": "2026-10-25T08:46:19.101Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:46:19.101Z",
-   "to": "2026-10-25T08:46:19.101Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-10-25T08:46:19.101Z",
-   "to": "2026-10-25T08:46:19.101Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 25 October, no service between Shadwell and Tower Gateway."
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-10-25T08:46:19.101Z",
-   "to": "2026-10-25T08:46:19.101Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Docklands Light Railway: No service between Tower Gateway and Shadwell due to planned engineering work. MINOR DELAYS between Bank and Canning Town/Canary Wharf while we fix a signal failure at Westferry. GOOD SERVICE on other DLR routes. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:46:19.101Z",
-   "to": "2026-10-25T08:46:19.101Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:46:19.101Z",
-   "to": "2026-10-25T08:46:19.101Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:46:19.101Z",
-   "to": "2026-10-25T08:46:19.101Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:46:19.101Z",
-   "to": "2026-10-25T08:46:19.101Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:46:21.431Z",
-   "to": "2026-10-25T08:46:21.431Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:46:21.431Z",
-   "to": "2026-10-25T08:46:21.431Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-10-25T08:46:21.431Z",
-   "to": "2026-10-25T08:46:21.431Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 25 October, no service between Shadwell and Tower Gateway."
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-10-25T08:46:21.431Z",
-   "to": "2026-10-25T08:46:21.431Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Docklands Light Railway: No service between Tower Gateway and Shadwell due to planned engineering work. MINOR DELAYS between Bank and Canning Town/Canary Wharf while we fix a signal failure at Westferry. GOOD SERVICE on other DLR routes. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:46:21.431Z",
-   "to": "2026-10-25T08:46:21.431Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-25T08:46:21.431Z",
-   "to": "2026-10-25T08:46:21.431Z",
-   "severity": 7,
-   "description": "Reduced Service",
-   "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, there will be a reduced service between Shepherds Bush and Clapham Junction."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:46:21.431Z",
-   "to": "2026-10-25T08:46:21.431Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T08:46:21.431Z",
-   "to": "2026-10-25T08:46:21.431Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:50:08.827Z",
-   "to": "2026-10-25T08:50:08.827Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-25T08:50:08.827Z",
-   "to": "2026-10-25T08:50:08.827Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Circle Line: No service between Aldgate and Tower Hill due to unavailability of station staff, and NO SERVICE between Edgware Road and Tower Hill via Victoria due to planned engineering work. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-10-25T08:50:08.827Z",
-   "to": "2026-10-25T08:50:08.827Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 25 October, no service between Shadwell and Tower Gateway."
-  },
-  {
-   "line": "dlr",
-   "lineName": "DLR",
-   "from": "2026-10-25T08:50:08.827Z",
-   "to": "2026-10-25T08:50:08.827Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Docklands Light Railway: No service between Tower Gateway and Shadwell due to planned engineering work. MINOR DELAYS between Bank and Canning Town/Canary Wharf while we fix a signal failure at Westferry. GOOD SERVICE on other DLR routes. "
   },
   {
    "line": "metropolitan",
@@ -1999,6 +136,24 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-25T08:50:08.827Z",
+   "to": "2026-10-26T00:45:11.995Z",
+   "severity": 4,
+   "description": "Planned Closure",
+   "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-10-25T08:50:08.827Z",
+   "to": "2026-10-26T01:10:04.279Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: Sunday 25 October, no service between Sydenham and Crystal Palace. Please use local London Buses connections between Anerley and Crystal Palace."
   },
   {
    "line": "circle",
@@ -1015503,7 +1013658,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-24T07:30:01.533Z",
-   "to": "2026-11-24T08:25:03.068Z",
+   "to": "2026-11-24T08:50:01.262Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays while we fix a points failure at Kennington and train cancellations.  "
@@ -1015521,7 +1013676,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-24T07:50:01.446Z",
-   "to": "2026-11-24T08:25:03.068Z",
+   "to": "2026-11-24T08:50:01.262Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays due to train cancellations. "
@@ -1015530,7 +1013685,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-11-24T07:55:02.867Z",
-   "to": "2026-11-24T08:25:03.068Z",
+   "to": "2026-11-24T08:50:01.262Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
@@ -1015552,6 +1013707,645 @@
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:25:25.617Z",
+   "to": "2026-11-24T08:25:25.617Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:25:25.617Z",
+   "to": "2026-11-24T08:25:25.617Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:25:28.534Z",
+   "to": "2026-11-24T08:25:28.534Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:25:28.534Z",
+   "to": "2026-11-24T08:25:28.534Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:25:28.875Z",
+   "to": "2026-11-24T08:25:28.875Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:25:28.875Z",
+   "to": "2026-11-24T08:25:28.875Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:26:04.548Z",
+   "to": "2026-11-24T08:26:04.548Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:26:04.548Z",
+   "to": "2026-11-24T08:26:04.548Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:26:16.330Z",
+   "to": "2026-11-24T08:26:16.330Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:26:16.330Z",
+   "to": "2026-11-24T08:26:16.330Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:26:16.862Z",
+   "to": "2026-11-24T08:26:16.862Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:26:16.862Z",
+   "to": "2026-11-24T08:26:16.862Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:30:01.074Z",
+   "to": "2026-11-24T08:30:01.074Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:30:01.074Z",
+   "to": "2026-11-24T08:30:01.074Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:30:12.717Z",
+   "to": "2026-11-24T08:30:12.717Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:30:12.717Z",
+   "to": "2026-11-24T08:30:12.717Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:30:13.138Z",
+   "to": "2026-11-24T08:30:13.138Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:30:13.138Z",
+   "to": "2026-11-24T08:30:13.138Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:30:32.732Z",
+   "to": "2026-11-24T08:30:32.732Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:30:32.732Z",
+   "to": "2026-11-24T08:30:32.732Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:30:33.147Z",
+   "to": "2026-11-24T08:30:33.147Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:30:33.147Z",
+   "to": "2026-11-24T08:30:33.147Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:30:35.806Z",
+   "to": "2026-11-24T08:30:35.806Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:30:35.806Z",
+   "to": "2026-11-24T08:30:35.806Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:30:36.190Z",
+   "to": "2026-11-24T08:30:36.190Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:30:36.190Z",
+   "to": "2026-11-24T08:30:36.190Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:35:03.151Z",
+   "to": "2026-11-24T08:35:03.151Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:35:03.151Z",
+   "to": "2026-11-24T08:35:03.151Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:35:03.538Z",
+   "to": "2026-11-24T08:35:03.538Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:35:03.538Z",
+   "to": "2026-11-24T08:35:03.538Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:35:06.405Z",
+   "to": "2026-11-24T08:35:06.405Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:35:06.405Z",
+   "to": "2026-11-24T08:35:06.405Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:35:06.788Z",
+   "to": "2026-11-24T08:35:06.788Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:35:06.788Z",
+   "to": "2026-11-24T08:35:06.788Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:36:03.646Z",
+   "to": "2026-11-24T08:36:03.646Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:36:03.646Z",
+   "to": "2026-11-24T08:36:03.646Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:36:15.749Z",
+   "to": "2026-11-24T08:36:15.749Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:36:15.749Z",
+   "to": "2026-11-24T08:36:15.749Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:36:17.796Z",
+   "to": "2026-11-24T08:36:17.796Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:36:17.796Z",
+   "to": "2026-11-24T08:36:17.796Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:40:01.031Z",
+   "to": "2026-11-24T08:40:01.031Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:40:01.031Z",
+   "to": "2026-11-24T08:40:01.031Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:40:12.779Z",
+   "to": "2026-11-24T08:40:12.779Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:40:12.779Z",
+   "to": "2026-11-24T08:40:12.779Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:40:14.706Z",
+   "to": "2026-11-24T08:40:14.706Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:40:14.706Z",
+   "to": "2026-11-24T08:40:14.706Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:40:26.195Z",
+   "to": "2026-11-24T08:40:26.195Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:40:26.195Z",
+   "to": "2026-11-24T08:40:26.195Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:40:26.537Z",
+   "to": "2026-11-24T08:40:26.537Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:40:26.537Z",
+   "to": "2026-11-24T08:40:26.537Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:40:29.143Z",
+   "to": "2026-11-24T08:40:29.143Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:40:29.143Z",
+   "to": "2026-11-24T08:40:29.143Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:40:29.486Z",
+   "to": "2026-11-24T08:40:29.486Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:40:29.486Z",
+   "to": "2026-11-24T08:40:29.486Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:45:02.976Z",
+   "to": "2026-11-24T08:45:02.976Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:45:02.976Z",
+   "to": "2026-11-24T08:45:02.976Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:45:03.342Z",
+   "to": "2026-11-24T08:45:03.342Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:45:03.342Z",
+   "to": "2026-11-24T08:45:03.342Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:45:05.774Z",
+   "to": "2026-11-24T08:45:05.774Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:45:05.774Z",
+   "to": "2026-11-24T08:45:05.774Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:45:06.207Z",
+   "to": "2026-11-24T08:45:06.207Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:45:06.207Z",
+   "to": "2026-11-24T08:45:06.207Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:45:47.857Z",
+   "to": "2026-11-24T08:45:47.857Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:45:47.857Z",
+   "to": "2026-11-24T08:45:47.857Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:46:01.115Z",
+   "to": "2026-11-24T08:46:01.115Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:46:01.115Z",
+   "to": "2026-11-24T08:46:01.115Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:46:01.478Z",
+   "to": "2026-11-24T08:46:01.478Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:46:01.478Z",
+   "to": "2026-11-24T08:46:01.478Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:50:01.262Z",
+   "to": "2026-11-24T08:50:01.262Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T08:50:01.262Z",
+   "to": "2026-11-24T08:50:01.262Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between White City and West Ruislip due to an earlier faulty train at Lancaster Gate. MINOR DELAYS between North Acton and Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-24T08:50:01.262Z",
+   "to": "2026-11-24T08:50:01.262Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. The next southbound train from Amersham will be at 09:24. GOOD SERVICE on the rest of the line. "
   }
  ]
 }
