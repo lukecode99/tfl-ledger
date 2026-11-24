@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-24T17:35:10.161Z",
- "sinceISO": "2026-10-25T17:35:03.298Z",
+ "generatedAt": "2026-11-24T17:45:11.045Z",
+ "sinceISO": "2026-10-25T17:45:03.267Z",
  "coverage": [
   {
-   "from": "2026-10-25T17:35:10.803Z",
+   "from": "2026-10-25T17:45:16.134Z",
    "to": "2026-11-23T08:04:10.333Z",
-   "polls": 57590
+   "polls": 57577
   },
   {
    "from": "2026-11-23T08:24:22.921Z",
@@ -24,15 +24,15 @@
   },
   {
    "from": "2026-11-23T23:58:05.418Z",
-   "to": "2026-11-24T17:35:03.036Z",
-   "polls": 1481
+   "to": "2026-11-24T17:45:03.005Z",
+   "polls": 1495
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-25T17:35:10.803Z",
+   "from": "2026-10-25T17:45:16.134Z",
    "to": "2026-10-25T20:55:11.859Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -41,7 +41,7 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-10-25T17:35:10.803Z",
+   "from": "2026-10-25T17:45:16.134Z",
    "to": "2026-10-26T01:05:03.164Z",
    "severity": 5,
    "description": "Part Closure",
@@ -50,7 +50,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-25T17:35:10.803Z",
+   "from": "2026-10-25T17:45:16.134Z",
    "to": "2026-10-26T01:05:03.164Z",
    "severity": 5,
    "description": "Part Closure",
@@ -59,7 +59,7 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-25T17:35:10.803Z",
+   "from": "2026-10-25T17:45:16.134Z",
    "to": "2026-10-26T01:05:03.164Z",
    "severity": 5,
    "description": "Part Closure",
@@ -68,7 +68,7 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-25T17:35:10.803Z",
+   "from": "2026-10-25T17:45:16.134Z",
    "to": "2026-10-26T01:10:04.279Z",
    "severity": 7,
    "description": "Reduced Service",
@@ -77,25 +77,16 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-10-25T17:35:10.803Z",
-   "to": "2026-10-25T17:35:10.803Z",
+   "from": "2026-10-25T17:45:16.134Z",
+   "to": "2026-10-25T20:56:27.075Z",
    "severity": 6,
    "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:35:10.803Z",
-   "to": "2026-10-25T17:35:10.803Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
+   "reason": "Jubilee Line: Severe delays due to an earlier obstruction on the track at Queensbury. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, C2C, Southeastern and Thameslink services via any reasonable route.  "
   },
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-25T17:35:10.803Z",
+   "from": "2026-10-25T17:45:16.134Z",
    "to": "2026-10-25T18:50:46.810Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -104,8 +95,8 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-10-25T17:35:10.803Z",
-   "to": "2026-10-25T17:35:10.803Z",
+   "from": "2026-10-25T17:45:16.134Z",
+   "to": "2026-10-25T17:45:16.134Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
@@ -113,8 +104,8 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-10-25T17:35:10.803Z",
-   "to": "2026-10-25T17:35:10.803Z",
+   "from": "2026-10-25T17:45:16.134Z",
+   "to": "2026-10-25T17:45:16.134Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
@@ -122,7 +113,7 @@
   {
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
-   "from": "2026-10-25T17:35:10.803Z",
+   "from": "2026-10-25T17:45:16.134Z",
    "to": "2026-10-26T00:45:11.995Z",
    "severity": 4,
    "description": "Planned Closure",
@@ -131,8 +122,8 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-10-25T17:35:10.803Z",
-   "to": "2026-10-25T17:35:10.803Z",
+   "from": "2026-10-25T17:45:16.134Z",
+   "to": "2026-10-25T17:45:16.134Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
@@ -140,8 +131,8 @@
   {
    "line": "weaver",
    "lineName": "Weaver",
-   "from": "2026-10-25T17:35:10.803Z",
-   "to": "2026-10-25T17:35:10.803Z",
+   "from": "2026-10-25T17:45:16.134Z",
+   "to": "2026-10-25T17:45:16.134Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
@@ -149,686 +140,11 @@
   {
    "line": "windrush",
    "lineName": "Windrush",
-   "from": "2026-10-25T17:35:10.803Z",
+   "from": "2026-10-25T17:45:16.134Z",
    "to": "2026-10-26T01:10:04.279Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: Sunday 25 October, no service between Sydenham and Crystal Palace. Please use local London Buses connections between Anerley and Crystal Palace."
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:35:11.208Z",
-   "to": "2026-10-25T17:35:11.208Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:35:11.208Z",
-   "to": "2026-10-25T17:35:11.208Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:35:11.208Z",
-   "to": "2026-10-25T17:35:11.208Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:35:11.208Z",
-   "to": "2026-10-25T17:35:11.208Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:35:11.208Z",
-   "to": "2026-10-25T17:35:11.208Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:35:11.208Z",
-   "to": "2026-10-25T17:35:11.208Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:36:20.890Z",
-   "to": "2026-10-25T17:36:20.890Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:36:20.890Z",
-   "to": "2026-10-25T17:36:20.890Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:36:20.890Z",
-   "to": "2026-10-25T17:36:20.890Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:36:20.890Z",
-   "to": "2026-10-25T17:36:20.890Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:36:20.890Z",
-   "to": "2026-10-25T17:36:20.890Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:36:20.890Z",
-   "to": "2026-10-25T17:36:20.890Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:36:24.885Z",
-   "to": "2026-10-25T17:36:24.885Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:36:24.885Z",
-   "to": "2026-10-25T17:36:24.885Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:36:24.885Z",
-   "to": "2026-10-25T17:36:24.885Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:36:24.885Z",
-   "to": "2026-10-25T17:36:24.885Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:36:24.885Z",
-   "to": "2026-10-25T17:36:24.885Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:36:24.885Z",
-   "to": "2026-10-25T17:36:24.885Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:36:27.485Z",
-   "to": "2026-10-25T17:36:27.485Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:36:27.485Z",
-   "to": "2026-10-25T17:36:27.485Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:36:27.485Z",
-   "to": "2026-10-25T17:36:27.485Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:36:27.485Z",
-   "to": "2026-10-25T17:36:27.485Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:36:27.485Z",
-   "to": "2026-10-25T17:36:27.485Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:36:27.485Z",
-   "to": "2026-10-25T17:36:27.485Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:40:04.235Z",
-   "to": "2026-10-25T17:40:04.235Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:40:04.235Z",
-   "to": "2026-10-25T17:40:04.235Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:40:04.235Z",
-   "to": "2026-10-25T17:40:04.235Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:40:04.235Z",
-   "to": "2026-10-25T17:40:04.235Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:40:04.235Z",
-   "to": "2026-10-25T17:40:04.235Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:40:04.235Z",
-   "to": "2026-10-25T17:40:04.235Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:40:09.576Z",
-   "to": "2026-10-25T17:40:09.576Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:40:09.576Z",
-   "to": "2026-10-25T17:40:09.576Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:40:09.576Z",
-   "to": "2026-10-25T17:40:09.576Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:40:09.576Z",
-   "to": "2026-10-25T17:40:09.576Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:40:09.576Z",
-   "to": "2026-10-25T17:40:09.576Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:40:09.576Z",
-   "to": "2026-10-25T17:40:09.576Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:40:11.753Z",
-   "to": "2026-10-25T17:40:11.753Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:40:11.753Z",
-   "to": "2026-10-25T17:40:11.753Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:40:11.753Z",
-   "to": "2026-10-25T17:40:11.753Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:40:11.753Z",
-   "to": "2026-10-25T17:40:11.753Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:40:11.753Z",
-   "to": "2026-10-25T17:40:11.753Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:40:11.753Z",
-   "to": "2026-10-25T17:40:11.753Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:40:29.028Z",
-   "to": "2026-10-25T17:40:29.028Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:40:29.028Z",
-   "to": "2026-10-25T17:40:29.028Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:40:29.028Z",
-   "to": "2026-10-25T17:40:29.028Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:40:29.028Z",
-   "to": "2026-10-25T17:40:29.028Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:40:29.028Z",
-   "to": "2026-10-25T17:40:29.028Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:40:29.028Z",
-   "to": "2026-10-25T17:40:29.028Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:40:29.372Z",
-   "to": "2026-10-25T17:40:29.372Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:40:29.372Z",
-   "to": "2026-10-25T17:40:29.372Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:40:29.372Z",
-   "to": "2026-10-25T17:40:29.372Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:40:29.372Z",
-   "to": "2026-10-25T17:40:29.372Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:40:29.372Z",
-   "to": "2026-10-25T17:40:29.372Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:40:29.372Z",
-   "to": "2026-10-25T17:40:29.372Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:40:37.302Z",
-   "to": "2026-10-25T17:40:37.302Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:40:37.302Z",
-   "to": "2026-10-25T17:40:37.302Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:40:37.302Z",
-   "to": "2026-10-25T17:40:37.302Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:40:37.302Z",
-   "to": "2026-10-25T17:40:37.302Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:40:37.302Z",
-   "to": "2026-10-25T17:40:37.302Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:40:37.302Z",
-   "to": "2026-10-25T17:40:37.302Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:40:38.248Z",
-   "to": "2026-10-25T17:40:38.248Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:40:38.248Z",
-   "to": "2026-10-25T17:40:38.248Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:40:38.248Z",
-   "to": "2026-10-25T17:40:38.248Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:40:38.248Z",
-   "to": "2026-10-25T17:40:38.248Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:40:38.248Z",
-   "to": "2026-10-25T17:40:38.248Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:40:38.248Z",
-   "to": "2026-10-25T17:40:38.248Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "jubilee",
-   "lineName": "Jubilee",
-   "from": "2026-10-25T17:45:02.688Z",
-   "to": "2026-10-25T20:56:27.075Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Jubilee Line: Severe delays due to an earlier obstruction on the track at Queensbury. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, C2C, Southeastern and Thameslink services via any reasonable route.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:45:02.688Z",
-   "to": "2026-10-25T17:45:02.688Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:45:02.688Z",
-   "to": "2026-10-25T17:45:02.688Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:45:02.688Z",
-   "to": "2026-10-25T17:45:02.688Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:45:02.688Z",
-   "to": "2026-10-25T17:45:02.688Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:45:16.134Z",
-   "to": "2026-10-25T17:45:16.134Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-25T17:45:16.134Z",
-   "to": "2026-10-25T17:45:16.134Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:45:16.134Z",
-   "to": "2026-10-25T17:45:16.134Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-25T17:45:16.134Z",
-   "to": "2026-10-25T17:45:16.134Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Weaver Line: No service between Hackney Downs and Chingford while we fix a track fault between Highams Park and Chingford. SEVERE DELAYS on the rest of the line. "
   },
   {
    "line": "suffragette",
@@ -988674,7 +987990,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-24T16:30:00.896Z",
-   "to": "2026-11-24T17:35:03.036Z",
+   "to": "2026-11-24T17:45:03.005Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays due to a points failure at Kennington. "
@@ -989493,7 +988809,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-11-24T17:30:00.878Z",
-   "to": "2026-11-24T17:35:03.036Z",
+   "to": "2026-11-24T17:40:34.299Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Windrush Line: Minor delays between Sydenham and West Croydon due to an earlier customer incident. GOOD SERVICE on the rest of the line. "
@@ -989619,7 +988935,259 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-24T17:35:03.036Z",
-   "to": "2026-11-24T17:35:03.036Z",
+   "to": "2026-11-24T17:35:21.707Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:35:21.707Z",
+   "to": "2026-11-24T17:35:21.707Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:35:21.707Z",
+   "to": "2026-11-24T17:35:24.626Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:35:24.626Z",
+   "to": "2026-11-24T17:35:24.626Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:35:24.626Z",
+   "to": "2026-11-24T17:35:25.043Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:35:25.043Z",
+   "to": "2026-11-24T17:35:25.043Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:35:25.043Z",
+   "to": "2026-11-24T17:36:11.037Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:36:11.037Z",
+   "to": "2026-11-24T17:36:11.037Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:36:11.037Z",
+   "to": "2026-11-24T17:36:23.634Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:36:23.634Z",
+   "to": "2026-11-24T17:36:23.634Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:36:23.634Z",
+   "to": "2026-11-24T17:36:24.033Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:36:24.033Z",
+   "to": "2026-11-24T17:36:24.033Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:36:24.033Z",
+   "to": "2026-11-24T17:40:01.190Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:40:01.190Z",
+   "to": "2026-11-24T17:40:01.190Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:40:01.190Z",
+   "to": "2026-11-24T17:40:13.289Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:40:13.289Z",
+   "to": "2026-11-24T17:40:13.289Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:40:13.289Z",
+   "to": "2026-11-24T17:40:14.624Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:40:14.624Z",
+   "to": "2026-11-24T17:40:14.624Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:40:14.624Z",
+   "to": "2026-11-24T17:40:31.039Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:40:31.039Z",
+   "to": "2026-11-24T17:40:31.039Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:40:31.039Z",
+   "to": "2026-11-24T17:40:31.451Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:40:31.451Z",
+   "to": "2026-11-24T17:40:31.451Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:40:31.451Z",
+   "to": "2026-11-24T17:40:33.928Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:40:33.928Z",
+   "to": "2026-11-24T17:40:33.928Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:40:33.928Z",
+   "to": "2026-11-24T17:40:34.299Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:40:34.299Z",
+   "to": "2026-11-24T17:40:34.299Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:40:34.299Z",
+   "to": "2026-11-24T17:45:03.005Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:45:03.005Z",
+   "to": "2026-11-24T17:45:03.005Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-24T17:45:03.005Z",
+   "to": "2026-11-24T17:45:03.005Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railway, Great Western Railway and Greater Anglia services via any reasonable route. MINOR DELAYS on the rest of the line. "
