@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-26T21:26:47.236Z",
- "sinceISO": "2026-10-27T21:26:41.231Z",
+ "generatedAt": "2026-11-26T21:40:11.878Z",
+ "sinceISO": "2026-10-27T21:40:05.572Z",
  "coverage": [
   {
-   "from": "2026-10-27T21:30:09.267Z",
+   "from": "2026-10-27T21:40:08.652Z",
    "to": "2026-11-23T08:04:10.333Z",
-   "polls": 53262
+   "polls": 53248
   },
   {
    "from": "2026-11-23T08:24:22.921Z",
@@ -24,15 +24,15 @@
   },
   {
    "from": "2026-11-23T23:58:05.418Z",
-   "to": "2026-11-26T21:26:40.952Z",
-   "polls": 5828
+   "to": "2026-11-26T21:40:04.883Z",
+   "polls": 5846
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-27T21:30:09.267Z",
+   "from": "2026-10-27T21:40:08.652Z",
    "to": "2026-10-28T01:10:42.428Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -41,25 +41,16 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-27T21:30:09.267Z",
+   "from": "2026-10-27T21:40:08.652Z",
    "to": "2026-10-27T22:31:21.410Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
   },
   {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-27T21:30:09.267Z",
-   "to": "2026-10-27T21:31:28.476Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Circle Line: Minor delays due to an earlier faulty train at Monument.  "
-  },
-  {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-27T21:30:09.267Z",
+   "from": "2026-10-27T21:40:08.652Z",
    "to": "2026-10-27T22:20:51.949Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -68,7 +59,7 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-27T21:30:09.267Z",
+   "from": "2026-10-27T21:40:08.652Z",
    "to": "2026-10-27T23:20:34.760Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -77,263 +68,11 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-10-27T21:30:09.267Z",
+   "from": "2026-10-27T21:40:08.652Z",
    "to": "2026-10-27T23:51:01.482Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Piccadilly Line: Minor delays while we fix a points failure at Acton Town. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:30:09.267Z",
-   "to": "2026-10-27T21:30:09.267Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:30:09.267Z",
-   "to": "2026-10-27T21:30:09.267Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:30:09.659Z",
-   "to": "2026-10-27T21:30:09.659Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:30:09.659Z",
-   "to": "2026-10-27T21:30:09.659Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:30:16.965Z",
-   "to": "2026-10-27T21:30:16.965Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:30:16.965Z",
-   "to": "2026-10-27T21:30:16.965Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:31:17.666Z",
-   "to": "2026-10-27T21:31:17.666Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:31:17.666Z",
-   "to": "2026-10-27T21:31:17.666Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:31:27.236Z",
-   "to": "2026-10-27T21:31:27.236Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:31:27.236Z",
-   "to": "2026-10-27T21:31:27.236Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:31:28.041Z",
-   "to": "2026-10-27T21:31:28.041Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:31:28.041Z",
-   "to": "2026-10-27T21:31:28.041Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:31:28.476Z",
-   "to": "2026-10-27T21:31:28.476Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:31:28.476Z",
-   "to": "2026-10-27T21:31:28.476Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:35:02.612Z",
-   "to": "2026-10-27T21:35:02.612Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:35:02.612Z",
-   "to": "2026-10-27T21:35:02.612Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:35:25.408Z",
-   "to": "2026-10-27T21:35:25.408Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:35:25.408Z",
-   "to": "2026-10-27T21:35:25.408Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:35:26.130Z",
-   "to": "2026-10-27T21:35:26.130Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:35:26.130Z",
-   "to": "2026-10-27T21:35:26.130Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:35:26.849Z",
-   "to": "2026-10-27T21:35:26.849Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:35:26.849Z",
-   "to": "2026-10-27T21:35:26.849Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:36:39.015Z",
-   "to": "2026-10-27T21:36:39.015Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:36:39.015Z",
-   "to": "2026-10-27T21:36:39.015Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:36:40.133Z",
-   "to": "2026-10-27T21:36:40.133Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:36:40.133Z",
-   "to": "2026-10-27T21:36:40.133Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:36:47.497Z",
-   "to": "2026-10-27T21:36:47.497Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T21:36:47.497Z",
-   "to": "2026-10-27T21:36:47.497Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
   },
   {
    "line": "suffragette",
@@ -913506,7 +913245,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-26T14:30:04.577Z",
-   "to": "2026-11-26T21:26:40.952Z",
+   "to": "2026-11-26T21:40:04.883Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Waterloo and City Line: No service due to strike action. Tube services on other lines will finish early tonight so please complete your journey by 21:00. "
@@ -952647,7 +952386,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-11-26T21:15:06.684Z",
-   "to": "2026-11-26T21:26:40.952Z",
+   "to": "2026-11-26T21:40:04.883Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Circle Line: No service on the entire line due to strike action. "
@@ -952656,7 +952395,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-26T21:15:06.684Z",
-   "to": "2026-11-26T21:26:40.952Z",
+   "to": "2026-11-26T21:40:04.883Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays due to strike action. If you're travelling beyond Earl's Court, please take the first train and change there. Services are operating approximately every 10 minutes. "
@@ -952665,7 +952404,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-11-26T21:15:06.684Z",
-   "to": "2026-11-26T21:26:40.952Z",
+   "to": "2026-11-26T21:40:04.883Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Hammersmith and City Line: Severe delays due to strike action. Services are operating approximately every 12 minutes between Hammersmith and Aldgate and every 30 minutes between Edgware Road and Barking "
@@ -952674,7 +952413,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-26T21:15:06.684Z",
-   "to": "2026-11-26T21:26:40.952Z",
+   "to": "2026-11-26T21:40:04.883Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to strike action. "
@@ -952701,7 +952440,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-26T21:15:06.684Z",
-   "to": "2026-11-26T21:26:40.952Z",
+   "to": "2026-11-26T21:40:04.883Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays due to a points failure at Kennington and due to strike action. Services are operating between High Barnet and Morden via Bank every 10 minutes and between Edgware and Battersea Power Station via Charing Cross every 10 minutes. Trains are operating between Mill Hill East and Finchley Central every 15 minutes. "
@@ -953745,7 +953484,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-11-26T21:25:06.084Z",
-   "to": "2026-11-26T21:26:40.952Z",
+   "to": "2026-11-26T21:40:04.510Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays while we deal with a customer incident. Tickets are being accepted on London Buses via any reasonable route. "
@@ -953890,6 +953629,1302 @@
    "lineName": "Piccadilly",
    "from": "2026-11-26T21:26:40.952Z",
    "to": "2026-11-26T21:26:40.952Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:26:55.640Z",
+   "to": "2026-11-26T21:26:55.640Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:26:55.640Z",
+   "to": "2026-11-26T21:26:55.640Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:26:55.640Z",
+   "to": "2026-11-26T21:26:55.640Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:26:55.640Z",
+   "to": "2026-11-26T21:26:55.640Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:26:55.640Z",
+   "to": "2026-11-26T21:26:55.640Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:26:55.640Z",
+   "to": "2026-11-26T21:26:55.640Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:26:55.640Z",
+   "to": "2026-11-26T21:26:55.640Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:26:55.640Z",
+   "to": "2026-11-26T21:26:55.640Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:27:00.954Z",
+   "to": "2026-11-26T21:27:00.954Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:27:00.954Z",
+   "to": "2026-11-26T21:27:00.954Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:27:00.954Z",
+   "to": "2026-11-26T21:27:00.954Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:27:00.954Z",
+   "to": "2026-11-26T21:27:00.954Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:27:00.954Z",
+   "to": "2026-11-26T21:27:00.954Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:27:00.954Z",
+   "to": "2026-11-26T21:27:00.954Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:27:00.954Z",
+   "to": "2026-11-26T21:27:00.954Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:27:00.954Z",
+   "to": "2026-11-26T21:27:00.954Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:30:04.494Z",
+   "to": "2026-11-26T21:30:04.494Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:30:04.494Z",
+   "to": "2026-11-26T21:30:04.494Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:30:04.494Z",
+   "to": "2026-11-26T21:30:04.494Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:30:04.494Z",
+   "to": "2026-11-26T21:30:04.494Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:30:04.494Z",
+   "to": "2026-11-26T21:30:04.494Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:30:04.494Z",
+   "to": "2026-11-26T21:30:04.494Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:30:04.494Z",
+   "to": "2026-11-26T21:30:04.494Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:30:04.494Z",
+   "to": "2026-11-26T21:30:04.494Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:30:04.912Z",
+   "to": "2026-11-26T21:30:04.912Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:30:04.912Z",
+   "to": "2026-11-26T21:30:04.912Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:30:04.912Z",
+   "to": "2026-11-26T21:30:04.912Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:30:04.912Z",
+   "to": "2026-11-26T21:30:04.912Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:30:04.912Z",
+   "to": "2026-11-26T21:30:04.912Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:30:04.912Z",
+   "to": "2026-11-26T21:30:04.912Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:30:04.912Z",
+   "to": "2026-11-26T21:30:04.912Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:30:04.912Z",
+   "to": "2026-11-26T21:30:04.912Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:30:10.269Z",
+   "to": "2026-11-26T21:30:10.269Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:30:10.269Z",
+   "to": "2026-11-26T21:30:10.269Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:30:10.269Z",
+   "to": "2026-11-26T21:30:10.269Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:30:10.269Z",
+   "to": "2026-11-26T21:30:10.269Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:30:10.269Z",
+   "to": "2026-11-26T21:30:10.269Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:30:10.269Z",
+   "to": "2026-11-26T21:30:10.269Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:30:10.269Z",
+   "to": "2026-11-26T21:30:10.269Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:30:10.269Z",
+   "to": "2026-11-26T21:30:10.269Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:31:02.485Z",
+   "to": "2026-11-26T21:31:02.485Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:31:02.485Z",
+   "to": "2026-11-26T21:31:02.485Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:31:02.485Z",
+   "to": "2026-11-26T21:31:02.485Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:31:02.485Z",
+   "to": "2026-11-26T21:31:02.485Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:31:02.485Z",
+   "to": "2026-11-26T21:31:02.485Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:31:02.485Z",
+   "to": "2026-11-26T21:31:02.485Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:31:02.485Z",
+   "to": "2026-11-26T21:31:02.485Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:31:02.485Z",
+   "to": "2026-11-26T21:31:02.485Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:31:08.806Z",
+   "to": "2026-11-26T21:31:08.806Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:31:08.806Z",
+   "to": "2026-11-26T21:31:08.806Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:31:08.806Z",
+   "to": "2026-11-26T21:31:08.806Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:31:08.806Z",
+   "to": "2026-11-26T21:31:08.806Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:31:08.806Z",
+   "to": "2026-11-26T21:31:08.806Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:31:08.806Z",
+   "to": "2026-11-26T21:31:08.806Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:31:08.806Z",
+   "to": "2026-11-26T21:31:08.806Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:31:08.806Z",
+   "to": "2026-11-26T21:31:08.806Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:31:09.981Z",
+   "to": "2026-11-26T21:31:09.981Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:31:09.981Z",
+   "to": "2026-11-26T21:31:09.981Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:31:09.981Z",
+   "to": "2026-11-26T21:31:09.981Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:31:09.981Z",
+   "to": "2026-11-26T21:31:09.981Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:31:09.981Z",
+   "to": "2026-11-26T21:31:09.981Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:31:09.981Z",
+   "to": "2026-11-26T21:31:09.981Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:31:09.981Z",
+   "to": "2026-11-26T21:31:09.981Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:31:09.981Z",
+   "to": "2026-11-26T21:31:09.981Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:31:10.418Z",
+   "to": "2026-11-26T21:31:10.418Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:31:10.418Z",
+   "to": "2026-11-26T21:31:10.418Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:31:10.418Z",
+   "to": "2026-11-26T21:31:10.418Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:31:10.418Z",
+   "to": "2026-11-26T21:31:10.418Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:31:10.418Z",
+   "to": "2026-11-26T21:31:10.418Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:31:10.418Z",
+   "to": "2026-11-26T21:31:10.418Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:31:10.418Z",
+   "to": "2026-11-26T21:31:10.418Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:31:10.418Z",
+   "to": "2026-11-26T21:31:10.418Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:35:05.944Z",
+   "to": "2026-11-26T21:35:05.944Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:35:05.944Z",
+   "to": "2026-11-26T21:35:05.944Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:35:05.944Z",
+   "to": "2026-11-26T21:35:05.944Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:35:05.944Z",
+   "to": "2026-11-26T21:35:05.944Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:35:05.944Z",
+   "to": "2026-11-26T21:35:05.944Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:35:05.944Z",
+   "to": "2026-11-26T21:35:05.944Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:35:05.944Z",
+   "to": "2026-11-26T21:35:05.944Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:35:05.944Z",
+   "to": "2026-11-26T21:35:05.944Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:35:11.369Z",
+   "to": "2026-11-26T21:35:11.369Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:35:11.369Z",
+   "to": "2026-11-26T21:35:11.369Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:35:11.369Z",
+   "to": "2026-11-26T21:35:11.369Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:35:11.369Z",
+   "to": "2026-11-26T21:35:11.369Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:35:11.369Z",
+   "to": "2026-11-26T21:35:11.369Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:35:11.369Z",
+   "to": "2026-11-26T21:35:11.369Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:35:11.369Z",
+   "to": "2026-11-26T21:35:11.369Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:35:11.369Z",
+   "to": "2026-11-26T21:35:11.369Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:35:13.482Z",
+   "to": "2026-11-26T21:35:13.482Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:35:13.482Z",
+   "to": "2026-11-26T21:35:13.482Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:35:13.482Z",
+   "to": "2026-11-26T21:35:13.482Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:35:13.482Z",
+   "to": "2026-11-26T21:35:13.482Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:35:13.482Z",
+   "to": "2026-11-26T21:35:13.482Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:35:13.482Z",
+   "to": "2026-11-26T21:35:13.482Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:35:13.482Z",
+   "to": "2026-11-26T21:35:13.482Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:35:13.482Z",
+   "to": "2026-11-26T21:35:13.482Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:35:13.858Z",
+   "to": "2026-11-26T21:35:13.858Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:35:13.858Z",
+   "to": "2026-11-26T21:35:13.858Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:35:13.858Z",
+   "to": "2026-11-26T21:35:13.858Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:35:13.858Z",
+   "to": "2026-11-26T21:35:13.858Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:35:13.858Z",
+   "to": "2026-11-26T21:35:13.858Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:35:13.858Z",
+   "to": "2026-11-26T21:35:13.858Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:35:13.858Z",
+   "to": "2026-11-26T21:35:13.858Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:35:13.858Z",
+   "to": "2026-11-26T21:35:13.858Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:35:21.898Z",
+   "to": "2026-11-26T21:35:21.898Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:35:21.898Z",
+   "to": "2026-11-26T21:35:21.898Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:35:21.898Z",
+   "to": "2026-11-26T21:35:21.898Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:35:21.898Z",
+   "to": "2026-11-26T21:35:21.898Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:35:21.898Z",
+   "to": "2026-11-26T21:35:21.898Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:35:21.898Z",
+   "to": "2026-11-26T21:35:21.898Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:35:21.898Z",
+   "to": "2026-11-26T21:35:21.898Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:35:21.898Z",
+   "to": "2026-11-26T21:35:21.898Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:35:23.532Z",
+   "to": "2026-11-26T21:35:23.532Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:35:23.532Z",
+   "to": "2026-11-26T21:35:23.532Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:35:23.532Z",
+   "to": "2026-11-26T21:35:23.532Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:35:23.532Z",
+   "to": "2026-11-26T21:35:23.532Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:35:23.532Z",
+   "to": "2026-11-26T21:35:23.532Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:35:23.532Z",
+   "to": "2026-11-26T21:35:23.532Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:35:23.532Z",
+   "to": "2026-11-26T21:35:23.532Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:35:23.532Z",
+   "to": "2026-11-26T21:35:23.532Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:35:28.905Z",
+   "to": "2026-11-26T21:35:28.905Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:35:28.905Z",
+   "to": "2026-11-26T21:35:28.905Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:35:28.905Z",
+   "to": "2026-11-26T21:35:28.905Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:35:28.905Z",
+   "to": "2026-11-26T21:35:28.905Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:35:28.905Z",
+   "to": "2026-11-26T21:35:28.905Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:35:28.905Z",
+   "to": "2026-11-26T21:35:28.905Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:35:28.905Z",
+   "to": "2026-11-26T21:35:28.905Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:35:28.905Z",
+   "to": "2026-11-26T21:35:28.905Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:40:04.510Z",
+   "to": "2026-11-26T21:40:04.510Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:40:04.510Z",
+   "to": "2026-11-26T21:40:04.510Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:40:04.510Z",
+   "to": "2026-11-26T21:40:04.510Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:40:04.510Z",
+   "to": "2026-11-26T21:40:04.510Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:40:04.510Z",
+   "to": "2026-11-26T21:40:04.510Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:40:04.510Z",
+   "to": "2026-11-26T21:40:04.510Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:40:04.510Z",
+   "to": "2026-11-26T21:40:04.510Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:40:04.510Z",
+   "to": "2026-11-26T21:40:04.510Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:40:04.883Z",
+   "to": "2026-11-26T21:40:04.883Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T21:40:04.883Z",
+   "to": "2026-11-26T21:40:04.883Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle approximately every 10 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:40:04.883Z",
+   "to": "2026-11-26T21:40:04.883Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T21:40:04.883Z",
+   "to": "2026-11-26T21:40:04.883Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:40:04.883Z",
+   "to": "2026-11-26T21:40:04.883Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T21:40:04.883Z",
+   "to": "2026-11-26T21:40:04.883Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:40:04.883Z",
+   "to": "2026-11-26T21:40:04.883Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T21:40:04.883Z",
+   "to": "2026-11-26T21:40:04.883Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
