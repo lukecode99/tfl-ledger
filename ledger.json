@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-26T15:30:37.346Z",
- "sinceISO": "2026-10-27T15:30:31.141Z",
+ "generatedAt": "2026-11-26T15:31:28.622Z",
+ "sinceISO": "2026-10-27T15:31:22.167Z",
  "coverage": [
   {
-   "from": "2026-10-27T15:30:38.204Z",
+   "from": "2026-10-27T15:35:03.090Z",
    "to": "2026-11-23T08:04:10.333Z",
-   "polls": 53761
+   "polls": 53759
   },
   {
    "from": "2026-11-23T08:24:22.921Z",
@@ -24,15 +24,15 @@
   },
   {
    "from": "2026-11-23T23:58:05.418Z",
-   "to": "2026-11-26T15:30:30.794Z",
-   "polls": 5329
+   "to": "2026-11-26T15:31:21.863Z",
+   "polls": 5330
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-27T15:30:38.204Z",
+   "from": "2026-10-27T15:35:03.090Z",
    "to": "2026-10-27T15:35:49.582Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -41,34 +41,16 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-27T15:30:38.204Z",
+   "from": "2026-10-27T15:35:03.090Z",
    "to": "2026-10-27T18:45:50.677Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations. "
   },
   {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-27T15:30:38.204Z",
-   "to": "2026-10-27T15:30:38.882Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: Severe delays between Edgware Road and Hammersmith while we fix a points failure at Hammersmith. GOOD SERVICE on the rest of the line . Tickets will be accepted on London Buses. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-27T15:30:38.204Z",
-   "to": "2026-10-27T15:30:38.882Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Edgware Road and Hammersmith while we fix a points failure at Hammersmith. GOOD SERVICE on the rest of the line . Tickets will be accepted on London Buses. "
-  },
-  {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-10-27T15:30:38.204Z",
+   "from": "2026-10-27T15:35:03.090Z",
    "to": "2026-10-27T16:11:35.492Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -77,47 +59,11 @@
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-10-27T15:30:38.204Z",
+   "from": "2026-10-27T15:35:03.090Z",
    "to": "2026-10-27T15:50:36.629Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays due to an earlier signal failure at Balham. \r\n "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T15:30:38.204Z",
-   "to": "2026-10-27T15:30:38.204Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T15:30:38.204Z",
-   "to": "2026-10-27T15:30:38.204Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T15:30:38.882Z",
-   "to": "2026-10-27T15:30:38.882Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T15:30:38.882Z",
-   "to": "2026-10-27T15:30:38.882Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
   },
   {
    "line": "suffragette",
@@ -916062,7 +916008,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-11-26T12:15:01.747Z",
-   "to": "2026-11-26T15:30:30.794Z",
+   "to": "2026-11-26T15:31:21.863Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Circle Line: No service on the entire line due to strike action. Tube services on other lines will finish early tonight so please complete your journey by 21:00. "
@@ -920499,7 +920445,7 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-11-26T13:15:00.879Z",
-   "to": "2026-11-26T15:30:30.794Z",
+   "to": "2026-11-26T15:31:21.863Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Lioness Line: Severe delays due to an earlier track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. "
@@ -928149,7 +928095,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-26T14:30:04.577Z",
-   "to": "2026-11-26T15:30:30.794Z",
+   "to": "2026-11-26T15:31:21.863Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Waterloo and City Line: No service due to strike action. Tube services on other lines will finish early tonight so please complete your journey by 21:00. "
@@ -928410,7 +928356,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-26T14:31:31.698Z",
-   "to": "2026-11-26T15:30:30.794Z",
+   "to": "2026-11-26T15:31:21.863Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays due to strike action. If you're travelling beyond Earl's Court, please take the first train and change there. Services are operating approximately every 10 minutes. Tube services will finish early tonight so please complete your journey by 21:00.  "
@@ -929247,7 +929193,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-11-26T14:41:12.655Z",
-   "to": "2026-11-26T15:30:30.794Z",
+   "to": "2026-11-26T15:31:21.863Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Mildmay Line: Severe delays due to a trespasser on the track earlier at Highbury & Islington. London Underground are accepting tickets via any reasonable route.  "
@@ -930237,7 +930183,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-11-26T14:55:06.506Z",
-   "to": "2026-11-26T15:30:30.794Z",
+   "to": "2026-11-26T15:31:21.863Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to strike action. Services are operating approximately every 5 minutes. Tube services will finish early tonight so please complete your journey by 21:00.  "
@@ -930714,7 +930660,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-26T15:00:45.768Z",
-   "to": "2026-11-26T15:30:30.794Z",
+   "to": "2026-11-26T15:31:21.863Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Jubilee Line: Severe delays due to an earlier track fire at Wembley Park. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C, Southeastern and Thameslink. "
@@ -931344,7 +931290,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-11-26T15:06:14.573Z",
-   "to": "2026-11-26T15:30:30.794Z",
+   "to": "2026-11-26T15:31:21.863Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Hammersmith and City Line: Severe delays due to strike action. Services are operating approximately every 12 minutes between Hammersmith and Aldgate and every 30 minutes between Edgware Road and Barking. Tube services will finish early tonight so please complete your journey by 21:00 "
@@ -933054,7 +933000,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-26T15:25:05.767Z",
-   "to": "2026-11-26T15:30:30.794Z",
+   "to": "2026-11-26T15:31:21.863Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to strike action. GOOD SERVICE on the rest of the line. Service is operating between Queen's Park and Harrow & Wealdstone approximately every 5 minutes. Tube services will finish early tonight so please complete your journey at 21:00. "
@@ -933739,6 +933685,69 @@
    "lineName": "Piccadilly",
    "from": "2026-11-26T15:30:30.794Z",
    "to": "2026-11-26T15:30:30.794Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge and between Hatton Cross and Heathrow Terminal 4. SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Heathrow Terminal 5 every 12 minutes and between Acton Town and Rayners Lane every 30 minutes. Tube services will finish early tonight so please complete your journey by 21:00. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T15:31:21.863Z",
+   "to": "2026-11-26T15:31:21.863Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. Tube services will finish early tonight so please complete your journey by 21:00. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T15:31:21.863Z",
+   "to": "2026-11-26T15:31:21.863Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes and between Liverpool Street and Hainault via Newbury Park, between Leytonstone and Epping via Woodford and between Hainault and Woodford every 12 minutes. Tube services will finish early tonight so please complete your journey by 21:00. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T15:31:21.863Z",
+   "to": "2026-11-26T15:31:21.863Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. Tube services will finish early tonight so please complete your journey by 21:00. "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T15:31:21.863Z",
+   "to": "2026-11-26T15:31:21.863Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. Tube services will finish early tonight so please complete your journey by 21:00. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T15:31:21.863Z",
+   "to": "2026-11-26T15:31:21.863Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays due to a points failure at Kennington and due to strike action. Tube services will finish early tonight so please complete your journey by 21:00.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T15:31:21.863Z",
+   "to": "2026-11-26T15:31:21.863Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge and between Hatton Cross and Heathrow Terminal 4. SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Heathrow Terminal 5 every 12 minutes and between Acton Town and Rayners Lane every 30 minutes. Tube services will finish early tonight so please complete your journey by 21:00. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-26T15:31:21.863Z",
+   "to": "2026-11-26T15:31:21.863Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge and between Hatton Cross and Heathrow Terminal 4. SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Heathrow Terminal 5 every 12 minutes and between Acton Town and Rayners Lane every 30 minutes. Tube services will finish early tonight so please complete your journey by 21:00. "
