@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-26T04:40:13.034Z",
- "sinceISO": "2026-10-27T04:40:06.590Z",
+ "generatedAt": "2026-11-26T04:50:12.701Z",
+ "sinceISO": "2026-10-27T04:50:06.326Z",
  "coverage": [
   {
-   "from": "2026-10-27T04:40:11.628Z",
+   "from": "2026-10-27T04:50:11.871Z",
    "to": "2026-11-23T08:04:10.333Z",
-   "polls": 54674
+   "polls": 54660
   },
   {
    "from": "2026-11-23T08:24:22.921Z",
@@ -24,28 +24,28 @@
   },
   {
    "from": "2026-11-23T23:58:05.418Z",
-   "to": "2026-11-26T04:40:06.330Z",
-   "polls": 4417
+   "to": "2026-11-26T04:50:06.061Z",
+   "polls": 4431
   }
  ],
  "spans": [
   {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-27T04:40:11.628Z",
-   "to": "2026-10-27T06:00:12.820Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
-  },
-  {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-10-27T04:45:04.967Z",
+   "from": "2026-10-27T04:50:11.871Z",
    "to": "2026-10-27T05:21:34.480Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. GOOD SERVICE on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-27T04:50:11.871Z",
+   "to": "2026-10-27T06:00:12.820Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
   },
   {
    "line": "suffragette",
@@ -924603,7 +924603,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-26T00:30:05.777Z",
-   "to": "2026-11-26T04:40:06.330Z",
+   "to": "2026-11-26T04:50:06.061Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00. "
@@ -925422,10 +925422,19 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-26T04:35:02.272Z",
-   "to": "2026-11-26T04:40:06.330Z",
+   "to": "2026-11-26T04:45:29.986Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a track fault at Kensal Green. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T04:50:06.061Z",
+   "to": "2026-11-26T04:50:06.061Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northestern Railway. GOOD SERVICE on the rest of the line.  "
   }
  ]
 }
