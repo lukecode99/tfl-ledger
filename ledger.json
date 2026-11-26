@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-26T08:25:12.709Z",
- "sinceISO": "2026-10-27T08:25:02.466Z",
+ "generatedAt": "2026-11-26T08:50:19.448Z",
+ "sinceISO": "2026-10-27T08:50:10.959Z",
  "coverage": [
   {
-   "from": "2026-10-27T08:25:03.223Z",
+   "from": "2026-10-27T08:51:14.130Z",
    "to": "2026-11-23T08:04:10.333Z",
-   "polls": 54361
+   "polls": 54323
   },
   {
    "from": "2026-11-23T08:24:22.921Z",
@@ -24,33 +24,33 @@
   },
   {
    "from": "2026-11-23T23:58:05.418Z",
-   "to": "2026-11-26T08:25:02.200Z",
-   "polls": 4732
+   "to": "2026-11-26T08:50:10.197Z",
+   "polls": 4770
   }
  ],
  "spans": [
   {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-10-27T08:25:03.223Z",
-   "to": "2026-10-27T08:36:40.753Z",
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-27T08:51:14.130Z",
+   "to": "2026-10-27T18:45:50.677Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Bakerloo Line: Minor delays due to train cancellations. "
+   "reason": "Central Line: Minor delays due to train cancellations. "
   },
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-10-27T08:25:03.223Z",
-   "to": "2026-10-27T08:30:00.550Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Circle Line: Minor delays Clockwise only while we fix a faulty train at Barbican. "
+   "from": "2026-10-27T08:51:14.130Z",
+   "to": "2026-10-27T09:11:36.045Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: Severe delays due to an earlier faulty train at Barbican. "
   },
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-27T08:25:03.223Z",
+   "from": "2026-10-27T08:51:14.130Z",
    "to": "2026-10-27T10:36:03.107Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -59,7 +59,7 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-27T08:25:03.223Z",
+   "from": "2026-10-27T08:51:14.130Z",
    "to": "2026-10-27T09:20:09.237Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -68,727 +68,7 @@
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-10-27T08:25:03.223Z",
-   "to": "2026-10-27T08:30:27.001Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Minor delays between Hammersmith and Barking eastbound only while fix a faulty train at Barbican. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:25:03.223Z",
-   "to": "2026-10-27T08:30:27.001Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Aldgate while we fix a faulty train at Barbican. GOOD SERVICE on the rest of the line "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-27T08:25:03.223Z",
-   "to": "2026-10-27T09:51:10.365Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Northern Line: Severe delays due to an earlier signal failure at Balham. \r\nTickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway Services. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:25:03.223Z",
-   "to": "2026-10-27T08:25:03.223Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:25:03.223Z",
-   "to": "2026-10-27T08:25:03.223Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-27T08:25:03.223Z",
-   "to": "2026-10-27T10:00:11.627Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Victoria Line:  Minor delays due to train cancellations. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:25:23.686Z",
-   "to": "2026-10-27T08:25:23.686Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:25:23.686Z",
-   "to": "2026-10-27T08:25:23.686Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:25:32.769Z",
-   "to": "2026-10-27T08:25:32.769Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:25:32.769Z",
-   "to": "2026-10-27T08:25:32.769Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:25:33.167Z",
-   "to": "2026-10-27T08:25:33.167Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:25:33.167Z",
-   "to": "2026-10-27T08:25:33.167Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:25:51.002Z",
-   "to": "2026-10-27T08:25:51.002Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:25:51.002Z",
-   "to": "2026-10-27T08:25:51.002Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:26:00.604Z",
-   "to": "2026-10-27T08:26:00.604Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:26:00.604Z",
-   "to": "2026-10-27T08:26:00.604Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:26:01.022Z",
-   "to": "2026-10-27T08:26:01.022Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:26:01.022Z",
-   "to": "2026-10-27T08:26:01.022Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:30:00.550Z",
-   "to": "2026-10-27T08:30:00.550Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:30:00.550Z",
-   "to": "2026-10-27T08:30:00.550Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-27T08:30:09.719Z",
-   "to": "2026-10-27T08:31:45.422Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: c "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:30:09.719Z",
-   "to": "2026-10-27T08:30:09.719Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:30:09.719Z",
-   "to": "2026-10-27T08:30:09.719Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:30:27.001Z",
-   "to": "2026-10-27T08:30:27.001Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:30:27.001Z",
-   "to": "2026-10-27T08:30:27.001Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-27T08:31:13.174Z",
-   "to": "2026-10-27T08:36:40.753Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Hammersmith and City Line: Severe delays between Hammersmith and Barking eastbound only while fix a faulty train at Barbican. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:31:13.174Z",
-   "to": "2026-10-27T08:31:13.174Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:31:13.174Z",
-   "to": "2026-10-27T08:31:13.174Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:31:13.174Z",
-   "to": "2026-10-27T08:31:13.174Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:31:13.174Z",
-   "to": "2026-10-27T08:31:13.174Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:31:36.239Z",
-   "to": "2026-10-27T08:31:36.239Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:31:36.239Z",
-   "to": "2026-10-27T08:31:36.239Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:31:36.239Z",
-   "to": "2026-10-27T08:31:36.239Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:31:36.239Z",
-   "to": "2026-10-27T08:31:36.239Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:31:44.739Z",
-   "to": "2026-10-27T08:31:44.739Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:31:44.739Z",
-   "to": "2026-10-27T08:31:44.739Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:31:44.739Z",
-   "to": "2026-10-27T08:31:44.739Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:31:44.739Z",
-   "to": "2026-10-27T08:31:44.739Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:31:45.422Z",
-   "to": "2026-10-27T08:31:45.422Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:31:45.422Z",
-   "to": "2026-10-27T08:35:02.909Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:31:45.422Z",
-   "to": "2026-10-27T08:31:45.422Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:31:45.422Z",
-   "to": "2026-10-27T08:31:45.422Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-27T08:35:02.909Z",
-   "to": "2026-10-27T08:36:40.753Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: Severe delays clockwise while fix a faulty train at Barbican. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:35:02.909Z",
-   "to": "2026-10-27T08:35:02.909Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:35:02.909Z",
-   "to": "2026-10-27T08:35:02.909Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:35:02.909Z",
-   "to": "2026-10-27T08:35:02.909Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:35:28.018Z",
-   "to": "2026-10-27T08:35:28.018Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:35:28.018Z",
-   "to": "2026-10-27T08:35:28.018Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:35:28.018Z",
-   "to": "2026-10-27T08:35:28.018Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:35:28.018Z",
-   "to": "2026-10-27T08:35:28.018Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:35:52.548Z",
-   "to": "2026-10-27T08:35:52.548Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:35:52.548Z",
-   "to": "2026-10-27T08:35:52.548Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:35:52.548Z",
-   "to": "2026-10-27T08:35:52.548Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:35:52.548Z",
-   "to": "2026-10-27T08:35:52.548Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:35:52.984Z",
-   "to": "2026-10-27T08:35:52.984Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:35:52.984Z",
-   "to": "2026-10-27T08:35:52.984Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:35:52.984Z",
-   "to": "2026-10-27T08:35:52.984Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:35:52.984Z",
-   "to": "2026-10-27T08:35:52.984Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:36:31.980Z",
-   "to": "2026-10-27T08:36:31.980Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:36:31.980Z",
-   "to": "2026-10-27T08:36:31.980Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:36:31.980Z",
-   "to": "2026-10-27T08:36:31.980Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:36:31.980Z",
-   "to": "2026-10-27T08:36:31.980Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:36:40.253Z",
-   "to": "2026-10-27T08:36:40.253Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:36:40.253Z",
-   "to": "2026-10-27T08:36:40.253Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:36:40.253Z",
-   "to": "2026-10-27T08:36:40.253Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:36:40.253Z",
-   "to": "2026-10-27T08:36:40.253Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:36:40.753Z",
-   "to": "2026-10-27T08:36:40.753Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:36:40.753Z",
-   "to": "2026-10-27T08:36:40.753Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:36:40.753Z",
-   "to": "2026-10-27T08:36:40.753Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:36:40.753Z",
-   "to": "2026-10-27T08:36:40.753Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-27T08:40:00.896Z",
-   "to": "2026-10-27T18:45:50.677Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Minor delays due to train cancellations. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:40:00.896Z",
-   "to": "2026-10-27T08:40:00.896Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:40:00.896Z",
-   "to": "2026-10-27T08:40:00.896Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:40:00.896Z",
-   "to": "2026-10-27T08:40:00.896Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:40:00.896Z",
-   "to": "2026-10-27T08:40:00.896Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:40:24.255Z",
-   "to": "2026-10-27T08:40:24.255Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:40:24.255Z",
-   "to": "2026-10-27T08:40:24.255Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:40:24.255Z",
-   "to": "2026-10-27T08:40:24.255Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:40:24.255Z",
-   "to": "2026-10-27T08:40:24.255Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-27T08:40:24.668Z",
-   "to": "2026-10-27T09:11:36.045Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Circle Line: Severe delays due to an earlier faulty train at Barbican. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-27T08:40:24.668Z",
+   "from": "2026-10-27T08:51:14.130Z",
    "to": "2026-10-27T09:11:36.045Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -797,546 +77,6 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-27T08:40:24.668Z",
-   "to": "2026-10-27T08:40:24.668Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:40:24.668Z",
-   "to": "2026-10-27T08:40:24.668Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:40:24.668Z",
-   "to": "2026-10-27T08:40:24.668Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:40:24.668Z",
-   "to": "2026-10-27T08:40:24.668Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:41:47.569Z",
-   "to": "2026-10-27T08:41:47.569Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:41:47.569Z",
-   "to": "2026-10-27T08:41:47.569Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:41:47.569Z",
-   "to": "2026-10-27T08:41:47.569Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:41:47.569Z",
-   "to": "2026-10-27T08:41:47.569Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:41:50.212Z",
-   "to": "2026-10-27T08:41:50.212Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:41:50.212Z",
-   "to": "2026-10-27T08:41:50.212Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:41:50.212Z",
-   "to": "2026-10-27T08:41:50.212Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:41:50.212Z",
-   "to": "2026-10-27T08:41:50.212Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:41:59.538Z",
-   "to": "2026-10-27T08:41:59.538Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:41:59.538Z",
-   "to": "2026-10-27T08:41:59.538Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:41:59.538Z",
-   "to": "2026-10-27T08:41:59.538Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:41:59.538Z",
-   "to": "2026-10-27T08:41:59.538Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:41:59.919Z",
-   "to": "2026-10-27T08:41:59.919Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:41:59.919Z",
-   "to": "2026-10-27T08:41:59.919Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:41:59.919Z",
-   "to": "2026-10-27T08:41:59.919Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:41:59.919Z",
-   "to": "2026-10-27T08:41:59.919Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:45:02.932Z",
-   "to": "2026-10-27T08:45:02.932Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:45:02.932Z",
-   "to": "2026-10-27T08:45:02.932Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:45:02.932Z",
-   "to": "2026-10-27T08:45:02.932Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:45:02.932Z",
-   "to": "2026-10-27T08:45:02.932Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:45:05.308Z",
-   "to": "2026-10-27T08:45:05.308Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:45:05.308Z",
-   "to": "2026-10-27T08:45:05.308Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:45:05.308Z",
-   "to": "2026-10-27T08:45:05.308Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:45:05.308Z",
-   "to": "2026-10-27T08:45:05.308Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:45:13.783Z",
-   "to": "2026-10-27T08:45:13.783Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:45:13.783Z",
-   "to": "2026-10-27T08:45:13.783Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:45:13.783Z",
-   "to": "2026-10-27T08:45:13.783Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:45:13.783Z",
-   "to": "2026-10-27T08:45:13.783Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:45:14.172Z",
-   "to": "2026-10-27T08:45:14.172Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:45:14.172Z",
-   "to": "2026-10-27T08:45:14.172Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:45:14.172Z",
-   "to": "2026-10-27T08:45:14.172Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:45:14.172Z",
-   "to": "2026-10-27T08:45:14.172Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:45:56.858Z",
-   "to": "2026-10-27T08:45:56.858Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:45:56.858Z",
-   "to": "2026-10-27T08:45:56.858Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:45:56.858Z",
-   "to": "2026-10-27T08:45:56.858Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:45:56.858Z",
-   "to": "2026-10-27T08:45:56.858Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:46:06.413Z",
-   "to": "2026-10-27T08:46:06.413Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:46:06.413Z",
-   "to": "2026-10-27T08:46:06.413Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:46:06.413Z",
-   "to": "2026-10-27T08:46:06.413Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:46:06.413Z",
-   "to": "2026-10-27T08:46:06.413Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:46:07.508Z",
-   "to": "2026-10-27T08:46:07.508Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:46:07.508Z",
-   "to": "2026-10-27T08:46:07.508Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:46:07.508Z",
-   "to": "2026-10-27T08:46:07.508Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:46:07.508Z",
-   "to": "2026-10-27T08:46:07.508Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:50:00.486Z",
-   "to": "2026-10-27T08:50:00.486Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:50:00.486Z",
-   "to": "2026-10-27T08:50:00.486Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:50:00.486Z",
-   "to": "2026-10-27T08:50:00.486Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:50:00.486Z",
-   "to": "2026-10-27T08:50:00.486Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:50:08.574Z",
-   "to": "2026-10-27T08:50:08.574Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:50:08.574Z",
-   "to": "2026-10-27T08:50:08.574Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:50:08.574Z",
-   "to": "2026-10-27T08:50:08.574Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:50:08.574Z",
-   "to": "2026-10-27T08:50:08.574Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:50:09.662Z",
-   "to": "2026-10-27T08:50:09.662Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T08:50:09.662Z",
-   "to": "2026-10-27T08:50:09.662Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:50:09.662Z",
-   "to": "2026-10-27T08:50:09.662Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T08:50:09.662Z",
-   "to": "2026-10-27T08:50:09.662Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
    "from": "2026-10-27T08:51:14.130Z",
    "to": "2026-10-27T08:51:14.130Z",
    "severity": 6,
@@ -1351,6 +91,15 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T08:51:14.130Z",
+   "to": "2026-10-27T09:51:10.365Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Northern Line: Severe delays due to an earlier signal failure at Balham. \r\nTickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway Services. "
   },
   {
    "line": "suffragette",
@@ -1369,6 +118,15 @@
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-27T08:51:14.130Z",
+   "to": "2026-10-27T10:00:11.627Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line:  Minor delays due to train cancellations. "
   },
   {
    "line": "metropolitan",
@@ -916314,7 +915072,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-26T06:20:06.360Z",
-   "to": "2026-11-26T08:25:02.200Z",
+   "to": "2026-11-26T08:50:10.197Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
@@ -917286,7 +916044,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-11-26T06:45:02.849Z",
-   "to": "2026-11-26T08:25:02.200Z",
+   "to": "2026-11-26T08:50:10.197Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Severe delays between Paddington and Heathrow Terminals / Reading due to a late finish of engineering work. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway and South Western Railway.  "
@@ -918573,7 +917331,7 @@
    "line": "central",
    "lineName": "Central",
    "from": "2026-11-26T07:06:09.949Z",
-   "to": "2026-11-26T08:25:02.200Z",
+   "to": "2026-11-26T08:50:10.197Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Central Line: Minor delays due to train cancellations.  "
@@ -919761,7 +918519,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-26T07:25:02.467Z",
-   "to": "2026-11-26T08:25:02.200Z",
+   "to": "2026-11-26T08:50:10.197Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Northern Line: Minor delays due to an earlier track inspection at Tufnell Park. "
@@ -920949,7 +919707,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-11-26T07:55:03.135Z",
-   "to": "2026-11-26T08:25:02.200Z",
+   "to": "2026-11-26T08:50:10.197Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Victoria Line: Minor delays due to train cancellations. "
@@ -921066,7 +919824,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-26T07:55:52.153Z",
-   "to": "2026-11-26T08:25:02.200Z",
+   "to": "2026-11-26T08:50:10.197Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
@@ -922074,7 +920832,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-26T08:25:02.200Z",
-   "to": "2026-11-26T08:25:02.200Z",
+   "to": "2026-11-26T08:50:09.829Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "District Line: Minor delays between Wimbledon and Edgware Road due to an earlier signal failure at Southfields. GOOD SERVICE on the rest of the line. "
@@ -922102,6 +920860,1032 @@
    "lineName": "Lioness",
    "from": "2026-11-26T08:25:02.200Z",
    "to": "2026-11-26T08:25:02.200Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:25:23.972Z",
+   "to": "2026-11-26T08:25:23.972Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:25:23.972Z",
+   "to": "2026-11-26T08:25:23.972Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:25:23.972Z",
+   "to": "2026-11-26T08:25:23.972Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:25:31.203Z",
+   "to": "2026-11-26T08:25:31.203Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:25:31.203Z",
+   "to": "2026-11-26T08:25:31.203Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:25:31.203Z",
+   "to": "2026-11-26T08:25:31.203Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:26:13.035Z",
+   "to": "2026-11-26T08:26:13.035Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:26:13.035Z",
+   "to": "2026-11-26T08:26:13.035Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:26:13.035Z",
+   "to": "2026-11-26T08:26:13.035Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:26:13.648Z",
+   "to": "2026-11-26T08:26:13.648Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:26:13.648Z",
+   "to": "2026-11-26T08:26:13.648Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:26:13.648Z",
+   "to": "2026-11-26T08:26:13.648Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:26:17.507Z",
+   "to": "2026-11-26T08:26:17.507Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:26:17.507Z",
+   "to": "2026-11-26T08:26:17.507Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:26:17.507Z",
+   "to": "2026-11-26T08:26:17.507Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:26:17.910Z",
+   "to": "2026-11-26T08:26:17.910Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:26:17.910Z",
+   "to": "2026-11-26T08:26:17.910Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:26:17.910Z",
+   "to": "2026-11-26T08:26:17.910Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:05.932Z",
+   "to": "2026-11-26T08:30:05.932Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:05.932Z",
+   "to": "2026-11-26T08:30:05.932Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:05.932Z",
+   "to": "2026-11-26T08:30:05.932Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:06.326Z",
+   "to": "2026-11-26T08:30:06.326Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:06.326Z",
+   "to": "2026-11-26T08:30:06.326Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:06.326Z",
+   "to": "2026-11-26T08:30:06.326Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:10.358Z",
+   "to": "2026-11-26T08:30:10.358Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:10.358Z",
+   "to": "2026-11-26T08:30:10.358Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:10.358Z",
+   "to": "2026-11-26T08:30:10.358Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:10.717Z",
+   "to": "2026-11-26T08:30:10.717Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:10.717Z",
+   "to": "2026-11-26T08:30:10.717Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:10.717Z",
+   "to": "2026-11-26T08:30:10.717Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:30.089Z",
+   "to": "2026-11-26T08:30:30.089Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:30.089Z",
+   "to": "2026-11-26T08:30:30.089Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:30.089Z",
+   "to": "2026-11-26T08:30:30.089Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:30.457Z",
+   "to": "2026-11-26T08:30:30.457Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:30.457Z",
+   "to": "2026-11-26T08:30:30.457Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:30.457Z",
+   "to": "2026-11-26T08:30:30.457Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:37.752Z",
+   "to": "2026-11-26T08:30:37.752Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:37.752Z",
+   "to": "2026-11-26T08:30:37.752Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:30:37.752Z",
+   "to": "2026-11-26T08:30:37.752Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:35:02.450Z",
+   "to": "2026-11-26T08:35:02.450Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:35:02.450Z",
+   "to": "2026-11-26T08:35:02.450Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:35:02.450Z",
+   "to": "2026-11-26T08:35:02.450Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:35:05.487Z",
+   "to": "2026-11-26T08:35:05.487Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:35:05.487Z",
+   "to": "2026-11-26T08:35:05.487Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:35:05.487Z",
+   "to": "2026-11-26T08:35:05.487Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:35:12.533Z",
+   "to": "2026-11-26T08:35:12.533Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:35:12.533Z",
+   "to": "2026-11-26T08:35:12.533Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:35:12.533Z",
+   "to": "2026-11-26T08:35:12.533Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:36:05.519Z",
+   "to": "2026-11-26T08:36:05.519Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:36:05.519Z",
+   "to": "2026-11-26T08:36:05.519Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:36:05.519Z",
+   "to": "2026-11-26T08:36:05.519Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:36:06.269Z",
+   "to": "2026-11-26T08:36:06.269Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:36:06.269Z",
+   "to": "2026-11-26T08:36:06.269Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:36:06.269Z",
+   "to": "2026-11-26T08:36:06.269Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:36:10.279Z",
+   "to": "2026-11-26T08:36:10.279Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:36:10.279Z",
+   "to": "2026-11-26T08:36:10.279Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:36:10.279Z",
+   "to": "2026-11-26T08:36:10.279Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:36:10.652Z",
+   "to": "2026-11-26T08:36:10.652Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:36:10.652Z",
+   "to": "2026-11-26T08:36:10.652Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:36:10.652Z",
+   "to": "2026-11-26T08:36:10.652Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:06.178Z",
+   "to": "2026-11-26T08:40:06.178Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:06.178Z",
+   "to": "2026-11-26T08:40:06.178Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:06.178Z",
+   "to": "2026-11-26T08:40:06.178Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:06.899Z",
+   "to": "2026-11-26T08:40:06.899Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:06.899Z",
+   "to": "2026-11-26T08:40:06.899Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:06.899Z",
+   "to": "2026-11-26T08:40:06.899Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:10.463Z",
+   "to": "2026-11-26T08:40:10.463Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:10.463Z",
+   "to": "2026-11-26T08:40:10.463Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:10.463Z",
+   "to": "2026-11-26T08:40:10.463Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:10.833Z",
+   "to": "2026-11-26T08:40:10.833Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:10.833Z",
+   "to": "2026-11-26T08:40:10.833Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:10.833Z",
+   "to": "2026-11-26T08:40:10.833Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:22.133Z",
+   "to": "2026-11-26T08:40:22.133Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:22.133Z",
+   "to": "2026-11-26T08:40:22.133Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:22.133Z",
+   "to": "2026-11-26T08:40:22.133Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:22.536Z",
+   "to": "2026-11-26T08:40:22.536Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:22.536Z",
+   "to": "2026-11-26T08:40:22.536Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:22.536Z",
+   "to": "2026-11-26T08:40:22.536Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:29.260Z",
+   "to": "2026-11-26T08:40:29.260Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:29.260Z",
+   "to": "2026-11-26T08:40:29.260Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:40:29.260Z",
+   "to": "2026-11-26T08:40:29.260Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:02.502Z",
+   "to": "2026-11-26T08:45:02.502Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:02.502Z",
+   "to": "2026-11-26T08:45:02.502Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:02.502Z",
+   "to": "2026-11-26T08:45:02.502Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:02.857Z",
+   "to": "2026-11-26T08:45:02.857Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:02.857Z",
+   "to": "2026-11-26T08:45:02.857Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:02.857Z",
+   "to": "2026-11-26T08:45:02.857Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:09.643Z",
+   "to": "2026-11-26T08:45:09.643Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:09.643Z",
+   "to": "2026-11-26T08:45:09.643Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:09.643Z",
+   "to": "2026-11-26T08:45:09.643Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:48.826Z",
+   "to": "2026-11-26T08:45:48.826Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:48.826Z",
+   "to": "2026-11-26T08:45:48.826Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:48.826Z",
+   "to": "2026-11-26T08:45:48.826Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:49.186Z",
+   "to": "2026-11-26T08:45:49.186Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:49.186Z",
+   "to": "2026-11-26T08:45:49.186Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:49.186Z",
+   "to": "2026-11-26T08:45:49.186Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:52.874Z",
+   "to": "2026-11-26T08:45:52.874Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:52.874Z",
+   "to": "2026-11-26T08:45:52.874Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:52.874Z",
+   "to": "2026-11-26T08:45:52.874Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:53.564Z",
+   "to": "2026-11-26T08:45:53.564Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:53.564Z",
+   "to": "2026-11-26T08:45:53.564Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:45:53.564Z",
+   "to": "2026-11-26T08:45:53.564Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:50:05.663Z",
+   "to": "2026-11-26T08:50:05.663Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:50:05.663Z",
+   "to": "2026-11-26T08:50:05.663Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:50:05.663Z",
+   "to": "2026-11-26T08:50:05.663Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:50:06.209Z",
+   "to": "2026-11-26T08:50:06.209Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:50:06.209Z",
+   "to": "2026-11-26T08:50:06.209Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:50:06.209Z",
+   "to": "2026-11-26T08:50:06.209Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:50:09.829Z",
+   "to": "2026-11-26T08:50:09.829Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:50:09.829Z",
+   "to": "2026-11-26T08:50:09.829Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:50:09.829Z",
+   "to": "2026-11-26T08:50:09.829Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:50:10.197Z",
+   "to": "2026-11-26T08:50:10.197Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:50:10.197Z",
+   "to": "2026-11-26T08:50:10.197Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T08:50:10.197Z",
+   "to": "2026-11-26T08:50:10.197Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Lioness Line: No service between Willesden Junction and Queen's Park and SEVERE DELAYS between Queen's Park and Euston due to a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
