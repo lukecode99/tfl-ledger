@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-26T10:05:10.134Z",
- "sinceISO": "2026-10-27T10:05:04.024Z",
+ "generatedAt": "2026-11-26T10:20:13.038Z",
+ "sinceISO": "2026-10-27T10:20:06.590Z",
  "coverage": [
   {
-   "from": "2026-10-27T10:05:18.377Z",
+   "from": "2026-10-27T10:20:09.497Z",
    "to": "2026-11-23T08:04:10.333Z",
-   "polls": 54220
+   "polls": 54199
   },
   {
    "from": "2026-11-23T08:24:22.921Z",
@@ -24,15 +24,24 @@
   },
   {
    "from": "2026-11-23T23:58:05.418Z",
-   "to": "2026-11-26T10:05:02.860Z",
-   "polls": 4872
+   "to": "2026-11-26T10:20:06.291Z",
+   "polls": 4893
   }
  ],
  "spans": [
   {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-10-27T10:20:09.497Z",
+   "to": "2026-10-27T10:31:58.237Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Bakerloo Line: Minor delays southbound only while we fix a signal failure at Baker Street GOOD SERVICE northbound. "
+  },
+  {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-27T10:05:18.377Z",
+   "from": "2026-10-27T10:20:09.497Z",
    "to": "2026-10-27T18:45:50.677Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -41,7 +50,7 @@
   {
    "line": "district",
    "lineName": "District",
-   "from": "2026-10-27T10:05:18.377Z",
+   "from": "2026-10-27T10:20:09.497Z",
    "to": "2026-10-27T10:36:03.107Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -50,7 +59,7 @@
   {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-27T10:05:18.377Z",
+   "from": "2026-10-27T10:20:09.497Z",
    "to": "2026-10-27T11:51:33.687Z",
    "severity": 9,
    "description": "Minor Delays",
@@ -59,7 +68,7 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-27T10:05:18.377Z",
+   "from": "2026-10-27T10:20:09.497Z",
    "to": "2026-10-27T11:26:18.789Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -68,713 +77,20 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-27T10:05:18.377Z",
-   "to": "2026-10-27T10:05:18.377Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Chesham / Amersham due to an earlier faulty train at Farringdon. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T10:05:18.377Z",
-   "to": "2026-10-27T10:05:18.377Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Chesham / Amersham due to an earlier faulty train at Farringdon. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T10:05:18.377Z",
-   "to": "2026-10-27T10:05:28.414Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Chesham / Amersham due to an earlier faulty train at Farringdon. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "northern",
-   "lineName": "Northern",
-   "from": "2026-10-27T10:05:18.377Z",
-   "to": "2026-10-27T15:50:36.629Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Northern Line: Minor delays due to an earlier signal failure at Balham. \r\n "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:18.377Z",
-   "to": "2026-10-27T10:05:18.377Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:18.377Z",
-   "to": "2026-10-27T10:05:18.377Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:18.377Z",
-   "to": "2026-10-27T10:05:18.377Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T10:05:28.414Z",
-   "to": "2026-10-27T10:05:28.414Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Chesham / Amersham due to an earlier faulty train at Farringdon. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T10:05:28.414Z",
-   "to": "2026-10-27T10:05:28.822Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Chesham / Amersham due to an earlier faulty train at Farringdon. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:28.414Z",
-   "to": "2026-10-27T10:05:28.414Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:28.414Z",
-   "to": "2026-10-27T10:05:28.414Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:28.414Z",
-   "to": "2026-10-27T10:05:28.414Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T10:05:28.822Z",
-   "to": "2026-10-27T10:05:28.822Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Chesham / Amersham due to an earlier faulty train at Farringdon. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T10:05:28.822Z",
-   "to": "2026-10-27T10:05:33.514Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Chesham / Amersham due to an earlier faulty train at Farringdon. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:28.822Z",
-   "to": "2026-10-27T10:05:28.822Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:28.822Z",
-   "to": "2026-10-27T10:05:28.822Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:28.822Z",
-   "to": "2026-10-27T10:05:28.822Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T10:05:33.514Z",
-   "to": "2026-10-27T10:05:33.514Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Chesham / Amersham due to an earlier faulty train at Farringdon. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T10:05:33.514Z",
-   "to": "2026-10-27T10:05:41.574Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Chesham / Amersham due to an earlier faulty train at Farringdon. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:33.514Z",
-   "to": "2026-10-27T10:05:33.514Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:33.514Z",
-   "to": "2026-10-27T10:05:33.514Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:33.514Z",
-   "to": "2026-10-27T10:05:33.514Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T10:05:41.574Z",
-   "to": "2026-10-27T10:05:41.574Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Chesham / Amersham due to an earlier faulty train at Farringdon. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T10:05:41.574Z",
-   "to": "2026-10-27T10:05:42.128Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Chesham / Amersham due to an earlier faulty train at Farringdon. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:41.574Z",
-   "to": "2026-10-27T10:05:41.574Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:41.574Z",
-   "to": "2026-10-27T10:05:41.574Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:41.574Z",
-   "to": "2026-10-27T10:05:41.574Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T10:05:42.128Z",
-   "to": "2026-10-27T10:05:42.128Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Chesham / Amersham due to an earlier faulty train at Farringdon. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T10:05:42.128Z",
-   "to": "2026-10-27T10:05:42.128Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Chesham / Amersham due to an earlier faulty train at Farringdon. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:42.128Z",
-   "to": "2026-10-27T10:05:42.128Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:42.128Z",
-   "to": "2026-10-27T10:05:42.128Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:05:42.128Z",
-   "to": "2026-10-27T10:05:42.128Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "bakerloo",
-   "lineName": "Bakerloo",
-   "from": "2026-10-27T10:10:00.387Z",
-   "to": "2026-10-27T10:31:58.237Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Bakerloo Line: Minor delays southbound only while we fix a signal failure at Baker Street GOOD SERVICE northbound. "
-  },
-  {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-27T10:10:00.387Z",
+   "from": "2026-10-27T10:20:09.497Z",
    "to": "2026-10-27T10:25:35.558Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford due to an earlier faulty train at Farringdon. GOOD SERVICE on the rest of the line. "
   },
   {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:00.387Z",
-   "to": "2026-10-27T10:10:00.387Z",
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-10-27T10:20:09.497Z",
+   "to": "2026-10-27T15:50:36.629Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:00.387Z",
-   "to": "2026-10-27T10:10:00.387Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:00.387Z",
-   "to": "2026-10-27T10:10:00.387Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:23.298Z",
-   "to": "2026-10-27T10:10:23.298Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:23.298Z",
-   "to": "2026-10-27T10:10:23.298Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:23.298Z",
-   "to": "2026-10-27T10:10:23.298Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:23.695Z",
-   "to": "2026-10-27T10:10:23.695Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:23.695Z",
-   "to": "2026-10-27T10:10:23.695Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:23.695Z",
-   "to": "2026-10-27T10:10:23.695Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:48.580Z",
-   "to": "2026-10-27T10:10:48.580Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:48.580Z",
-   "to": "2026-10-27T10:10:48.580Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:48.580Z",
-   "to": "2026-10-27T10:10:48.580Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:50.887Z",
-   "to": "2026-10-27T10:10:50.887Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:50.887Z",
-   "to": "2026-10-27T10:10:50.887Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:10:50.887Z",
-   "to": "2026-10-27T10:10:50.887Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:11:00.066Z",
-   "to": "2026-10-27T10:11:00.066Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:11:00.066Z",
-   "to": "2026-10-27T10:11:00.066Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:11:00.066Z",
-   "to": "2026-10-27T10:11:00.066Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:11:01.428Z",
-   "to": "2026-10-27T10:11:01.428Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:11:01.428Z",
-   "to": "2026-10-27T10:11:01.428Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:11:01.428Z",
-   "to": "2026-10-27T10:11:01.428Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:15:02.656Z",
-   "to": "2026-10-27T10:15:02.656Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:15:02.656Z",
-   "to": "2026-10-27T10:15:02.656Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:15:02.656Z",
-   "to": "2026-10-27T10:15:02.656Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:15:04.914Z",
-   "to": "2026-10-27T10:15:04.914Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:15:04.914Z",
-   "to": "2026-10-27T10:15:04.914Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:15:04.914Z",
-   "to": "2026-10-27T10:15:04.914Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:15:12.888Z",
-   "to": "2026-10-27T10:15:12.888Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:15:12.888Z",
-   "to": "2026-10-27T10:15:12.888Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:15:12.888Z",
-   "to": "2026-10-27T10:15:12.888Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:15:13.302Z",
-   "to": "2026-10-27T10:15:13.302Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:15:13.302Z",
-   "to": "2026-10-27T10:15:13.302Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:15:13.302Z",
-   "to": "2026-10-27T10:15:13.302Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:16:01.754Z",
-   "to": "2026-10-27T10:16:01.754Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:16:01.754Z",
-   "to": "2026-10-27T10:16:01.754Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:16:01.754Z",
-   "to": "2026-10-27T10:16:01.754Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:16:10.196Z",
-   "to": "2026-10-27T10:16:10.196Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:16:10.196Z",
-   "to": "2026-10-27T10:16:10.196Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:16:10.196Z",
-   "to": "2026-10-27T10:16:10.196Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:16:10.558Z",
-   "to": "2026-10-27T10:16:10.558Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:16:10.558Z",
-   "to": "2026-10-27T10:16:10.558Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:16:10.558Z",
-   "to": "2026-10-27T10:16:10.558Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:20:00.442Z",
-   "to": "2026-10-27T10:20:00.442Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:20:00.442Z",
-   "to": "2026-10-27T10:20:00.442Z",
-   "severity": 4,
-   "description": "Planned Closure",
-   "reason": "SUFFRAGETTE LINE: No service between South Tottenham and Barking Riverside until further notice. Please use local London Underground and London Buses services."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-27T10:20:00.442Z",
-   "to": "2026-10-27T10:20:00.442Z",
-   "severity": 3,
-   "description": "Part Suspended",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week. "
+   "reason": "Northern Line: Minor delays due to an earlier signal failure at Balham. \r\n "
   },
   {
    "line": "suffragette",
@@ -918960,7 +918276,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-26T10:05:02.860Z",
-   "to": "2026-11-26T10:05:02.860Z",
+   "to": "2026-11-26T10:15:36.590Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
@@ -918969,7 +918285,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-11-26T10:05:02.860Z",
-   "to": "2026-11-26T10:05:02.860Z",
+   "to": "2026-11-26T10:15:36.590Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
@@ -918978,7 +918294,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-26T10:05:02.860Z",
-   "to": "2026-11-26T10:05:02.860Z",
+   "to": "2026-11-26T10:15:36.590Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
@@ -919032,7 +918348,7 @@
    "line": "piccadilly",
    "lineName": "Piccadilly",
    "from": "2026-11-26T10:05:02.860Z",
-   "to": "2026-11-26T10:05:02.860Z",
+   "to": "2026-11-26T10:15:36.590Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
@@ -919050,10 +918366,2575 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-26T10:05:02.860Z",
-   "to": "2026-11-26T10:05:02.860Z",
+   "to": "2026-11-26T10:15:36.590Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:05:18.599Z",
+   "to": "2026-11-26T10:05:18.599Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:05:18.599Z",
+   "to": "2026-11-26T10:05:18.599Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:05:18.599Z",
+   "to": "2026-11-26T10:05:18.599Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:05:18.599Z",
+   "to": "2026-11-26T10:05:18.599Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:05:18.599Z",
+   "to": "2026-11-26T10:05:18.599Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:05:18.599Z",
+   "to": "2026-11-26T10:05:18.599Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:05:18.599Z",
+   "to": "2026-11-26T10:05:18.599Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:05:18.599Z",
+   "to": "2026-11-26T10:05:18.599Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:05:18.599Z",
+   "to": "2026-11-26T10:05:18.599Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:05:18.599Z",
+   "to": "2026-11-26T10:05:18.599Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:05:18.599Z",
+   "to": "2026-11-26T10:05:18.599Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:05:18.599Z",
+   "to": "2026-11-26T10:05:18.599Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:05:18.599Z",
+   "to": "2026-11-26T10:05:18.599Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:05:18.599Z",
+   "to": "2026-11-26T10:05:18.599Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:05:25.805Z",
+   "to": "2026-11-26T10:05:25.805Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:05:25.805Z",
+   "to": "2026-11-26T10:05:25.805Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:05:25.805Z",
+   "to": "2026-11-26T10:05:25.805Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:05:25.805Z",
+   "to": "2026-11-26T10:05:25.805Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:05:25.805Z",
+   "to": "2026-11-26T10:05:25.805Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:05:25.805Z",
+   "to": "2026-11-26T10:05:25.805Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:05:25.805Z",
+   "to": "2026-11-26T10:05:25.805Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:05:25.805Z",
+   "to": "2026-11-26T10:05:25.805Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:05:25.805Z",
+   "to": "2026-11-26T10:05:25.805Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:05:25.805Z",
+   "to": "2026-11-26T10:05:25.805Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:05:25.805Z",
+   "to": "2026-11-26T10:05:25.805Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:05:25.805Z",
+   "to": "2026-11-26T10:05:25.805Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:05:25.805Z",
+   "to": "2026-11-26T10:05:25.805Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:05:25.805Z",
+   "to": "2026-11-26T10:05:25.805Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:05:47.261Z",
+   "to": "2026-11-26T10:05:47.261Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:05:47.261Z",
+   "to": "2026-11-26T10:05:47.261Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:05:47.261Z",
+   "to": "2026-11-26T10:05:47.261Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:05:47.261Z",
+   "to": "2026-11-26T10:05:47.261Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:05:47.261Z",
+   "to": "2026-11-26T10:05:47.261Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:05:47.261Z",
+   "to": "2026-11-26T10:05:47.261Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:05:47.261Z",
+   "to": "2026-11-26T10:05:47.261Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:05:47.261Z",
+   "to": "2026-11-26T10:05:47.261Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:05:47.261Z",
+   "to": "2026-11-26T10:05:47.261Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:05:47.261Z",
+   "to": "2026-11-26T10:05:47.261Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:05:47.261Z",
+   "to": "2026-11-26T10:05:47.261Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:05:47.261Z",
+   "to": "2026-11-26T10:05:47.261Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:05:47.261Z",
+   "to": "2026-11-26T10:05:47.261Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:05:47.261Z",
+   "to": "2026-11-26T10:05:47.261Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:05:47.676Z",
+   "to": "2026-11-26T10:05:47.676Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:05:47.676Z",
+   "to": "2026-11-26T10:05:47.676Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:05:47.676Z",
+   "to": "2026-11-26T10:05:47.676Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:05:47.676Z",
+   "to": "2026-11-26T10:05:47.676Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:05:47.676Z",
+   "to": "2026-11-26T10:05:47.676Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:05:47.676Z",
+   "to": "2026-11-26T10:05:47.676Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:05:47.676Z",
+   "to": "2026-11-26T10:05:47.676Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:05:47.676Z",
+   "to": "2026-11-26T10:05:47.676Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:05:47.676Z",
+   "to": "2026-11-26T10:05:47.676Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:05:47.676Z",
+   "to": "2026-11-26T10:05:47.676Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:05:47.676Z",
+   "to": "2026-11-26T10:05:47.676Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:05:47.676Z",
+   "to": "2026-11-26T10:05:47.676Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:05:47.676Z",
+   "to": "2026-11-26T10:05:47.676Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:05:47.676Z",
+   "to": "2026-11-26T10:05:47.676Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:05:51.296Z",
+   "to": "2026-11-26T10:05:51.296Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:05:51.296Z",
+   "to": "2026-11-26T10:05:51.296Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:05:51.296Z",
+   "to": "2026-11-26T10:05:51.296Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:05:51.296Z",
+   "to": "2026-11-26T10:05:51.296Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:05:51.296Z",
+   "to": "2026-11-26T10:05:51.296Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:05:51.296Z",
+   "to": "2026-11-26T10:05:51.296Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:05:51.296Z",
+   "to": "2026-11-26T10:05:51.296Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:05:51.296Z",
+   "to": "2026-11-26T10:05:51.296Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:05:51.296Z",
+   "to": "2026-11-26T10:05:51.296Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:05:51.296Z",
+   "to": "2026-11-26T10:05:51.296Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:05:51.296Z",
+   "to": "2026-11-26T10:05:51.296Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:05:51.296Z",
+   "to": "2026-11-26T10:05:51.296Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:05:51.296Z",
+   "to": "2026-11-26T10:05:51.296Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:05:51.296Z",
+   "to": "2026-11-26T10:05:51.296Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:05:52.114Z",
+   "to": "2026-11-26T10:05:52.114Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:05:52.114Z",
+   "to": "2026-11-26T10:05:52.114Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:05:52.114Z",
+   "to": "2026-11-26T10:05:52.114Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:05:52.114Z",
+   "to": "2026-11-26T10:05:52.114Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:05:52.114Z",
+   "to": "2026-11-26T10:05:52.114Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:05:52.114Z",
+   "to": "2026-11-26T10:05:52.114Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:05:52.114Z",
+   "to": "2026-11-26T10:05:52.114Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:05:52.114Z",
+   "to": "2026-11-26T10:05:52.114Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:05:52.114Z",
+   "to": "2026-11-26T10:05:52.114Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:05:52.114Z",
+   "to": "2026-11-26T10:05:52.114Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:05:52.114Z",
+   "to": "2026-11-26T10:05:52.114Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:05:52.114Z",
+   "to": "2026-11-26T10:05:52.114Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:05:52.114Z",
+   "to": "2026-11-26T10:05:52.114Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:05:52.114Z",
+   "to": "2026-11-26T10:05:52.114Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:10:06.652Z",
+   "to": "2026-11-26T10:10:06.652Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:10:06.652Z",
+   "to": "2026-11-26T10:10:06.652Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:10:06.652Z",
+   "to": "2026-11-26T10:10:06.652Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:10:06.652Z",
+   "to": "2026-11-26T10:10:06.652Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:10:06.652Z",
+   "to": "2026-11-26T10:10:06.652Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:10:06.652Z",
+   "to": "2026-11-26T10:10:06.652Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:10:06.652Z",
+   "to": "2026-11-26T10:10:06.652Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:10:06.652Z",
+   "to": "2026-11-26T10:10:06.652Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:10:06.652Z",
+   "to": "2026-11-26T10:10:06.652Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:10:06.652Z",
+   "to": "2026-11-26T10:10:06.652Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:10:06.652Z",
+   "to": "2026-11-26T10:10:06.652Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:10:06.652Z",
+   "to": "2026-11-26T10:10:06.652Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:10:06.652Z",
+   "to": "2026-11-26T10:10:06.652Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:10:06.652Z",
+   "to": "2026-11-26T10:10:06.652Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:10:07.024Z",
+   "to": "2026-11-26T10:10:07.024Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:10:07.024Z",
+   "to": "2026-11-26T10:10:07.024Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:10:07.024Z",
+   "to": "2026-11-26T10:10:07.024Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:10:07.024Z",
+   "to": "2026-11-26T10:10:07.024Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:10:07.024Z",
+   "to": "2026-11-26T10:10:07.024Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:10:07.024Z",
+   "to": "2026-11-26T10:10:07.024Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:10:07.024Z",
+   "to": "2026-11-26T10:10:07.024Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:10:07.024Z",
+   "to": "2026-11-26T10:10:07.024Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:10:07.024Z",
+   "to": "2026-11-26T10:10:07.024Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:10:07.024Z",
+   "to": "2026-11-26T10:10:07.024Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:10:07.024Z",
+   "to": "2026-11-26T10:10:07.024Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:10:07.024Z",
+   "to": "2026-11-26T10:10:07.024Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:10:07.024Z",
+   "to": "2026-11-26T10:10:07.024Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:10:07.024Z",
+   "to": "2026-11-26T10:10:07.024Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:10:10.602Z",
+   "to": "2026-11-26T10:10:10.602Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:10:10.602Z",
+   "to": "2026-11-26T10:10:10.602Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:10:10.602Z",
+   "to": "2026-11-26T10:10:10.602Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:10:10.602Z",
+   "to": "2026-11-26T10:10:10.602Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:10:10.602Z",
+   "to": "2026-11-26T10:10:10.602Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:10:10.602Z",
+   "to": "2026-11-26T10:10:10.602Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:10:10.602Z",
+   "to": "2026-11-26T10:10:10.602Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:10:10.602Z",
+   "to": "2026-11-26T10:10:10.602Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:10:10.602Z",
+   "to": "2026-11-26T10:10:10.602Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:10:10.602Z",
+   "to": "2026-11-26T10:10:10.602Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:10:10.602Z",
+   "to": "2026-11-26T10:10:10.602Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:10:10.602Z",
+   "to": "2026-11-26T10:10:10.602Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:10:10.602Z",
+   "to": "2026-11-26T10:10:10.602Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:10:10.602Z",
+   "to": "2026-11-26T10:10:10.602Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:10:11.193Z",
+   "to": "2026-11-26T10:10:11.193Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:10:11.193Z",
+   "to": "2026-11-26T10:10:11.193Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:10:11.193Z",
+   "to": "2026-11-26T10:10:11.193Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:10:11.193Z",
+   "to": "2026-11-26T10:10:11.193Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:10:11.193Z",
+   "to": "2026-11-26T10:10:11.193Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:10:11.193Z",
+   "to": "2026-11-26T10:10:11.193Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:10:11.193Z",
+   "to": "2026-11-26T10:10:11.193Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:10:11.193Z",
+   "to": "2026-11-26T10:10:11.193Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:10:11.193Z",
+   "to": "2026-11-26T10:10:11.193Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:10:11.193Z",
+   "to": "2026-11-26T10:10:11.193Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:10:11.193Z",
+   "to": "2026-11-26T10:10:11.193Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:10:11.193Z",
+   "to": "2026-11-26T10:10:11.193Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:10:11.193Z",
+   "to": "2026-11-26T10:10:11.193Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:10:11.193Z",
+   "to": "2026-11-26T10:10:11.193Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:11:09.155Z",
+   "to": "2026-11-26T10:11:09.155Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:11:09.155Z",
+   "to": "2026-11-26T10:11:09.155Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:11:09.155Z",
+   "to": "2026-11-26T10:11:09.155Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:11:09.155Z",
+   "to": "2026-11-26T10:11:09.155Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:11:09.155Z",
+   "to": "2026-11-26T10:11:09.155Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:11:09.155Z",
+   "to": "2026-11-26T10:11:09.155Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:11:09.155Z",
+   "to": "2026-11-26T10:11:09.155Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:11:09.155Z",
+   "to": "2026-11-26T10:11:09.155Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:11:09.155Z",
+   "to": "2026-11-26T10:11:09.155Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:11:09.155Z",
+   "to": "2026-11-26T10:11:09.155Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:11:09.155Z",
+   "to": "2026-11-26T10:11:09.155Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:11:09.155Z",
+   "to": "2026-11-26T10:11:09.155Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:11:09.155Z",
+   "to": "2026-11-26T10:11:09.155Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:11:09.155Z",
+   "to": "2026-11-26T10:11:09.155Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:11:10.376Z",
+   "to": "2026-11-26T10:11:10.376Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:11:10.376Z",
+   "to": "2026-11-26T10:11:10.376Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:11:10.376Z",
+   "to": "2026-11-26T10:11:10.376Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:11:10.376Z",
+   "to": "2026-11-26T10:11:10.376Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:11:10.376Z",
+   "to": "2026-11-26T10:11:10.376Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:11:10.376Z",
+   "to": "2026-11-26T10:11:10.376Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:11:10.376Z",
+   "to": "2026-11-26T10:11:10.376Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:11:10.376Z",
+   "to": "2026-11-26T10:11:10.376Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:11:10.376Z",
+   "to": "2026-11-26T10:11:10.376Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:11:10.376Z",
+   "to": "2026-11-26T10:11:10.376Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:11:10.376Z",
+   "to": "2026-11-26T10:11:10.376Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:11:10.376Z",
+   "to": "2026-11-26T10:11:10.376Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:11:10.376Z",
+   "to": "2026-11-26T10:11:10.376Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:11:10.376Z",
+   "to": "2026-11-26T10:11:10.376Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:11:17.704Z",
+   "to": "2026-11-26T10:11:17.704Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:11:17.704Z",
+   "to": "2026-11-26T10:11:17.704Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:11:17.704Z",
+   "to": "2026-11-26T10:11:17.704Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:11:17.704Z",
+   "to": "2026-11-26T10:11:17.704Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:11:17.704Z",
+   "to": "2026-11-26T10:11:17.704Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:11:17.704Z",
+   "to": "2026-11-26T10:11:17.704Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:11:17.704Z",
+   "to": "2026-11-26T10:11:17.704Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:11:17.704Z",
+   "to": "2026-11-26T10:11:17.704Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:11:17.704Z",
+   "to": "2026-11-26T10:11:17.704Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:11:17.704Z",
+   "to": "2026-11-26T10:11:17.704Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:11:17.704Z",
+   "to": "2026-11-26T10:11:17.704Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:11:17.704Z",
+   "to": "2026-11-26T10:11:17.704Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:11:17.704Z",
+   "to": "2026-11-26T10:11:17.704Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:11:17.704Z",
+   "to": "2026-11-26T10:11:17.704Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:15:02.641Z",
+   "to": "2026-11-26T10:15:02.641Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:15:02.641Z",
+   "to": "2026-11-26T10:15:02.641Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:15:02.641Z",
+   "to": "2026-11-26T10:15:02.641Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:15:02.641Z",
+   "to": "2026-11-26T10:15:02.641Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:15:02.641Z",
+   "to": "2026-11-26T10:15:02.641Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:15:02.641Z",
+   "to": "2026-11-26T10:15:02.641Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:15:02.641Z",
+   "to": "2026-11-26T10:15:02.641Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:15:02.641Z",
+   "to": "2026-11-26T10:15:02.641Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:15:02.641Z",
+   "to": "2026-11-26T10:15:02.641Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:15:02.641Z",
+   "to": "2026-11-26T10:15:02.641Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:15:02.641Z",
+   "to": "2026-11-26T10:15:02.641Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:15:02.641Z",
+   "to": "2026-11-26T10:15:02.641Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:15:02.641Z",
+   "to": "2026-11-26T10:15:02.641Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:15:02.641Z",
+   "to": "2026-11-26T10:15:02.641Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:15:03.135Z",
+   "to": "2026-11-26T10:15:03.135Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:15:03.135Z",
+   "to": "2026-11-26T10:15:03.135Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:15:03.135Z",
+   "to": "2026-11-26T10:15:03.135Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:15:03.135Z",
+   "to": "2026-11-26T10:15:03.135Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:15:03.135Z",
+   "to": "2026-11-26T10:15:03.135Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:15:03.135Z",
+   "to": "2026-11-26T10:15:03.135Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:15:03.135Z",
+   "to": "2026-11-26T10:15:03.135Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:15:03.135Z",
+   "to": "2026-11-26T10:15:03.135Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:15:03.135Z",
+   "to": "2026-11-26T10:15:03.135Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:15:03.135Z",
+   "to": "2026-11-26T10:15:03.135Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:15:03.135Z",
+   "to": "2026-11-26T10:15:03.135Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:15:03.135Z",
+   "to": "2026-11-26T10:15:03.135Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:15:03.135Z",
+   "to": "2026-11-26T10:15:03.135Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:15:03.135Z",
+   "to": "2026-11-26T10:15:03.135Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:15:10.180Z",
+   "to": "2026-11-26T10:15:10.180Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:15:10.180Z",
+   "to": "2026-11-26T10:15:10.180Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:15:10.180Z",
+   "to": "2026-11-26T10:15:10.180Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:15:10.180Z",
+   "to": "2026-11-26T10:15:10.180Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:15:10.180Z",
+   "to": "2026-11-26T10:15:10.180Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:15:10.180Z",
+   "to": "2026-11-26T10:15:10.180Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:15:10.180Z",
+   "to": "2026-11-26T10:15:10.180Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:15:10.180Z",
+   "to": "2026-11-26T10:15:10.180Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:15:10.180Z",
+   "to": "2026-11-26T10:15:10.180Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:15:10.180Z",
+   "to": "2026-11-26T10:15:10.180Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:15:10.180Z",
+   "to": "2026-11-26T10:15:10.180Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:15:10.180Z",
+   "to": "2026-11-26T10:15:10.180Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:15:10.180Z",
+   "to": "2026-11-26T10:15:10.180Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:15:10.180Z",
+   "to": "2026-11-26T10:15:10.180Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:15:32.213Z",
+   "to": "2026-11-26T10:15:32.213Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:15:32.213Z",
+   "to": "2026-11-26T10:15:32.213Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:15:32.213Z",
+   "to": "2026-11-26T10:15:32.213Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:15:32.213Z",
+   "to": "2026-11-26T10:15:32.213Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:15:32.213Z",
+   "to": "2026-11-26T10:15:32.213Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:15:32.213Z",
+   "to": "2026-11-26T10:15:32.213Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:15:32.213Z",
+   "to": "2026-11-26T10:15:32.213Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:15:32.213Z",
+   "to": "2026-11-26T10:15:32.213Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:15:32.213Z",
+   "to": "2026-11-26T10:15:32.213Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:15:32.213Z",
+   "to": "2026-11-26T10:15:32.213Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:15:32.213Z",
+   "to": "2026-11-26T10:15:32.213Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:15:32.213Z",
+   "to": "2026-11-26T10:15:32.213Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:15:32.213Z",
+   "to": "2026-11-26T10:15:32.213Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:15:32.213Z",
+   "to": "2026-11-26T10:15:32.213Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:15:32.615Z",
+   "to": "2026-11-26T10:15:32.615Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:15:32.615Z",
+   "to": "2026-11-26T10:15:32.615Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:15:32.615Z",
+   "to": "2026-11-26T10:15:32.615Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:15:32.615Z",
+   "to": "2026-11-26T10:15:32.615Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:15:32.615Z",
+   "to": "2026-11-26T10:15:32.615Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:15:32.615Z",
+   "to": "2026-11-26T10:15:32.615Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:15:32.615Z",
+   "to": "2026-11-26T10:15:32.615Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:15:32.615Z",
+   "to": "2026-11-26T10:15:32.615Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:15:32.615Z",
+   "to": "2026-11-26T10:15:32.615Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:15:32.615Z",
+   "to": "2026-11-26T10:15:32.615Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:15:32.615Z",
+   "to": "2026-11-26T10:15:32.615Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:15:32.615Z",
+   "to": "2026-11-26T10:15:32.615Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:15:32.615Z",
+   "to": "2026-11-26T10:15:32.615Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:15:32.615Z",
+   "to": "2026-11-26T10:15:32.615Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:15:36.229Z",
+   "to": "2026-11-26T10:15:36.229Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:15:36.229Z",
+   "to": "2026-11-26T10:15:36.229Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:15:36.229Z",
+   "to": "2026-11-26T10:15:36.229Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:15:36.229Z",
+   "to": "2026-11-26T10:15:36.229Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:15:36.229Z",
+   "to": "2026-11-26T10:15:36.229Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:15:36.229Z",
+   "to": "2026-11-26T10:15:36.229Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:15:36.229Z",
+   "to": "2026-11-26T10:15:36.229Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:15:36.229Z",
+   "to": "2026-11-26T10:15:36.229Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:15:36.229Z",
+   "to": "2026-11-26T10:15:36.229Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:15:36.229Z",
+   "to": "2026-11-26T10:15:36.229Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:15:36.229Z",
+   "to": "2026-11-26T10:15:36.229Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:15:36.229Z",
+   "to": "2026-11-26T10:15:36.229Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:15:36.229Z",
+   "to": "2026-11-26T10:15:36.229Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:15:36.229Z",
+   "to": "2026-11-26T10:15:36.229Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:15:36.590Z",
+   "to": "2026-11-26T10:15:36.590Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "bakerloo",
+   "lineName": "Bakerloo",
+   "from": "2026-11-26T10:15:36.590Z",
+   "to": "2026-11-26T10:20:06.291Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to a track fault at Kensal Green. Tickets are being accepted on London Buses and London Northwestern Railway. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:15:36.590Z",
+   "to": "2026-11-26T10:15:36.590Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:15:36.590Z",
+   "to": "2026-11-26T10:15:36.590Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:15:36.590Z",
+   "to": "2026-11-26T10:15:36.590Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-26T10:15:36.590Z",
+   "to": "2026-11-26T10:20:06.291Z",
+   "severity": 2,
+   "description": "Suspended",
+   "reason": "Circle Line: No service due to strike action.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:15:36.590Z",
+   "to": "2026-11-26T10:15:36.590Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:15:36.590Z",
+   "to": "2026-11-26T10:15:36.590Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:15:36.590Z",
+   "to": "2026-11-26T10:15:36.590Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:15:36.590Z",
+   "to": "2026-11-26T10:15:36.590Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:15:36.590Z",
+   "to": "2026-11-26T10:15:36.590Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-26T10:15:36.590Z",
+   "to": "2026-11-26T10:20:06.291Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:15:36.590Z",
+   "to": "2026-11-26T10:15:36.590Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:15:36.590Z",
+   "to": "2026-11-26T10:15:36.590Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 1200 Thursday 26 until 1159 Friday 27 November. A normal service is expected until 1000 Thursday when services will begin to reduce. From 1200, there will be disruption on all lines and no service is expected after 2100. No trains will run from 1200 Thursday until 1200 Friday on the Circle and Piccadilly lines, or on the Waterloo & City line between 1200 Thursday and 1200 Friday. Disruption will continue between 1200 and 1800 Friday, with a normal service expected after then"
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-26T10:20:06.291Z",
+   "to": "2026-11-26T10:20:06.291Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Central Line: Minor delays due to train cancellations.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:20:06.291Z",
+   "to": "2026-11-26T10:20:06.291Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-26T10:20:06.291Z",
+   "to": "2026-11-26T10:20:06.291Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Willesden Junction and Euston while we fix a track fault at Kensal Green. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-26T10:20:06.291Z",
+   "to": "2026-11-26T10:20:06.291Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Busses, Lioness Line, Chiltern Railway's, London Northwestern Railway and Thameslink.  "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-11-26T10:20:06.291Z",
+   "to": "2026-11-26T10:20:06.291Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Victoria Line: Minor delays due to train cancellations. "
   }
  ]
 }
