@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-27T14:21:40.545Z",
- "sinceISO": "2026-10-28T14:21:30.696Z",
+ "generatedAt": "2026-11-27T14:35:16.110Z",
+ "sinceISO": "2026-10-28T14:35:06.690Z",
  "coverage": [
   {
-   "from": "2026-10-28T14:25:08.797Z",
+   "from": "2026-10-28T14:35:08.620Z",
    "to": "2026-11-23T08:04:10.333Z",
-   "polls": 51842
+   "polls": 51828
   },
   {
    "from": "2026-11-23T08:24:22.921Z",
@@ -24,24 +24,33 @@
   },
   {
    "from": "2026-11-23T23:58:05.418Z",
-   "to": "2026-11-27T14:21:29.805Z",
-   "polls": 7249
+   "to": "2026-11-27T14:35:06.428Z",
+   "polls": 7266
   }
  ],
  "spans": [
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-28T14:25:08.797Z",
-   "to": "2026-10-28T14:26:00.255Z",
+   "from": "2026-10-28T14:35:08.620Z",
+   "to": "2026-10-28T14:35:08.620Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-10-28T14:35:08.620Z",
+   "to": "2026-10-28T14:35:08.620Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Central Line: Minor delays due to train cancellations. "
+   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
   },
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-10-28T14:25:08.797Z",
+   "from": "2026-10-28T14:35:08.620Z",
    "to": "2026-10-28T20:25:09.019Z",
    "severity": 6,
    "description": "Severe Delays",
@@ -50,407 +59,11 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-10-28T14:25:08.797Z",
+   "from": "2026-10-28T14:35:08.620Z",
    "to": "2026-10-28T15:01:41.537Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:25:08.797Z",
-   "to": "2026-10-28T14:25:08.797Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:25:08.797Z",
-   "to": "2026-10-28T14:25:08.797Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:25:09.474Z",
-   "to": "2026-10-28T14:25:09.474Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:25:09.474Z",
-   "to": "2026-10-28T14:25:09.474Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:25:09.918Z",
-   "to": "2026-10-28T14:25:09.918Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:25:09.918Z",
-   "to": "2026-10-28T14:25:09.918Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:25:53.288Z",
-   "to": "2026-10-28T14:25:53.288Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:25:53.288Z",
-   "to": "2026-10-28T14:25:53.288Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:25:53.661Z",
-   "to": "2026-10-28T14:25:53.661Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:25:53.661Z",
-   "to": "2026-10-28T14:25:53.661Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:25:59.888Z",
-   "to": "2026-10-28T14:25:59.888Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:25:59.888Z",
-   "to": "2026-10-28T14:25:59.888Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:26:00.255Z",
-   "to": "2026-10-28T14:26:00.255Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:26:00.255Z",
-   "to": "2026-10-28T14:26:00.255Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:30:07.661Z",
-   "to": "2026-10-28T14:30:07.661Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:30:07.661Z",
-   "to": "2026-10-28T14:30:07.661Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:30:07.661Z",
-   "to": "2026-10-28T14:30:07.661Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:30:07.661Z",
-   "to": "2026-10-28T14:30:07.661Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:30:27.491Z",
-   "to": "2026-10-28T14:30:27.491Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:30:27.491Z",
-   "to": "2026-10-28T14:30:27.491Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:30:27.491Z",
-   "to": "2026-10-28T14:30:27.491Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:30:27.491Z",
-   "to": "2026-10-28T14:30:27.491Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:30:34.597Z",
-   "to": "2026-10-28T14:30:34.597Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:30:34.597Z",
-   "to": "2026-10-28T14:30:34.597Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:30:34.597Z",
-   "to": "2026-10-28T14:30:34.597Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:30:34.597Z",
-   "to": "2026-10-28T14:30:34.597Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:30:35.034Z",
-   "to": "2026-10-28T14:30:35.034Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:30:35.034Z",
-   "to": "2026-10-28T14:30:35.034Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:30:35.034Z",
-   "to": "2026-10-28T14:30:35.034Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:30:35.034Z",
-   "to": "2026-10-28T14:30:35.034Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:31:12.907Z",
-   "to": "2026-10-28T14:31:12.907Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:31:12.907Z",
-   "to": "2026-10-28T14:31:12.907Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:31:12.907Z",
-   "to": "2026-10-28T14:31:12.907Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:31:12.907Z",
-   "to": "2026-10-28T14:31:12.907Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:31:13.496Z",
-   "to": "2026-10-28T14:31:13.496Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:31:13.496Z",
-   "to": "2026-10-28T14:31:13.496Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:31:13.496Z",
-   "to": "2026-10-28T14:31:13.496Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:31:13.496Z",
-   "to": "2026-10-28T14:31:13.496Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:31:14.134Z",
-   "to": "2026-10-28T14:31:14.134Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:31:14.134Z",
-   "to": "2026-10-28T14:31:14.134Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:31:14.134Z",
-   "to": "2026-10-28T14:31:14.134Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-28T14:31:14.134Z",
-   "to": "2026-10-28T14:31:14.134Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground, London Buses and Elizabeth Line are accepting tickets via any reasonable routes. Disruption is expected until the end of the week. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:35:08.620Z",
-   "to": "2026-10-28T14:35:08.620Z",
-   "severity": 6,
-   "description": "Severe Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-  },
-  {
-   "line": "central",
-   "lineName": "Central",
-   "from": "2026-10-28T14:35:08.620Z",
-   "to": "2026-10-28T14:35:08.620Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Central Line: Severe delays between Woodford and Hainault while we fix a faulty train at Woodford. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route. "
   },
   {
    "line": "suffragette",
@@ -951657,7 +951270,7 @@
    "line": "northern",
    "lineName": "Northern",
    "from": "2026-11-27T07:06:20.620Z",
-   "to": "2026-11-27T14:21:29.805Z",
+   "to": "2026-11-27T14:35:06.428Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Northern Line: Severe delays due to strike action. "
@@ -961260,7 +960873,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-27T08:15:06.098Z",
-   "to": "2026-11-27T14:21:29.805Z",
+   "to": "2026-11-27T14:35:06.428Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Waterloo and City Line: No service  due to strike action. "
@@ -967686,7 +967299,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-27T08:56:11.899Z",
-   "to": "2026-11-27T14:21:29.805Z",
+   "to": "2026-11-27T14:35:06.428Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "District Line: Severe delays due to strike action. If you're travelling beyond Earl's Court, please take the first train and change there. Services are operating every 10 minutes. "
@@ -969855,7 +969468,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-27T09:15:06.173Z",
-   "to": "2026-11-27T14:21:29.805Z",
+   "to": "2026-11-27T14:35:06.428Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to strike action. "
@@ -1005756,7 +1005369,7 @@
    "line": "victoria",
    "lineName": "Victoria",
    "from": "2026-11-27T14:00:04.476Z",
-   "to": "2026-11-27T14:21:29.805Z",
+   "to": "2026-11-27T14:35:06.428Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Victoria Line: Severe delays due to strike action. "
@@ -1006341,7 +1005954,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-11-27T14:05:06.666Z",
-   "to": "2026-11-27T14:21:29.805Z",
+   "to": "2026-11-27T14:31:20.299Z",
    "severity": 2,
    "description": "Suspended",
    "reason": "Circle Line: No service due to strike action "
@@ -1006350,7 +1005963,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-11-27T14:05:06.666Z",
-   "to": "2026-11-27T14:21:29.805Z",
+   "to": "2026-11-27T14:35:06.428Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Hammersmith and City Line: Severe delays due to strike action. "
@@ -1007871,7 +1007484,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-27T14:20:04.591Z",
-   "to": "2026-11-27T14:21:29.805Z",
+   "to": "2026-11-27T14:35:06.428Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Metropolitan Line: Severe delays due to strike action. "
@@ -1008060,7 +1007673,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-27T14:21:29.805Z",
-   "to": "2026-11-27T14:21:29.805Z",
+   "to": "2026-11-27T14:35:06.428Z",
    "severity": 6,
    "description": "Severe Delays",
    "reason": "Bakerloo Line: Severe delays due to strike action. Services are operating every 10 minutes. "
@@ -1008097,6 +1007710,636 @@
    "lineName": "Piccadilly",
    "from": "2026-11-27T14:21:29.805Z",
    "to": "2026-11-27T14:21:29.805Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:21:49.223Z",
+   "to": "2026-11-27T14:21:49.223Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:21:49.223Z",
+   "to": "2026-11-27T14:21:49.223Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:21:49.223Z",
+   "to": "2026-11-27T14:21:49.223Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:21:49.223Z",
+   "to": "2026-11-27T14:21:49.223Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:21:49.667Z",
+   "to": "2026-11-27T14:21:49.667Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:21:49.667Z",
+   "to": "2026-11-27T14:21:49.667Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:21:49.667Z",
+   "to": "2026-11-27T14:21:49.667Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:21:49.667Z",
+   "to": "2026-11-27T14:21:49.667Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:25:06.586Z",
+   "to": "2026-11-27T14:25:06.586Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:25:06.586Z",
+   "to": "2026-11-27T14:25:06.586Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:25:06.586Z",
+   "to": "2026-11-27T14:25:06.586Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:25:06.586Z",
+   "to": "2026-11-27T14:25:06.586Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:25:12.059Z",
+   "to": "2026-11-27T14:25:12.059Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:25:12.059Z",
+   "to": "2026-11-27T14:25:12.059Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:25:12.059Z",
+   "to": "2026-11-27T14:25:12.059Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:25:12.059Z",
+   "to": "2026-11-27T14:25:12.059Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:25:12.420Z",
+   "to": "2026-11-27T14:25:12.420Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:25:12.420Z",
+   "to": "2026-11-27T14:25:12.420Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:25:12.420Z",
+   "to": "2026-11-27T14:25:12.420Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:25:12.420Z",
+   "to": "2026-11-27T14:25:12.420Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:25:12.841Z",
+   "to": "2026-11-27T14:25:12.841Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:25:12.841Z",
+   "to": "2026-11-27T14:25:12.841Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:25:12.841Z",
+   "to": "2026-11-27T14:25:12.841Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:25:12.841Z",
+   "to": "2026-11-27T14:25:12.841Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:25:43.445Z",
+   "to": "2026-11-27T14:25:43.445Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:25:43.445Z",
+   "to": "2026-11-27T14:25:43.445Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:25:43.445Z",
+   "to": "2026-11-27T14:25:43.445Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:25:43.445Z",
+   "to": "2026-11-27T14:25:43.445Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:25:44.509Z",
+   "to": "2026-11-27T14:25:44.509Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:25:44.509Z",
+   "to": "2026-11-27T14:25:44.509Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:25:44.509Z",
+   "to": "2026-11-27T14:25:44.509Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:25:44.509Z",
+   "to": "2026-11-27T14:25:44.509Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:25:50.149Z",
+   "to": "2026-11-27T14:25:50.149Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:25:50.149Z",
+   "to": "2026-11-27T14:25:50.149Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:25:50.149Z",
+   "to": "2026-11-27T14:25:50.149Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:25:50.149Z",
+   "to": "2026-11-27T14:25:50.149Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:30:04.953Z",
+   "to": "2026-11-27T14:30:04.953Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:30:04.953Z",
+   "to": "2026-11-27T14:30:04.953Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:30:04.953Z",
+   "to": "2026-11-27T14:30:04.953Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:30:04.953Z",
+   "to": "2026-11-27T14:30:04.953Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:30:05.359Z",
+   "to": "2026-11-27T14:30:05.359Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:30:05.359Z",
+   "to": "2026-11-27T14:30:05.359Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:30:05.359Z",
+   "to": "2026-11-27T14:30:05.359Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:30:05.359Z",
+   "to": "2026-11-27T14:30:05.359Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:30:10.765Z",
+   "to": "2026-11-27T14:30:10.765Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:30:10.765Z",
+   "to": "2026-11-27T14:30:10.765Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:30:10.765Z",
+   "to": "2026-11-27T14:30:10.765Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:30:10.765Z",
+   "to": "2026-11-27T14:30:10.765Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:31:11.607Z",
+   "to": "2026-11-27T14:31:11.607Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:31:11.607Z",
+   "to": "2026-11-27T14:31:11.607Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:31:11.607Z",
+   "to": "2026-11-27T14:31:11.607Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:31:11.607Z",
+   "to": "2026-11-27T14:31:11.607Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:31:16.952Z",
+   "to": "2026-11-27T14:31:16.952Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:31:16.952Z",
+   "to": "2026-11-27T14:31:16.952Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:31:16.952Z",
+   "to": "2026-11-27T14:31:16.952Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:31:16.952Z",
+   "to": "2026-11-27T14:31:16.952Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:31:19.896Z",
+   "to": "2026-11-27T14:31:19.896Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:31:19.896Z",
+   "to": "2026-11-27T14:31:19.896Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:31:19.896Z",
+   "to": "2026-11-27T14:31:19.896Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:31:19.896Z",
+   "to": "2026-11-27T14:31:19.896Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:31:20.299Z",
+   "to": "2026-11-27T14:31:20.299Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:31:20.299Z",
+   "to": "2026-11-27T14:31:20.299Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:31:20.299Z",
+   "to": "2026-11-27T14:31:20.299Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:31:20.299Z",
+   "to": "2026-11-27T14:31:20.299Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:35:06.428Z",
+   "to": "2026-11-27T14:35:06.428Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "central",
+   "lineName": "Central",
+   "from": "2026-11-27T14:35:06.428Z",
+   "to": "2026-11-27T14:35:06.428Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-27T14:35:06.428Z",
+   "to": "2026-11-27T14:35:06.428Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Circle Line: No service anti-clockwise and SEVERE DELAYS clockwise due to strike action. "
+  },
+  {
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-11-27T14:35:06.428Z",
+   "to": "2026-11-27T14:35:06.428Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Circle Line: No service anti-clockwise and SEVERE DELAYS clockwise due to strike action. "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:35:06.428Z",
+   "to": "2026-11-27T14:35:06.428Z",
+   "severity": 6,
+   "description": "Severe Delays",
+   "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
+  },
+  {
+   "line": "piccadilly",
+   "lineName": "Piccadilly",
+   "from": "2026-11-27T14:35:06.428Z",
+   "to": "2026-11-27T14:35:06.428Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Piccadilly Line: No service between Acton Town and Uxbridge, and SEVERE DELAYS on the rest of the line due to strike action.  "
