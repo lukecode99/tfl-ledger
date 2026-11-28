@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-28T10:25:11.850Z",
- "sinceISO": "2026-10-29T10:25:01.689Z",
+ "generatedAt": "2026-11-28T11:10:10.568Z",
+ "sinceISO": "2026-10-29T11:10:01.258Z",
  "coverage": [
   {
-   "from": "2026-10-29T10:25:11.221Z",
+   "from": "2026-10-29T11:10:04.940Z",
    "to": "2026-11-23T08:04:10.333Z",
-   "polls": 50163
+   "polls": 50100
   },
   {
    "from": "2026-11-23T08:24:22.921Z",
@@ -24,24 +24,33 @@
   },
   {
    "from": "2026-11-23T23:58:05.418Z",
-   "to": "2026-11-28T10:25:01.115Z",
-   "polls": 8931
+   "to": "2026-11-28T11:10:00.995Z",
+   "polls": 8994
   }
  ],
  "spans": [
   {
-   "line": "metropolitan",
-   "lineName": "Metropolitan",
-   "from": "2026-10-29T10:25:11.221Z",
-   "to": "2026-10-29T10:36:08.434Z",
+   "line": "circle",
+   "lineName": "Circle",
+   "from": "2026-10-29T11:10:04.940Z",
+   "to": "2026-10-29T11:56:03.941Z",
    "severity": 9,
    "description": "Minor Delays",
-   "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to train cancellations. GOOD SERVICE on the rest of the line. "
+   "reason": "Circle Line: Minor delays clockwise only due to an earlier trespasser on the track at Westbourne Park. GOOD SERVICE anti-clockwise. "
+  },
+  {
+   "line": "hammersmith-city",
+   "lineName": "Hammersmith & City",
+   "from": "2026-10-29T11:10:04.940Z",
+   "to": "2026-10-29T11:55:59.295Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Hammersmith and City Line: Minor delays eastbound only due to an earlier trespasser on the track at Westbourne Park. GOOD SERVICE on the rest of the line. "
   },
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-10-29T10:25:11.221Z",
+   "from": "2026-10-29T11:10:04.940Z",
    "to": "2026-10-30T01:21:22.066Z",
    "severity": 5,
    "description": "Part Closure",
@@ -50,65 +59,11 @@
   {
    "line": "suffragette",
    "lineName": "Suffragette",
-   "from": "2026-10-29T10:25:11.221Z",
-   "to": "2026-10-29T10:26:36.837Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-29T10:30:04.444Z",
-   "to": "2026-10-29T10:36:08.434Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Circle Line: Minor delays between Hammersmith and Edgware Road due to an earlier trespasser on the track at Westbourne Park. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-29T10:30:04.444Z",
-   "to": "2026-10-29T10:36:08.434Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Minor delays between Hammersmith and Edgware Road due to an earlier trespasser on the track at Westbourne Park. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T10:30:04.444Z",
+   "from": "2026-10-29T11:10:04.940Z",
    "to": "2026-10-29T18:25:12.631Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until early next week."
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-29T10:40:05.151Z",
-   "to": "2026-10-29T10:40:25.652Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Circle Line: Minor delays clockwise only due to an earlier trespasser on the track at Westbourne Park. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "hammersmith-city",
-   "lineName": "Hammersmith & City",
-   "from": "2026-10-29T10:40:05.151Z",
-   "to": "2026-10-29T11:55:59.295Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Hammersmith and City Line: Minor delays eastbound only due to an earlier trespasser on the track at Westbourne Park. GOOD SERVICE on the rest of the line. "
-  },
-  {
-   "line": "circle",
-   "lineName": "Circle",
-   "from": "2026-10-29T10:40:43.811Z",
-   "to": "2026-10-29T11:56:03.941Z",
-   "severity": 9,
-   "description": "Minor Delays",
-   "reason": "Circle Line: Minor delays clockwise only due to an earlier trespasser on the track at Westbourne Park. GOOD SERVICE anti-clockwise. "
   },
   {
    "line": "district",
@@ -985767,7 +985722,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-28T04:30:59.985Z",
-   "to": "2026-11-28T10:25:01.115Z",
+   "to": "2026-11-28T11:10:00.995Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "DISTRICT LINE: Saturday 28 and Sunday 29 November, no service between High Street Kensington and Edgware Road. There will also be no CIRCLE LINE service on this section."
@@ -985794,7 +985749,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-11-28T04:30:59.985Z",
-   "to": "2026-11-28T10:25:01.115Z",
+   "to": "2026-11-28T11:10:00.995Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "HAMMERSMITH & CITY LINE: Saturday 28 and Sunday 29 November, no service on the entire line. There will also be no CIRCLE LINE service between Hammersmith / High Street Kensington and Tower Hill (via Kings Cross St Pancras). Use DISTRICT LINE services between Aldgate East and Barking."
@@ -985803,7 +985758,7 @@
    "line": "liberty",
    "lineName": "Liberty",
    "from": "2026-11-28T04:30:59.985Z",
-   "to": "2026-11-28T10:25:01.115Z",
+   "to": "2026-11-28T11:10:00.995Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "LIBERTY LINE: Saturday 28 and Sunday 29 November, no service between Romford and Upminster. Use local London Buses services 165 248 and 370 instead."
@@ -986010,7 +985965,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-11-28T04:35:00.998Z",
-   "to": "2026-11-28T10:25:01.115Z",
+   "to": "2026-11-28T11:10:00.995Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "ELIZABETH LINE: Saturday 28 and Sunday 29 November, no service between Maidenhead / Heathrow (all terminals) and Abbey Wood / Shenfield. Use PICCADILLY LINE services between Heathrow and Central London. LONDON PADDINGTON STATION will be closed on this day, with no HEATHROW EXPRESS services. GWR services will not run between Maidenhead / Greenford and Paddington, with limited long distance services to/from Euston. There will also be no GREATER ANGLIA services on these days between Shenfield / Southend Victoria / Southminster and Liverpool Street, use CENTRAL LINE connections between Ealing Broadway, West Acton (for Acton Main Line), Central London, Liverpool Street, Stratford and Newbury Park. Replacement bus services operate, not serving Iver, please use Langley instead."
@@ -990060,7 +990015,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-28T05:55:01.245Z",
-   "to": "2026-11-28T10:25:01.115Z",
+   "to": "2026-11-28T11:10:00.995Z",
    "severity": 4,
    "description": "Planned Closure",
    "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
@@ -996540,7 +996495,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-11-28T09:10:00.674Z",
-   "to": "2026-11-28T10:25:01.115Z",
+   "to": "2026-11-28T11:10:00.995Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "Circle Line : Saturday 28 and Sunday 29 November - No service between Hammersmith and Tower Hill, Edgware Road and High Street Kensington due to planned engineering work."
@@ -1000780,6 +1000735,3399 @@
    "lineName": "Windrush",
    "from": "2026-11-28T10:25:01.115Z",
    "to": "2026-11-28T10:25:01.115Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:25:25.863Z",
+   "to": "2026-11-28T10:25:25.863Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:25:25.863Z",
+   "to": "2026-11-28T10:25:25.863Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:25:25.863Z",
+   "to": "2026-11-28T10:25:25.863Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:25:25.863Z",
+   "to": "2026-11-28T10:25:25.863Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:25:25.863Z",
+   "to": "2026-11-28T10:25:25.863Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:25:25.863Z",
+   "to": "2026-11-28T10:25:25.863Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:25:26.228Z",
+   "to": "2026-11-28T10:25:26.228Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:25:26.228Z",
+   "to": "2026-11-28T10:25:26.228Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:25:26.228Z",
+   "to": "2026-11-28T10:25:26.228Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:25:26.228Z",
+   "to": "2026-11-28T10:25:26.228Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:25:26.228Z",
+   "to": "2026-11-28T10:25:26.228Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:25:26.228Z",
+   "to": "2026-11-28T10:25:26.228Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:25:26.606Z",
+   "to": "2026-11-28T10:25:26.606Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:25:26.606Z",
+   "to": "2026-11-28T10:25:26.606Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:25:26.606Z",
+   "to": "2026-11-28T10:25:26.606Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:25:26.606Z",
+   "to": "2026-11-28T10:25:26.606Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:25:26.606Z",
+   "to": "2026-11-28T10:25:26.606Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:25:26.606Z",
+   "to": "2026-11-28T10:25:26.606Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:25:30.678Z",
+   "to": "2026-11-28T10:25:30.678Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:25:30.678Z",
+   "to": "2026-11-28T10:25:30.678Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:25:30.678Z",
+   "to": "2026-11-28T10:25:30.678Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:25:30.678Z",
+   "to": "2026-11-28T10:25:30.678Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:25:30.678Z",
+   "to": "2026-11-28T10:25:30.678Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:25:30.678Z",
+   "to": "2026-11-28T10:25:30.678Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:25:53.187Z",
+   "to": "2026-11-28T10:25:53.187Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:25:53.187Z",
+   "to": "2026-11-28T10:25:53.187Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:25:53.187Z",
+   "to": "2026-11-28T10:25:53.187Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:25:53.187Z",
+   "to": "2026-11-28T10:25:53.187Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:25:53.187Z",
+   "to": "2026-11-28T10:25:53.187Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:25:53.187Z",
+   "to": "2026-11-28T10:25:53.187Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:25:59.556Z",
+   "to": "2026-11-28T10:25:59.556Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:25:59.556Z",
+   "to": "2026-11-28T10:25:59.556Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:25:59.556Z",
+   "to": "2026-11-28T10:25:59.556Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:25:59.556Z",
+   "to": "2026-11-28T10:25:59.556Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:25:59.556Z",
+   "to": "2026-11-28T10:25:59.556Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:25:59.556Z",
+   "to": "2026-11-28T10:25:59.556Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:30:00.847Z",
+   "to": "2026-11-28T10:30:00.847Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:30:00.847Z",
+   "to": "2026-11-28T10:30:00.847Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:30:00.847Z",
+   "to": "2026-11-28T10:30:00.847Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:30:00.847Z",
+   "to": "2026-11-28T10:30:00.847Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:30:00.847Z",
+   "to": "2026-11-28T10:30:00.847Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:30:00.847Z",
+   "to": "2026-11-28T10:30:00.847Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:30:07.337Z",
+   "to": "2026-11-28T10:30:07.337Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:30:07.337Z",
+   "to": "2026-11-28T10:30:07.337Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:30:07.337Z",
+   "to": "2026-11-28T10:30:07.337Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:30:07.337Z",
+   "to": "2026-11-28T10:30:07.337Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:30:07.337Z",
+   "to": "2026-11-28T10:30:07.337Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:30:07.337Z",
+   "to": "2026-11-28T10:30:07.337Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:31:16.603Z",
+   "to": "2026-11-28T10:31:16.603Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:31:16.603Z",
+   "to": "2026-11-28T10:31:16.603Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:31:16.603Z",
+   "to": "2026-11-28T10:31:16.603Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:31:16.603Z",
+   "to": "2026-11-28T10:31:16.603Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:31:16.603Z",
+   "to": "2026-11-28T10:31:16.603Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:31:16.603Z",
+   "to": "2026-11-28T10:31:16.603Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:31:23.214Z",
+   "to": "2026-11-28T10:31:23.214Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:31:23.214Z",
+   "to": "2026-11-28T10:31:23.214Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:31:23.214Z",
+   "to": "2026-11-28T10:31:23.214Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:31:23.214Z",
+   "to": "2026-11-28T10:31:23.214Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:31:23.214Z",
+   "to": "2026-11-28T10:31:23.214Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:31:23.214Z",
+   "to": "2026-11-28T10:31:23.214Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:31:23.554Z",
+   "to": "2026-11-28T10:31:23.554Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:31:23.554Z",
+   "to": "2026-11-28T10:31:23.554Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:31:23.554Z",
+   "to": "2026-11-28T10:31:23.554Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:31:23.554Z",
+   "to": "2026-11-28T10:31:23.554Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:31:23.554Z",
+   "to": "2026-11-28T10:31:23.554Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:31:23.554Z",
+   "to": "2026-11-28T10:31:23.554Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:31:24.524Z",
+   "to": "2026-11-28T10:31:24.524Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:31:24.524Z",
+   "to": "2026-11-28T10:31:24.524Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:31:24.524Z",
+   "to": "2026-11-28T10:31:24.524Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:31:24.524Z",
+   "to": "2026-11-28T10:31:24.524Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:31:24.524Z",
+   "to": "2026-11-28T10:31:24.524Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:31:24.524Z",
+   "to": "2026-11-28T10:31:24.524Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:31:28.345Z",
+   "to": "2026-11-28T10:31:28.345Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:31:28.345Z",
+   "to": "2026-11-28T10:31:28.345Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:31:28.345Z",
+   "to": "2026-11-28T10:31:28.345Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:31:28.345Z",
+   "to": "2026-11-28T10:31:28.345Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:31:28.345Z",
+   "to": "2026-11-28T10:31:28.345Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:31:28.345Z",
+   "to": "2026-11-28T10:31:28.345Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:35:00.688Z",
+   "to": "2026-11-28T10:35:00.688Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:35:00.688Z",
+   "to": "2026-11-28T10:35:00.688Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:35:00.688Z",
+   "to": "2026-11-28T10:35:00.688Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:35:00.688Z",
+   "to": "2026-11-28T10:35:00.688Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:35:00.688Z",
+   "to": "2026-11-28T10:35:00.688Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:35:00.688Z",
+   "to": "2026-11-28T10:35:00.688Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:35:06.594Z",
+   "to": "2026-11-28T10:35:06.594Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:35:06.594Z",
+   "to": "2026-11-28T10:35:06.594Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:35:06.594Z",
+   "to": "2026-11-28T10:35:06.594Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:35:06.594Z",
+   "to": "2026-11-28T10:35:06.594Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:35:06.594Z",
+   "to": "2026-11-28T10:35:06.594Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:35:06.594Z",
+   "to": "2026-11-28T10:35:06.594Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:35:07.227Z",
+   "to": "2026-11-28T10:35:07.227Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:35:07.227Z",
+   "to": "2026-11-28T10:35:07.227Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:35:07.227Z",
+   "to": "2026-11-28T10:35:07.227Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:35:07.227Z",
+   "to": "2026-11-28T10:35:07.227Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:35:07.227Z",
+   "to": "2026-11-28T10:35:07.227Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:35:07.227Z",
+   "to": "2026-11-28T10:35:07.227Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:35:07.599Z",
+   "to": "2026-11-28T10:35:07.599Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:35:07.599Z",
+   "to": "2026-11-28T10:35:07.599Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:35:07.599Z",
+   "to": "2026-11-28T10:35:07.599Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:35:07.599Z",
+   "to": "2026-11-28T10:35:07.599Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:35:07.599Z",
+   "to": "2026-11-28T10:35:07.599Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:35:07.599Z",
+   "to": "2026-11-28T10:35:07.599Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:35:11.672Z",
+   "to": "2026-11-28T10:35:11.672Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:35:11.672Z",
+   "to": "2026-11-28T10:35:11.672Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:35:11.672Z",
+   "to": "2026-11-28T10:35:11.672Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:35:11.672Z",
+   "to": "2026-11-28T10:35:11.672Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:35:11.672Z",
+   "to": "2026-11-28T10:35:11.672Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:35:11.672Z",
+   "to": "2026-11-28T10:35:11.672Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:35:37.743Z",
+   "to": "2026-11-28T10:35:37.743Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:35:37.743Z",
+   "to": "2026-11-28T10:35:37.743Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:35:37.743Z",
+   "to": "2026-11-28T10:35:37.743Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:35:37.743Z",
+   "to": "2026-11-28T10:35:37.743Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:35:37.743Z",
+   "to": "2026-11-28T10:35:37.743Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:35:37.743Z",
+   "to": "2026-11-28T10:35:37.743Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:35:43.850Z",
+   "to": "2026-11-28T10:35:43.850Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:35:43.850Z",
+   "to": "2026-11-28T10:35:43.850Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:35:43.850Z",
+   "to": "2026-11-28T10:35:43.850Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:35:43.850Z",
+   "to": "2026-11-28T10:35:43.850Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:35:43.850Z",
+   "to": "2026-11-28T10:35:43.850Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:35:43.850Z",
+   "to": "2026-11-28T10:35:43.850Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:40:00.694Z",
+   "to": "2026-11-28T10:40:00.694Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:40:00.694Z",
+   "to": "2026-11-28T10:40:00.694Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:40:00.694Z",
+   "to": "2026-11-28T10:40:00.694Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:40:00.694Z",
+   "to": "2026-11-28T10:40:00.694Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:40:00.694Z",
+   "to": "2026-11-28T10:40:00.694Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:40:00.694Z",
+   "to": "2026-11-28T10:40:00.694Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:40:06.684Z",
+   "to": "2026-11-28T10:40:06.684Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:40:06.684Z",
+   "to": "2026-11-28T10:40:06.684Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:40:06.684Z",
+   "to": "2026-11-28T10:40:06.684Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:40:06.684Z",
+   "to": "2026-11-28T10:40:06.684Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:40:06.684Z",
+   "to": "2026-11-28T10:40:06.684Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:40:06.684Z",
+   "to": "2026-11-28T10:40:06.684Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:41:02.402Z",
+   "to": "2026-11-28T10:41:02.402Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:41:02.402Z",
+   "to": "2026-11-28T10:41:02.402Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:41:02.402Z",
+   "to": "2026-11-28T10:41:02.402Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:41:02.402Z",
+   "to": "2026-11-28T10:41:02.402Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:41:02.402Z",
+   "to": "2026-11-28T10:41:02.402Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:41:02.402Z",
+   "to": "2026-11-28T10:41:02.402Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:41:08.470Z",
+   "to": "2026-11-28T10:41:08.470Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:41:08.470Z",
+   "to": "2026-11-28T10:41:08.470Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:41:08.470Z",
+   "to": "2026-11-28T10:41:08.470Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:41:08.470Z",
+   "to": "2026-11-28T10:41:08.470Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:41:08.470Z",
+   "to": "2026-11-28T10:41:08.470Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:41:08.470Z",
+   "to": "2026-11-28T10:41:08.470Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:41:09.176Z",
+   "to": "2026-11-28T10:41:09.176Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:41:09.176Z",
+   "to": "2026-11-28T10:41:09.176Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:41:09.176Z",
+   "to": "2026-11-28T10:41:09.176Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:41:09.176Z",
+   "to": "2026-11-28T10:41:09.176Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:41:09.176Z",
+   "to": "2026-11-28T10:41:09.176Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:41:09.176Z",
+   "to": "2026-11-28T10:41:09.176Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:41:09.550Z",
+   "to": "2026-11-28T10:41:09.550Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:41:09.550Z",
+   "to": "2026-11-28T10:41:09.550Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:41:09.550Z",
+   "to": "2026-11-28T10:41:09.550Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:41:09.550Z",
+   "to": "2026-11-28T10:41:09.550Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:41:09.550Z",
+   "to": "2026-11-28T10:41:09.550Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:41:09.550Z",
+   "to": "2026-11-28T10:41:09.550Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:41:13.422Z",
+   "to": "2026-11-28T10:41:13.422Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:41:13.422Z",
+   "to": "2026-11-28T10:41:13.422Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:41:13.422Z",
+   "to": "2026-11-28T10:41:13.422Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:41:13.422Z",
+   "to": "2026-11-28T10:41:13.422Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:41:13.422Z",
+   "to": "2026-11-28T10:41:13.422Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:41:13.422Z",
+   "to": "2026-11-28T10:41:13.422Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:45:01.292Z",
+   "to": "2026-11-28T10:45:01.292Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:45:01.292Z",
+   "to": "2026-11-28T10:45:01.292Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:45:01.292Z",
+   "to": "2026-11-28T10:45:01.292Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:45:01.292Z",
+   "to": "2026-11-28T10:45:01.292Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:45:01.292Z",
+   "to": "2026-11-28T10:45:01.292Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:45:01.292Z",
+   "to": "2026-11-28T10:45:01.292Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:45:07.104Z",
+   "to": "2026-11-28T10:45:07.104Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:45:07.104Z",
+   "to": "2026-11-28T10:45:07.104Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:45:07.104Z",
+   "to": "2026-11-28T10:45:07.104Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:45:07.104Z",
+   "to": "2026-11-28T10:45:07.104Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:45:07.104Z",
+   "to": "2026-11-28T10:45:07.104Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:45:07.104Z",
+   "to": "2026-11-28T10:45:07.104Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:45:07.471Z",
+   "to": "2026-11-28T10:45:07.471Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:45:07.471Z",
+   "to": "2026-11-28T10:45:07.471Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:45:07.471Z",
+   "to": "2026-11-28T10:45:07.471Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:45:07.471Z",
+   "to": "2026-11-28T10:45:07.471Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:45:07.471Z",
+   "to": "2026-11-28T10:45:07.471Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:45:07.471Z",
+   "to": "2026-11-28T10:45:07.471Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:45:07.819Z",
+   "to": "2026-11-28T10:45:07.819Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:45:07.819Z",
+   "to": "2026-11-28T10:45:07.819Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:45:07.819Z",
+   "to": "2026-11-28T10:45:07.819Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:45:07.819Z",
+   "to": "2026-11-28T10:45:07.819Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:45:07.819Z",
+   "to": "2026-11-28T10:45:07.819Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:45:07.819Z",
+   "to": "2026-11-28T10:45:07.819Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:45:11.762Z",
+   "to": "2026-11-28T10:45:11.762Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:45:11.762Z",
+   "to": "2026-11-28T10:45:11.762Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:45:11.762Z",
+   "to": "2026-11-28T10:45:11.762Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:45:11.762Z",
+   "to": "2026-11-28T10:45:11.762Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:45:11.762Z",
+   "to": "2026-11-28T10:45:11.762Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:45:11.762Z",
+   "to": "2026-11-28T10:45:11.762Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:45:23.299Z",
+   "to": "2026-11-28T10:45:23.299Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:45:23.299Z",
+   "to": "2026-11-28T10:45:23.299Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:45:23.299Z",
+   "to": "2026-11-28T10:45:23.299Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:45:23.299Z",
+   "to": "2026-11-28T10:45:23.299Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:45:23.299Z",
+   "to": "2026-11-28T10:45:23.299Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:45:23.299Z",
+   "to": "2026-11-28T10:45:23.299Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:45:29.696Z",
+   "to": "2026-11-28T10:45:29.696Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:45:29.696Z",
+   "to": "2026-11-28T10:45:29.696Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:45:29.696Z",
+   "to": "2026-11-28T10:45:29.696Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:45:29.696Z",
+   "to": "2026-11-28T10:45:29.696Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:45:29.696Z",
+   "to": "2026-11-28T10:45:29.696Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:45:29.696Z",
+   "to": "2026-11-28T10:45:29.696Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:50:01.142Z",
+   "to": "2026-11-28T10:50:01.142Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:50:01.142Z",
+   "to": "2026-11-28T10:50:01.142Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:50:01.142Z",
+   "to": "2026-11-28T10:50:01.142Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:50:01.142Z",
+   "to": "2026-11-28T10:50:01.142Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:50:01.142Z",
+   "to": "2026-11-28T10:50:01.142Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:50:01.142Z",
+   "to": "2026-11-28T10:50:01.142Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:50:06.717Z",
+   "to": "2026-11-28T10:50:06.717Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:50:06.717Z",
+   "to": "2026-11-28T10:50:06.717Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:50:06.717Z",
+   "to": "2026-11-28T10:50:06.717Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:50:06.717Z",
+   "to": "2026-11-28T10:50:06.717Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:50:06.717Z",
+   "to": "2026-11-28T10:50:06.717Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:50:06.717Z",
+   "to": "2026-11-28T10:50:06.717Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:50:48.930Z",
+   "to": "2026-11-28T10:50:48.930Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:50:48.930Z",
+   "to": "2026-11-28T10:50:48.930Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:50:48.930Z",
+   "to": "2026-11-28T10:50:48.930Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:50:48.930Z",
+   "to": "2026-11-28T10:50:48.930Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:50:48.930Z",
+   "to": "2026-11-28T10:50:48.930Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:50:48.930Z",
+   "to": "2026-11-28T10:50:48.930Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:50:55.325Z",
+   "to": "2026-11-28T10:50:55.325Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:50:55.325Z",
+   "to": "2026-11-28T10:50:55.325Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:50:55.325Z",
+   "to": "2026-11-28T10:50:55.325Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:50:55.325Z",
+   "to": "2026-11-28T10:50:55.325Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:50:55.325Z",
+   "to": "2026-11-28T10:50:55.325Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:50:55.325Z",
+   "to": "2026-11-28T10:50:55.325Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:50:56.273Z",
+   "to": "2026-11-28T10:50:56.273Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:50:56.273Z",
+   "to": "2026-11-28T10:50:56.273Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:50:56.273Z",
+   "to": "2026-11-28T10:50:56.273Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:50:56.273Z",
+   "to": "2026-11-28T10:50:56.273Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:50:56.273Z",
+   "to": "2026-11-28T10:50:56.273Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:50:56.273Z",
+   "to": "2026-11-28T10:50:56.273Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:50:56.647Z",
+   "to": "2026-11-28T10:50:56.647Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:50:56.647Z",
+   "to": "2026-11-28T10:50:56.647Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:50:56.647Z",
+   "to": "2026-11-28T10:50:56.647Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:50:56.647Z",
+   "to": "2026-11-28T10:50:56.647Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:50:56.647Z",
+   "to": "2026-11-28T10:50:56.647Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:50:56.647Z",
+   "to": "2026-11-28T10:50:56.647Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:51:00.480Z",
+   "to": "2026-11-28T10:51:00.480Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:51:00.480Z",
+   "to": "2026-11-28T10:51:00.480Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:51:00.480Z",
+   "to": "2026-11-28T10:51:00.480Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:51:00.480Z",
+   "to": "2026-11-28T10:51:00.480Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:51:00.480Z",
+   "to": "2026-11-28T10:51:00.480Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:51:00.480Z",
+   "to": "2026-11-28T10:51:00.480Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:55:01.141Z",
+   "to": "2026-11-28T10:55:01.141Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:55:01.141Z",
+   "to": "2026-11-28T10:55:01.141Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:55:01.141Z",
+   "to": "2026-11-28T10:55:01.141Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:55:01.141Z",
+   "to": "2026-11-28T10:55:01.141Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:55:01.141Z",
+   "to": "2026-11-28T10:55:01.141Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:55:01.141Z",
+   "to": "2026-11-28T10:55:01.141Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:55:06.556Z",
+   "to": "2026-11-28T10:55:06.556Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:55:06.556Z",
+   "to": "2026-11-28T10:55:06.556Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:55:06.556Z",
+   "to": "2026-11-28T10:55:06.556Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:55:06.556Z",
+   "to": "2026-11-28T10:55:06.556Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:55:06.556Z",
+   "to": "2026-11-28T10:55:06.556Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:55:06.556Z",
+   "to": "2026-11-28T10:55:06.556Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:55:07.335Z",
+   "to": "2026-11-28T10:55:07.335Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:55:07.335Z",
+   "to": "2026-11-28T10:55:07.335Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:55:07.335Z",
+   "to": "2026-11-28T10:55:07.335Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:55:07.335Z",
+   "to": "2026-11-28T10:55:07.335Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:55:07.335Z",
+   "to": "2026-11-28T10:55:07.335Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:55:07.335Z",
+   "to": "2026-11-28T10:55:07.335Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:55:07.699Z",
+   "to": "2026-11-28T10:55:07.699Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:55:07.699Z",
+   "to": "2026-11-28T10:55:07.699Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:55:07.699Z",
+   "to": "2026-11-28T10:55:07.699Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:55:07.699Z",
+   "to": "2026-11-28T10:55:07.699Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:55:07.699Z",
+   "to": "2026-11-28T10:55:07.699Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:55:07.699Z",
+   "to": "2026-11-28T10:55:07.699Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:55:11.553Z",
+   "to": "2026-11-28T10:55:11.553Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:55:11.553Z",
+   "to": "2026-11-28T10:55:11.553Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:55:11.553Z",
+   "to": "2026-11-28T10:55:11.553Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:55:11.553Z",
+   "to": "2026-11-28T10:55:11.553Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:55:11.553Z",
+   "to": "2026-11-28T10:55:11.553Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:55:11.553Z",
+   "to": "2026-11-28T10:55:11.553Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:56:13.556Z",
+   "to": "2026-11-28T10:56:13.556Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:56:13.556Z",
+   "to": "2026-11-28T10:56:13.556Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:56:13.556Z",
+   "to": "2026-11-28T10:56:13.556Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:56:13.556Z",
+   "to": "2026-11-28T10:56:13.556Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:56:13.556Z",
+   "to": "2026-11-28T10:56:13.556Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:56:13.556Z",
+   "to": "2026-11-28T10:56:13.556Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:56:19.804Z",
+   "to": "2026-11-28T10:56:19.804Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T10:56:19.804Z",
+   "to": "2026-11-28T10:56:19.804Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:56:19.804Z",
+   "to": "2026-11-28T10:56:19.804Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T10:56:19.804Z",
+   "to": "2026-11-28T10:56:19.804Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:56:19.804Z",
+   "to": "2026-11-28T10:56:19.804Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T10:56:19.804Z",
+   "to": "2026-11-28T10:56:19.804Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:00:01.073Z",
+   "to": "2026-11-28T11:00:01.073Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:00:01.073Z",
+   "to": "2026-11-28T11:00:01.073Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:00:01.073Z",
+   "to": "2026-11-28T11:00:01.073Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:00:01.073Z",
+   "to": "2026-11-28T11:00:01.073Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:00:01.073Z",
+   "to": "2026-11-28T11:00:01.073Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:00:01.073Z",
+   "to": "2026-11-28T11:00:01.073Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:00:06.880Z",
+   "to": "2026-11-28T11:00:06.880Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:00:06.880Z",
+   "to": "2026-11-28T11:00:06.880Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:00:06.880Z",
+   "to": "2026-11-28T11:00:06.880Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:00:06.880Z",
+   "to": "2026-11-28T11:00:06.880Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:00:06.880Z",
+   "to": "2026-11-28T11:00:06.880Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:00:06.880Z",
+   "to": "2026-11-28T11:00:06.880Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:00:33.492Z",
+   "to": "2026-11-28T11:00:33.492Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:00:33.492Z",
+   "to": "2026-11-28T11:00:33.492Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:00:33.492Z",
+   "to": "2026-11-28T11:00:33.492Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:00:33.492Z",
+   "to": "2026-11-28T11:00:33.492Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:00:33.492Z",
+   "to": "2026-11-28T11:00:33.492Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:00:33.492Z",
+   "to": "2026-11-28T11:00:33.492Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:00:39.714Z",
+   "to": "2026-11-28T11:00:39.714Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:00:39.714Z",
+   "to": "2026-11-28T11:00:39.714Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:00:39.714Z",
+   "to": "2026-11-28T11:00:39.714Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:00:39.714Z",
+   "to": "2026-11-28T11:00:39.714Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:00:39.714Z",
+   "to": "2026-11-28T11:00:39.714Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:00:39.714Z",
+   "to": "2026-11-28T11:00:39.714Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:00:40.120Z",
+   "to": "2026-11-28T11:00:40.120Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:00:40.120Z",
+   "to": "2026-11-28T11:00:40.120Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:00:40.120Z",
+   "to": "2026-11-28T11:00:40.120Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:00:40.120Z",
+   "to": "2026-11-28T11:00:40.120Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:00:40.120Z",
+   "to": "2026-11-28T11:00:40.120Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:00:40.120Z",
+   "to": "2026-11-28T11:00:40.120Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:00:40.489Z",
+   "to": "2026-11-28T11:00:40.489Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:00:40.489Z",
+   "to": "2026-11-28T11:00:40.489Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:00:40.489Z",
+   "to": "2026-11-28T11:00:40.489Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:00:40.489Z",
+   "to": "2026-11-28T11:00:40.489Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:00:40.489Z",
+   "to": "2026-11-28T11:00:40.489Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:00:40.489Z",
+   "to": "2026-11-28T11:00:40.489Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:00:44.396Z",
+   "to": "2026-11-28T11:00:44.396Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:00:44.396Z",
+   "to": "2026-11-28T11:00:44.396Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:00:44.396Z",
+   "to": "2026-11-28T11:00:44.396Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:00:44.396Z",
+   "to": "2026-11-28T11:00:44.396Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:00:44.396Z",
+   "to": "2026-11-28T11:00:44.396Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:00:44.396Z",
+   "to": "2026-11-28T11:00:44.396Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:05:00.972Z",
+   "to": "2026-11-28T11:05:00.972Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:05:00.972Z",
+   "to": "2026-11-28T11:05:00.972Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:05:00.972Z",
+   "to": "2026-11-28T11:05:00.972Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:05:00.972Z",
+   "to": "2026-11-28T11:05:00.972Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:05:00.972Z",
+   "to": "2026-11-28T11:05:00.972Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:05:00.972Z",
+   "to": "2026-11-28T11:05:00.972Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:05:06.594Z",
+   "to": "2026-11-28T11:05:06.594Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:05:06.594Z",
+   "to": "2026-11-28T11:05:06.594Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:05:06.594Z",
+   "to": "2026-11-28T11:05:06.594Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:05:06.594Z",
+   "to": "2026-11-28T11:05:06.594Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:05:06.594Z",
+   "to": "2026-11-28T11:05:06.594Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:05:06.594Z",
+   "to": "2026-11-28T11:05:06.594Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:05:06.935Z",
+   "to": "2026-11-28T11:05:06.935Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:05:06.935Z",
+   "to": "2026-11-28T11:05:06.935Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:05:06.935Z",
+   "to": "2026-11-28T11:05:06.935Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:05:06.935Z",
+   "to": "2026-11-28T11:05:06.935Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:05:06.935Z",
+   "to": "2026-11-28T11:05:06.935Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:05:06.935Z",
+   "to": "2026-11-28T11:05:06.935Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:05:07.297Z",
+   "to": "2026-11-28T11:05:07.297Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:05:07.297Z",
+   "to": "2026-11-28T11:05:07.297Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:05:07.297Z",
+   "to": "2026-11-28T11:05:07.297Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:05:07.297Z",
+   "to": "2026-11-28T11:05:07.297Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:05:07.297Z",
+   "to": "2026-11-28T11:05:07.297Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:05:07.297Z",
+   "to": "2026-11-28T11:05:07.297Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:05:11.197Z",
+   "to": "2026-11-28T11:05:11.197Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:05:11.197Z",
+   "to": "2026-11-28T11:05:11.197Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:05:11.197Z",
+   "to": "2026-11-28T11:05:11.197Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:05:11.197Z",
+   "to": "2026-11-28T11:05:11.197Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:05:11.197Z",
+   "to": "2026-11-28T11:05:11.197Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:05:11.197Z",
+   "to": "2026-11-28T11:05:11.197Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:06:00.230Z",
+   "to": "2026-11-28T11:06:00.230Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:06:00.230Z",
+   "to": "2026-11-28T11:06:00.230Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:06:00.230Z",
+   "to": "2026-11-28T11:06:00.230Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:06:00.230Z",
+   "to": "2026-11-28T11:06:00.230Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:06:00.230Z",
+   "to": "2026-11-28T11:06:00.230Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:06:00.230Z",
+   "to": "2026-11-28T11:06:00.230Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:06:06.398Z",
+   "to": "2026-11-28T11:06:06.398Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:06:06.398Z",
+   "to": "2026-11-28T11:06:06.398Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:06:06.398Z",
+   "to": "2026-11-28T11:06:06.398Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:06:06.398Z",
+   "to": "2026-11-28T11:06:06.398Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to planned engineering work and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound departure will be 10:27. GOOD SERVICE on the rest of the line. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:06:06.398Z",
+   "to": "2026-11-28T11:06:06.398Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:06:06.398Z",
+   "to": "2026-11-28T11:06:06.398Z",
+   "severity": 7,
+   "description": "Reduced Service",
+   "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:10:00.995Z",
+   "to": "2026-11-28T11:10:00.995Z",
+   "severity": 9,
+   "description": "Minor Delays",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "lioness",
+   "lineName": "Lioness",
+   "from": "2026-11-28T11:10:00.995Z",
+   "to": "2026-11-28T11:10:00.995Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Lioness Line: No service between Euston and Kilburn High Road and MINOR DELAYS on the rest of the line while we fix a faulty train at Euston. London Underground are accepting tickets via any reasonable route.  "
+  },
+  {
+   "line": "metropolitan",
+   "lineName": "Metropolitan",
+   "from": "2026-11-28T11:10:00.995Z",
+   "to": "2026-11-28T11:10:00.995Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:10:00.995Z",
+   "to": "2026-11-28T11:10:00.995Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-11-28T11:10:00.995Z",
+   "to": "2026-11-28T11:10:00.995Z",
    "severity": 7,
    "description": "Reduced Service",
    "reason": "WINDRUSH LINE: Saturday 28 and Sunday 29 November, a reduced service operates between New Cross Gate and Crystal Palace / West Croydon."
