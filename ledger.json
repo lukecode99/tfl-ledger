@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-28T01:30:07.857Z",
- "sinceISO": "2026-10-29T01:30:01.432Z",
+ "generatedAt": "2026-11-28T02:05:12.184Z",
+ "sinceISO": "2026-10-29T02:05:01.077Z",
  "coverage": [
   {
-   "from": "2026-10-29T01:30:07.730Z",
+   "from": "2026-10-29T02:05:04.742Z",
    "to": "2026-11-23T08:04:10.333Z",
-   "polls": 50912
+   "polls": 50863
   },
   {
    "from": "2026-11-23T08:24:22.921Z",
@@ -24,15 +24,15 @@
   },
   {
    "from": "2026-11-23T23:58:05.418Z",
-   "to": "2026-11-28T01:30:01.161Z",
-   "polls": 8182
+   "to": "2026-11-28T02:05:00.796Z",
+   "polls": 8231
   }
  ],
  "spans": [
   {
    "line": "bakerloo",
    "lineName": "Bakerloo",
-   "from": "2026-10-29T01:30:07.730Z",
+   "from": "2026-10-29T02:05:04.742Z",
    "to": "2026-10-29T04:11:04.264Z",
    "severity": 20,
    "description": "Service Closed",
@@ -41,7 +41,7 @@
   {
    "line": "central",
    "lineName": "Central",
-   "from": "2026-10-29T01:30:07.730Z",
+   "from": "2026-10-29T02:05:04.742Z",
    "to": "2026-10-29T04:11:04.264Z",
    "severity": 20,
    "description": "Service Closed",
@@ -50,16 +50,25 @@
   {
    "line": "circle",
    "lineName": "Circle",
-   "from": "2026-10-29T01:30:07.730Z",
+   "from": "2026-10-29T02:05:04.742Z",
    "to": "2026-10-29T04:11:04.264Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Circle Line: Service will resume later this morning. "
   },
   {
+   "line": "district",
+   "lineName": "District",
+   "from": "2026-10-29T02:05:04.742Z",
+   "to": "2026-10-29T04:11:04.264Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "District Line: Service will resume later this morning. "
+  },
+  {
    "line": "dlr",
    "lineName": "DLR",
-   "from": "2026-10-29T01:30:07.730Z",
+   "from": "2026-10-29T02:05:04.742Z",
    "to": "2026-10-29T04:11:04.264Z",
    "severity": 20,
    "description": "Service Closed",
@@ -68,7 +77,7 @@
   {
    "line": "elizabeth",
    "lineName": "Elizabeth line",
-   "from": "2026-10-29T01:30:07.730Z",
+   "from": "2026-10-29T02:05:04.742Z",
    "to": "2026-10-29T04:16:27.607Z",
    "severity": 20,
    "description": "Service Closed",
@@ -77,7 +86,7 @@
   {
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
-   "from": "2026-10-29T01:30:07.730Z",
+   "from": "2026-10-29T02:05:04.742Z",
    "to": "2026-10-29T04:11:04.264Z",
    "severity": 20,
    "description": "Service Closed",
@@ -86,7 +95,7 @@
   {
    "line": "jubilee",
    "lineName": "Jubilee",
-   "from": "2026-10-29T01:30:07.730Z",
+   "from": "2026-10-29T02:05:04.742Z",
    "to": "2026-10-29T04:11:04.264Z",
    "severity": 20,
    "description": "Service Closed",
@@ -95,7 +104,7 @@
   {
    "line": "liberty",
    "lineName": "Liberty",
-   "from": "2026-10-29T01:30:07.730Z",
+   "from": "2026-10-29T02:05:04.742Z",
    "to": "2026-10-29T04:16:27.607Z",
    "severity": 20,
    "description": "Service Closed",
@@ -104,7 +113,7 @@
   {
    "line": "lioness",
    "lineName": "Lioness",
-   "from": "2026-10-29T01:30:07.730Z",
+   "from": "2026-10-29T02:05:04.742Z",
    "to": "2026-10-29T04:16:27.607Z",
    "severity": 20,
    "description": "Service Closed",
@@ -113,7 +122,7 @@
   {
    "line": "metropolitan",
    "lineName": "Metropolitan",
-   "from": "2026-10-29T01:30:07.730Z",
+   "from": "2026-10-29T02:05:04.742Z",
    "to": "2026-10-29T04:11:04.264Z",
    "severity": 20,
    "description": "Service Closed",
@@ -122,439 +131,16 @@
   {
    "line": "mildmay",
    "lineName": "Mildmay",
-   "from": "2026-10-29T01:30:07.730Z",
-   "to": "2026-10-29T01:30:07.730Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: Monday 26, Tuesday 27, Wednesday 28 and Thursday 29 October, from 2345 each evening, no westbound service from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-29T01:30:07.730Z",
-   "to": "2026-10-29T01:30:07.730Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Mildmay Line: Service will resume later this morning. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:30:07.730Z",
-   "to": "2026-10-29T01:30:07.730Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:30:07.730Z",
-   "to": "2026-10-29T01:30:07.730Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:30:07.730Z",
-   "to": "2026-10-29T01:30:07.730Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:30:07.730Z",
-   "to": "2026-10-29T01:30:07.730Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. "
-  },
-  {
-   "line": "victoria",
-   "lineName": "Victoria",
-   "from": "2026-10-29T01:30:07.730Z",
-   "to": "2026-10-29T04:11:04.264Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Victoria Line: Service will resume later this morning. "
-  },
-  {
-   "line": "waterloo-city",
-   "lineName": "Waterloo & City",
-   "from": "2026-10-29T01:30:07.730Z",
-   "to": "2026-10-29T06:00:50.490Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Waterloo and City Line: Service will resume at 06:00. "
-  },
-  {
-   "line": "weaver",
-   "lineName": "Weaver",
-   "from": "2026-10-29T01:30:07.730Z",
-   "to": "2026-10-29T04:16:27.607Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Weaver Line: Service will resume later this morning. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-29T01:30:07.730Z",
-   "to": "2026-10-29T01:30:07.730Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Monday 26, Tuesday 27, Wednesday 28 and Thursday 29 October, after 2330 each evening, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Crystal Palace, Gipsy Hill, West Norwood, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Norwood Junction and East Croydon (Arr 01:27). One return bus from Crystal Palace departs at 2359, calling at all stations to London Bridge via New Cross Gate. Alternatively, use local buses or trams via any reasonable route. \r\nThe 2232 and 2247 trains from Highbury & Islington to West Croydon will both divert to Crystal Palace. The 2338 train from Dalston Junction to New Cross Gate will not run"
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-29T01:30:07.730Z",
-   "to": "2026-10-29T01:30:07.730Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Windrush Line: Service will resume later this morning. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-29T01:30:09.490Z",
-   "to": "2026-10-29T01:30:09.490Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: Monday 26, Tuesday 27, Wednesday 28 and Thursday 29 October, from 2345 each evening, no westbound service from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-29T01:30:09.490Z",
-   "to": "2026-10-29T01:30:09.490Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Mildmay Line: Service will resume later this morning. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:30:09.490Z",
-   "to": "2026-10-29T01:30:09.490Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:30:09.490Z",
-   "to": "2026-10-29T01:30:09.490Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:30:09.490Z",
-   "to": "2026-10-29T01:30:09.490Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:30:09.490Z",
-   "to": "2026-10-29T01:30:09.490Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-29T01:30:09.490Z",
-   "to": "2026-10-29T01:30:09.490Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Monday 26, Tuesday 27, Wednesday 28 and Thursday 29 October, after 2330 each evening, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Crystal Palace, Gipsy Hill, West Norwood, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Norwood Junction and East Croydon (Arr 01:27). One return bus from Crystal Palace departs at 2359, calling at all stations to London Bridge via New Cross Gate. Alternatively, use local buses or trams via any reasonable route. \r\nThe 2232 and 2247 trains from Highbury & Islington to West Croydon will both divert to Crystal Palace. The 2338 train from Dalston Junction to New Cross Gate will not run"
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-29T01:30:09.490Z",
-   "to": "2026-10-29T01:30:09.490Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Windrush Line: Service will resume later this morning. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-29T01:30:16.044Z",
-   "to": "2026-10-29T01:30:16.044Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: Monday 26, Tuesday 27, Wednesday 28 and Thursday 29 October, from 2345 each evening, no westbound service from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-29T01:30:16.044Z",
-   "to": "2026-10-29T01:30:16.044Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Mildmay Line: Service will resume later this morning. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:30:16.044Z",
-   "to": "2026-10-29T01:30:16.044Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:30:16.044Z",
-   "to": "2026-10-29T01:30:16.044Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:30:16.044Z",
-   "to": "2026-10-29T01:30:16.044Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:30:16.044Z",
-   "to": "2026-10-29T01:30:16.044Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-29T01:30:16.044Z",
-   "to": "2026-10-29T01:30:16.044Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Monday 26, Tuesday 27, Wednesday 28 and Thursday 29 October, after 2330 each evening, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Crystal Palace, Gipsy Hill, West Norwood, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Norwood Junction and East Croydon (Arr 01:27). One return bus from Crystal Palace departs at 2359, calling at all stations to London Bridge via New Cross Gate. Alternatively, use local buses or trams via any reasonable route. \r\nThe 2232 and 2247 trains from Highbury & Islington to West Croydon will both divert to Crystal Palace. The 2338 train from Dalston Junction to New Cross Gate will not run"
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-29T01:30:16.044Z",
-   "to": "2026-10-29T01:30:16.044Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Windrush Line: Service will resume later this morning. "
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-29T01:30:16.454Z",
-   "to": "2026-10-29T01:30:16.454Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "MILDMAY LINE: Monday 26, Tuesday 27, Wednesday 28 and Thursday 29 October, from 2345 each evening, no westbound service from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
-  },
-  {
-   "line": "mildmay",
-   "lineName": "Mildmay",
-   "from": "2026-10-29T01:30:16.454Z",
+   "from": "2026-10-29T02:05:04.742Z",
    "to": "2026-10-29T04:16:27.607Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Mildmay Line: Service will resume later this morning. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:30:16.454Z",
-   "to": "2026-10-29T01:30:16.454Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:30:16.454Z",
-   "to": "2026-10-29T01:30:16.454Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:30:16.454Z",
-   "to": "2026-10-29T01:30:16.454Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:30:16.454Z",
-   "to": "2026-10-29T01:30:16.454Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. "
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-29T01:30:16.454Z",
-   "to": "2026-10-29T01:30:16.454Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "WINDRUSH LINE: Monday 26, Tuesday 27, Wednesday 28 and Thursday 29 October, after 2330 each evening, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Crystal Palace, Gipsy Hill, West Norwood, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Norwood Junction and East Croydon (Arr 01:27). One return bus from Crystal Palace departs at 2359, calling at all stations to London Bridge via New Cross Gate. Alternatively, use local buses or trams via any reasonable route. \r\nThe 2232 and 2247 trains from Highbury & Islington to West Croydon will both divert to Crystal Palace. The 2338 train from Dalston Junction to New Cross Gate will not run"
-  },
-  {
-   "line": "windrush",
-   "lineName": "Windrush",
-   "from": "2026-10-29T01:30:16.454Z",
-   "to": "2026-10-29T04:16:27.607Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Windrush Line: Service will resume later this morning. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:31:15.951Z",
-   "to": "2026-10-29T01:31:42.517Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:31:15.951Z",
-   "to": "2026-10-29T01:31:42.517Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:31:42.517Z",
-   "to": "2026-10-29T01:31:42.517Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:31:42.517Z",
-   "to": "2026-10-29T01:31:42.517Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:31:56.475Z",
-   "to": "2026-10-29T01:35:08.418Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:31:56.475Z",
-   "to": "2026-10-29T01:35:08.418Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:35:08.418Z",
-   "to": "2026-10-29T01:35:08.418Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:35:08.418Z",
-   "to": "2026-10-29T01:35:08.418Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:35:25.040Z",
-   "to": "2026-10-29T01:35:25.040Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:35:25.040Z",
-   "to": "2026-10-29T01:35:25.040Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:35:25.040Z",
-   "to": "2026-10-29T01:35:25.040Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:35:25.040Z",
-   "to": "2026-10-29T01:35:25.040Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "district",
-   "lineName": "District",
-   "from": "2026-10-29T01:35:25.504Z",
-   "to": "2026-10-29T04:11:04.264Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "District Line: Service will resume later this morning. "
   },
   {
    "line": "northern",
    "lineName": "Northern",
-   "from": "2026-10-29T01:35:25.504Z",
+   "from": "2026-10-29T02:05:04.742Z",
    "to": "2026-10-29T04:11:04.264Z",
    "severity": 20,
    "description": "Service Closed",
@@ -563,1446 +149,6 @@
   {
    "line": "piccadilly",
    "lineName": "Piccadilly",
-   "from": "2026-10-29T01:35:25.504Z",
-   "to": "2026-10-29T01:35:25.504Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:35:25.504Z",
-   "to": "2026-10-29T01:35:25.504Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:35:25.504Z",
-   "to": "2026-10-29T01:35:25.504Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:35:25.504Z",
-   "to": "2026-10-29T01:35:25.504Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:36:28.138Z",
-   "to": "2026-10-29T01:36:28.138Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:36:28.138Z",
-   "to": "2026-10-29T01:36:28.138Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:36:28.138Z",
-   "to": "2026-10-29T01:36:28.138Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:36:28.138Z",
-   "to": "2026-10-29T01:36:28.138Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:36:29.175Z",
-   "to": "2026-10-29T01:36:29.175Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:36:29.175Z",
-   "to": "2026-10-29T01:36:29.175Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:36:29.175Z",
-   "to": "2026-10-29T01:36:29.175Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:36:29.175Z",
-   "to": "2026-10-29T01:36:29.175Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:36:36.116Z",
-   "to": "2026-10-29T01:36:36.116Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:36:36.116Z",
-   "to": "2026-10-29T01:36:36.116Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:36:36.116Z",
-   "to": "2026-10-29T01:36:36.116Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:36:36.116Z",
-   "to": "2026-10-29T01:36:36.116Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:36:36.654Z",
-   "to": "2026-10-29T01:36:36.654Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:36:36.654Z",
-   "to": "2026-10-29T01:36:36.654Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:36:36.654Z",
-   "to": "2026-10-29T01:36:36.654Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:36:36.654Z",
-   "to": "2026-10-29T01:36:36.654Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:40:04.935Z",
-   "to": "2026-10-29T01:40:04.935Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:40:04.935Z",
-   "to": "2026-10-29T01:40:04.935Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:40:04.935Z",
-   "to": "2026-10-29T01:40:04.935Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:40:04.935Z",
-   "to": "2026-10-29T01:40:04.935Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:40:06.492Z",
-   "to": "2026-10-29T01:40:06.492Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:40:06.492Z",
-   "to": "2026-10-29T01:40:06.492Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:40:06.492Z",
-   "to": "2026-10-29T01:40:06.492Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:40:06.492Z",
-   "to": "2026-10-29T01:40:06.492Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:40:13.409Z",
-   "to": "2026-10-29T01:40:13.409Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:40:13.409Z",
-   "to": "2026-10-29T01:40:13.409Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:40:13.409Z",
-   "to": "2026-10-29T01:40:13.409Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:40:13.409Z",
-   "to": "2026-10-29T01:40:13.409Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:40:13.811Z",
-   "to": "2026-10-29T01:40:13.811Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:40:13.811Z",
-   "to": "2026-10-29T01:40:13.811Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:40:13.811Z",
-   "to": "2026-10-29T01:40:13.811Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:40:13.811Z",
-   "to": "2026-10-29T01:40:13.811Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:40:40.481Z",
-   "to": "2026-10-29T01:40:40.481Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:40:40.481Z",
-   "to": "2026-10-29T01:40:40.481Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:40:40.481Z",
-   "to": "2026-10-29T01:40:40.481Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:40:40.481Z",
-   "to": "2026-10-29T01:40:40.481Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:40:40.867Z",
-   "to": "2026-10-29T01:40:40.867Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:40:40.867Z",
-   "to": "2026-10-29T01:40:40.867Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:40:40.867Z",
-   "to": "2026-10-29T01:40:40.867Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:40:40.867Z",
-   "to": "2026-10-29T01:40:40.867Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:40:41.280Z",
-   "to": "2026-10-29T01:40:41.280Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:40:41.280Z",
-   "to": "2026-10-29T01:40:41.280Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:40:41.280Z",
-   "to": "2026-10-29T01:40:41.280Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:40:41.280Z",
-   "to": "2026-10-29T01:40:41.280Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:45:05.106Z",
-   "to": "2026-10-29T01:45:05.106Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:45:05.106Z",
-   "to": "2026-10-29T01:45:05.106Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:45:05.106Z",
-   "to": "2026-10-29T01:45:05.106Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:45:05.106Z",
-   "to": "2026-10-29T01:45:05.106Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:45:07.041Z",
-   "to": "2026-10-29T01:45:07.041Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:45:07.041Z",
-   "to": "2026-10-29T01:45:07.041Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:45:07.041Z",
-   "to": "2026-10-29T01:45:07.041Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:45:07.041Z",
-   "to": "2026-10-29T01:45:07.041Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:45:07.470Z",
-   "to": "2026-10-29T01:45:07.470Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:45:07.470Z",
-   "to": "2026-10-29T01:45:07.470Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:45:07.470Z",
-   "to": "2026-10-29T01:45:07.470Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:45:07.470Z",
-   "to": "2026-10-29T01:45:07.470Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:45:54.945Z",
-   "to": "2026-10-29T01:45:54.945Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:45:54.945Z",
-   "to": "2026-10-29T01:45:54.945Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:45:54.945Z",
-   "to": "2026-10-29T01:45:54.945Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:45:54.945Z",
-   "to": "2026-10-29T01:45:54.945Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:45:55.346Z",
-   "to": "2026-10-29T01:45:55.346Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:45:55.346Z",
-   "to": "2026-10-29T01:45:55.346Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:45:55.346Z",
-   "to": "2026-10-29T01:45:55.346Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:45:55.346Z",
-   "to": "2026-10-29T01:45:55.346Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:46:01.940Z",
-   "to": "2026-10-29T01:46:01.940Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:46:01.940Z",
-   "to": "2026-10-29T01:46:01.940Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:46:01.940Z",
-   "to": "2026-10-29T01:46:01.940Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:46:01.940Z",
-   "to": "2026-10-29T01:46:01.940Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:46:02.335Z",
-   "to": "2026-10-29T01:46:02.335Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:46:02.335Z",
-   "to": "2026-10-29T01:46:02.335Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:46:02.335Z",
-   "to": "2026-10-29T01:46:02.335Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:46:02.335Z",
-   "to": "2026-10-29T01:46:02.335Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:50:05.221Z",
-   "to": "2026-10-29T01:50:05.221Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:50:05.221Z",
-   "to": "2026-10-29T01:50:05.221Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:50:05.221Z",
-   "to": "2026-10-29T01:50:05.221Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:50:05.221Z",
-   "to": "2026-10-29T01:50:05.221Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:50:05.620Z",
-   "to": "2026-10-29T01:50:05.620Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:50:05.620Z",
-   "to": "2026-10-29T01:50:05.620Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:50:05.620Z",
-   "to": "2026-10-29T01:50:05.620Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:50:05.620Z",
-   "to": "2026-10-29T01:50:05.620Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:50:12.013Z",
-   "to": "2026-10-29T01:50:12.013Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:50:12.013Z",
-   "to": "2026-10-29T01:50:12.013Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:50:12.013Z",
-   "to": "2026-10-29T01:50:12.013Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:50:12.013Z",
-   "to": "2026-10-29T01:50:12.013Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:50:12.496Z",
-   "to": "2026-10-29T01:50:12.496Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:50:12.496Z",
-   "to": "2026-10-29T01:50:12.496Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:50:12.496Z",
-   "to": "2026-10-29T01:50:12.496Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:50:12.496Z",
-   "to": "2026-10-29T01:50:12.496Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:51:10.434Z",
-   "to": "2026-10-29T01:51:10.434Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:51:10.434Z",
-   "to": "2026-10-29T01:51:10.434Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:51:10.434Z",
-   "to": "2026-10-29T01:51:10.434Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:51:10.434Z",
-   "to": "2026-10-29T01:51:10.434Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:51:11.192Z",
-   "to": "2026-10-29T01:51:11.192Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:51:11.192Z",
-   "to": "2026-10-29T01:51:11.192Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:51:11.192Z",
-   "to": "2026-10-29T01:51:11.192Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:51:11.192Z",
-   "to": "2026-10-29T01:51:11.192Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:51:11.590Z",
-   "to": "2026-10-29T01:51:11.590Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:51:11.590Z",
-   "to": "2026-10-29T01:51:11.590Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:51:11.590Z",
-   "to": "2026-10-29T01:51:11.590Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:51:11.590Z",
-   "to": "2026-10-29T01:51:11.590Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:55:05.054Z",
-   "to": "2026-10-29T01:55:05.054Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:55:05.054Z",
-   "to": "2026-10-29T01:55:05.054Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:55:05.054Z",
-   "to": "2026-10-29T01:55:05.054Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:55:05.054Z",
-   "to": "2026-10-29T01:55:05.054Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:55:07.182Z",
-   "to": "2026-10-29T01:55:07.182Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:55:07.182Z",
-   "to": "2026-10-29T01:55:07.182Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:55:07.182Z",
-   "to": "2026-10-29T01:55:07.182Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:55:07.182Z",
-   "to": "2026-10-29T01:55:07.182Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:55:07.595Z",
-   "to": "2026-10-29T01:55:07.595Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:55:07.595Z",
-   "to": "2026-10-29T01:55:07.595Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:55:07.595Z",
-   "to": "2026-10-29T01:55:07.595Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:55:07.595Z",
-   "to": "2026-10-29T01:55:07.595Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:56:24.757Z",
-   "to": "2026-10-29T01:56:24.757Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:56:24.757Z",
-   "to": "2026-10-29T01:56:24.757Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:56:24.757Z",
-   "to": "2026-10-29T01:56:24.757Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:56:24.757Z",
-   "to": "2026-10-29T01:56:24.757Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:56:25.781Z",
-   "to": "2026-10-29T01:56:25.781Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:56:25.781Z",
-   "to": "2026-10-29T01:56:25.781Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:56:25.781Z",
-   "to": "2026-10-29T01:56:25.781Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:56:25.781Z",
-   "to": "2026-10-29T01:56:25.781Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:56:33.127Z",
-   "to": "2026-10-29T01:56:33.127Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:56:33.127Z",
-   "to": "2026-10-29T01:56:33.127Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:56:33.127Z",
-   "to": "2026-10-29T01:56:33.127Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:56:33.127Z",
-   "to": "2026-10-29T01:56:33.127Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:56:33.512Z",
-   "to": "2026-10-29T01:56:33.512Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T01:56:33.512Z",
-   "to": "2026-10-29T01:56:33.512Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:56:33.512Z",
-   "to": "2026-10-29T01:56:33.512Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T01:56:33.512Z",
-   "to": "2026-10-29T01:56:33.512Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T02:00:04.743Z",
-   "to": "2026-10-29T02:00:04.743Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T02:00:04.743Z",
-   "to": "2026-10-29T02:00:04.743Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T02:00:04.743Z",
-   "to": "2026-10-29T02:00:04.743Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T02:00:04.743Z",
-   "to": "2026-10-29T02:00:04.743Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T02:00:05.141Z",
-   "to": "2026-10-29T02:00:05.141Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T02:00:05.141Z",
-   "to": "2026-10-29T02:00:05.141Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T02:00:05.141Z",
-   "to": "2026-10-29T02:00:05.141Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T02:00:05.141Z",
-   "to": "2026-10-29T02:00:05.141Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T02:00:11.235Z",
-   "to": "2026-10-29T02:00:11.235Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T02:00:11.235Z",
-   "to": "2026-10-29T02:00:11.235Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T02:00:11.235Z",
-   "to": "2026-10-29T02:00:11.235Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T02:00:11.235Z",
-   "to": "2026-10-29T02:00:11.235Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T02:00:12.353Z",
-   "to": "2026-10-29T02:00:12.353Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T02:00:12.353Z",
-   "to": "2026-10-29T02:00:12.353Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T02:00:12.353Z",
-   "to": "2026-10-29T02:00:12.353Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T02:00:12.353Z",
-   "to": "2026-10-29T02:00:12.353Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T02:00:36.346Z",
-   "to": "2026-10-29T02:00:36.346Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T02:00:36.346Z",
-   "to": "2026-10-29T02:00:36.346Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T02:00:36.346Z",
-   "to": "2026-10-29T02:00:36.346Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T02:00:36.346Z",
-   "to": "2026-10-29T02:00:36.346Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T02:00:36.764Z",
-   "to": "2026-10-29T02:00:36.764Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T02:00:36.764Z",
-   "to": "2026-10-29T02:00:36.764Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T02:00:36.764Z",
-   "to": "2026-10-29T02:00:36.764Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T02:00:36.764Z",
-   "to": "2026-10-29T02:00:36.764Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T02:00:37.140Z",
-   "to": "2026-10-29T02:00:37.140Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
-   "from": "2026-10-29T02:00:37.140Z",
-   "to": "2026-10-29T02:00:37.140Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.  "
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T02:00:37.140Z",
-   "to": "2026-10-29T02:00:37.140Z",
-   "severity": 5,
-   "description": "Part Closure",
-   "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week."
-  },
-  {
-   "line": "suffragette",
-   "lineName": "Suffragette",
-   "from": "2026-10-29T02:00:37.140Z",
-   "to": "2026-10-29T02:00:37.140Z",
-   "severity": 20,
-   "description": "Service Closed",
-   "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
-  },
-  {
-   "line": "piccadilly",
-   "lineName": "Piccadilly",
    "from": "2026-10-29T02:05:04.742Z",
    "to": "2026-10-29T02:05:04.742Z",
    "severity": 5,
@@ -2035,6 +181,42 @@
    "severity": 20,
    "description": "Service Closed",
    "reason": "Suffragette Line: Service will resume later this morning. There will be no service between South Tottenham and Barking Riverside due to an operational incident. "
+  },
+  {
+   "line": "victoria",
+   "lineName": "Victoria",
+   "from": "2026-10-29T02:05:04.742Z",
+   "to": "2026-10-29T04:11:04.264Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Victoria Line: Service will resume later this morning. "
+  },
+  {
+   "line": "waterloo-city",
+   "lineName": "Waterloo & City",
+   "from": "2026-10-29T02:05:04.742Z",
+   "to": "2026-10-29T06:00:50.490Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Waterloo and City Line: Service will resume at 06:00. "
+  },
+  {
+   "line": "weaver",
+   "lineName": "Weaver",
+   "from": "2026-10-29T02:05:04.742Z",
+   "to": "2026-10-29T04:16:27.607Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Weaver Line: Service will resume later this morning. "
+  },
+  {
+   "line": "windrush",
+   "lineName": "Windrush",
+   "from": "2026-10-29T02:05:04.742Z",
+   "to": "2026-10-29T04:16:27.607Z",
+   "severity": 20,
+   "description": "Service Closed",
+   "reason": "Windrush Line: Service will resume later this morning. "
   },
   {
    "line": "piccadilly",
@@ -991464,7 +989646,7 @@
    "line": "jubilee",
    "lineName": "Jubilee",
    "from": "2026-11-28T00:31:13.463Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:01:00.790Z",
    "severity": 9,
    "description": "Minor Delays",
    "reason": "Jubilee Line: Minor delays due to an earlier customer incident at Green Park. "
@@ -991473,7 +989655,7 @@
    "line": "waterloo-city",
    "lineName": "Waterloo & City",
    "from": "2026-11-28T00:35:00.684Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
@@ -991833,7 +990015,7 @@
    "line": "windrush",
    "lineName": "Windrush",
    "from": "2026-11-28T01:00:27.945Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 5,
    "description": "Part Closure",
    "reason": "WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 November, including Friday and Saturday Night Overground, no service between Highbury & Islington and Battersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Replacement bus services operate."
@@ -992130,7 +990312,7 @@
    "line": "bakerloo",
    "lineName": "Bakerloo",
    "from": "2026-11-28T01:15:00.805Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Bakerloo Line: Service will resume later this morning. "
@@ -992157,7 +990339,7 @@
    "line": "circle",
    "lineName": "Circle",
    "from": "2026-11-28T01:15:21.460Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Circle Line: Service will resume later this morning. There will be no service between Hammersmith and Tower Hill and between, Edgware Road to High Street Kensington due to planned engineering work. "
@@ -992166,7 +990348,7 @@
    "line": "district",
    "lineName": "District",
    "from": "2026-11-28T01:15:21.460Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and High Street Kensington due to planned engineering work. "
@@ -992193,7 +990375,7 @@
    "line": "dlr",
    "lineName": "DLR",
    "from": "2026-11-28T01:15:36.929Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Docklands Light Railway: Service will resume later this morning. "
@@ -992355,7 +990537,7 @@
    "line": "metropolitan",
    "lineName": "Metropolitan",
    "from": "2026-11-28T01:20:56.994Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Metropolitan Line: Service will resume later this morning. There will be no service between Baker Street and Aldgate due to planned engineering work. "
@@ -992436,7 +990618,7 @@
    "line": "hammersmith-city",
    "lineName": "Hammersmith & City",
    "from": "2026-11-28T01:25:00.916Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Hammersmith and City Line: Services will not resume in the morning. There will be no service due to planned engineering work. "
@@ -992445,7 +990627,7 @@
    "line": "liberty",
    "lineName": "Liberty",
    "from": "2026-11-28T01:25:00.916Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Liberty Line: Services will not resume in the morning. There will be no service due to planned engineering work. "
@@ -992454,7 +990636,7 @@
    "line": "lioness",
    "lineName": "Lioness",
    "from": "2026-11-28T01:25:00.916Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Lioness Line: Service will resume later this morning. "
@@ -992463,7 +990645,7 @@
    "line": "mildmay",
    "lineName": "Mildmay",
    "from": "2026-11-28T01:25:00.916Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Mildmay Line: Service will resume later this morning. "
@@ -992490,7 +990672,7 @@
    "line": "suffragette",
    "lineName": "Suffragette",
    "from": "2026-11-28T01:25:00.916Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Suffragette Line: Service will resume later this morning. "
@@ -992499,7 +990681,7 @@
    "line": "weaver",
    "lineName": "Weaver",
    "from": "2026-11-28T01:25:00.916Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Weaver Line: Service will resume later this morning. "
@@ -992616,7 +990798,7 @@
    "line": "elizabeth",
    "lineName": "Elizabeth line",
    "from": "2026-11-28T01:30:01.161Z",
-   "to": "2026-11-28T01:30:01.161Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 20,
    "description": "Service Closed",
    "reason": "Service will resume later this morning. There will be no service between Paddington and Maidenhead / Heathrow Terminals and between,  Paddington and Abbey Wood / Shenfield due to planned engineering work. "
@@ -992635,6 +990817,888 @@
    "lineName": "Northern",
    "from": "2026-11-28T01:30:01.161Z",
    "to": "2026-11-28T01:30:01.161Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:30:21.371Z",
+   "to": "2026-11-28T01:30:21.371Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:30:21.371Z",
+   "to": "2026-11-28T01:30:21.371Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:30:35.159Z",
+   "to": "2026-11-28T01:30:35.159Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:30:35.159Z",
+   "to": "2026-11-28T01:30:35.159Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:30:40.944Z",
+   "to": "2026-11-28T01:30:40.944Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:30:40.944Z",
+   "to": "2026-11-28T01:30:40.944Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:30:41.305Z",
+   "to": "2026-11-28T01:30:41.305Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:30:41.305Z",
+   "to": "2026-11-28T01:30:41.305Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:30:41.667Z",
+   "to": "2026-11-28T01:30:41.667Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:30:41.667Z",
+   "to": "2026-11-28T01:30:41.667Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:30:46.062Z",
+   "to": "2026-11-28T01:30:46.062Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:30:46.062Z",
+   "to": "2026-11-28T01:30:46.062Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:35:00.852Z",
+   "to": "2026-11-28T01:35:00.852Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:35:00.852Z",
+   "to": "2026-11-28T01:35:00.852Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:35:07.416Z",
+   "to": "2026-11-28T01:35:07.416Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:35:07.416Z",
+   "to": "2026-11-28T01:35:07.416Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:35:07.781Z",
+   "to": "2026-11-28T01:35:07.781Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:35:07.781Z",
+   "to": "2026-11-28T01:35:07.781Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:35:08.251Z",
+   "to": "2026-11-28T01:35:08.251Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:35:08.251Z",
+   "to": "2026-11-28T01:35:08.251Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:35:11.918Z",
+   "to": "2026-11-28T01:35:11.918Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:35:11.918Z",
+   "to": "2026-11-28T01:35:11.918Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:35:59.347Z",
+   "to": "2026-11-28T01:35:59.347Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:35:59.347Z",
+   "to": "2026-11-28T01:35:59.347Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:36:05.690Z",
+   "to": "2026-11-28T01:36:05.690Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:36:05.690Z",
+   "to": "2026-11-28T01:36:05.690Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:40:00.783Z",
+   "to": "2026-11-28T01:40:00.783Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:40:00.783Z",
+   "to": "2026-11-28T01:40:00.783Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:40:07.406Z",
+   "to": "2026-11-28T01:40:07.406Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:40:07.406Z",
+   "to": "2026-11-28T01:40:07.406Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:41:22.910Z",
+   "to": "2026-11-28T01:41:22.910Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:41:22.910Z",
+   "to": "2026-11-28T01:41:22.910Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:41:28.583Z",
+   "to": "2026-11-28T01:41:28.583Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:41:28.583Z",
+   "to": "2026-11-28T01:41:28.583Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:41:29.182Z",
+   "to": "2026-11-28T01:41:29.182Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:41:29.182Z",
+   "to": "2026-11-28T01:41:29.182Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:41:29.914Z",
+   "to": "2026-11-28T01:41:29.914Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:41:29.914Z",
+   "to": "2026-11-28T01:41:29.914Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:41:34.349Z",
+   "to": "2026-11-28T01:41:34.349Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:41:34.349Z",
+   "to": "2026-11-28T01:41:34.349Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:45:00.701Z",
+   "to": "2026-11-28T01:45:00.701Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:45:00.701Z",
+   "to": "2026-11-28T01:45:00.701Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:45:06.516Z",
+   "to": "2026-11-28T01:45:06.516Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:45:06.516Z",
+   "to": "2026-11-28T01:45:06.516Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:45:06.898Z",
+   "to": "2026-11-28T01:45:06.898Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:45:06.898Z",
+   "to": "2026-11-28T01:45:06.898Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:45:07.273Z",
+   "to": "2026-11-28T01:45:07.273Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:45:07.273Z",
+   "to": "2026-11-28T01:45:07.273Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:45:11.229Z",
+   "to": "2026-11-28T01:45:11.229Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:45:11.229Z",
+   "to": "2026-11-28T01:45:11.229Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:45:42.110Z",
+   "to": "2026-11-28T01:45:42.110Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:45:42.110Z",
+   "to": "2026-11-28T01:45:42.110Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:45:48.560Z",
+   "to": "2026-11-28T01:45:48.560Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:45:48.560Z",
+   "to": "2026-11-28T01:45:48.560Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:50:01.105Z",
+   "to": "2026-11-28T01:50:01.105Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:50:01.105Z",
+   "to": "2026-11-28T01:50:01.105Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:50:07.279Z",
+   "to": "2026-11-28T01:50:07.279Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:50:07.279Z",
+   "to": "2026-11-28T01:50:07.279Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:51:06.713Z",
+   "to": "2026-11-28T01:51:06.713Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:51:06.713Z",
+   "to": "2026-11-28T01:51:06.713Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:51:12.562Z",
+   "to": "2026-11-28T01:51:12.562Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:51:12.562Z",
+   "to": "2026-11-28T01:51:12.562Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:51:13.374Z",
+   "to": "2026-11-28T01:51:13.374Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:51:13.374Z",
+   "to": "2026-11-28T01:51:13.374Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:51:13.829Z",
+   "to": "2026-11-28T01:51:13.829Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:51:13.829Z",
+   "to": "2026-11-28T01:51:13.829Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:51:18.305Z",
+   "to": "2026-11-28T01:51:18.305Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:51:18.305Z",
+   "to": "2026-11-28T01:51:18.305Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:55:00.696Z",
+   "to": "2026-11-28T01:55:00.696Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:55:00.696Z",
+   "to": "2026-11-28T01:55:00.696Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:55:07.289Z",
+   "to": "2026-11-28T01:55:07.289Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:55:07.289Z",
+   "to": "2026-11-28T01:55:07.289Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:55:07.647Z",
+   "to": "2026-11-28T01:55:07.647Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:55:07.647Z",
+   "to": "2026-11-28T01:55:07.647Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:55:08.026Z",
+   "to": "2026-11-28T01:55:08.026Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:55:08.026Z",
+   "to": "2026-11-28T01:55:08.026Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:55:11.940Z",
+   "to": "2026-11-28T01:55:11.940Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:55:11.940Z",
+   "to": "2026-11-28T01:55:11.940Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:55:24.807Z",
+   "to": "2026-11-28T01:55:24.807Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:55:24.807Z",
+   "to": "2026-11-28T01:55:24.807Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:55:31.599Z",
+   "to": "2026-11-28T01:55:31.599Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T01:55:31.599Z",
+   "to": "2026-11-28T01:55:31.599Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:00:00.855Z",
+   "to": "2026-11-28T02:00:00.855Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:00:00.855Z",
+   "to": "2026-11-28T02:00:00.855Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:00:06.897Z",
+   "to": "2026-11-28T02:00:06.897Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:00:06.897Z",
+   "to": "2026-11-28T02:00:06.897Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:00:49.386Z",
+   "to": "2026-11-28T02:00:49.386Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:00:49.386Z",
+   "to": "2026-11-28T02:00:49.386Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:00:56.065Z",
+   "to": "2026-11-28T02:00:56.065Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:00:56.065Z",
+   "to": "2026-11-28T02:00:56.065Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:00:56.444Z",
+   "to": "2026-11-28T02:00:56.444Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:00:56.444Z",
+   "to": "2026-11-28T02:00:56.444Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:00:56.838Z",
+   "to": "2026-11-28T02:00:56.838Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:00:56.838Z",
+   "to": "2026-11-28T02:00:56.838Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:01:00.790Z",
+   "to": "2026-11-28T02:01:00.790Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:01:00.790Z",
+   "to": "2026-11-28T02:01:00.790Z",
+   "severity": 3,
+   "description": "Part Suspended",
+   "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:05:00.796Z",
+   "to": "2026-11-28T02:05:00.796Z",
+   "severity": 5,
+   "description": "Part Closure",
+   "reason": "NORTHERN LINE: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November, between 0045 and 0710 approximately, no Friday and Saturday Night Tube service between Kennington and Stockwell. For travel between Central London and Stockwell, and stations to Morden, please use the Victoria line. For Oval, please use Night Bus N155 between Kennington and Stockwell."
+  },
+  {
+   "line": "northern",
+   "lineName": "Northern",
+   "from": "2026-11-28T02:05:00.796Z",
+   "to": "2026-11-28T02:05:00.796Z",
    "severity": 3,
    "description": "Part Suspended",
    "reason": "Northern Line: No service between Stockwell and Kennington due to a points failure at Kennington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
